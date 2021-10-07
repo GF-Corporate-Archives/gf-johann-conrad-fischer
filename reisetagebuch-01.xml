@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fischer Reisetagebuch 1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+           <div type="dedication">
+              <pb n="III" facs="https://www.e-rara.ch/ebs/content/zoom/16618099"/>
+              <!-- todo tag Titelseite der Widmung -->
+              <div type="dedication-title">
+                 <head>Zueignung</head>
+                 <p> an meinen geschäzten Freund Herrn J. J. Wibert in Basel.</p>
+              </div>
+              <pb n="IV" facs="https://www.e-rara.ch/ebs/content/zoom/16618100"/>
+              <div type="dedication-text">
+              <pb n="V" facs="https://www.e-rara.ch/ebs/content/zoom/16618101"/>            
+              <head>Werthgeschäzter Freund!</head>
+              <p>Ueber ein halbes Jahrhundert ist verflossen, seit wir die Reise mit einander machten, deren damals, meistens in Deiner Gegenwart, verfasste Beschreibung, nachstehende Blätter enthalten. — Du als Seidenfärber, und ich, als Kupferschmiedgeselle, waren freilich der Aufgabe nicht gewachsen, alles das Interessante , was sich uns in diesem, wenigstens in jener Zeit von Fremden noch wenig besuchten Lande darbot, gehörig zu beobachten, und seinem Werth gemäss darzustellen. — Durch verbesserte Schulen und eine Menge von Kenntnissen, welche heutigen Tages in den vielerlei Arten von Lehranstalten den weit jüngern Leuten als wir damals waren die wir bereits das neunzehnte oder zwanzigste Jahr erreicht hatten, beigebracht 
+              <pb n="VI" facs="https://www.e-rara.ch/ebs/content/zoom/16618102"/>       
+              werden, würde es denselben ein Leichtes seyn, mit weit mehr wissenschaftlichem Anstrich ein ähnliches Thema zu behandeln. — </p>
+             <p>Um dessentwillen dachte ich auch nie daran, dieses Fragment aus meinem Tagebuch, das ich, wie Du weisst, schon in Coppenhagen regelmässig führte, dem Druk zu übergeben, ohschon ich den Verlust der Blätter desselben bedaure, die die Notizen auf unserer Rükreise von Stokholm nach Dänemark, die Verirrung des Nachts im schneebedekten Wald in Ostgothland, und die Zurechtweisung von Potaschenbrennern, deren Feuer uns als Leitstern diente, das Anfahren der tiefen Schächte in Adelfors, den Besuch der schwedischen Hammerschmieden und das Abentheuer in Malmöe mit dortigem Landdrosten, dem wir, weil wir in einem Nachtlager unterwegs einmal französisch mit einander gesprochen, als französische Spionen
+                <pb n="VII" facs="https://www.e-rara.ch/ebs/content/zoom/16618103"/>     
+               denunziirt worden, so wie die gewagte Ueberfahrt in einem kleinen offenen Boot von dieser uns unheimlich gewordenen Stadt nach Coppenhagen, enthielten. —</p> 
+                 <p>So wie aber der Invalide noch gern von Schlachten redet, denen er in frühem Zeiten beigewohnt, der Kaufmann von gelungenen Spekulationen bei grossen Weltbewegungen; der Künstler von Lob das er eingeerndtet; überhaupt ein Jeder von dem, was in der Vergangenheit auf sein Gemüth, namentlich wenn dieselbige in einem erfreulichen Lichte sich zeigte, den meisten Eindruk gemacht hat, so bleibt mir, mein werther Freund! auch die Zeit unvergesslich, wo wir Jahre lang zusammen, zwar freilich nur in dem bescheidenen Charakter von Handwerksburschen, Länder und Meere durchstreiften, Arbeit suchten, und Arbeit annahmen, wo wir glaubten, uns in unseren erlernten Professionen vervollkommnen zu können, und sie dann, in
+                <pb n="VIII" facs="https://www.e-rara.ch/ebs/content/zoom/16618104"/>   
+               die liebe Heimath zurükgekehrt, viele Jahre lang, und Gottlob! nicht ohne Erfolg betrieben.</p> 
+                 <p>Auch dir war diese Jugendzeit immer unvergesslich, das hat mir deine stets unveränderliche Freundschaft bewiesen, und dieses nicht so häufig statt findende Erlebniss in einer so langen Reihe von Jahren hat mich zu dem Entschluss gebracht, dir diese Blätter noch als Freundschaftsgruss zu widmen, ehe wir, was nicht mehr so lange hin seyn wird, durch DEN, der uns so gnädig in allerhand Gefahren beschüzte, zu der weit wichtigern Reise als die frühern waren, aufgerufen werden. Vale!</p> 
+                 
+                 <closer>Dein ergebenster Freund<lb/><persName ref="gf-actors=35">JOHANN CONRAD FISCHER</persName>,<lb/> Kantonsrath<lb/> und Artillerie-Oberstlieutenant.<lb/> <placeName ref="gf-places-131">Schaffhausen</placeName>, <date when="1844-11-26">26. Nov. 1844</date>.</closer>
+              </div>
+              <div type="preface">
+                 <head></head>
+                 
+                 
+              </div>
+            </div>
+      </body>
+   </text>
+</TEI>
