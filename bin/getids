@@ -1,0 +1,9 @@
+#!/bin/bash
+# Get all used GF ids and save them in text files
+#
+# Usage: execute this from the project directory with ./bin/getids
+#
+
+egrep -hor '(gfa-actors-\d+)' src/*xml | sort | uniq > src/gfa-actors.txt;
+egrep -hor '(gfa-places-\d+)' src/*xml | sort | uniq > src/gfa-places.txt;
+egrep -hor '(gfa-terms-\d+)' src/*xml  | sort | uniq > src/gfa-terms.txt;
