@@ -1,2 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fischer Reisetagebuch 1851</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="preface">
+                <pb n="III" facs="https://www.e-rara.ch/ebs/content/zoom/16618484"/>
+                <head>VORWORT.</head>
+                <p>Wer seit 60 Jahren durch mehr oder mindere Selbstbetheiligung im technischen Fach, verbunden mit Beobachtung dessen, was im Gebiet der Physik und Chemie, als neu, hervorgetreten ist, sich im Fall befindet, eine Vergleichung anstellen zu können, was im Jahr 1791 gewesen, und im Jahre 1851 nun ist, der muss ob den Fortschritten in diesem Zeitraum, im Verhältniss gegen das was in frühern gleichen Zeitabschnitten geschah, in ein wirkliches Erstaunen, ja man möchte sagen stummes Staunen durch das versezt werden, was die Weltausstellung in London uns in diesem Jahr vor Augen führt; und man wird fast unwillkürlich zu dem Ausruf gezwungen „Nun ist es genug; höre auch einmal auf menschlicher Geist, in der Art zu wirken; ruhe aus, und geniesse auch die Früchte deiner so vielfältigen Bestrebungen, es ist ja doch Alles vergänglich!“ — Aber das
+                    <pb n="IV" facs="https://www.e-rara.ch/ebs/content/zoom/16618485"/>
+                    ist die Natur und das Vorrecht des ewig waltenden, von dem Schöpfer ausgehenden, sich durch die schwindenden und kommenden Generationen durchziehenden menschlichen Geistes, immer wieder in grösserer Vollkommenheit, oder in anderer Weise das herzustellen, was der Zahn der Zeit vom Irdischen verzehrt. Der Glaspalast, mit seinen tausend Herrlichkeiten, wird wieder von der Erde verschwinden, und seines Daseins keine Spur mehr sein, aber nur, um wieder Neuem Platz zu machen. Diese Betrachtungen, die einerseits erhebend und anderseits niederschlagend sind, schliessen jedoch keineswegs die Bewunderung aus, die man der Gegenwart mit ihren Ergebnissen und namentlich auch dieser Weltausstellung ins Besondere zollen muss; und mich reut diese Reise, deren darüber (freilich wegen öfterm Mangel an Zeit zuweilen nur spärlich) geführtes Tagebuch diese Blätter enthalten, keineswegs; aber Niemand muss erwarten ein Register oder Katalog, und noch viel weniger eine raisonnirende Beschreibung eines auch nur ganz kleinen Theils der Ausstellungsgegenstände darin zu finden, es ist einfach mein Tagebuch, die Rechenschaft, die ich mir gebe über die Verwendung meiner Zeit. Illustrirte und nicht illustrirte Zeitungen bringen davon zur Genüge, ohne zu erschöpfen, während dem mein Endurtheil eben, nachdem ich gesehen, und wieder-
+                    <pb n="V" facs="https://www.e-rara.ch/ebs/content/zoom/16618486" break="no"/>
+                    holt gesehen habe, dahin ausfiel, man kann beschreiben, ein Anderer kann die Beschreibung anhören oder lesen, aber wird, in so fern ich von mir auf Andere schliesse, nie eine richtige Vorstellung von dieser merkwürdigen Anstalt haben, oder erlangen können, wenn er sie nicht selbst gesehen hat. — So zufrieden ich mit dem Ergebniss dessen was ich zu sehen wünschte und gesehen habe, weil es sich eben auf Weniges beschränkte, und auch mit dem Urtheil, das über das Geringe und Unscheinbare, das ich auf die Ausstellung gesendet, bin, was ich vielleicht nur dem Umstand zu verdanken habe, dass es Gegenstände eigenthümlicher Art waren, so sehr war ich mit den Resultaten meines Aufenthalts in London, sowie in Birmingham, Manchester und Sheffield zufrieden, und einige Seiten meines Tagebuches füllten sich mir in interessanter, meinem Gedächtniss für Rückerinnerung in ziemlich tief eingeprägter Weise an und schliesse dasselbe mit Dank gegen den Höchsten, dass ich nur wenige Wochen vor meinem neunundsiebzigsten Geburtstag, in vollen Kräften, die Reise nach dieser merkwürdigen Insel machen und die Anzeichnungen darüber denen aus früherer Zeit anreihen konnte. Schaffhausen, den 21. Juli 1832. I. C. FISCHER.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="day">
+                <pb n="1" facs="https://www.e-rara.ch/ebs/content/zoom/16618488"/>
+                <p>
+                    Am 12. Juni verreiste ich Nachmittags um 1 Uhr von Schaffhausen, über Stühlingen und Lenzkirch, nach Freiburg. Unter allen Umstanden der Witterung, bleibt das Höllenthal immer ein höchst interessanter Naturgegenstand, und der Geognoste möchte sich fragen, welche ungeheuren Kräfte haben diese tiefe und senkrechte Kluft gebildet, um der Treisam ihr Bett zu bahnen? — allein zum abstechendsten zeigen sich die ungestalteten Szenen in einer mondhellen Nacht, wie es heute der Fall war. Wie musste in früheren Zeiten es dem einsamen Wanderer zu Muthe gewesen seyn, wenn er aus diesem noch unbewohnten Reiche der Schatten, und voll Grausen, in die Ebenen des sogenannten Paradieses eintrat? — Dieses, und wie etwas später der so kühn gebaute und künstlich durchbrochene Thurm des Münsters in Freiburg sich eben so eigenthümlich ausnahm, und in ungebrochener Festigkeit beinahe schon ein Jahrtausend der Macht der Elemente trozt, machte einen ungemeinen Eindruk auf mich. Die Pyramiden in Egypten halten den Vergleich gegen diese herrliche, von altdeutschem Geist geborene Baute, weder in Kunst, noch in Schönheit, gar nicht aus. — Das waren ungefähr meine Gedanken,     
+                    <pb n="2" facs="https://www.e-rara.ch/ebs/content/zoom/16618489"/>
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
