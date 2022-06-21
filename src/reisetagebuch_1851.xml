@@ -11,20 +11,20 @@
                 <p>Information about the source</p>
             </sourceDesc>
         </fileDesc>
+        <handNote scribeRef="gfa-actors-35"/>
     </teiHeader>
     <text>
         <front>
             <titlePage>
                 <pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16618482"/>
-                <div type="dedication">
-                    <p>Seinem wehrten Dinste geführten(?) zur IndustrienAusstellung auf London, und zum Andenken, den Herrn Kantonsrath Amman von Ermatingen. der Verfasser 
-                    </p>
-                </div>
                 <docTitle>
                     <titlePart type="main">TAGEBUCH<lb/>EINER REISE<lb/>ZU DER<lb/>AUSSTELLUNG<lb/>IN LONDON<lb/>UND NACH EINIGEN FABRIKSTÄDTEN<lb/>IN<lb/>ENGLAND<lb/>im Sommer 1851<lb/>VON<lb/>J.C.FISCHER,<lb/>Oberstlieutnant.</titlePart>
                     <titlePart>Mit einer Abbildung in Steindruk.</titlePart>
                 </docTitle>
                 <docImprint>SCHAFFHAUSEN. Gedrukt bei MURBACH &amp; GELZER. <docDate>1845</docDate> </docImprint>
+                <addSpan hand="#Fischer" place="top" spanTo="#widmung1"/>
+                <p>Seinem wehrten Dinste geführten(?) zur IndustrienAusstellung auf London, und zum Andenken, den Herrn Kantonsrath Amman von Ermatingen. der Verfasser</p>
+                <anchor xml:id="widmung1"/>
             </titlePage>
             <div type="preface">
                 <pb n="III" facs="https://www.e-rara.ch/ebs/content/zoom/16618484"/>
