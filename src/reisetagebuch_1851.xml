@@ -11,20 +11,26 @@
                 <p>Information about the source</p>
             </sourceDesc>
         </fileDesc>
-        <handNote scribeRef="gfa-actors-35"/>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="jcf">
+                    Handschriftliche Widmung durch <persName ref="gfa-actors-35">Johann Conrad Fischer</persName>
+                </handNote>
+            </handNotes>
+        </profileDesc>
     </teiHeader>
     <text>
         <front>
             <titlePage>
                 <pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16618482"/>
                 <docTitle>
-                    <titlePart type="main">TAGEBUCH<lb/>EINER REISE<lb/>ZU DER<lb/>AUSSTELLUNG<lb/>IN LONDON<lb/>UND NACH EINIGEN FABRIKSTÄDTEN<lb/>IN<lb/>ENGLAND<lb/>im Sommer 1851<lb/>VON<lb/>J.C.FISCHER,<lb/>Oberstlieutnant.</titlePart>
+                    <titlePart type="main"><add place="top" hand="#jcf">
+                        Seinem wehrten Dinste geführten(?) zur IndustrienAusstellung auf London, und zum Andenken, den Herrn Kantonsrath Amman von Ermatingen. der Verfasser
+                    </add>TAGEBUCH<lb/>EINER REISE<lb/>ZU DER<lb/>AUSSTELLUNG<lb/>IN LONDON<lb/>UND NACH EINIGEN FABRIKSTÄDTEN<lb/>IN<lb/>ENGLAND<lb/>im Sommer 1851<lb/>VON<lb/>J.C.FISCHER,<lb/>Oberstlieutnant.</titlePart>
                     <titlePart>Mit einer Abbildung in Steindruk.</titlePart>
                 </docTitle>
                 <docImprint>SCHAFFHAUSEN. Gedrukt bei MURBACH &amp; GELZER. <docDate>1845</docDate> </docImprint>
-                <addSpan hand="#Fischer" place="top" spanTo="#widmung1"/>
-                <p>Seinem wehrten Dinste geführten(?) zur IndustrienAusstellung auf London, und zum Andenken, den Herrn Kantonsrath Amman von Ermatingen. der Verfasser</p>
-                <anchor xml:id="widmung1"/>
+                    
             </titlePage>
             <div type="preface">
                 <pb n="III" facs="https://www.e-rara.ch/ebs/content/zoom/16618484"/>
