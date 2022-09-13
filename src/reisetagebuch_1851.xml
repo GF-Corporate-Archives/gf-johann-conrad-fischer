@@ -6,7 +6,7 @@
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
-            </publicationStmt>m
+            </publicationStmt>
             <sourceDesc>
                 <p>Information about the source</p>
             </sourceDesc>
@@ -836,6 +836,7 @@
                 <figure xml:id="fig4">
                     <graphic url="images/JCF1851_4_Stadtplan2.jpg"></graphic>
                 </figure>
+            </div>
             </div>
         </body>
     </text>
