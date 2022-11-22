@@ -102,11 +102,11 @@
             <pb n="11" facs="https://www.e-rara.ch/ebs/content/zoom/16557752"/>
             <div type="day">
                 <head>Von Schaffhausen nach Audincourt</head>
-                <p>Den 26. Mai trat ich meine Reise über Basel und Montbeillard, wo ich Geschäfte
+                <p>Den 26. Mai trat ich meine Reise über <placeName ref="gfa-places-10" type="itinerar" when="1825-06-26" n="1">Basel</placeName> und Montbeillard, wo ich Geschäfte
                     hatte, und einige Fabriken, besonders aber die von mir vor ein paar Jahren
                     gegründete Gussstahlfabrik in La Roche, besuchen wollte, nach dem mir
-                    vorgesetzten Ziele an. Ich blieb den 27. in Basel, und kam den 28. Abends nach
-                    Montbeillard; den 29. ging ich nach Belfort, um die dortigen Hochöfen zu sehen.
+                    vorgesetzten Ziele an. Ich blieb den 27. in <placeName ref="gfa-places-10" type="itinerar" when="1825-05-27" n="2">Basel</placeName>, und kam den 28. Abends nach
+                    <placeName ref="gfa-places-1310" type="itinerar" when="1825-05-28" n="3">Montbeillard</placeName>; den 29. ging ich nach <placeName ref="gfa-places-1583" type="itinerar" when="1825-05-29" n="4">Belfort</placeName>, um die dortigen Hochöfen zu sehen.
                     Ihr Bau ist nichts weniger als nach der besten Construction eingerichtet, das
                     heisst für Kohlenersparung; hingegen aber wird aus dem dortigen kleinen, aber
                     sehr reinen und gleichförmigen Bohnerz ein Roheisen erzeugt, welches das
