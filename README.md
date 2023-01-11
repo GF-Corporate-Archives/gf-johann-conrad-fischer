@@ -20,7 +20,7 @@ Johann Conrad Fischer: Tagebücher 1773-1854. Neu herausgegeben von der Georg Fi
 
 ## Links
 
-https://sources-online.org/exist/apps/gf-annotate/index.html
+Annotations: https://georg-fischer.tei-publisher.com/index.html
 
 ## Lizenz
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
