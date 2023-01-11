@@ -79,7 +79,7 @@
                     ebenfalls, langer Gewohnheit gemäss, mein Tagebuch führte, und darin aufnahm,
                     was ich der Aufzeichnung für mich und der Rückerinnerung werth glaubte.</p>
                 <p>So einen unerwarteten, und darum für mich desto schmeichelhaftern Beifall mein
-                    <term ref="gf-keywords-8519">Tagebuch</term> der frühern Reise nach England bei dem Publikum gefunden, so besorgt
+                    <term ref="gf-keywords-8519"> <ref type="cross" target="reisetagebuch-2.xml">Tagebuch</ref> der frühern Reise nach England</term> bei dem Publikum gefunden, so besorgt
                     bin ich doch, ob es nicht unbescheiden sei, wiederum vor dasselbe zu treten, da
                     ich weder Meister der Ereignisse, noch der sich mir darbietenden Gegenstände
                     war, sondern alles nehmen musste, und <pb n="10" facs="https://www.e-rara.ch/ebs/content/zoom/16557751"/>nahm, wie es kam;
@@ -890,7 +890,7 @@
                     Wirthshauses nahm ich als mein gewohntes Souper den Thee, könnte aber nicht
                     sagen, obschon sich an mehrern Tischen Ess- und Trinkparthien befanden, dass ich
                     in meinen Gedanken sei gestört <pb n="77" facs="https://www.e-rara.ch/ebs/content/zoom/16557818"/>worden; die
-                    Jäciturnität dieser Insulaner ist wirklich ungemein, und wenn von jedem unnützen
+                    Täciturnität<note>Lateinisch für Schweigsamkeit.</note> dieser Insulaner ist wirklich ungemein, und wenn von jedem unnützen
                     Wort soll Rechenschaft gegeben werden, so haben sie in dieser Hinsicht am
                     jüngsten Tag wahrscheinlich weniger zu verantworten, als ihre Nachbarn jenseits
                     des Wassers.</p></div>
@@ -2124,7 +2124,7 @@
                 <p>Zu meinem Leidwesen war Herr <persName ref="gf-actors-8092">M</persName>., als ich auf das Comptoir der <placeName ref="gfa-places-1977" type="itinerar" when="1825-06-28" n="89">Spinnerei</placeName> kam,
                     nicht anwesend, man sagte aber, er werde kommen. Ich hatte indessen eine
                     wunderliche Unterredung mit einem wie es schien der ersten Commis. — Nach einer
-                    Personal-Examination, die er mit mir vor<pb n="179" facs="https://www.e-rara.ch/ebs/content/zoom/16557920" break="no"/>nahm,
+                    Personal-Examination, die er mit mir vor<pb n="179" facs="https://www.e-rara.ch/ebs/content/zoom/16557920" break="no" xml:id="p_179"/>nahm,
                     fing er mich ohne weitere Einleitung an zu fragen, ob die Leute in meinem Lande
                     auch glücklich seien? — Ich sagte, es komme nur darauf an, was man dabei
                     verstehe; denn darüber, ich wisse nicht, ob zum Glück oder zum Unglück, seien
@@ -2134,7 +2134,7 @@
                     sehr man auch bei uns dafür gesinnt sein möchte, noch nicht allen Leuten
                     gelungen, indessen könnten wir aber doch auch nicht besonders klagen.</p>
                 <p>Es könnte aber allen gelingen, wenn man nur wollte, erwiederte er; haben Sie die
-                    <term ref="gf-keywords-9670">Schriften von Owen</term> gelesen ? — Ich sagte, ich kenne Herrn <persName ref="gf-actors-7924">Owen </persName>persönlich,
+                    Schriften von Owen<note>Es kann nicht eindeutig eruiert werden, ob hier "A New View of Society" (1813/1816) oder "An Explanation of the Cause of Distress which pervades the civilised parts of the world" (1823) gemeint ist.</note> gelesen ? — Ich sagte, ich kenne Herrn <persName ref="gf-actors-7924">Owen</persName> persönlich,
                     schätze seine <term ref="gf-keywords-9362">Philantropie</term>, aber gelesen habe ich von ihm nichts. — Nehmen Sie
                         <pb n="180" facs="https://www.e-rara.ch/ebs/content/zoom/16557921"/>das,
                     sagte er, indem er ein Pult öffnete und mir einen gedruckten zusammengelegten
@@ -2252,8 +2252,8 @@
                     Rest des Tages zu Hause.</p></div>
             <div type="day">
                 <head>Von Leeds nach Sheffield</head>
-                <p>Den <date when="1825-06-29">29</date>. Ich machte mir beim Erwachen einen grossen Vorwurf, das Rezept zur
-                    menschlichen Glückseligkeit eine ganze Nacht in meiner Tasche gehabt zu haben,
+                <p>Den <date when="1825-06-29">29</date>. Ich machte mir beim Erwachen einen grossen Vorwurf, das <ref type="cross" target="#p_179">Rezept zur
+                    menschlichen Glückseligkeit</ref> eine ganze Nacht in meiner Tasche gehabt zu haben,
                     ohne dessen Inhalt zu kennen, da man doch nie weiss, was in einer einzigen Nacht
                     begegnen kann. — Ich klingelte für das Frühstück, um Kraft zu erhalten, mich zu
                     den sublimen Ideen, die natürlich dieses wundervolle Papier enthalten musste,
@@ -2262,7 +2262,7 @@
                     wie wurde aber meine Meinung herunter gestimmt, als ich fand, dass man in
                     dieser, wahrscheinlich bis jetzt noch wenigstens nur auf dem Papier bestehenden
                     Cooporativ Society, die unter andern nicht sehr verdeckt den Grundsatz der
-                    Communia Bonorum ausspricht, um zehn, zwanzig oder vierzig Pfund Sterling
+                    Communia Bonorum<note>Lateinisch für "Gemeinschaft der Güter". Gesellschaftsordnung, in der kein Privateigentum existiert, sondern alle Mitglieder einer Gemeinschaft in gleichem Masse Zugang zu Gütern haben.</note> ausspricht, um zehn, zwanzig oder vierzig Pfund Sterling
                     glücklich sein kann. Nur die aber die vierzig Pfund bezahlen, können sogleich in
                     dieses Himmelreich, nota bene aber doch unter Vorbehalt, dass man erst die
                     Häuser dazu bauen müsse, eingehen, die andern müssen warten. Beim Ueberblick des
