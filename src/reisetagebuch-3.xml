@@ -79,11 +79,8 @@
                     ebenfalls, langer Gewohnheit gemäss, mein Tagebuch führte, und darin aufnahm,
                     was ich der Aufzeichnung für mich und der Rückerinnerung werth glaubte.</p>
                 <p>So einen unerwarteten, und darum für mich desto schmeichelhaftern Beifall mein
-<<<<<<< HEAD
-                    <term ref="gf-keywords-8519"> <ref type="cross" target="reisetagebuch-2.xml">Tagebuch</ref> der frühern Reise nach England</term> bei dem Publikum gefunden, so besorgt
-=======
+                    <term ref="gf-keywords-8519"><ref type="cross" target="reisetagebuch-2.xml">Tagebuch</ref> der frühern Reise nach England</term> bei dem Publikum gefunden, so besorgt=======
                     <term ref="gfa-keywords-8519">Tagebuch</term> der frühern Reise nach England bei dem Publikum gefunden, so besorgt
->>>>>>> 74718ff7f976f276d4d658a290b964f5bca21bdc
                     bin ich doch, ob es nicht unbescheiden sei, wiederum vor dasselbe zu treten, da
                     ich weder Meister der Ereignisse, noch der sich mir darbietenden Gegenstände
                     war, sondern alles nehmen musste, und <pb n="10" facs="https://www.e-rara.ch/ebs/content/zoom/16557751"/>nahm, wie es kam;
@@ -269,14 +266,14 @@
                         <pb n="25" facs="https://www.e-rara.ch/ebs/content/zoom/16557766"/>wo ich eine
                     Introduktion von dem Herrn Staatsrath <persName ref="gfa-actors-7814">Delarive</persName> von <placeName ref="gfa-places-1196">Genf</placeName> an den berühmten
                     Chemiker des königlichen Instituts, Herrn <persName ref="gfa-actors-7469">Faraday</persName>, abholte, und nach <placeName ref="gfa-places-1833" type="itinerar" when="1825-06-07" n="17">Graston
-                        Street</placeName>, um einen Freund meines ältesten Sohnes zu sehen. Den gleichen Abend
+                        Street</placeName>, um einen <persName ref="gfa-actors-7773" type="met">Freund</persName> meines ältesten <persName ref="gfa-actors-7740">Sohnes</persName> zu sehen. Den gleichen Abend
                     verschaffte ich mir Beschreibung und Zeichnung von <term ref="gfa-keywords-9094">Perkins Dampfmaschine</term> und
-                    <term ref="gfa-keywords-9495">Flinte</term>, so wie die von Browns pneumatischer oder Vacuum-Maschine, und erfreute
+                    <term ref="gfa-keywords-9495">Flinte</term>, so wie die von <term ref="gfa-keywords-9670"><persName ref="gfa-actors-7825">Browns</persName> pneumatischer oder Vacuum-Maschine</term>, und erfreute
                     mich bei meinen nächtlichen Wanderungen der nun in Strassen und Häusern durchaus
                     eingeführten und ganz geruchlosen Gasbeleuchtung, von der ich nur bemerke , dass
                     für die Strassenlaternen von den Häusern ausgehende krumme Schnäbel, oder
                     meistens aber längs des Trottoirs hin schöne, 10 Fuss hohe, hohle Candelaber von
-                    <term ref="gfa-keywords-8590">Gusseisen </term>angebracht sind, wovon die erstern als Aufhänge-, und die andern als
+                    <term ref="gfa-keywords-8590">Gusseisen</term> angebracht sind, wovon die erstern als Aufhänge-, und die andern als
                     Stützpunkt der Laternen dienen. — In den Strassen sind die grossen Leitungsöfen
                         <pb n="26" facs="https://www.e-rara.ch/ebs/content/zoom/16557767"/>4 Fuss
                     unter dem Pflaster, von <term ref="gfa-keywords-8590">Gusseisen</term>; die kleinen Seitenröhren bis an die Häuser
@@ -332,7 +329,7 @@
                     schienen ihn aber nicht sonderlich zu erbauen.</p>
                 <p>Mit Ungeduld eilte ich nach <placeName ref="gfa-places-1696">Albemarle Street</placeName>, <placeName ref="gfa-places-1630">Picadilly</placeName>, in die <placeName ref="gfa-places-1703">Royal
                     Institution</placeName>, um die persönliche Bekanntschaft des daselbst angestellten, so
-                    geschickten Chemikers und Metallurgen, Herrn <persName ref="gfa-actors-7469">Faraday</persName>, zu machen. Offen und
+                    geschickten Chemikers und Metallurgen, Herrn <persName ref="gfa-actors-7469" type="met">Faraday</persName>, zu machen. Offen und
                     freundschaftlich, wie mir ihn Herr Staatsrath <persName ref="gfa-actors-7814">Delarive</persName> geschildert hatte, führte
                     er mich gleich, was mir sehr lieb war, anstatt in das Visitenzimmer, in das
                     Laboratorium hinunter, welches ich mir aber, nach einer Zeichnung in dem <term ref="gfa-keywords-9644">Journal
@@ -355,7 +352,7 @@
                     <term ref="gfa-keywords-8643">Kupfers</term> einen gewissen Vorzug einzuräumen scheinen. — Von ihm weg, nach
                     erhaltener Einladung, an einem Morgen den Vorlesungen über <term ref="gfa-keywords-604">Chemie</term>, die von Herrn
                     Professor <persName ref="gfa-actors-7483">Brande</persName>, Sekretair der Gesellschaft, gehalten werden, beizuwohnen, ging
-                    ich zu dem berühmten und geschickten Gewehrfabrikanten <placeName ref="gfa-places-1851" type="itinerar" when="1825-06-08" n="20">Herrn <persName ref="gfa-actors-7823">Joseph Egg</persName>
+                    ich zu dem berühmten und geschickten Gewehrfabrikanten <placeName ref="gfa-places-1851" type="itinerar" when="1825-06-08" n="20">Herrn <persName ref="gfa-actors-7823" type="met">Joseph Egg</persName>
                         (<placeName ref="gfa-places-1630">Picadilly</placeName>)</placeName>, Erfinder der nun allgemein für <term ref="gfa-keywords-9115">Percussionsgewehre</term> angewendeten
                     Copercapes (Kupferkäppchen). Er freute sich, da <persName ref="gfa-actors-7740">mein ältester Sohn</persName> <date to="1822-12-31" from="1822-01-01">vor drei
                     Jahren</date> für ihn und bei ihm gearbeitet, mich kennen zu lernen, und gab mir die
@@ -376,8 +373,8 @@
                 <p>Den <date when="1825-06-09">9</date>. Diesen Morgen, nachdem ich mich vorher auf dem <placeName ref="gfa-places-1936" type="itinerar" when="1825-06-09" n="22">Comptoir, welches Hr. <persName ref="gfa-actors-7572">Watt
 </persName>                    in der Stadt</placeName> hat, erkundigte, ob er hier oder auf seinen <placeName ref="gfa-places-1723">Manufakturen</placeName> zu <placeName ref="gfa-places-1693">Soho</placeName>
                     bei <placeName ref="gfa-places-20">Birmingham</placeName> sei, und zu meinem Vergnügen das Letztere vernahm, ging ich
-                    wieder <placeName ref="gfa-places-1703" type="itinerar" when="1825-06-09" n="23">zu Herrn <persName ref="gfa-actors-7469">Faraday</persName></placeName>. Er hatte die Güte, da ich mich bei ihm nach einer
-                    Oelgas-Anstalt erkundigte, mich bei Hrn. <pb n="34" facs="https://www.e-rara.ch/ebs/content/zoom/16557775"/><persName ref="gfa-actors-7855">Hennel</persName> in
+                    wieder <placeName ref="gfa-places-1703" type="itinerar" when="1825-06-09" n="23">zu Herrn <persName ref="gfa-actors-7469" type="met">Faraday</persName></placeName>. Er hatte die Güte, da ich mich bei ihm nach einer
+                    Oelgas-Anstalt erkundigte, mich bei Hrn. <pb n="34" facs="https://www.e-rara.ch/ebs/content/zoom/16557775"/><persName ref="gfa-actors-7855" type="met">Hennel</persName> in
                     <placeName ref="gfa-places-1834" type="itinerar" when="1825-06-09" n="24">Apothecarys Hall</placeName>, <placeName ref="gfa-places-1690">Union Street</placeName>, <placeName ref="gfa-places-1841">Bridge Street,</placeName> der gerade gegenwärtig war,
                     einzuführen. Da in dieser bedeutenden Anstalt beide Beleuchtungsarten mit
                     <term ref="gfa-keywords-9220">Kohlen</term>- und <term ref="gfa-keywords-8704">Oelgas</term> neben einander errichtet und durch die geschicktesten
@@ -432,7 +429,7 @@
                 <head>London, 10. Juni</head>
                 <p>Den <date when="1825-06-10">10</date>. Um 8 Uhr schon des Morgens begab ich mich auf den Weg, um präcis um 9 Uhr
                     mich in dem Laboratorium der <placeName ref="gfa-places-1703" type="itinerar" when="1825-06-10" n="28">Royal Institution</placeName> bei der Vorlesung über Chemie,
-                    die Herr Professor <persName ref="gfa-actors-7483">Brande</persName> jeden Tag von 9 bis 10 Uhr einem Auditorium von
+                    die Herr Professor <persName ref="gfa-actors-7483" type="met">Brande</persName> jeden Tag von 9 bis 10 Uhr einem Auditorium von
                     sechszig bis achtzig Personen sehr verschiedenen Alters, und dieselbige mit den
                     gehörigen Versuchen begleitet, ertheilt, einzufinden. — Obschon mir das
                     Englische geläufig ist, besorgte ich dennoch, ihn nicht ganz zu verstehen,
@@ -576,8 +573,8 @@
                     des Gerichts, und wie die Seele in den Tempel eingeführt wird, geben reichen
                     Stoff zum Nachdenken über die Religion der Bewohner dieses merkwürdigen Landes
                     in jener der Sündfluth bald folgenden Zeit.</p>
-                <p>Nachdem ich mit Herrn <persName ref="gfa-actors-7469">Faraday</persName> noch über die verhandelten Gegenstände nach
-                    beendigter Vorlesung mich unterhalten, gab er mir einen Brief an Herrn <persName ref="gfa-actors-7753">Perking</persName>,
+                <p>Nachdem ich mit Herrn <persName ref="gfa-actors-7469" type="met">Faraday</persName> noch über die verhandelten Gegenstände nach
+                    beendigter Vorlesung mich unterhalten, gab er mir einen Brief an Herrn <persName ref="gfa-actors-7753" type="met">Perking</persName>,
                     der wegen seiner verschiedenen ingeniosen Erfindungen und besonders in der
                     letztern Zeit wegen seiner <term ref="gfa-keywords-9495">Dampfflinte</term> die Aufmerksamkeit von ganz Europa auf
                     sich gezogen. Ich suchte diesen merkwürdigen Mann zuerst in seiner
@@ -660,7 +657,7 @@
                     soll, zu ihrem grossen Trost, innerhalb zwei Monaten durch den Gebrauch besagten
                     Bärenschmalzes ein hübscher Schnurbart garantirt (a fine whisker warranted in 2
                     months).</p>
-                <p>Bei Herrn <persName ref="gfa-actors-7823">Egg</persName> war die Unterhaltung für mich sehr interessant, da sie sich eben
+                <p>Bei Herrn <persName ref="gfa-actors-7823" type="met">Egg</persName> war die Unterhaltung für mich sehr interessant, da sie sich eben
                     meistens um Gegenstände drehte, die meine eigene Hauptbeschäftigung sind.</p>
                 <p>Ich musste ihm mein Pistolenschloss, welches eine Schlagfeder von Meteorstahl
                     hat, zu noch näherer Prüfung zurücklassen. Er sagte: nie hätte er geglaubt, dass
@@ -683,7 +680,7 @@
             <div type="day">
                 <head>Von London nach Stony Stratford</head>
                 <p>Den <date when="1825-06-11">11. Juni</date>. Diesen Morgen ging ich nach <placeName ref="gfa-places-1834" type="itinerar" when="1825-06-11" n="36">Apothecarys Hall</placeName>, wo ich zu meinem
-                    Vergnügen Herrn <persName ref="gfa-actors-7855">Hennel </persName>antraf. — Diese prächtige Anstalt, die die
+                    Vergnügen Herrn <persName ref="gfa-actors-7855" type="met">Hennel </persName>antraf. — Diese prächtige Anstalt, die die
                     Apothekerschule von London ist, und wo die Präparate aller Art im Grossen, und
                     wie aus dem, was folgt, erhellten wird, mit Hilfsmitteln wie man sie wohl
                     nirgends hat, gemacht werden, ist eben so wenig als die <orgName ref="gfa-actors-7575">Royal Institution</orgName>, was,
@@ -849,8 +846,8 @@
                     Für dieses letztere sorgte ich heute und war so glücklich, in dem <placeName ref="gfa-places-1855" type="itinerar" when="1825-06-13" n="40">Banquier-Haus</placeName>,
                     wo ich schon früher bekannt war, alle Unterstützung für meine Absichten zu <pb n="73" facs="https://www.e-rara.ch/ebs/content/zoom/16557814"/>finden, indem
                     der erste Commis mir ein Namensverzeichniss der Fabrikanten, die ich zu sehen,
-                    und wo ich zu kaufen wünschte, nebst Angabe ihres Wohnortes machte, und der Sohn
-                    des Chefs vom Hause die Güte hatte, mir das Anerbieten zu thun, mich folgenden
+                    und wo ich zu kaufen wünschte, nebst Angabe ihres Wohnortes machte, und der Sohn<note>Es kann nicht eindeutig eruiert werden, welcher Sohn von John Taylor oder Sampson Lloyd gemeint ist.</note>
+                    des Chefs vom Hause<note>Es kann nicht eindeutig eruiert werden, wen Fischer hier genau meint: John Taylor oder Sampson Lloyd.</note> die Güte hatte, mir das Anerbieten zu thun, mich folgenden
                     Tages selbst hinzubegleiten. — Ich beschloss diesen Tag mit der nochmals ganz
                     genauen Aufnahme der in England im vornehmsten Gasthofe, wie in der
                     allergemeinsten Pintenschenke, eingeführten Getränkpumpe, welche alle möglichen
@@ -1205,7 +1202,7 @@
                     ich es als eine Art von Kompliment für Leute teutscher Zunge, dass mit mehrern
                     Arien aus dem Freischütz der Beschluss gemacht wurde.</p>
                 <p>Mein mir sehr werth gewordener neuer Bekannter begleitete mich noch von seinem
-                    <pb n="103" facs="https://www.e-rara.ch/ebs/content/zoom/16557844"/><placeName ref="gfa-places-2094" type="itinerar" when="1825-06-16" n="54">Hause</placeName> in
+                    <pb n="103" facs="https://www.e-rara.ch/ebs/content/zoom/16557844"/><placeName ref="gfa-places-2094" type="itinerar" when="1825-06-16" n="54"></placeName> in
                     <placeName ref="gfa-places-1864">Summer Hill</placeName>, welches Lokal, eine gute Meile von <placeName ref="gfa-places-20">Birmingham</placeName>, mit Recht diesen
                     Namen trägt, bis zu dem <placeName ref="gfa-places-1867" type="itinerar" when="1825-06-16" n="55">russischen Rutschberg</placeName>, auf welcher ausländischen Anstalt
                     das Birminghamer Publikum sich des Abends vergnügt, und besonders die Damen, die
@@ -2137,14 +2134,8 @@
                     und trinken, sich belustigen, ein sorgloses Leben führen u. s. w., so sei es, so
                     sehr man auch bei uns dafür gesinnt sein möchte, noch nicht allen Leuten
                     gelungen, indessen könnten wir aber doch auch nicht besonders klagen.</p>
-                <p>Es könnte aber allen gelingen, wenn man nur wollte, erwiederte er; haben Sie die
-<<<<<<< HEAD
-                    Schriften von Owen<note>Es kann nicht eindeutig eruiert werden, ob hier "A New View of Society" (1813/1816) oder "An Explanation of the Cause of Distress which pervades the civilised parts of the world" (1823) gemeint ist.</note> gelesen ? — Ich sagte, ich kenne Herrn <persName ref="gf-actors-7924">Owen</persName> persönlich,
-                    schätze seine <term ref="gf-keywords-9362">Philantropie</term>, aber gelesen habe ich von ihm nichts. — Nehmen Sie
-=======
-                    <term ref="gfa-keywords-9670">Schriften von Owen</term> gelesen ? — Ich sagte, ich kenne Herrn <persName ref="gfa-actors-7924">Owen </persName>persönlich,
-                    schätze seine <term ref="gfa-keywords-9362">Philantropie</term>, aber gelesen habe ich von ihm nichts. — Nehmen Sie
->>>>>>> 74718ff7f976f276d4d658a290b964f5bca21bdc
+                <p>Es könnte aber allen gelingen, wenn man nur wollte, erwiederte er; haben Sie die Schriften von Owen<note>Es kann nicht eindeutig eruiert werden, ob hier "A New View of Society" (1813/1816) oder "An Explanation of the Cause of Distress which pervades the civilised parts of the world" (1823) gemeint ist.</note> gelesen? — Ich sagte, ich kenne Herrn <persName ref="gf-actors-7924">Owen</persName> persönlich,
+                    schätze seine <term ref="gf-keywords-9362">Philantropie</term>, aber gelesen habe ich von ihm nichts. — Nehmen Sie 
                         <pb n="180" facs="https://www.e-rara.ch/ebs/content/zoom/16557921"/>das,
                     sagte er, indem er ein Pult öffnete und mir einen gedruckten zusammengelegten
                     Bogen gab; stecken Sie es in die Tasche, und nehmen Sie es mit sich in Ihre
