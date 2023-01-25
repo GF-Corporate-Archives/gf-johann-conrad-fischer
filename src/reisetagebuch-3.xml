@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fischer Reisetagebuch 1825</title>
+                <title>Reisetagebuch 1825</title>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -1523,7 +1523,7 @@
                     ehrenhafter, als mit dem Pergament einer (oft zweifelhaften) Genealogie, wenn
                     sonst keine andern Verdienste vorwalten.</p></div>
             <div type="day">
-                <head>Der englische Geldfluss, 21. Juni 1825</head>
+                <head>Zum englischen Geldfluss, 21. Juni 1825</head>
                 <p>Den<date when="1825-06-21"> 21</date>. In England ist man sehr gastfreundlich, und es ist sonderbar, dass diese
                     Tugend, die gottlob von ältesten Zeiten <pb n="128" facs="https://www.e-rara.ch/ebs/content/zoom/16557869"/>her nirgends ganz
                     erloschen ist, noch im tiefern Norden, wie im höhern Süden sich zeigt.</p>
@@ -1567,7 +1567,7 @@
                     holt so viel Geld als er kann, während dessen man uns für die Produkte unserer
                     Industrie überall freundlich die Thüre vor der Nase zuschliesst, und alles
                     dessen ungeachtet sind wir nicht reich — aber auch nicht arm, — und die Sonne
-                    von Albion, siehe, sie leuchtet auch uns.— Ich bin unwillkührlich zu dieser
+                    von <placeName ref="gfa-places-402">Albion</placeName>, siehe, sie leuchtet auch uns.— Ich bin unwillkührlich zu dieser
                     Digression verleitet worden, weil einerseits ich von der Hauswirthin des Herrn
                     <persName ref="gfa-actors-7785">Bodmer </persName>vernahm, was alle Lebensmittel (beinahe oder vollkommen dreimal so viel
                     als bei uns) gelten, und weil gegenwärtig die zwei grossen Fragen vor den
@@ -1588,7 +1588,9 @@
                     eines herumgehenden Wendelbaumes in Verbindung gesetzt <pb n="133" facs="https://www.e-rara.ch/ebs/content/zoom/16557874"/>werden, und wenn nur
                     die Geschwindigkeit gross genug ist, so darf man versichert sein, dass das
                     Getriebene nicht stille steht, wenn schon der Widerstand, der auf selbiges
-                    wirkt, sehr bedeutend ist.</p>
+                    wirkt, sehr bedeutend ist.</p></div>
+            <div type="day">
+                <head>Besuch der Baumwollspinnerei Philipps &amp; Lee , 21. Juni 1825</head>
                 <p>Diesen Abend war ich noch in <placeName ref="gfa-places-1940">Salford</placeName>, der <placeName ref="gfa-places-1782" type="itinerar" when="1825-06-21" n="69">Spinnerei</placeName> der Herren <persName ref="gfa-actors-7929">Phillips und Lee</persName>,
                     um mich nach der Ankunft des Letztern zu erkundigen. — Herr <persName ref="gfa-actors-7928" type="met">Phillips </persName>kam selbst
                     auf das Comptoir, nachdem ihm durch das sogenannte <term ref="gfa-keywords-8708">Ohr des Dionysius</term>, welches
@@ -1613,7 +1615,7 @@
                     unnöthig zu bemerken, was dadurch an Zeit für den Transport der Waaren, und auch
                     an Sicherheit für selbige gewonnen wird.</p></div>
             <div type="day">
-                <head>Manchester, 22. Juni</head>
+                <head>Bellhouses Sägemühle, 22. Juni 1825</head>
                 <p>Den <date when="1825-06-22">22</date>. Auf einem kleinen Spaziergang mit Herrn <persName ref="gfa-actors-7826" type="met">Escher </persName>gelangten wir diesen
                     Morgen zu Herrn <placeName ref="gfa-places-1943" type="itinerar" when="1825-06-22" n="70"><persName ref="gfa-actors-7775">Bellhouse</persName>’s Saw-Mill</placeName> (Sägmühle). Ich hätte gewünscht, da diese
                     Maschinen so häufig in der Schweiz gebraucht und angewendet werden, es wären ein
@@ -1689,7 +1691,9 @@
                     heterogen, das sie nicht zusammenbringen, wenn es ihrem Unternehmungsgeist
                     zusagt. Auch ist die Lage seines Etablissements so, dass er gerade von seiner
                     Thüre aus nach jedem Theil der Welt mit seinem Dampfboot schiffen kann, da es an
-                    dem Kanal liegt, der mit <placeName ref="gfa-places-1744">Hull</placeName> und <placeName ref="gfa-places-1745">Liverpool </placeName>in Verbindung steht.</p>
+                    dem Kanal liegt, der mit <placeName ref="gfa-places-1744">Hull</placeName> und <placeName ref="gfa-places-1745">Liverpool </placeName>in Verbindung steht.</p></div>
+            <div type="day">
+                <head>Auf dem Landgut der Familie Phillips, 22. Juni 1825</head>
                 <p>Nachmittags um 4 Uhr fuhr ich mit Herrn <persName ref="gfa-actors-7928" type="met">Phillips</persName> und dessen <persName ref="gfa-actors-8132" type="met">Gattin</persName> und <persName ref="gfa-actors-8268" type="met">Tochter</persName>
                     nach seinem sechs Meilen von Manchester gelegenen Landgute, <placeName ref="gfa-places-1944" type="itinerar" when="1825-06-22" n="71">the Dales</placeName> genannt,
                     zum Mittagessen. Es liegt nordwestlich von <placeName ref="gfa-places-471">Manchester </placeName>in einer vorzüglich
@@ -1736,7 +1740,7 @@
                     vorzüglicher sich bis auf 60 <term ref="gfa-keywords-8443">Schilling</term>, oder über drei <term ref="gfa-keywords-8411">Louis- d'or</term> wöchentlich
                     hinauf arbeiten kann, so würden sie doch schwerlich übel fahren.</p></div>
             <div type="day">
-                <head>Manchester, 23. Juni</head>
+                <head>Zurück in der Stadt, 23. Juni 1825</head>
                 <p>Den <date when="1825-06-23">23</date>. Da Herr <persName ref="gfa-actors-7928">Phillips</persName> um 9 Uhr in der <placeName ref="gfa-places-471">Stadt</placeName> sein wollte, was mir auch lieb
                     war, so frühstückten wir zeitlicher, als man sonst in England zu thun pflegt,
                     und wie gewohnt weit reichlicher, als bei uns. Denn nebst Thee und Kaffe dürfen
@@ -1776,7 +1780,9 @@
                 <p>«Das kann sich in einer grossen Stadt begeben,<lb/>Aber nie bei uns in unserm
                     kleinen Leben.»</p>
                 <p>wo wir freilich Platz genug hätten, einander auszuweichen, aber dessen ungeach<pb n="149" facs="https://www.e-rara.ch/ebs/content/zoom/16557890" break="no"/>tet öfters eben nicht gar freundschaftlich auf einander
-                    stossen.</p>
+                    stossen.</p></div>
+            <div type="day">
+                <head>Langersehntes Wiedersehen mit George Lee, 23. Juni 1825</head>
                 <p>Diesen Nachmittag hatte ich nun das Vergnügen, den Herrn <persName ref="gfa-actors-7607">Lee </persName>zu sehen. Er kam zu
                     mir in meine <placeName ref="gfa-places-2081" type="itinerar" when="1825-06-23" n="74">Wohnung</placeName>. Ich erkannte augenblicklich, dass seine Freundschaft für
                     mich sich nicht vermindert hatte.</p>
@@ -1795,7 +1801,7 @@
                     lndustrie auf das Beste. Mögen sie alle ihr Vaterland gesund und wohl wieder
                     sehen, und der Nutzen von ihren Bemühungen wird gewiss nicht ausbleiben.</p></div>
             <div type="day">
-                <head>Manchester, 24. Juni</head>
+                <head>Auf dem Landgut der Familie Lee, 24. Juni 1825</head>
                 <p>Den <date when="1825-06-24">24. Juni</date>. Ich hatte fast bis Abends zu schreiben, wo mich um vier Uhr Herr
                     <persName ref="gfa-actors-7607" type="met">Lee</persName> zum Mittagessen auf sein <placeName ref="gfa-places-1951" type="itinerar" when="1825-06-24" n="76">Landhaus</placeName>, drei Meilen von <placeName ref="gfa-places-471">Manchester</placeName>, abholte, und
                     dort angelangt, mir seine drei liebenswürdigen und vortrefflich erzogenen
@@ -1861,7 +1867,7 @@
                     und Hoffnung des Wiedersehens in der Schweiz, verliess ich die gastfreundliche
                     Wohnung dieser so achtungswerthen Familie.</p></div>
             <div type="day">
-                <head>Von Manchester nach Leeds</head>
+                <head>Von Manchester nach Leeds, 25.-26. Juni 1825</head>
                 <p>Den <date when="1825-06-25">25</date>. Diesen Morgen erhielt ich von Herrn <persName ref="gfa-actors-7607">Lee </persName>eine Introduction an Herrn <persName ref="gfa-actors-8088">Y.</persName>,
                     Associé in dem grossen <placeName ref="gfa-places-1952"><persName ref="gfa-actors-8089">Eisenwerk und der Gussstahlfabrik zu H. O.</persName></placeName> nahe bei <placeName ref="gfa-places-20">Bir<pb n="156" facs="https://www.e-rara.ch/ebs/content/zoom/16557897" break="no"/>mingham</placeName>; schrieb einen grossen Brief an Herrn Lee zurück; nahm
                     einen Platz in der <term ref="gfa-keywords-8570">Diligence</term> auf morgen nach <placeName ref="gfa-places-1760">Leeds</placeName>, und beschloss den Abend mit
@@ -1896,12 +1902,12 @@
                     auf dieses Land, die Blätter der Bäume kann sie färben, aber Früchte reift sie
                     nicht.</p>
                 <p>Wie freute ich mich übrigens darauf, hier die höchst achtungswerthe, und mir
-                    besonders so schätzbare Familie <orgName ref="gfa-actors-8090">Gott</orgName> wieder zu sehen. Noch den gleichen Abend
+                    besonders so schätzbare Familie <persName ref="gfa-actors-8090">Gott</persName> wieder zu sehen. Noch den gleichen Abend
                     erhielt ich durch den <persName ref="gfa-actors-7842">jüngsten Sohn</persName> ein Paket Briefe, die von zu Hause den Weg
                     bis hierher zu machen hatten. — Mit einer Antwort darauf beschloss ich den Rest
                     des Tages.</p></div>
             <div type="day">
-                <head>Leeds, 27. Juni</head>
+                <head>Stadtführung durch Leeds, 27. Juni 1825</head>
                 <p>Den <date when="1825-06-27">27</date>. Schon zeitlich am Morgen holte mich Herr <persName ref="gfa-actors-7842" type="met">Henry Gott</persName> ab, um den <pb n="159" facs="https://www.e-rara.ch/ebs/content/zoom/16557900"/>Tag in ihrer
                     Familie zuzubringen. — Von dem Comptoir<note>Es ist nicht eindeutig zu bestimmen, welche Fabrik von Gott Johann Conrad Fischer hier besuchte: Armley Mill oder Park Mill.</note> weg, wo ich mit Herrn <persName ref="gfa-actors-7697" type="met">Gott</persName>über meine
                     Angelegenheiten und dem Zweck meiner Reise sprach, und von ihm
@@ -1960,7 +1966,9 @@
                     zurückbleiben. — Der Gazometer zu diesem Apparat steht in dem Hofe. Er ist rund,
                     von Platten aus Gusseisen zusammengesetzt, und enthält 18,000 Cubicfuss Gas. Der
                     inwendige bewegliche Theil ist von Eisenblech, genietet, und aus- und inwendig
-                    betheert.</p>
+                    betheert.</p></div>
+            <div type="day">
+                <head>Besuch der Textilfabrik Park Mill, 27. Juni 1825</head>
                 <p>Von dieser Anstalt weg besuchten wir noch die dem Herrn <persName ref="gfa-actors-7697">Gott</persName> zuständige
                     Tuchfabrike, <placeName ref="gfa-places-1795" type="itinerar" when="1825-06-27" n="85">Park mill</placeName> genannt. — Ich hatte selbige <date to="1814-12-31" from="1814-01-01">vor eilf Jahren</date> schon
                     gesehen, musste mich aber nicht nur über die äusserst bedeutenden
@@ -2008,8 +2016,7 @@
                     der erfolgten furchtbaren Zusamnenstürzung eines Theils der Gebäude grosses
                     Unglück erfolgt war, sorgfältig durch das Probiren eines jeden einzelnen, in so
                     fern man ihn an beiden Enden nur knapp auflegt und mit einer Hebelkraft von 300
-                    Ztr., oder 15 Tonnen, in der Mitte darauf drückt, verificirt. — Ich war in <placeName ref="gfa-places-1760">Leeds
-</placeName>                    bei einer solchen Probe gegenwärtig; der Balken bog sich oder schlug um einen
+                    Ztr., oder 15 Tonnen, in der Mitte darauf drückt, verificirt. — Ich war in <placeName ref="gfa-places-1760">Leeds</placeName> bei einer solchen Probe gegenwärtig; der Balken bog sich oder schlug um einen
                     halben Zoll ein, brach aber nicht.</p>
                 <p>Da die Engländer bei ihrem gegenwär<pb n="168" facs="https://www.e-rara.ch/ebs/content/zoom/16557909" break="no"/>tigen
                     Bau-, Maschinen- und Navigationssystem so vielfältig ihr Leben und Vermögen dem
@@ -2052,7 +2059,9 @@
                     untadelhaft und schön unter der neuen Maschine hervorgeht. Man muss die
                     Einfachheit des Gedankens bewundern; aber eben so die Kunst des Eisen- und
                     Stahlarbeiters in Hinsicht der äussersten Genauigkeit, die die Ausführung dieses
-                    Gedankens erheischt.</p>
+                    Gedankens erheischt.</p></div>
+            <div type="day">
+                <head>Auf dem Landgut der Familie Gott, 27. Juni 1825</head>
                 <p>Mit <persName ref="gfa-actors-7701" type="met">Madame Gott</persName>, die am Morgen nach der Stadt gekommen war, ihrer Sohnsfrau und
                     noch einer Dame fuhr ich nach ihrem <placeName ref="gfa-places-1794" type="itinerar" when="1825-06-27" n="86">Landsitze</placeName>, drei Meilen von <placeName ref="gfa-places-1760">Leeds</placeName>, um dort
                     bis den folgenden Tag zu bleiben. Dieser Landsitz ist ein Schloss, durchaus von
@@ -2089,7 +2098,7 @@
                     unserm Dämmerschein in den Strahlenglanz eines höhern Lebens übergegangen ist!
                     und bot ihm zu guter Nacht die Hand.</p></div>
             <div type="day">
-                <head>Leeds, 28. Juni</head>
+                <head>Besuch der Textilfabrik Armsley Watermill, 28. Juni 1825</head>
                 <p>Den <date when="1825-06-28">28</date>. Nach dem Frühstück, vor welchem ich mit Herrn <persName ref="gfa-actors-7697">Gott</persName>einen Spaziergang
                     durch seinen <placeName ref="gfa-places-1794" type="itinerar" when="1825-06-28" n="87">Park</placeName> machte, und mit Vergnügen die schöne umgehende Landschaft
                     beschaute, worin sich die malerischen gothischen Ruinen eines <date to="1547-01-28" from="1509-04-24">zur Zeit <persName ref="gfa-actors-7854">Heinrichs
@@ -2098,7 +2107,7 @@
                     tief liegende, in mehrfachen Krümmungen erscheinende Kanal und Fluss Car
                     besonders auszeichneten, und nach genommenem Abschied von dieser mir so höchst
                     schätzbaren Familie gingen wir zusammen über die zweite Fabrike von Herrn Gott,
-                    <placeName ref="gfa-places-1788" type="itinerar" when="1825-06-28" n="88">Armsley Watermill</placeName>, nach der <placeName ref="gfa-places-471">Stadt</placeName>. Diese Fabrik, was in England sehr rar ist,
+                    <placeName ref="gfa-places-1788" type="itinerar" when="1825-06-28" n="88">Armsley Watermill</placeName><note>Es konnte nicht eruiert werden, weshalb Fischer diese Schreibweise verwendete. Das Viertel, welchem die Fabrik ihren Namen zu verdanken hat, heisst Armley, und nicht Armsley.</note>, nach der <placeName ref="gfa-places-471">Stadt</placeName>. Diese Fabrik, was in England sehr rar ist,
                     wird durch <term ref="gfa-keywords-2998">Wasserkraft</term> getrieben, durch eine Wasserkraft, die beinahe einer
                     <term ref="gfa-keywords-8651">Dampfmaschine</term> von 120 <term ref="gfa-keywords-8588">Pferdekräften</term> gleich kommt. Denn sie gibt jede Sekunde 160
                     Cubicfuss Wasser bei 10 <term ref="gfa-keywords-8449">Fuss</term> Fall. Drei mit Ausnahme der Schaufeln ganz eiserne
@@ -2138,7 +2147,9 @@
                     <placeName ref="gfa-places-84">meinem Stahlwerk</placeName> begegnet ist, wenn sie nicht zu der Thüre hineinkommen können,
                     zu den Fenstern hineinsteigen. Diesem Brief zu Folge hätte der Eigenthümer, ohne
                     weder sich noch den Herrn <persName ref="gfa-actors-7697">Gott</persName> zu compromittiren, noch gegen mich unhöflich zu
-                    sein, mich dennoch abweisen können.</p>
+                    sein, mich dennoch abweisen können.</p></div>
+            <div type="day">
+                <head>Besuch der Flachsspinnerei Marshall Mills, 28. Juni 1825</head>
                 <p>Zu meinem Leidwesen war Herr <persName ref="gfa-actors-8092" type="met">M.</persName>, als ich auf das Comptoir der <placeName ref="gfa-places-1977" type="itinerar" when="1825-06-28" n="89">Spinnerei</placeName> kam,
                     nicht anwesend, man sagte aber, er werde kommen. Ich hatte indessen eine
                     wunderliche Unterredung mit einem wie es schien der ersten Commis. — Nach einer
@@ -2244,7 +2255,9 @@
                     schönen und entsprechenden Einrichtungen gesehen zu haben; allein er bemerkte,
                     dass man in dieser Fabrikation noch nicht so weit wie in der Baumwollspinnerei
                     gekommen sei, und dass er hoffe, innerhalb wenig Jahren noch manche
-                    Verbesserungen einzuführen.</p>
+                    Verbesserungen einzuführen.</p></div>
+            <div type="day">
+                <head>Abschied in Leeds, 28. Juni 1825</head>
                 <p>Ich kehrte auf das Comptoir von Herrn <persName ref="gfa-actors-7697">Gott</persName> zurück. Dort sah ich noch das
                     ausserordentliche Waarenlager von Tüchern aller Art, unerachtet der täglichen
                     Versendungen. Vorzüglich gefielen mir auch die schönen und wohlfeilen wollenen
@@ -2268,7 +2281,7 @@
                     Eindrücke mehr in mich aufnehmen, und blieb, Vorstehendes niederschreibend, den
                     Rest des Tages zu Hause.</p></div>
             <div type="day">
-                <head>Von Leeds nach Sheffield</head>
+                <head>Über das Glück und die Rechte der Frauen, 29. Juni 1825</head>
                 <p>Den <date when="1825-06-29">29</date>. Ich machte mir beim Erwachen einen grossen Vorwurf, das <ref type="cross" target="#p_179">Rezept zur
                     menschlichen Glückseligkeit</ref> eine ganze Nacht in meiner Tasche gehabt zu haben,
                     ohne dessen Inhalt zu kennen, da man doch nie weiss, was in einer einzigen Nacht
@@ -2304,7 +2317,9 @@
                     häuslichen Beschäftigungen, als wie Kochen, Waschen, Zimmerheizen etc. Alles
                     dieses soll nach wissenschaftlichen Grundsätzen und einem grossen ökonomischen
                     Massstab für die ganze Gesellschaft besorgt werden. — Ein jeder mag den
-                    Commentar zu diesen Absurditäten selbst machen.</p>
+                    Commentar zu diesen Absurditäten selbst machen.</p></div>
+            <div type="day">
+                <head>Von Leeds nach Sheffield, 29. Juni 1825</head>
                 <p>Diesen Nachmittag um 2 Uhr reisete ich von <placeName ref="gfa-places-1760">Leeds </placeName>über <placeName ref="gfa-places-1791" type="itinerar" when="1825-06-29" n="90">Wakefield</placeName> nach <placeName ref="gfa-places-1265" type="itinerar" when="1825-06-29" n="91">Sheffield</placeName>
                     ab. Die Reisegesellschaft bestand aus einer Dame von etwa dreissig Jahren in
                     Trauer gekleidet, einem Herrn von Sheffield, und später kam noch ein
@@ -2330,7 +2345,7 @@
                     kleinen Dimensionen gestreckt wird, als das Wichtigste für mich aus, und ging,
                     da ich mir ein grosses Pensum vorgenommen hatte, zeitlich zu Bette.</p></div>
             <div type="day">
-                <head>Sheffield, 30. Juni</head>
+                <head>Fabrikgänge in Sheffield, 30. Juni 1825</head>
                 <p>Den<date when="1825-06-30"> 30. Juni</date>. Das <placeName ref="gfa-places-1979" type="itinerar" when="1825-06-30" n="92">Tiltinghouse</placeName> ist ein <term ref="gfa-keywords-9166">Hammerwerk</term>, vom Wasser des durch die Stadt
                     fliessenden <placeName ref="gfa-places-1668">Dons </placeName>getrieben, und, sonderbar genug, ganz wie ein altes Kastell,
                     mit vier Thürmen, mit Zinnen und gothischen hohen Fenstern und Schiefsscharten
@@ -2389,7 +2404,9 @@
                     Grüften der Erde hervorgeholten Pseudo-Kohlen genossen nie der belebenden und
                     veredelnden Strahlen der Sonne, sie haben sich mit ihnen nicht identificirt, wie
                     mit unsern ewig grünen Bäumen, den Fichten und Tannen, deren Kohlen mit
-                    lebendigem Schimmer und lichten Flammen brennen.</p>
+                    lebendigem Schimmer und lichten Flammen brennen.</p></div>
+            <div type="day">
+                <head>Rasiermesser aus Fischers Meteorstahl, 30. Juni 1825</head>
                 <p>Ich wünschte zu wissen, was auch ein englischer Messerschmied zu <term ref="gfa-keywords-9525">meinem
                     Meteorstahl</term> sagen würde, wenn ich ihm Stahl geben würde, um ein paar
                     <term ref="gfa-keywords-8659">Rasiermesser</term> davon zu machen. — Der Zufall führte mich in ein Haus, wo man mir
@@ -2448,7 +2465,9 @@
                     Elfenbein fertig, und so mussten sie nur noch abgezogen werden. Da Herr <persName ref="gfa-actors-7937">Rhodes</persName>,
                     so war der Name des Fabrikanten, gerade nicht anwesend war, so sagte ich, ich
                     wolle die Messer, die nun in drei Stunden vom Schmieden weg fertig waren, den
-                    folgenden Tag abholen.</p>
+                    folgenden Tag abholen.</p></div>
+            <div type="day">
+                <head>Weitere Fabrikgänge in Sheffield, 30. Juni 1825</head>
                 <p>Ich ging noch nach dem <placeName ref="gfa-places-1984" type="itinerar" when="1825-06-30" n="96">Gussstahldrathzug</placeName> in dem sogenannten <placeName ref="gfa-places-1983">Wicker</placeName>. Er hatte in
                     seiner Einrichtung vor dem in <placeName ref="gfa-places-20">Birmingham </placeName>nichts zum Voraus, als dass er durch
                     die Dampfmaschine getrieben wurde. Da sich in diesen Gebäuden eine
@@ -2491,7 +2510,7 @@
                     erregen, verweilte ich nicht noch länger.</p></div>
             <pb n="208" facs="https://www.e-rara.ch/ebs/content/zoom/16557949"/>
             <div type="day">
-                <head>Sheffield, 1. Juli</head>
+                <head>Besuch einer Gussstahl- und Ziegelfabrik, 1. Juli 1825</head>
                 <p>Den <date when="1825-07-01">1. Juli</date>. Diesen Morgen ging ich zuvörderst in die <placeName ref="gfa-places-1980" type="itinerar" when="1825-07-01" n="100">Gussstahlfabrik</placeName>, um das
                     bestellte abgeschlagene Stück <term ref="gfa-keywords-9510">Eingussstahl</term>, (<term ref="gfa-keywords-9674">Ingot Steel</term>) und sodann noch ein
                     paar Stängelchen vierekigten dünn gewalzten, abzuholen. Wie ich es erwartete und
@@ -2524,7 +2543,9 @@
                     untadelhafte Waare zu liefern, die dann wie die gewöhnliche in die Formen
                     geschlagen, und wie alle andere Ziegel in England unter freiem Himmel, aber
                     nicht so wie dieselben in offenen, sondern in geschlossenen Oefen, und mit weit
-                    heftigerm Feuer gebrannt werden.</p>
+                    heftigerm Feuer gebrannt werden.</p></div>
+            <div type="day">
+                <head>Qualitätsbescheinigung für Fischers Meteorstahl, 1. Juli 1825</head>
                 <p>Ich wünschte nun meine Messer zu sehen, und als ich <placeName ref="gfa-places-1982" type="itinerar" when="1825-07-01" n="102">zu Herrn <persName ref="gfa-actors-7937" type="met">Rhodes</persName></placeName> kam, waren
                     selbige eingewickelt und die Note dabei, die 7 <term ref="gfa-keywords-8443">Schilling </term>oder ungefähr 4 <term ref="gfa-keywords-8457">fl</term>. 6
                     <term ref="gfa-keywords-8444">kr</term>. für beide betrug. — Ich konnte kein <pb n="211" facs="https://www.e-rara.ch/ebs/content/zoom/16557951"/>Wort darüber sagen,
@@ -2577,7 +2598,7 @@
                     schaut). Glücklicherweise hatte ich mein Schreibgeräthe bei mir, und zu noch
                     grösserm Glück fand ich vortrefflichen <term ref="gfa-keywords-8829">Ale</term>, besser noch als in keiner Stadt.</p></div>
             <div type="day">
-                <head>Sheffield, 2. Juli</head>
+                <head>Lob und Bewunderung für Fischers Rasiermesser, 2. Juli 1825</head>
                 <p>Den <date when="1825-07-02">2. Juli</date>. Frühe ging ich nach <placeName ref="gfa-places-1991" type="itinerar" when="1825-07-02" n="105">T. Mill</placeName> hin, und vernahm von einem alten <pb n="215" facs="https://www.e-rara.ch/ebs/content/zoom/16557955"/>Platzmeister, mit dem ich, da ich noch Jemand erwartete, an den ich etwas zu
                     bestellen hatte, herumspazierte, das eigentliche Verfahren, ihre harten Walzen
                     zu machen, in welchem bei der Einfachheit der Prozedur wieder ein tiefes
@@ -2615,7 +2636,9 @@
                     Rasiermessermacher der ganzen Welt. — Herzlich schüttelte er mir zum Abschied
                     die <pb n="218" facs="https://www.e-rara.ch/ebs/content/zoom/16557958"/>Hand,
                     und so ist die etwas langweilige, aber für mich sehr wichtige Geschichte eines
-                    Rasiermessers zu Ende.</p>
+                    Rasiermessers zu Ende.</p></div>
+            <div type="day">
+                <head>Besuch einer Hufschmiede, 2. Juli 1825</head>
                 <p>Nach dem Mittagessen ging ich durch den Hof des <placeName ref="gfa-places-2083" type="itinerar" when="1825-07-02" n="109">Wirthshauses</placeName>, um in dem am Ende
                     desselben gelegenen Comptoir einen Platz nach <placeName ref="gfa-places-20">Birmingham </placeName>zu bestellen. Ich
                     musste bei einer <placeName ref="gfa-places-1994" type="itinerar" when="1825-07-02" n="110">Schmiede</placeName> vorbei, die sich da wegen der fast stündlich
@@ -2653,7 +2676,10 @@
                     Kammrad wieder mit einem Rad an der bekannten Circular-Strohschneid<pb n="221" facs="https://www.e-rara.ch/ebs/content/zoom/16557961" break="no"/>maschine,
                     wo bekanntlich vier schräg gestellte Messer zwischen zwei eiserne Scheiben
                     eingeschraubt sind, die durch Räderwerk herumgeführt werden, in Verbindung
-                    steht. — Ich wollte noch einmal die Walzwerke sehen, wo ich den Zutritt hatte.
+                    steht.</p></div>
+            <div type="day">
+                <head>Besuch eines Walzwerks und einer Frischschmiede, 2. Juli 1825</head>
+                    <p>— Ich wollte noch einmal die Walzwerke sehen, wo ich den Zutritt hatte.
                     Die Beschreibung der Manipulation hat für die, die sie kennen, kein Interesse,
                     und für die, die noch kein <term ref="gfa-keywords-8509">Stabeisen</term> oder Stangenstahl haben walzen sehen, ist
                     sie nicht verständlich. Wollte man diese, besonders wo grosse Wasserkraft ist,
@@ -2713,7 +2739,7 @@
                     in der Tasche, die Provisionen, um <pb n="226" facs="https://www.e-rara.ch/ebs/content/zoom/16557966"/>sich einen
                     vergnügten Sonntag zu machen, ankauften.</p></div>
             <div type="day">
-                <head>Von Sheffield nach Birmingham</head>
+                <head>Von Sheffield nach Birmingham, 3. Juli 1825</head>
                 <p>Sonntags den <date when="1825-07-03">3. Juli</date>. Um 6 Uhr Morgens verreiste ich in der Mail-Coatch über
                     <placeName ref="gfa-places-1917" type="itinerar" when="1825-07-03" n="113">Chesterfield</placeName>, <placeName ref="gfa-places-1257" type="itinerar" when="1825-07-03" n="114">Derby</placeName>, dann dem wegen seinem Ale so berühmten <placeName ref="gfa-places-1912" type="itinerar" when="1825-07-03" n="115">Burton upon Trent</placeName>
                     und <placeName ref="gfa-places-1987" type="itinerar" when="1825-07-03" n="116">Lichtfield</placeName> nach dem 78 <term ref="gfa-keywords-8445">Meilen</term> entlegenen <placeName ref="gfa-places-20" type="itinerar" when="1825-07-03" n="117">Birmingham</placeName>, wo ich noch einige
@@ -2746,7 +2772,7 @@
                     zugebracht wurde. Nach dem Essen schrieb ich Vorstehendes noch nieder, und war
                     froh, ausruhen zu können.</p></div>
             <div type="day">
-                <head>Birmingham, 4. Juli</head>
+                <head>Geschäftliche Treffen in Birmingham, 4. Juli 1825</head>
                 <p>Den <date when="1825-07-04">4. Juli</date>. Auf 1 Uhr diesen Nachmittag hatte ich eine Zusammenkunft mit Herrn
                     <persName ref="gfa-actors-7945" type="met">John Sanders</persName>, Gussstahlfabrikant von <placeName ref="gfa-places-1265">Sheffield</placeName>, verabredet, weshalb ich am
                     Morgen nur wenig ausgehen konnte. Ich hatte die Bekanntschaft dieses auf alle
@@ -2769,8 +2795,10 @@
                         <pb n="230" facs="https://www.e-rara.ch/ebs/content/zoom/16557970"/>Handwerksgenossen seien, und sahen einander des Abends noch ein und vielleicht
                     nicht das letzte Mal. — Noch besuchte ich den <placeName ref="gfa-places-1863" type="itinerar" when="1825-07-04" n="119">Herrn Adcock</placeName>. Mein Ring aus dem
                     weissen Metall mit dem dazu geschliffenen Stein aus der Braunsteinschlacke, die
-                    ich ihm gebracht, war noch nicht fertig; in wenigen Tagen soll ich ihn haben.
-                    Die Arbeiter in <placeName ref="gfa-places-20">Birmingham</placeName> arbeiten des Montags auch nicht gern wie anderwärts.
+                    ich ihm gebracht, war noch nicht fertig; in wenigen Tagen soll ich ihn haben.</p></div>
+            <div type="day">
+                <head>Über Sitten und Manieren, 4. Juli 1825</head> 
+                <p>Die Arbeiter in <placeName ref="gfa-places-20">Birmingham</placeName> arbeiten des Montags auch nicht gern wie anderwärts.
                     Die Strassen und Wirthshäuser waren von ihnen angefüllt; vielleicht jetzt um
                     eines Grundes willen mehr, da eine wichtige Frage in Betreff ihrer obschwebt.
                     Von Herrn <persName ref="gfa-actors-7733" type="met">Adcock</persName> erfuhr ich, dass eine, aber nur eine <placeName ref="gfa-places-2047" type="itinerar" when="1825-07-04" n="120">Gussstahlmanufaktur</placeName> in
@@ -2806,8 +2834,8 @@
                     um Verschiedenes, das meinem Gedächtniss hätte entgehen mögen, meinen Notizen
                     beizufügen, womit ich nun diesen Tag beschloss.</p></div>
             <div type="day">
-                <head>Birmingham, 5. Juli</head>
-                <p>Den <date when="1825-07-05">5. Juni</date>. Diesen Morgen ging ich in eine <placeName ref="gfa-places-2049" type="itinerar" when="1825-07-05" n="122">Manufaktur</placeName> von Schmelztigeln, deren
+                <head>Weitere Fabrikbesichtigungen in Birmingham, 5. Juli 1825</head>
+                <p>Den <date when="1825-07-05">5. Juni</date><note>Fälschlicherweise ist hier das Datum des 5. Juni angebeben. Korrekt wäre der 5. Juli.</note>. Diesen Morgen ging ich in eine <placeName ref="gfa-places-2049" type="itinerar" when="1825-07-05" n="122">Manufaktur</placeName> von Schmelztigeln, deren
                     <placeName ref="gfa-places-20">Birmingham</placeName> fast für ganz England liefert: auch machen sie die für die
                     Gussstahlfabriken, aber nicht für alle. Die Manipulation ist die gleiche, wie
                     die in den Gussstahlfabriken selbst. Auch hier wird zu einem Theil neuer Materie
@@ -2846,7 +2874,7 @@
                     nicht zu der gemeinen Klasse gehören, an solchem Schauspiel ein Vergnügen finden
                     können, lässt sich nur durch die Macht der Gewohnheit erklären.</p></div>
             <div type="day">
-                <head>Birmingham, 6. Juli</head>
+                <head>Fischers begehrte Innovation, 6. Juli 1825</head>
                 <p>Den <date when="1825-07-06">6</date>. Diesen Morgen ging ich, nachdem ich einen Platz in der Kutsche nach <placeName ref="gfa-places-89">London</placeName>
                     (es fahren deren täglich, nur was mir bekannt ist, des Abends drei oder vier,
                     und eben so viel des Morgens ab) gegen Erlegung von zwei <term ref="gfa-keywords-8410">Pfund Sterling</term> genommen
@@ -2883,7 +2911,7 @@
                     einzupacken, und setzte Abends um 7 Uhr die Reise von <placeName ref="gfa-places-20">Birmingham</placeName> wieder
                     fort.</p></div>
             <div type="day">
-                <head>Von Birmingham nach London</head>
+                <head>Von Birmingham nach London, 6.–7. Juli 1825</head>
                 <p>Den <date when="1825-07-07">7. Juli</date>. In dreizehn Stunden oder bis Morgens um 8 Uhr legten wir die 109
                     <term ref="gfa-keywords-8445">Meilen</term> zurück, wo wir in <placeName ref="-gfa-places-89" type="itinerar" when="1825-07-07" n="125">London</placeName> anlangten. Ich sorgte für eine Wohnung, machte
                     einige Besuche, und kaufte eine kurzgefasste aber gründlich geschriebene Analyse
@@ -2895,7 +2923,7 @@
                     französischen Verfügungen darüber sind viel besser, weit <pb n="240" facs="https://www.e-rara.ch/ebs/content/zoom/16557980"/>aus aber zum besten,
                     geradesten und billigsten die österreichischen.</p></div>
             <div type="day">
-                <head>London, 8. Juli</head>
+                <head>Über Eisensteinporzellan und Kristallglas, 8. Juli 1825</head>
                 <p>Den 8. Da ich schon oft von der <term ref="gfa-keywords-9022">Iron stone china ware</term> gehört hatte, welches ein
                     beinahe unzerbrüchliches Porzellan sein soll, so ging ich diesen Morgen in den
                     <placeName ref="gfa-places-2032" type="itinear" when="1825-07-08" n="126">Laden</placeName>, wo man es verkauft (<placeName ref="gfa-places-1700">St. Pauls Churchyard</placeName>). Nebst diesem und andern Arten
@@ -2935,7 +2963,7 @@
                 <p>Den Mittag und Abend brachte ich  <placeName ref="gfa-places-1851" type="itinerar" when="1825-07-08" n="127">bei Herrn <persName ref="gfa-actors-7823">Egg</persName></placeName> zu in angenehmer und interessanter
                     Unterhaltung.</p></div>
             <div type="day">
-                <head>London, 9. Juli</head>
+                <head>Perkins Dampfmaschine, 9. Juli 1825</head>
                 <p>Den <date when="1825-07-09">9</date>. Diesen Morgen besuchte ich Herrn <persName ref="gfa-actors-7753" type="met">Perkins</persName> wieder in seiner so weit
                     entlegenen <placeName ref="gfa-places-1850" type="itinerar" when="1825-07-09" n="128">Manufaktur</placeName> in <placeName ref="gfa-places-2027">Regents Park</placeName>. Als ich hineinkam, hörte ich ein starkes,
                     in schnellen Stössen sich wiederholendes Geräusch, wie von einer Schneidemühle.
@@ -2963,7 +2991,9 @@
                     ganz über ihre nunmehrige allgemeine Brauchbarkeit, und folglich auch
                     Vorzüglichkeit vor allen bekannten Maschinen abzusprechen, allein was ich nun
                     mit eigenen Augen gesehen, hat doch einen hinreichenden Eindruck zu ihren
-                    Gunsten auf mich gemacht.</p>
+                    Gunsten auf mich gemacht.</p></div>
+            <div type="day">
+                <head>Wichtige Begegnungen, 9. Juli 1825</head>
                 <p>Ich durfte mich schicklicher Weise nicht so lange aufhalten, als ich es gerne bei
                     diesem interessanten Manne gethan hätte, da es Samstag war, und begab mich von
                     ihm weg nach einem grossen <placeName ref="gfa-places-2052" type="itinerar" when="1825-07-09" n="129">Etablissement</placeName> für Gasbeleuchtung, Dampfmaschinen und
@@ -2979,7 +3009,7 @@
                     brachten wir denselben und noch einen Theil des spätern Abends vergnügt und
                     Vieles besprechend mit einander zu.</p></div>
             <div type="day">
-                <head>London, 10. Juli</head>
+                <head>Ein neues Geschäftsangebot, 10. Juli 1825</head>
                 <p>Den <date when="1825-07-10">10</date>. Ich wollte um die Mittagszeit den berühmten Ingenieur <persName ref="gfa-actors-7936">Rennié</persName>, an den ich
                     eine Empfehlung hatte, besuchen, traf <pb n="247" facs="https://www.e-rara.ch/ebs/content/zoom/16557987"/>ihn aber nicht <placeName ref="gfa-places-2053" type="itinerar" when="1825-07-10" n="130">zu
                             Hause</placeName> an. Abends um 4 Uhr kam unvermuthet ein Bekannter <placeName ref="gfa-places-1710" type="itinerar" when="1825-07-10" n="131">zu mir</placeName>, um mir einen
@@ -2993,7 +3023,7 @@
                     den Herrn <persName ref="gfa-actors-7954">Stierlin</persName>, Präsidenten unserer <orgName ref="gfa-actors-8102">Kantonalgesellschaft</orgName>, davon zu
                     präveniren. Möge es geschehen, dass diese Briefe voreilig geschrieben waren.</p></div>
             <div type="day">
-                <head>London, 11. Juli</head>
+                <head>Geschäftschancen in der Londoner Münze, 11. Juli 1825</head>
                 <p>Den <date when="1825-07-11">11. Juli</date>. Um halb eilf Uhr ging ich <placeName ref="gfa-places-2053" type="itinerar" when="1825-07-11" n="132">zu Herrn <persName ref="gfa-actors-7936" type="met">Rennié</persName></placeName>. Nach kurzer Unter<pb n="248" facs="https://www.e-rara.ch/ebs/content/zoom/16557988" break="no"/>haltung fragte er mich, ob ich nicht um 1 Uhr in die  <placeName ref="gfa-places-1636" type="itinerar" when="1825-07-11" n="133">königl. Münze</placeName> kommen, und
                     etwas von meinem Stahl zur Untersuchung mitbringen möchte. Es ereignen sich,
                     fuhr er fort, bei ihnen in dieser Münze immer so viele Zufälle mit den so
@@ -3034,7 +3064,9 @@
                     flachen Streifen, wenn sie von der Scheere wegkommen, werden nun hier durch ein
                     flaches Loch, wie man sonst den Drath zieht, gezogen, welches folglich denselben
                     eine weit grössere Gleichförmigkeit, als durch das blosse <term ref="gfa-keywords-3621">Walzen</term> erhalten werden
-                    kann, ertheilen muss.</p>
+                    kann, ertheilen muss.</p></div>
+            <div type="day">
+                <head>Ein weiterer Abend bei Joseph Egg, 11. Juli 1825</head>
                 <p>Von der Münze weg machte ich noch einen Spaziergang von ungefähr 6 <term ref="gfa-keywords-8445">Meilen</term> <placeName ref="gfa-places-1851" type="itinerar" when="1825-07-11" n="134">zu
                     Herrn <persName ref="gfa-actors-7823" type="met">Egg</persName></placeName> in <placeName ref="gfa-places-1630">Picadilly</placeName>. Es war schon spät, aber dem ungeachtet kam noch der <persName ref="gfa-actors-8100">Sohn</persName>
                     des <persName ref="gfa-actors-7919">Herzogs von Norfolk</persName>, nebst noch einem jungen Herrn, der einen zerbrochenen
@@ -3054,7 +3086,7 @@
                 <p>Bei meiner Heimkunft schrieb ich noch zwei Briefe und die Erscheinungen des
                     heutigen Tages.</p></div>
             <div type="day">
-                <head>London, 12. Juli</head>
+                <head>Das Abenteuer mit der Brieftasche, 12. Juli 1825</head>
                 <p>Den <date when="1825-07-12">12. Juli</date>. Es sollte keine Reise ohne Abentheuer sein, und ein solches (im
                     edeln Sinn des Worts genommen) begegnete mir <pb n="253" facs="https://www.e-rara.ch/ebs/content/zoom/165579893"/>heute. Vor zehn Uhr
                     Morgens kann man schicklich wohl Niemand sehen, auch hat man bis dorthin mit
@@ -3144,7 +3176,7 @@
                     klassische Werk, und brachte den Rest des Abends mit Beschauung der zahlreichen
                     Kupfertafeln und Karten zu.</p></div>
             <div type="day">
-                <head>London, 13. Juli</head>
+                <head>Weitere Geschäftsgänger in London, 13. Juli 1825</head>
                 <p>Den <date when="1825-07-13">13. Juli</date>. Vormittags war ich in besondern Geschäften <placeName ref="gfa-places-2028" type="itinerar" when="1825-07-13" n="142">bei den Herren <orgName ref="gfa-actors-7803">Martineau
                     und Taylor</orgName></placeName>, und dann später <placeName ref="gfa-places-1850" type="itinerar" when="1825-07-13" n="143">bei Herrn <persName ref="gfa-actors-7753" type="met">Perkins</persName></placeName>. Dieser sagte mir, dass er heute
                     gerade wieder ein besonderes Experiment mit seiner <term ref="gfa-keywords-9094">Dampfmaschine</term> mache, um es
@@ -3167,11 +3199,11 @@
                     durch seine Menge zum Gewöhnlichen wird.</p></div>
             <div type="day">
                 <pb n="262" facs="https://www.e-rara.ch/ebs/content/zoom/165579902"/>
-                <head>London, 14. Juli</head>
+                <head>Besichtigung eines Gaswerks, 14. Juli 1825</head>
                 <p>Den <date when="1825-07-14">14. Juli</date>. So sehr ich wegen der Menge noch zu berichtigender Geschäfte und
                     der nahe bevorstehenden Abreise in meiner Zeit beschränkt war, so wollte ich
                     doch die Güte meines Freundes, Herrn <persName ref="gfa-actors-7952">Smith</persName>, der einer der Directoren des
-                    <placeName ref="gfa-places-1985" type="itinerar" when="1825-07-14" n="146">Etablissements</placeName> für tragbares Oelgas ist, und von dem ich eine Eintrittskarte
+                    <placeName ref="gfa-places-2154" type="itinerar" when="1825-07-14" n="146">Etablissements</placeName> für tragbares Oelgas ist, und von dem ich eine Eintrittskarte
                     nebst Empfehlung erhielt, nicht unbenutzt lassen, diese merkwürdige Anstalt zu
                     sehen, und in der That fand ich sie merkwürdig genug. Das Gas wird in sechs
                     geraden und neben einander liegenden Retorten, oder eigentlicher zu reden,
@@ -3225,7 +3257,7 @@
                     brennen macht. — Die Gefässe werden alle, ehe man sie gebraucht, einer Pression
                     von 50 Atmosphären ausgesetzt, und wann sie diese Probe halten, gestempelt.</p></div>
             <div type="day">
-                <head>London, 15. Juli</head>
+                <head>Besuch der Maschinenfabrik von Taylor &amp; Martineau, 15. Juli 1825</head>
                 <p>Den <date when="1825-07-15">15. Juli</date>. Nachdem ich ein sehr wichtiges Geschäft, welches die Uebertragung
                     meiner Erfindung des Meteorstahls, so wie zweier in England bis jetzt noch nicht
                     bekannter Prozeduren für Verfertigung von Oefen für Schmelzung des reinen <pb n="267" facs="https://www.e-rara.ch/ebs/content/zoom/165579907"/><term ref="gfa-keywords-8509">Stabeisens</term>,
@@ -3256,7 +3288,7 @@
                     einen Tag in London zuzubringen, beschloss ich, Vorstehendes verzeichnend, den
                     heutigen.</p></div>
             <div type="day">
-                <head>London, 16. Juli</head>
+                <head>Besuch von Brunels Sägemühle, 16. Juli 1825</head>
                 <p>Den <date when="1825-07-16">16. Juli</date>. Von meinem Freund, dem Herrn <persName ref="gfa-actors-7758">Martineau</persName> mit einer distinguirten
                     Empfehlung an Herrn <persName ref="gfa-actors-7771">Brunel</persName>, dem berühmten Ingenieur, welcher den Plan zu dem
                     Riesenwerk des <placeName ref="gfa-places-1888">unterirdischen Weges unter der Themse</placeName> durch entworfen, und
@@ -3328,7 +3360,7 @@
                     erreicht und mir und Andern nützend, auch diesen Abschnitt meines Lebens nicht
                     umsonst durchgelebt zu haben.</p></div>
             <div type="day">
-                <head>Von London nach Dover</head>
+                <head>Von London nach Dover, 17. Juli 1825</head>
                 <p>Sonntags den <date when="1825-07-17">17. Juli</date>. In einer der Postkutschen, die von <placeName ref="gfa-places-2030" type="itinerar" when="1825-07-17" n="146">Charing cross</placeName> täglich
                     mehrmal nach <placeName ref="gfa-places-1608" type="itinerar" when="1825-07-17" n="150">Dover</placeName> abgehen, verliess ich London morgens um acht Uhr, und langte
                     Abends um vier Uhr in Dover an. Da das Dampfboot erst morgen Vormittags wegging,
@@ -3345,7 +3377,7 @@
                     Baden so wichtig ist, und auch hier musste ich eben wieder sagen: was sie
                     machen, machen sie recht.</p></div>
             <div type="day">
-                <head>Von Dover nach Paris</head>
+                <head>Von Dover nach Paris, 18.–20. Juli 1825</head>
                 <p>Den <date when="1825-07-18">18</date>. Vormittags um zehn Uhr ging ich mit dem <term ref="gfa-keywords-9678">Dampfboot Britannia</term> nach <placeName ref="gfa-places-1607" type="itinerar" when="1825-07-18" n="152">Calais</placeName>
                     über, welchen Weg, der auf 28 englische Meilen geschätzt wird, wir in zwei
                     Stunden und fünfundfünfzig Minuten zurücklegten. Als wir abfuhren, sagte der
@@ -3360,7 +3392,7 @@
                     Gegenstände zubrachte.</p></div>
             <pb n="276" facs="https://www.e-rara.ch/ebs/content/zoom/165579916"/>
             <div type="day">
-                <head>Paris, 21. Juli</head>
+                <head>Bei Mirimée und Bréant in Paris, 21. Juli 1825</head>
                 <p>Den <date when="1825-07-21">21</date>. ging ich <placeName ref="gfa-places-1707" type="itinerar" when="1825-07-21" n="155">zu Herrn <persName ref="gfa-actors-7900" type="met">Mirimée</persName> und Herrn <persName ref="gfa-actors-7509" type="met">Bréant</persName></placeName>, Verificateur général des
                     <orgName ref="gfa-actors-7584">Essays</orgName>. Beide Herren haben grosse Verdienste um die Beförderung der Industrie
                     und überhaupt um die <term ref="gfa-keywords-97">Metallurgie</term>, und Herr <persName ref="gfa-actors-7509">Bréant</persName> verfertigt solche grosse
@@ -3368,7 +3400,7 @@
                     schwerlich irgendwo ihres Gleichen haben möchten. Die Unterhaltung mit diesen
                     Männern war mir sehr interessant und lehrreich.</p></div>
             <div type="day">
-                <head>Von Paris nach Schaffhausen</head>
+                <head>Von Paris nach Schaffhausen, 22.–26. Juli 1825</head>
                 <p>Den <date when="1825-07-22">22</date>. frühstückte ich <placeName ref="gfa-places-2088" type="itinerar" when="1825-07-22" n="156">bei Herrn <persName ref="gfa-actors-7932" type="met">Prélat</persName></placeName>, Armurier du Roi, der mit mir über die
                     Idee und Art der Ausführung von <term ref="gfa-keywords-9262">Kürassen</term> aus ungehärtetem Gussstahl sprach. Ich
                     verweilte ziemlich lange bei ihm, und verreiste, nachdem ich noch Verschiedenes
