@@ -2,7 +2,7 @@
 
 Dies ist die Projektseite für die Onlineedition der Reisetagebücher von Johann Conrad Fischer (1773-1854). Johann Conrad Fischer (**JCF**) war ein Kupferschmied, Unternehmer und Politiker aus Schaffhausen, Schweiz. Er ist der Gründer der heutigen Georg Fischer AG, die sich aus der im Jahr 1802 eröffneten Giesserei für Glocken und Feuerspritzen entwickelte. JCF unternahm zahlreiche Reisen und pflegte ein Netzwerk mit Wissenschaftlern, Unternehmern und Persönlichkeiten in ganz Europa. 
 
-Die Notizen zu seinen Reisen publizierte JCF in sieben Tagebüchern. Die Manuskripte zu diesen Erstpublikationen sind nicht mehr erhalten. Die Exemplare der publizierten Tagebücher in der [Eisenbibliothek](https://www.eisenbibliothek.ch/de.html) sind auf [e-rara](https://www.e-rara.ch/nav/classification/16094453) digitalisiert. 1951 realisierte der Schaffhauser Historiker Karl Schib die bisher einzige kritische Edition sämtlicher Tagebücher. Die Onlineedition basiert auf der Textgrundlage der Erstausgaben von JCF. Die auf e-rara digitalisierten Exemplare sind die Referenzexemplare, darin enthaltene handschriftliche Bemerkungen etc. werden berücksichtigt.
+Die Notizen zu seinen Reisen publizierte JCF in sieben Tagebüchern. Die Manuskripte zu diesen Erstpublikationen sind nicht mehr erhalten. Die Exemplare der publizierten Tagebücher in der [Eisenbibliothek](https://www.eisenbibliothek.ch/de.html) sind auf [e-rara](https://www.e-rara.ch/nav/classification/16094453) digitalisiert. 1951 realisierte der Schaffhauser Historiker Karl Schib die bisher einzige kritische Edition sämtlicher Tagebücher. Die Onlineedition basiert auf der Textgrundlage der Erstausgaben von JCF.
 
 ## Vorlagen
 
@@ -16,7 +16,7 @@ Die Notizen zu seinen Reisen publizierte JCF in sieben Tagebüchern. Die Manuskr
 - Tagebuch einer Reise zu der Ausstellung in London und nach einigen Fabrikstädten in England im Sommer 1851 / von Johann Conrad Fischer, Oberstlieutenant der Artillerie / Schaffhausen : Murbach & Gelzer, 1853. (EB Bb 172 / [digital auf e-rara](https://doi.org/10.3931/e-rara-61269))
 
 ### B: kritische Ausgabe von Karl Schib (mit Signatur in Eisenbibliothek und im GF Konzernarchiv)
-Johann Conrad Fischer: Tagebücher 1773-1854. Neu herausgegeben von der Georg Fischer Aktiengesellschaft, Schaffhausen. Bearbeitet von Karl Schib. Schaffhausen 1951. 859 Seiten. (EB Bb 170 / [GFA 30/2](https://archives.georgfischer.com/objects/12325))
+Johann Conrad Fischer (1773-1854): Tagebücher. Neu herausgegeben von der Georg Fischer Aktiengesellschaft, Schaffhausen. Bearbeitet von Karl Schib. Schaffhausen 1951. (EB Bb 170 / [GFA 30/2](https://archives.georgfischer.com/objects/12325))
 
 ## Links
 
