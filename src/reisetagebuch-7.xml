@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fischer Reisetagebuch 1851</title>
+                <title>Reisetagebuch 1851</title>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -26,7 +26,7 @@
                 <docTitle>
                     <titlePart type="main"><add place="top" hand="#jcf">
                         Seinem wehrten Dinste geführten(?) zur IndustrienAusstellung auf London, und zum Andenken, den Herrn Kantonsrath <persName ref="gfa-actors-7449">Amman</persName> von Ermatingen. der Verfasser
-                    </add>TAGEBUCH<lb/>EINER REISE<lb/>ZU DER<lb/>AUSSTELLUNG<lb/>IN LONDON<lb/>UND NACH EINIGEN FABRIKSTÄDTEN<lb/>IN<lb/>ENGLAND<lb/>im Sommer 1851<lb/>VON<lb/>J.C.FISCHER,<lb/>Oberstlieutnant.</titlePart>
+                    </add>TAGEBUCH EINER REISE<lb/>ZU DER AUSSTELLUNG IN LONDON<lb/>UND NACH EINIGEN FABRIKSTÄDTEN<lb/>IN ENGLAND<lb/>im Sommer 1851<lb/>VON J.C.FISCHER,<lb/>Oberstlieutnant.</titlePart>
                     <titlePart>Mit einer Abbildung in Steindruk.</titlePart>
                 </docTitle>
                 <docImprint>SCHAFFHAUSEN. Gedrukt bei MURBACH &amp; GELZER. <docDate>1845</docDate> </docImprint>
