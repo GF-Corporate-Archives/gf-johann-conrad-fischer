@@ -1592,7 +1592,7 @@
                     wirkt, sehr bedeutend ist.</p></div>
             <div type="day">
                 <head>Besuch der Baumwollspinnerei Philipps &amp; Lee , 21. Juni 1825</head>
-                <p>Diesen Abend war ich noch in <placeName ref="gfa-places-1940">Salford</placeName>, der <placeName ref="gfa-places-1782" type="itinerar" when="1825-06-21" n="69">Spinnerei</placeName> der Herren <persName ref="gfa-actors-7929">Phillips und Lee</persName>,
+                <p>Diesen Abend war ich noch in <placeName ref="gfa-places-1940">Salford</placeName>, der <placeName ref="gfa-places-1782" type="itinerar" when="1825-06-21" n="69">Spinnerei</placeName> der Herren <orgName ref="gfa-actors-7929">Phillips und Lee</orgName>,
                     um mich nach der Ankunft des Letztern zu erkundigen. — Herr <persName ref="gfa-actors-7928" type="met">Phillips </persName>kam selbst
                     auf das Comptoir, nachdem ihm durch das sogenannte <term ref="gfa-keywords-8708">Ohr des Dionysius</term>, welches
                     ich sonst noch nirgends als in dem <placeName ref="gfa-places-1941">Rosenburger Schloss</placeName> in <placeName ref="gfa-places-427">Koppenhagen </placeName>angebracht
@@ -1870,7 +1870,7 @@
             <div type="day">
                 <head>Manchester-Leeds, 25.-26. Juni 1825</head>
                 <p>Den <date when="1825-06-25">25</date>. Diesen Morgen erhielt ich von Herrn <persName ref="gfa-actors-7607">Lee </persName>eine Introduction an Herrn <persName ref="gfa-actors-8088">Y.</persName>,
-                    Associé in dem grossen <placeName ref="gfa-places-1952"><persName ref="gfa-actors-8089">Eisenwerk und der Gussstahlfabrik zu H. O.</persName></placeName> nahe bei <placeName ref="gfa-places-20">Bir<pb n="156" facs="https://www.e-rara.ch/ebs/content/zoom/16557897" break="no"/>mingham</placeName>; schrieb einen grossen Brief an Herrn Lee zurück; nahm
+                    Associé in dem grossen <placeName ref="gfa-places-1952"><orgName ref="gfa-actors-8089">Eisenwerk und der Gussstahlfabrik zu H. O.</orgName></placeName> nahe bei <placeName ref="gfa-places-20">Bir<pb n="156" facs="https://www.e-rara.ch/ebs/content/zoom/16557897" break="no"/>mingham</placeName>; schrieb einen grossen Brief an Herrn Lee zurück; nahm
                     einen Platz in der <term ref="gfa-keywords-8570">Diligence</term> auf morgen nach <placeName ref="gfa-places-1760">Leeds</placeName>, und beschloss den Abend mit
                     Einpacken.</p>
                 <p>Sonntag den <date when="1825-06-26">26</date>. Beim Frühstück las ich die berühmte englische Zeitung <term ref="gfa-keywords-9665">The Times</term>
@@ -2914,7 +2914,7 @@
             <div type="day">
                 <head>Birmingham-London, 6.–7. Juli 1825</head>
                 <p>Den <date when="1825-07-07">7. Juli</date>. In dreizehn Stunden oder bis Morgens um 8 Uhr legten wir die 109
-                    <term ref="gfa-keywords-8445">Meilen</term> zurück, wo wir in <placeName ref="-gfa-places-89" type="itinerar" when="1825-07-07" n="125">London</placeName> anlangten. Ich sorgte für eine Wohnung, machte
+                    <term ref="gfa-keywords-8445">Meilen</term> zurück, wo wir in <placeName ref="gfa-places-89" type="itinerar" when="1825-07-07" n="125">London</placeName> anlangten. Ich sorgte für eine Wohnung, machte
                     einige Besuche, und kaufte eine kurzgefasste aber gründlich geschriebene Analyse
                     über das <term ref="gfa-keywords-9355">englische Patentgesetz</term>. – Ich fand durchaus bestätiget, was mir ein
                     sehr einsichtsvoller Mann vor einiger Zeit gesagt hatte, nämlich wenn man nicht
