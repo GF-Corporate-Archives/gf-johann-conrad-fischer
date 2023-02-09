@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,7 +19,7 @@
                 <pb facs="https://www.e-rara.ch/ebs/content/zoom/16557741"/>
                 <docTitle>
                     <titlePart>TAGEBUCH EINER ZWEITEN REISE<lb/>ÜBER PARIS NACH
-                        LONDON<lb/> UND EINIGEN FABRIKSTÄDTEN ENGLANDS<lb/> VORZÜGLICH IN
+                        LONDON<lb/>UND EINIGEN FABRIKSTÄDTEN ENGLANDS<lb/>VORZÜGLICH IN
                         TECHNOLOGISCHER HINSICHT.<lb/></titlePart>
                     <titlePart>VON JOHANN CONRAD FISCHER,<lb/>Oberstlieutenant der
                         Artillerie.</titlePart>
