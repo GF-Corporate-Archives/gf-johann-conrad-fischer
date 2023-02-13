@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,7 +17,7 @@
          <titlePage>
             <pb facs="https://www.e-rara.ch/ebs/content/zoom/16557503"/>
             <docTitle>
-               <titlePart>TAGEBUCH<lb/> EINER IM JAHR 1814 GEMACHTEN<lb/>REISE<lb/> ÜBER PARIS NACH LONDON<lb/> UND EINIGEN  FABRIKSTÄDTEN ENGLANDS<lb/> VORZÜGLICH<lb/>IN 
+               <titlePart>TAGEBUCH<lb/>EINER IM JAHR 1814 GEMACHTEN<lb/>REISE<lb/>ÜBER PARIS NACH LONDON<lb/>UND EINIGEN FABRIKSTÄDTEN ENGLANDS<lb/>VORZÜGLICH<lb/>IN 
                   TECHNOLOGISCHER HINSICHT.<lb/>
                </titlePart>
                     <titlePart>VON<lb/>JOHANN CONRAD FISCHER,<lb/>
@@ -28,7 +28,7 @@
          <pb facs="https://www.e-rara.ch/ebs/content/zoom/16557505"/>
          <titlePage>
             <docTitle>
-               <titlePart>TAGEBUCH<lb/> EINER IM JAHR 1814 GEMACHTEN<lb/>REISE<lb/> ÜBER PARIS NACH LONDON<lb/> UND EINIGEN  FABRIKSTÄDTEN ENGLANDS.</titlePart>
+               <titlePart>TAGEBUCH<lb/>EINER IM JAHR 1814 GEMACHTEN<lb/>REISE<lb/>ÜBER PARIS NACH LONDON<lb/>UND EINIGEN FABRIKSTÄDTEN ENGLANDS.</titlePart>
             </docTitle>
          </titlePage>
          <pb n="1" facs="https://www.e-rara.ch/ebs/content/zoom/16557507"/>
