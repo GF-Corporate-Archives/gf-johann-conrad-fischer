@@ -80,7 +80,7 @@
                     ebenfalls, langer Gewohnheit gemäss, mein Tagebuch führte, und darin aufnahm,
                     was ich der Aufzeichnung für mich und der Rückerinnerung werth glaubte.</p>
                 <p>So einen unerwarteten, und darum für mich desto schmeichelhaftern Beifall mein
-                    <term ref="gfa-keywords-8519">Tagebuch</term> der frühern Reise nach England bei dem Publikum gefunden, so besorgt
+                    <ref type="cross" target="reisetagebuch-2.xml">Tagebuch der frühern Reise nach England</ref> bei dem Publikum gefunden, so besorgt
                     bin ich doch, ob es nicht unbescheiden sei, wiederum vor dasselbe zu treten, da
                     ich weder Meister der Ereignisse, noch der sich mir darbietenden Gegenstände
                     war, sondern alles nehmen musste, und <pb n="10" facs="https://www.e-rara.ch/ebs/content/zoom/16557751"/>nahm, wie es kam;
@@ -338,7 +338,7 @@
                     ist in Grösse und Ausrüstung wahrhaft kaiserlich, welches auch die ungemeine
                     Magnifizenz dieser Anstalt in allen ihren Theilen beurkundet. Ich zeigte Herrn
                         Fa<pb n="31" facs="https://www.e-rara.ch/ebs/content/zoom/16557772" break="no"/>raday nach vorhergegangener anderweitiger Unterhaltung
-                    verarbeitete Stücke <term ref="gfa-keywords-9525">meines Meteor-Stahls</term>, über dessen schöne Zeichnungen, noch
+                    verarbeitete Stücke meines <term ref="gfa-keywords-8453">Meteor-Stahls</term>, über dessen schöne Zeichnungen, noch
                     mehr aber über die Eigenschaft, dass mit dem Stücke einer <term ref="gfa-keywords-9412">Säbelklinge</term>, deren
                     Schneide sich feilen liess, dennoch drei Linien dickes rundes Eisen durchhauen
                     werden konnte, ohne dass die Schneide im mindesten litt, er sich verwunderte, so
@@ -356,7 +356,7 @@
                         (<placeName ref="gfa-places-1630">Picadilly</placeName>)</placeName>, Erfinder der nun allgemein für <term ref="gfa-keywords-9115">Percussionsgewehre</term> angewendeten
                     Copercapes (Kupferkäppchen). Er freute sich, da <persName ref="gfa-actors-7740">mein ältester Sohn</persName> <date to="1822-12-31" from="1822-01-01">vor drei
                     Jahren</date> für ihn und bei ihm gearbeitet, mich kennen zu lernen, und gab mir die
-                    Weisung, wo und wie ich ein <term ref="gfa-keywords-239">Caveat</term> für die Erfindung des <term ref="gfa-keywords-9525">Meteorstahls</term> erlangen
+                    Weisung, wo und wie ich ein <term ref="gfa-keywords-239">Caveat</term> für die Erfindung des <term ref="gfa-keywords-8453">Meteorstahls</term> erlangen
                     könne.</p>
                 <p>Es war Abends um 7 Uhr, als ich <placeName ref="gfa-places-1932" type="itinerar" when="1825-06-08" n="21">zu Hause</placeName> ankam, und die noch bis Mitternacht
                     übrigen Stunden in der Gesellschaft dreier lieben Landsleute, wovon der eine
@@ -1129,7 +1129,7 @@
                     solid und schön. — Wie bei den Kupferschmieden wird der Boden des Geschirrs,
                     wenn es seinen vollen Glanz erhalten hat, im Wasser abgeschreckt, um das
                         Zusammen<pb n="96" facs="https://www.e-rara.ch/ebs/content/zoom/16557837" break="no"/>laufen zu verhindern. — Von dem Verzinnen weg wird das Geschirr
-                    auswendig mit <term ref="gfa-keywords-9086">Kohlentheer</term> bestrichen, damit es nicht rostet und ein schönes
+                    auswendig mit Kohlentheer bestrichen, damit es nicht rostet und ein schönes
                     gefirnisstes Aussehen bekommt, dann bei einem Hitzegrad, bei dem das Zinn nicht
                     mehr schmelzt, eingetrocknet, mit Deckeln von <term ref="gfa-keywords-8638">Weissblech</term> versehen, und zur
                     Versendung verpackt.</p>
@@ -1187,7 +1187,7 @@
                     nehmen müsse. Von dem <term ref="gfa-keywords-9249">Regulus</term>, den er zerschmieden und laminiren liess, erhielt
                     ich für mich eine artig gestanzte Rosette, bei welcher Gelegenheit ich die auf
                     dem festen Lande schwerlich noch in dieser Art, das heisst mit dieser
-                    Leichtigkeit und ohne die mindeste Verderbung des <term ref="gfa-keywords-9333">Mutterstempels</term> bekannte Art
+                    Leichtigkeit und ohne die mindeste Verderbung des <term ref="gfa-keywords-8342">Mutterstempels</term> bekannte Art
                     sah, wie von dem gravirten Stahl, sei es auch noch so tief und gross, ganz
                     genaue und scharfe Abdrücke zu machen, und wieder auf andern Stahl überzutragen
                     und somit die Stempel nach Belieben zu vervielfältigen sind. —. Dieses ist eine,
@@ -1592,7 +1592,7 @@
                     wirkt, sehr bedeutend ist.</p></div>
             <div type="day">
                 <head>Besuch der Baumwollspinnerei Philipps &amp; Lee , 21. Juni 1825</head>
-                <p>Diesen Abend war ich noch in <placeName ref="gfa-places-1940">Salford</placeName>, der <placeName ref="gfa-places-1782" type="itinerar" when="1825-06-21" n="69">Spinnerei</placeName> der Herren <persName ref="gfa-actors-7929">Phillips und Lee</persName>,
+                <p>Diesen Abend war ich noch in <placeName ref="gfa-places-1940">Salford</placeName>, der <placeName ref="gfa-places-1782" type="itinerar" when="1825-06-21" n="69">Spinnerei</placeName> der Herren <orgName ref="gfa-actors-7929"><persName ref="gfa-actors-7928">Phillips</persName> und <persName ref="gfa-actors-7607">Lee</persName></orgName>,
                     um mich nach der Ankunft des Letztern zu erkundigen. — Herr <persName ref="gfa-actors-7928" type="met">Phillips </persName>kam selbst
                     auf das Comptoir, nachdem ihm durch das sogenannte <term ref="gfa-keywords-8708">Ohr des Dionysius</term>, welches
                     ich sonst noch nirgends als in dem <placeName ref="gfa-places-1941">Rosenburger Schloss</placeName> in <placeName ref="gfa-places-427">Koppenhagen </placeName>angebracht
@@ -1870,7 +1870,7 @@
             <div type="day">
                 <head>Manchester-Leeds, 25.-26. Juni 1825</head>
                 <p>Den <date when="1825-06-25">25</date>. Diesen Morgen erhielt ich von Herrn <persName ref="gfa-actors-7607">Lee </persName>eine Introduction an Herrn <persName ref="gfa-actors-8088">Y.</persName>,
-                    Associé in dem grossen <placeName ref="gfa-places-1952"><persName ref="gfa-actors-8089">Eisenwerk und der Gussstahlfabrik zu H. O.</persName></placeName> nahe bei <placeName ref="gfa-places-20">Bir<pb n="156" facs="https://www.e-rara.ch/ebs/content/zoom/16557897" break="no"/>mingham</placeName>; schrieb einen grossen Brief an Herrn Lee zurück; nahm
+                    Associé in dem grossen <placeName ref="gfa-places-1952"><orgName ref="gfa-actors-8089">Eisenwerk und der Gussstahlfabrik zu H. O.</orgName></placeName> nahe bei <placeName ref="gfa-places-20">Bir<pb n="156" facs="https://www.e-rara.ch/ebs/content/zoom/16557897" break="no"/>mingham</placeName>; schrieb einen grossen Brief an Herrn Lee zurück; nahm
                     einen Platz in der <term ref="gfa-keywords-8570">Diligence</term> auf morgen nach <placeName ref="gfa-places-1760">Leeds</placeName>, und beschloss den Abend mit
                     Einpacken.</p>
                 <p>Sonntag den <date when="1825-06-26">26</date>. Beim Frühstück las ich die berühmte englische Zeitung <term ref="gfa-keywords-9665">The Times</term>
@@ -2408,8 +2408,8 @@
                     lebendigem Schimmer und lichten Flammen brennen.</p></div>
             <div type="day">
                 <head>Innovation Rasiermesser aus Meteorstahl, 30. Juni 1825</head>
-                <p>Ich wünschte zu wissen, was auch ein englischer Messerschmied zu <term ref="gfa-keywords-9525">meinem
-                    Meteorstahl</term> sagen würde, wenn ich ihm Stahl geben würde, um ein paar
+                <p>Ich wünschte zu wissen, was auch ein englischer Messerschmied zu meinem
+                    <term ref="gfa-keywords-8453">Meteorstahl</term> sagen würde, wenn ich ihm Stahl geben würde, um ein paar
                     <term ref="gfa-keywords-8659">Rasiermesser</term> davon zu machen. — Der Zufall führte mich in ein Haus, wo man mir
                     sagte, dass eine <placeName ref="gfa-places-1981" type="itinerar" when="1825-06-30" n="94">Manufaktur</placeName> da sei. — In dem Magazin war ein freundlich
                     aussehender Herr. Ich <pb n="200" facs="https://www.e-rara.ch/ebs/content/zoom/16557941"/>fragte ihn, ob er
@@ -2495,7 +2495,7 @@
                     Aus zwei weiten Hauptröhren ging das Gas in den Purificator oder
                     Reinigungsapparat, der nebst dem Gazometer vor den gewöhnlichen nichts voraus
                     hatte. Der Kalk wird täglich vier bis fünf Mal gewechselt, und zur Destillation
-                    werden <term ref="gfa-keywords-8617">Wigam</term>, zum Verbrand aber gewöhnliche Steinkohlen genommen. — Das Licht
+                    werden Wigam, zum Verbrand aber gewöhnliche Steinkohlen genommen. — Das Licht
                     schien mir reiner und geruchloser, als das in <placeName ref="gfa-places-471">Manchester</placeName>.</p>
                 <p>Bald nachher kam ich zu zwei solchen <pb n="207" facs="https://www.e-rara.ch/ebs/content/zoom/16557948"/><placeName ref="gfa-places-1986" type="itinerar" when="1825-06-30" n="99">Werken</placeName>, an denen ich
                     den mir wohlbekannten Namen <persName ref="gfa-actors-7809">Darwin</persName> las. Es werden Bleche und dann dünner Stahl
@@ -2914,7 +2914,7 @@
             <div type="day">
                 <head>Birmingham-London, 6.–7. Juli 1825</head>
                 <p>Den <date when="1825-07-07">7. Juli</date>. In dreizehn Stunden oder bis Morgens um 8 Uhr legten wir die 109
-                    <term ref="gfa-keywords-8445">Meilen</term> zurück, wo wir in <placeName ref="-gfa-places-89" type="itinerar" when="1825-07-07" n="125">London</placeName> anlangten. Ich sorgte für eine Wohnung, machte
+                    <term ref="gfa-keywords-8445">Meilen</term> zurück, wo wir in <placeName ref="gfa-places-89" type="itinerar" when="1825-07-07" n="125">London</placeName> anlangten. Ich sorgte für eine Wohnung, machte
                     einige Besuche, und kaufte eine kurzgefasste aber gründlich geschriebene Analyse
                     über das <term ref="gfa-keywords-9355">englische Patentgesetz</term>. – Ich fand durchaus bestätiget, was mir ein
                     sehr einsichtsvoller Mann vor einiger Zeit gesagt hatte, nämlich wenn man nicht
@@ -3124,7 +3124,7 @@
                     gleichen Fabrike nicht einmal, gleich guten Stahl, und Sie begreifen, was dieses
                     für grosse Kosten macht. — Ich führe dieses als einen kleinen Avis au Lecteur
                     an, für solche, die es angeht. — Ich bemerkte lediglich darauf: die Probe mit
-                    <term ref="gfa-keywords-9525">meinem Meteor-Stahl</term> <pb n="256" facs="https://www.e-rara.ch/ebs/content/zoom/165579896"/>werde nun zeigen,
+                    meinem <term ref="gfa-keywords-8453">Meteor-Stahl</term> <pb n="256" facs="https://www.e-rara.ch/ebs/content/zoom/165579896"/>werde nun zeigen,
                     ob er etwas besser sei, versprechen könne ich nichts, jedoch dürfe ich
                     vermuthen, dass er nicht übel sein werde.</p>
                 <p>Noch besuchte ich vor dem Zuhausegehen <placeName ref="gfa-places-2087" type="itinerar" when="1825-07-12" n="140">Herrn <persName ref="gfa-actors-8085" type="met">Daniel</persName></placeName>, Secretair der <orgName ref="gfa-actors-8099">imperial
@@ -3395,7 +3395,7 @@
             <div type="day">
                 <head>Bei Mirimée und Bréant in Paris, 21. Juli 1825</head>
                 <p>Den <date when="1825-07-21">21</date>. ging ich <placeName ref="gfa-places-1707" type="itinerar" when="1825-07-21" n="155">zu Herrn <persName ref="gfa-actors-7900" type="met">Mirimée</persName> und Herrn <persName ref="gfa-actors-7509" type="met">Bréant</persName></placeName>, Verificateur général des
-                    <orgName ref="gfa-actors-7584">Essays</orgName>. Beide Herren haben grosse Verdienste um die Beförderung der Industrie
+                    Essays. Beide Herren haben grosse Verdienste um die Beförderung der Industrie
                     und überhaupt um die <term ref="gfa-keywords-97">Metallurgie</term>, und Herr <persName ref="gfa-actors-7509">Bréant</persName> verfertigt solche grosse
                     Gefässe aus <term ref="gfa-keywords-8558">Platina</term>, und in solcher Reinheit, die in Erstaunen setzen, und
                     schwerlich irgendwo ihres Gleichen haben möchten. Die Unterhaltung mit diesen
