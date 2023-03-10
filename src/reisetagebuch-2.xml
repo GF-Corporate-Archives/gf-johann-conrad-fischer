@@ -31,6 +31,9 @@
                <titlePart>TAGEBUCH<lb/>EINER IM JAHR 1814 GEMACHTEN<lb/>REISE<lb/>ÜBER PARIS NACH LONDON<lb/>UND EINIGEN FABRIKSTÄDTEN ENGLANDS.</titlePart>
             </docTitle>
          </titlePage>
+         <div type="content">
+            <head>Titelseite</head>
+         </div>
          <pb n="1" facs="https://www.e-rara.ch/ebs/content/zoom/16557507"/>
          <div type="Preface">
             <head>Vorwort: Fischers Interesse am technischen Fortschritt</head>
