@@ -27,7 +27,7 @@
                 <docImprint>Aarau, 1826.<lb/>HEINRICH REMIGIUS SAUERLÄNDER.</docImprint>
             </titlePage>
             <div type="Preface">
-                <pb n="3" facs="https://www.e-rara.ch/ebs/content/zoom/16557744" xml:id="TB3_p_3"/>
+                <pb n="3" facs="https://www.e-rara.ch/ebs/content/zoom/16557744"/>
                 <head>Die Geburtsstunde des Meteorstahls</head>
                 <p>VORREDE.</p>
                 <p>Um meinen <persName ref="gfa-actors-7384">zweitjüngsten Sohn</persName> zu besuchen, welcher schon seit ein paar Jahren das
@@ -41,11 +41,11 @@
                     schätzbaren Bekanntschaften, auch die Freundschaft und Gewogenheit des um die
                     Naturwissenschaften so hoch verdienten Herrn <persName ref="gfa-actors-7704">Baron von Jacquin</persName>. Er hatte die
                     Güte, mich einmal auf das <placeName ref="gfa-places-2084">kaiserl. Naturalienkabinet</placeName> zu führen, welches so
-                    kostbare Schätze der Natur und Kunst (Mosaik) enthält. Ich erstaunte ob den
+                    kostbare Schätze der Natur und Kunst (<term ref="gfa-keywords-9323">Mosaik</term>) enthält. Ich erstaunte ob den
                     herrlichen Schaustücken aus dem Mineralreich, und verwundert fragte ich mich:
                     Wie konnte dieses so werden? Welcher Gnome pflegt die Gold- und Silber<pb n="5" facs="https://www.e-rara.ch/ebs/content/zoom/16557746" break="no"/>bäume,
                     dass sie lustig und in ihrem eigenthümlichen Glanze emporwachsen? Wer färbt den
-                    Malachit und <term ref="gfa-keywords-9269">Lasur</term>, gibt den Edelsteinen ihren Widerschein und alle Farben des
+                    Malachit und <term ref="gfa-keywords-9269">Lasur</term>, gibt den <term ref="gfa-keywords-8982">Edelsteinen</term> ihren Widerschein und alle Farben des
                     Regenbogens, und streut den Samen aus zu den Stämmen und Zinken der schneereinen
                     Eisenblüthe? Seid ihr von allem Anfang an schon gewesen, oder, wie der blinde
                     Schauer Milton wähnt, aus unsichtbaren Dünsten zusammengeronnen? Bleibt ihr
@@ -57,13 +57,13 @@
                     kann das sagen? Und wem war es schon gegeben, in die geheime Werkstätte der
                     Natur zu schauen? — Und doch mehr als dieses Irdische zog mich das an, was
                     andern Welten anzugehören scheint; ich meine die höchst merkwürdigen
-                    Meteormassen als Stein und als gediegenes Eisen vorkommend; immer gleich
+                    <term ref="gfa-keywords-9314">Meteormassen</term> als Stein und als gediegenes Eisen vorkommend; immer gleich
                     merkwürdig, seien es nun Trümmer untergegangener Welten, die, im unendlichen
-                    Raume schwimmend, dem Gravitationsgesetz unserer Erde fol<pb n="7" facs="https://www.e-rara.ch/ebs/content/zoom/16557748" break="no"/>gend, in
-                    dessen Bereich sie kommen, oder Aussendlinge der Feuerschlünde des Mondes, oder
+                    Raume schwimmend, dem <term ref="gfa-keywords-9142">Gravitationsgesetz</term> unserer Erde fol<pb n="7" facs="https://www.e-rara.ch/ebs/content/zoom/16557748" break="no"/>gend, in
+                    dessen Bereich sie kommen, oder Aussendlinge der Feuerschlünde des <term ref="gfa-keywords-9322">Mondes</term>, oder
                     Erzeugnisse energischer chemischer Verbindungen von Urstoffen in den höhern
                     Regionen unseres Luftkreises. Das wunderbare, heterogen scheinende, und dennoch
-                    aus homogenen Massen bestehende Gefüge des Meteoreisens, welches Herr <persName ref="gfa-actors-7966">von
+                    aus homogenen Massen bestehende Gefüge des <term ref="gfa-keywords-9010">Meteoreisens</term>, welches Herr <persName ref="gfa-actors-7966">von
                     Widmanstadt</persName> so glücklich geahnt und für das Auge dargestellt hat, veranlasste
                     mich zu der Aeusserung gegen den Herrn <persName ref="gfa-actors-7704">Baron</persName>: bei meiner Heimkunft zu versuchen,
                     das Meteoreisen künstlich nachzumachen. Ich reisete von <placeName ref="gfa-places-247">Wien </placeName>über <placeName ref="gfa-places-1819">Triest</placeName> und
@@ -98,7 +98,7 @@
                 <head>Schaffhausen-Audincourt, 26–30. Mai 1825</head>
                 <p>Den <date when="1825-05-26">26. Mai</date> trat ich meine <placeName ref="gfa-places-131" type="itinerar" when="1825-05-26" n="1">Reise</placeName> über <placeName ref="gfa-places-10" type="itinerar" when="1825-05-26" n="1.1">Basel</placeName> und <placeName ref="gfa-places-1310">Montbeillard</placeName>, wo ich Geschäfte
                     hatte, und einige Fabriken, besonders aber die von mir vor ein paar Jahren
-                    gegründete <placeName ref="gfa-places-1927">Gussstahlfabrik</placeName> in <placeName ref="gfa-places-1928">La Roche</placeName>, besuchen wollte, nach dem mir
+                    gegründete <placeName ref="gfa-places-1927"><term ref="gfa-keywords-9519">Gussstahlfabrik</term></placeName> in <placeName ref="gfa-places-1928">La Roche</placeName>, besuchen wollte, nach dem mir
                     vorgesetzten Ziele an. Ich blieb den <date when="1825-05-27">27.</date> in <placeName ref="gfa-places-10" type="itinerar" when="1825-05-27" n="2">Basel</placeName>, und kam den <date when="1825-05-28">28.</date> Abends nach
                     <placeName ref="gfa-places-1310" type="itinerar" when="1825-05-28" n="3">Montbeillard</placeName>; den <date when="1825-05-29">29.</date> ging ich nach <placeName ref="gfa-places-1583" type="itinerar" when="1825-05-29" n="4">Belfort</placeName>, um die dortigen <term ref="gfa-keywords-288">Hochöfen</term> zu sehen.
                     Ihr Bau ist nichts weniger als nach der besten Construction eingerichtet, das
@@ -106,7 +106,7 @@
                     sehr reinen und gleichförmigen <term ref="gfa-keywords-8851">Bohnerz</term> ein <term ref="gfa-keywords-9011">Roheisen</term> erzeugt, welches das
                     Materiale zu einer der besten Stabeisengattungen in <placeName ref="gfa-places-48">Frankreich</placeName> abgibt, und
                     besonders auch für Flintenläufe vor<pb n="12" facs="https://www.e-rara.ch/ebs/content/zoom/16557753" break="no"/>trefflich
-                    ist, weswegen es auch meistens in die <orgName ref="gfa-actors-8292">Gewehrfabrike</orgName> nach <placeName ref="gfa-places-1822">St. Etienne</placeName> geht.</p>
+                    ist, weswegen es auch meistens in die <orgName ref="gfa-actors-8292"><term ref="gfa-keywords-9112">Gewehrfabrike</term></orgName> nach <placeName ref="gfa-places-1822">St. Etienne</placeName> geht.</p>
                 <p>Ich hatte Gelegenheit, mehrmals Versuche im Grossen zu machen, um dieses <term ref="gfa-keywords-8672">Eisen</term>,
                     dann wieder Eisen von <placeName ref="gfa-places-1335">Besançon</placeName>, von <placeName ref="gfa-places-1313">Odincourt</placeName> und von <placeName ref="gfa-places-1886">Hucel</placeName>, durch eine direkte
                     <term ref="gfa-keywords-8696">Schmelzung</term> und mit den erforderlichen Zusätzen in <term ref="gfa-keywords-8482">Gussstahl</term> zu verwandeln, aber
@@ -116,7 +116,7 @@
                     erzeugt, sich ohne besondere Handgriffe nicht gerne zu Stahl wendet.</p> </div>
             <div type="day">
                 <head>Geschäftsgänge in Audincourt und Montbéliard, 30–31. Mai 1825</head>
-                <p>Den <date when="1825-05-30">30</date>. — Ich ging zeitlich nach dem <placeName ref="gfa-places-2057" type="itinerar" when="1825-05-30" n="5">grossen Eisenwerk</placeName> in <placeName ref="gfa-places-1313">Odincourt</placeName>, welches
+                <p>Den <date when="1825-05-30">30</date>. — Ich ging zeitlich nach dem <placeName ref="gfa-places-2057" type="itinerar" when="1825-05-30" n="5">grossen <term ref="gfa-keywords-9005">Eisenwerk</term></placeName> in <placeName ref="gfa-places-1313">Odincourt</placeName>, welches
                     ehemals dem Prinzen <persName ref="gfa-actors-7710">von Mümpelgardt</persName>, nun aber den Herren <orgName ref="gfa-actors-7711"><persName ref="gfa-actors-8134">Saglio</persName>, <persName ref="gfa-actors-8133">Umene</persName> und <persName ref="gfa-actors-7838">Gash</persName></orgName>
                     gehört.</p>
                 <p>Dieses prächtige Werk, an dem <placeName ref="gfa-places-1823">Doubs</placeName> <pb n="13" facs="https://www.e-rara.ch/ebs/content/zoom/16557754"/>gelegen, verdient
@@ -134,11 +134,11 @@
                     sie zu machen, anzeigen würde.</p>
                 <p>Den <date when="1825-05-31">31</date>. brachte ich noch Geschäfte halber in <placeName ref="gfa-places-1310">Montbeillard</placeName> zu, und dann
                     besichtigte ich die im <placeName ref="gfa-places-1825">Schloss</placeName> befindliche, dem Publikum aber nicht zugängliche <placeName ref="gfa-places-1931" type="itinerar" when="1825-05-31" n="6"><orgName ref="gfa-actors-8293">Fabrike der Herren <persName ref="gfa-actors-7963">Vincenti</persName> und <persName ref="gfa-actors-7940">Rogier</persName></orgName></placeName>, wo die verschiedenen Maschinen gemacht
-                    und gebraucht werden, um alle Theile der Uhren bis auf die geringste
+                    und gebraucht werden, um alle Theile der <term ref="gfa-keywords-9590">Uhren</term> bis auf die geringste
                     Kleinigkeit, selbst das Poliren nicht ausgenommen, gänzlich fertig zu machen,
                     ohne alle Beihilfe von Handgeschicklichkeit, so dass nur die Bewegung
-                    hervorgebracht werden muss, wo Hr. <persName ref="gfa-actors-7963">Vincenti </persName>früher Hunde gebrauchte, dieselben
-                    aber doch später gegen Kinder umtauschte. Die Hauptidee oder das vorwaltende
+                    hervorgebracht werden muss, wo Hr. <persName ref="gfa-actors-7963">Vincenti </persName>früher <term ref="gfa-keywords-9187">Hunde</term> gebrauchte, dieselben
+                    aber doch später gegen <term ref="gfa-keywords-9213">Kinder</term> umtauschte. Die Hauptidee oder das vorwaltende
                     Princip hierbei ist dieses, dass die Bewegungen der Stücke und der Instrumente,
                     die auf dieselben einwirken, so genau reglirt, und durch angebrachte <term ref="gfa-keywords-8539">Luppen</term> so
                     können beobachtet und controlirt <pb n="15" facs="https://www.e-rara.ch/ebs/content/zoom/16557756"/>werden, es seien nun
@@ -166,13 +166,13 @@
                     eine unermessliche Mappe ausgebreitet vor uns.</p>
                 <p>Und also — so sprach ich in mir selbst— und also sehe ich dich wieder, du
                     merkwürdiges Eiland, du Herrscherin in fünf Welttheilen! von dem ich, als ich
-                    vor eilf Jahren die rauchenden Werkstätten der Cyklopen deines Landes, die immer
+                    vor eilf Jahren die rauchenden Werkstätten der <term ref="gfa-keywords-8931">Cyklopen</term> deines Landes, die immer
                     steigende Betriebsamkeit deiner Bewohner in Hervorbringung alles dessen, was den
                     Menschen kleidet und nährt und erhält, Londons unendliches Gewühl, und deine mit
-                    Schiffen bedeckten Rheden verliess, am Schlusse <pb n="17" facs="https://www.e-rara.ch/ebs/content/zoom/16557758"/>meines Tagebuchs
+                    Schiffen bedeckten <term ref="gfa-keywords-9405">Rheden</term> verliess, am Schlusse <pb n="17" facs="https://www.e-rara.ch/ebs/content/zoom/16557758"/>meines Tagebuchs
                     ahnend sagte, es werde nicht das letzte Mal sein. Herrlich im Sonnenschein
                     treten deine senkrecht abgeschnittenen schneeweissen Ufer hervor, als Saum die
-                    schönen grünen Fluren begrenzend, an deren Rand bald Leuchtthürme, bald
+                    schönen grünen Fluren begrenzend, an deren Rand bald <term ref="gfa-keywords-9271">Leuchtthürme</term>, bald
                     Landhäuser, bald Castelle in neuer Zeit und nach alter Form gebaut, die nun die
                     gastfreundlichen Gemächer reicher Güterbesitzer, und nicht mehr die Waffenhallen
                     der Ritter aus König <persName ref="gfa-actors-7768">Arthurs</persName> grauer Zeit umschliessen, bald prunklose, man
@@ -204,14 +204,14 @@
                     gesehenes und gleiche Richtung nehmendes <term ref="gfa-keywords-9491">Dampfboot, die <persName ref="gfa-actors-8135">Königin von Holland</persName></term>, von
                     <placeName ref="gfa-places-473">Rotterdam</placeName> kommend, ein, und liessen es noch, ehe wir auf die Höhe kamen, wo der
                     <placeName ref="gfa-places-1829">Midway</placeName> rechts und die <placeName ref="gfa-places-1641">Themse</placeName> links ihr süsses Wasser mit den gesalzenen Flu<pb n="20" facs="https://www.e-rara.ch/ebs/content/zoom/16557761" break="no"/>then des Ozeans vermischen, weit hinter uns zurück. — Bald darauf begrüsste
-                    uns mit aufgezogener Flagge der Strumer, (Dampfschiff) <term ref="gfa-keywords-9492">Lord Melville</term>, von <placeName ref="gfa-places-89">London</placeName>
+                    uns mit aufgezogener Flagge der S<term ref="gfa-keywords-8801">trumer, (Da</term>mpfschiff) <term ref="gfa-keywords-9492">Lord Melville</term>, von <placeName ref="gfa-places-89">London</placeName>
                     nach <placeName ref="gfa-places-1607">Calais</placeName> gehend, und nach und nach erblickten wir in verschiedenen Richtungen
                     noch mehrere, die mit ihren schwarzen Wirbeln auf der unendlichen See den
                     Rauchsäulen der Wüste glichen. — Unter immer wechselnden Bildern erschienen zwei
                     gleichzeitig und darum auffallender; ein von <placeName ref="gfa-places-1938">Ostindien</placeName> zurückkehrendes und ein
                     dorthin gehendes Schiff. Die Erfahrnen auf unserm Verdeck schätzten die
                     Tonnenlast eines jeden auf 200 bis 250, oder 4000 bis 5000 Zentner, und die
-                    Armirung auf 40 bis 50 Kanonen. — Von welchen Gefühlen wegen glücklicher
+           <term ref="gfa-keywords-8802">        </term> Armirung auf 40 bis 50 Kanonen. — Von welchen Gefühlen wegen glücklicher
                     Heimkunft die einen, und mit welchen Hoffnungen und Besorgnissen die andern
                     wegen der halbjährigen Fahrt mögen ergriffen gewesen sein, können sich die
                     vorstellen, die schon weite Reisen auf der See gemacht <pb n="21" facs="https://www.e-rara.ch/ebs/content/zoom/16557762"/>haben. — Diese
@@ -248,7 +248,7 @@
                     Brücken und Strassen in <placeName ref="gfa-places-89">London</placeName>, und die neuen Häuser, von denen man behauptet,
                     dass im vorletztern Jahr 26,000, und im letztern sogar 40,000 sollen gebaut
                     worden sein, was fast an ein Wunder grenzt.</p>
-                <p>Unterhalb <placeName ref="gfa-places-1640">Gravesand</placeName> kamen die Gesundheitsbeamten an das Schiff, und etwas wei<pb n="24" facs="https://www.e-rara.ch/ebs/content/zoom/16557765" break="no"/>ter oben die Mauthbeamten an Bord des Schiffes, und blieben auch fortwährend
+                <p>Unterhalb <placeName ref="gfa-places-1640">Gravesand</placeName> kamen die Gesundheitsbeamten an das Schiff, und etwas wei<pb n="24" facs="https://www.e-rara.ch/ebs/content/zoom/16557765" break="no"/>ter oben die <term ref="gfa-keywords-9301">Mauthbeamten</term> an Bord des Schiffes, und blieben auch fortwährend
                     darauf.</p>
                 <p>Es freute mich, in der <placeName ref="gfa-places-1641">Themse</placeName> das <term ref="gfa-keywords-9797">Schiff</term><note>Fischer glaubt hier Cooks berühmtes Schiff <emph rend="italic">Endeavour</emph> zu sehen. In Wahrheit handelte es sich jedoch um das <term ref="gfa-keywords-9796">Schiff <emph rend="italic">Discovery</emph></term>, das von einem anderen englischen Entdecker, nämlich George Vancouver (1757–1798), komandiert wurde.</note> zu erblicken, auf welchem der berühmte
                     <persName ref="gfa-actors-7800">Cook</persName> unsern Erdball umsegelte, aber das freute mich nicht, es nun in ein
@@ -288,7 +288,7 @@
                     Durchmesser; zwar ist die Flamme hohl, weil sie aus einem platten Ring, der mit
                     16 bis 20 Löchern von <formula rend="inline" notation="tex">\frac{1}{10}</formula> Linie Durchmesser durchbohrt ist, hervorströmt, aber nur
                     darum <pb n="27" facs="https://www.e-rara.ch/ebs/content/zoom/16557768"/>desto
-                    brillanter, da der Sauerstoff der atmosphärischen Luft von innen zutreten kann.
+                    b<term ref="gfa-keywords-9421">rillanter,</term> da der Sauerstoff der atmosphärischen Luft von innen zutreten kann.
                     — Noch schrieb ich einen Brief nach Hause, um meine Ankunft hier zu melden, und
                     beschloss mit der Mitternacht die Arbeiten des Tages, und die Mühseligkeiten der
                     Reise.</p></div>
@@ -297,7 +297,7 @@
                 <p>Den <date when="1825-06-08">8. Juni</date>. In <placeName ref="gfa-places-89">London</placeName>, wie in allen grossen Städten, kann man für Geld alles
                     kaufen, also auch die Zeit. So paradox der Satz an und für sich scheint, so ist
                     er in gewisser Beziehung dennoch wahr, nämlich, weil man vermittelst
-                    Miethkutschen oder Cabriolets, die aber freilich Geld kosten, wenigstens das
+                    Miethkutschen oder <term ref="gfa-keywords-8909">Cabriolets</term>, die aber freilich Geld kosten, wenigstens das
                     Doppelte an Zeit gewinnt, als wenn man gezwungen ist, sein eigenes armseliges
                     Fuhrwerk zu sein. Dieses heute früh überlegend, und berechnend, dass ich, nur um
                     die nothwendigen Besuche abzustatten und Geschäfte zu machen, wenigstens auch 16
@@ -307,8 +307,8 @@
                     <placeName ref="gfa-places-1630">Picadilly</placeName>, um den Herrn <persName ref="gfa-actors-7469">Faraday</persName> zu besuchen, erwähne, so bediente ich mich der
                     so bequemen Einrichtung der Miethkutschen, um alles Vorläufige in einem Tage
                     abzuthun. — Auf dem <placeName ref="gfa-places-1832">Zollhaus</placeName> war der Searcher (Waarenbeschauer), dem ich, auf
-                    seine leise Aeusserung für ein Trinkgeld, 1 <term ref="gfa-keywords-8443">Schilling</term> in die Hand drückte, mit
-                    Untersuchung des Koffers nicht sehr streng, meine Reisepistole aber trug er zu
+                    seine leise Aeusserung für ein <term ref="gfa-keywords-9582">Trinkgeld</term>, 1 <term ref="gfa-keywords-8443">Schilling</term> in die Hand drückte, mit
+                    Untersuchung des Koffers nicht sehr streng, meine <term ref="gfa-keywords-9367">Reisepistole</term> aber trug er zu
                     den Oberbeamten. Ist diese Pistole in England gemacht? sagten sie; ich
                     antwortete: nein. Sie machten ein bedenkliches Gesicht, und darum fuhr ich
                     gleich fort: vor eilf Jahren kam ich auch nach England, und hatte ein solches
@@ -329,7 +329,7 @@
                     schienen ihn aber nicht sonderlich zu erbauen.</p>
                 <p>Mit Ungeduld eilte ich nach <placeName ref="gfa-places-1696">Albemarle Street</placeName>, <placeName ref="gfa-places-1630">Picadilly</placeName>, in die <placeName ref="gfa-places-1703">Royal
                     Institution</placeName>, um die persönliche Bekanntschaft des daselbst angestellten, so
-                    geschickten Chemikers und Metallurgen, Herrn <persName ref="gfa-actors-7469" type="met">Faraday</persName>, zu machen. Offen und
+                    geschickten <term ref="gfa-keywords-8917">Chemikers</term> und <term ref="gfa-keywords-9312">Metallurgen</term>, Herrn <persName ref="gfa-actors-7469" type="met">Faraday</persName>, zu machen. Offen und
                     freundschaftlich, wie mir ihn Herr Staatsrath <persName ref="gfa-actors-7814">Delarive</persName> geschildert hatte, führte
                     er mich gleich, was mir sehr lieb war, anstatt in das Visitenzimmer, in das
                     Laboratorium hinunter, welches ich mir aber, nach einer Zeichnung in dem <term ref="gfa-keywords-9644">Journal
@@ -378,7 +378,7 @@
                     <placeName ref="gfa-places-1834" type="itinerar" when="1825-06-09" n="24">Apothecarys Hall</placeName>, <placeName ref="gfa-places-1690">Union Street</placeName>, <placeName ref="gfa-places-1841">Bridge Street,</placeName> der gerade gegenwärtig war,
                     einzuführen. Da in dieser bedeutenden Anstalt beide Beleuchtungsarten mit
                     <term ref="gfa-keywords-9220">Kohlen</term>- und <term ref="gfa-keywords-8704">Oelgas</term> neben einander errichtet und durch die geschicktesten
-                    Chemiker geleitet worden, so hoffte ich nun hier die zuverlässigsten Aufschlüsse
+                    <term ref="gfa-keywords-8917">Chemiker</term> geleitet worden, so hoffte ich nun hier die zuverlässigsten Aufschlüsse
                     über diesen bestrittenen Gegenstand, so wie über die zweckmässigste Einrichtung
                     der Sache selbst zu erhalten. Vorläufig kamen aber alle darin überein: wo die
                     <term ref="gfa-keywords-2570">Kohlen</term> wohlfeil sind, solle man Kohlen, und wo das Oel wohlfeil ist, Oel
@@ -407,7 +407,7 @@
                     wozu Butterbrod und Fleisch schichtweise auf einander gelegt wurde, was man in
                     der Kunstsprache der Gastronomen Sandwichers nennt. — Anderwärts würde man es
                     für eine Unschicklichkeit ansehen, auf der Strasse zu essen, hier scheint es mir
-                    nicht so der Fall zu sein. Bei einem Karrikaturladen sah ich einen langen Herrn,
+                    nicht so der Fall zu sein. Bei einem <term ref="gfa-keywords-9204">Karrikaturladen</term> sah ich einen langen Herrn,
                     der gewiss seiner <pb n="37" facs="https://www.e-rara.ch/ebs/content/zoom/16557778"/>Kleidung nach ein
                     Gentleman war, ganz ruhig das Mark aus einer Kokusnuss speisen, während er mit
                     kritischem Auge die Darstellung des Benehmens eines <term ref="gfa-keywords-8565">Quäker</term>-Paars in der
@@ -437,11 +437,11 @@
                     Bildung detonirender <term ref="gfa-keywords-9310">Metalloxyde</term>, zeigte auf Tafeln dem Auge <pb n="39" facs="https://www.e-rara.ch/ebs/content/zoom/16557780"/>sehr ingenios
                     versinnlicht die Gewichts- und Raumtheile ihrer Elemente, die Veränderungen des
                     Raums, welche die chemische Verbindung darin hervorbringt, ging zur Fermentation
-                    zweiten Grades, oder der Essiggährung über, und zeigte, wie er zuletzt ganz rein
+                    zweiten Grades, oder der <term ref="gfa-keywords-9030">Essiggährung</term> über, und zeigte, wie er zuletzt ganz rein
                     und geruchlos dargestellt werden kann, und dann zur Gewinnung des <term ref="gfa-keywords-9183">Holzessigs</term>
                     durch <term ref="gfa-keywords-8967">Destillation</term>; erwähnte, welches ich als Fingerzeig für unsere Fabriken
                     anführe, die Gewinnung des Holzessigs bei der <term ref="gfa-keywords-8905">Verkohlung des Holzes</term> zur
-                    <term ref="gfa-keywords-9388">Pulverfabrikation</term>, durchging nach einander die verschiedenen <term ref="gfa-keywords-8776">Acetate</term> und ihre
+                    <term ref="gfa-keywords-8727">Pulverfabrikation</term>, durchging nach einander die verschiedenen <term ref="gfa-keywords-8776">Acetate</term> und ihre
                     Anwendung in den Künsten und der <term ref="gfa-keywords-581">Medizin</term> und <term ref="gfa-keywords-8918">Chirurgie</term>; überhaupt erwähnte er
                     beständig der praktischen Anwendung der behandelten Gegenstände, liess sich bei
                     Erörterung über Erscheinungen, die noch nicht ganz erklärt werden können,
@@ -480,7 +480,7 @@
                     gemachten Felsen, damit keine Spur davon zur Erde hinaus gehe, und bis Mittags
                     gelangten sie bis auf den in selbigen gehauenen Eingang hinunter, der sich 18
                     <term ref="gfa-keywords-8449">Fuss</term> tief unter der Erde befand. Dieser Eingang, dessen Wände und Decke mit
-                    Hieroglyphen in den schönsten Farben ausgemalt war, führte zu einer Treppe von
+                    <term ref="gfa-keywords-9178">Hieroglyphen</term> in den schönsten Farben ausgemalt war, führte zu einer Treppe von
                     23 Stufen in die Tiefe, an deren Ende eine neue Galerie von 37 Fuss lang
                     anstiess, und die sich an einer gemauerten Grube von 30 Fuss Tiefe, 14 Fuss
                     Länge und 12 Fuss Breite endete.— <pb n="43" facs="https://www.e-rara.ch/ebs/content/zoom/16557784"/>Auf der
@@ -490,7 +490,7 @@
                     Galerien bestehende Königs-Grabmal. In einem derselben war der Körper eines
                     einbalsamirten Stieres, in andern theils hölzerne theils aus feinem Thon
                     gebrannte, blau gefärbte und auch überfirniste Statuen, und in dem Hauptsaal ein
-                    Sarcophag von orientalischem <term ref="gfa-keywords-8782">Alabaster</term>, halb durchsichtig, die Wände nur 2 <term ref="gfa-keywords-8460">Zoll</term>
+           <term ref="gfa-keywords-9420">         </term>Sarcophag von orientalischem <term ref="gfa-keywords-8782">Alabaster</term>, halb durchsichtig, die Wände nur 2 <term ref="gfa-keywords-8460">Zoll</term>
                     dick, mit Hieroglyphen bedeckt, der Deckel aber zerbrochen und der Körper
                     herausgenommen. In dieses aus vielen Gründen an die dreitausend Jahre alt zu
                     schätzende Grabmal waren also auch schon Menschen eingedrungen; höchst
@@ -500,7 +500,7 @@
                     egyptischen Gottheiten umgeben ist. — Alle Figuren sind in solcher
                     Vollkommenheit ausgearbeitet, dass man die feinsten Verzierungen ihrer Kleider
                     erkennen kann.</p>
-                <p>Die Pfosten der Thüren sind mit weiblichen Gottheiten geschmückt, den Lotus in
+                <p>Die Pfosten der Thüren sind mit weiblichen Gottheiten geschmückt, den <term ref="gfa-keywords-8862">Lotus</term> in
                     Knospen und wieder in voller Blüthe tragend, mit Bilderschrift umgeben, und die
                     Schlange auf einer Halbkugel darüber. Einer der Hauptgegenstände der in
                     Basrelief ausgehauenen und überdies noch bemalten Gegenstände ist die Aufnahme
@@ -531,7 +531,7 @@
                     an der Mauer rechter Hand Männer, die eine lange dünne Stange tragen, an deren
                     Ende Kuhköpfe befindlich sind, und auf welcher zwei Stiere stehen. Dann zwölf
                     Könige in ihren Särgen von Sycamore liegend. — Leber sieben dersel<pb n="47" facs="https://www.e-rara.ch/ebs/content/zoom/16557788" break="no"/>ben sind
-                    Hieroglyphen. Bei einem erkannte ich den <term ref="gfa-keywords-9703">Schlüssel der Macht</term>; über einem andern
+                    <term ref="gfa-keywords-9178">Hieroglyphen</term>. Bei einem erkannte ich den <term ref="gfa-keywords-9703">Schlüssel der Macht</term>; über einem andern
                     drei Pyramiden; wahrscheinlich Andeutungen, was sie während ihrer Regierung
                     vollbracht. Fünf starben ruhmlos. Diese zwölf Särge liegen auf einer gerade
                     ausgestreckten, nur mit Kopf und Schwanz kanapeeartig und auswärts geschweift
@@ -562,7 +562,7 @@
                     nebst dem <placeName ref="gfa-places-2086">Tempel von Ypsambul</placeName>, nahe am zweiten Cataract des <placeName ref="gfa-places-2035">Nils</placeName> in <placeName ref="gfa-places-1922">Nubien</placeName>, und
                     der von <persName ref="gfa-actors-7777">Belzoni</persName> geöffneten <placeName ref="gfa-places-1848">Pyramide von Sephrenes</placeName>, deren Basis 684, die schräge
                     Linie von der Mitte der Basis zur Spitze hinauf 568, und die Perpendikular-Höhe
-                    453 <term ref="gfa-keywords-8449">Fuss</term> beträgt, die vortrefflich erhaltene Papyrus-Rolle, von 23 Fuss Länge
+                    453 <term ref="gfa-keywords-8449">Fuss</term> beträgt, die vortrefflich erhaltene <term ref="gfa-keywords-9350">Papyrus-Rolle</term>, von 23 Fuss Länge
                     und ungefähr 14 <term ref="gfa-keywords-8460">Zoll</term> Höhe, am meisten interessirten. Letztere ist mit
                     Bilderschrift und gemalten Figuren bedeckt. Die Hauptstücke stellen ländliche
                     Feste, vorzüglich aber die auf einander folgenden Feldarbeiten der alten
@@ -581,7 +581,7 @@
                     letztern Zeit wegen seiner <term ref="gfa-keywords-9495">Dampfflinte</term> die Aufmerksamkeit von ganz Europa auf
                     sich gezogen. Ich suchte diesen merkwürdigen Mann zuerst in seiner
                     <orgName ref="gfa-actors-7920"><placeName ref="gfa-places-1849" type="itinerar" when="1825-06-10" n="29">syderographischen Werkstätte</placeName></orgName> <placeName ref="gfa-places-2026">Fleet Street</placeName> No. 69, auf; allein <pb n="51" facs="https://www.e-rara.ch/ebs/content/zoom/16557792"/>er war nicht dort,
-                    sondern in seiner <placeName ref="gfa-places-1850" type="itinerar" when="1825-06-10" n="30">Dampfmaschinenmanufaktur</placeName>, <placeName ref="gfa-places-2027">Regents Park</placeName> near the Diorama, die
+                    sondern in seiner <placeName ref="gfa-places-1850" type="itinerar" when="1825-06-10" n="30"><term ref="gfa-keywords-8944">Dampfmaschinenmanufaktur</term></placeName>, <placeName ref="gfa-places-2027">Regents Park</placeName> near the Diorama, die
                     aber wenigstens eine Viertelmeile von ersterer entfernt ist. — Wer London kennt,
                     kann sich einen Begriff machen, was für Strassen ich zurückzulegen hatte.
                     Obschon mein Brief sehr empfehlend war, so sah ich, dass ihm eben nicht viel
@@ -596,7 +596,7 @@
                     nicht um dessentwillen gekommen, sondern darum, um seine persönliche
                     Bekanntschaft zu machen und ihm etwas zu zeigen, welches ihm bei seiner
                     Syderographie dienen könne, nämlich meinen neuerfundenen Meteorstahl; und dann
-                    wünschte ich zu wissen, ob seine Maschine leicht zur Stromdampfschifffahrt
+                    wünschte ich zu wissen, ob seine Maschine leicht zur <term ref="gfa-keywords-8948">Stromdampfschifffahrt</term>
                     adaptirt werden könnte. — Er zeigte mir hierauf ein Modell von einem Boote für
                     diesen Gebrauch gebaut, welches keine Räder, sondern hinten, wo sonst das Steuer
                     ist, einen horizontalen durch Räderwerk und Getrieb sehr schnell herumlaufenden
@@ -645,7 +645,7 @@
                     Wichtiges mehr vornehmen konnte, so besah ich mit einiger Musse die schönen
                     Läden von <placeName ref="gfa-places-1611" type="itinerar" when="1825-06-10" n="32">Cheapside</placeName> bis nach <placeName ref="gfa-places-1630" type="itinerar" when="1825-06-10" n="33">Picadilly</placeName>, das will, für die, die London nicht
                         ken<pb n="56" facs="https://www.e-rara.ch/ebs/content/zoom/16557797" break="no"/>nen, sagen, von beinahe einer Stunde Weges. — Bei dieser
-                    flüchtigen Musterung fielen nur die Menge Leute auf, die Sodawasser, Ingwer-Bier
+                    flüchtigen Musterung fielen nur die Menge Leute auf, die Sodawasser, <term ref="gfa-keywords-9194">Ingwer-Bier</term>
                     und Bärenschmalz zu verkaufen anbieten. — Soda Water (ein chemisches Präparat
                     von gemeinem Wasser, welches nebst etwas aufgelöseter Soda mit vielem
                     kohlensauern Gas impregnirt ist), erklärte mir der Kellner in meinem Wirthshaus,
@@ -653,7 +653,7 @@
                     wenn Ehrenpersonen zu viel getrunken haben und eine trockene Kehle bekommen.</p>
                 <p>Gingerbeer (Ingwerbier) ist gut für den Magen, und Bärenschmalz um die Haare
                     wachsen zu machen.</p>
-                <p>In dem Strand in einem ansehnlichen Laden, wo man genuine Bearsgrease verkauft,
+                <p>In dem Strand in einem ansehnlichen Laden, wo man genuine <term ref="gfa-keywords-8824">Bearsgrease</term> verkauft,
                     und die Jagd, die die <placeName ref="gfa-places-402">brittische</placeName> Industrie nun mit verdoppelter Emsigkeit in in
                     den arctischen Gegenden auf diese Thiere <pb n="57" facs="https://www.e-rara.ch/ebs/content/zoom/16557798"/>macht, noch durch
                     einen Kupferstich versinnlicht wird, wird den jungen Herren, die gern geschwind
@@ -663,12 +663,12 @@
                     months).</p>
                 <p>Bei Herrn <persName ref="gfa-actors-7823" type="met">Egg</persName> war die Unterhaltung für mich sehr interessant, da sie sich eben
                     meistens um Gegenstände drehte, die meine eigene Hauptbeschäftigung sind.</p>
-                <p>Ich musste ihm mein Pistolenschloss, welches eine Schlagfeder von Meteorstahl
+                <p>Ich musste ihm mein <term ref="gfa-keywords-9368">Pistolenschloss</term>, welches eine Schlagfeder von Meteorstahl
                     hat, zu noch näherer Prüfung zurücklassen. Er sagte: nie hätte er geglaubt, dass
                     man solche Federn, und dann wieder Rasiermesser aus dem gleichen Stahl machen
                     könnte, denn die Eigenschaften beider seien Extreme, und ihre Verbindung in
                     einer und derselben Masse beinahe ein Paradox. Die <pb n="58" facs="https://www.e-rara.ch/ebs/content/zoom/16557799"/>Klinge eines
-                    Jagdstilets von obigem Stahl betrachtete er durch das Mikroskop und sagte, als
+                    Jagdstilets von obigem Stahl betrachtete er durch das <term ref="gfa-keywords-9315">Mikroskop</term> und sagte, als
                     er mir sie wieder zurückgab: the watering is wonderfully beautiful (der Damast
                     ist wunderschön}. Es scheint, der in Deutschland so beliebte Ausdruck
                     wunderschön hat nun auch Aufnahme in der englischen Sprache gefunden. — Nachdem
@@ -760,7 +760,7 @@
                     der Dampf, wovon ich mich durch genaue Inspection der Sicherheitsklappe
                     überzeugte, zu einer Expansionskraft von einhundert Pfund auf jeden Quadratzoll
                     gebracht, und dann damit das Destillirwerkzeug umgeben. Zu vollkommener
-                    Sicherheit ist solches wegen der grossen Inflammabilität der Aetheratmosphäre in
+                    Sicherheit ist solches wegen der grossen Inflammabilität der <term ref="gfa-keywords-8464">Aetheratmosphäre</term> in
                     einem ganz andern Zimmer, als wo der Kessel befindlich ist, der den Dampf so
                     gesteigert <pb n="66" facs="https://www.e-rara.ch/ebs/content/zoom/16557807"/>abliefert, und auf dem Kessel selbst sind zwei Sicherheitsventile; das eine,
                     wo der Arbeiter inspiciren und dessen Widerstand verändern kann; das andere ist
@@ -777,7 +777,7 @@
                     Präparate gewissenhaft, rein und unverfälscht daraus hervorgehen, und, weil sie
                     so sehr im Grossen verfertigt werden, wohlfeil. Dieses schliesst aber
                     <term ref="gfa-keywords-9391">Quacksalberei</term> und um so zu sagen Giftmischerei, besonders in Beziehung auf
-                    Cosmetica, nicht aus, und viel mehr findet man deren angepriesen, als selbst in
+                    <term ref="gfa-keywords-8927">Cosmetica</term>, nicht aus, und viel mehr findet man deren angepriesen, als selbst in
                     Paris; um zu zeigen, wie weit man darin geht, führe ich wörtlich die Feilbietung
                     von nur einem an: «Um die bäurische Röthe (vulgar Red), welche die natürliche
                     Schönheit verdunkelt etc., wegzubringen und auszulöschen (obliterate), wird
@@ -798,7 +798,7 @@
                     Abschiednehmen ungemein und verhüllte ihr Gesicht in einen dichten schwarzen
                     Schleier. Mit den Strahlen der sinkenden Sonne nahm sie ihn, da sie ohnedies zur
                     Erfrischung, als wir einen Augenblick am Ende der Stadt still hielten, einige
-                        Pome<pb n="69" facs="https://www.e-rara.ch/ebs/content/zoom/16557810" break="no"/>ranzen kaufte, dennoch weg, und nun leuchtete uns ein anderes
+                        <term ref="gfa-keywords-9370">Pome<pb n="69" facs="https://www.e-rara.ch/ebs/content/zoom/16557810" break="no"/>ranzen</term> kaufte, dennoch weg, und nun leuchtete uns ein anderes
                     Gestirn.</p></div>
             <div type="day">
                 <head>London-Birmingham, 11–12. Juni 1825</head>
@@ -830,7 +830,7 @@
                     Noch mehr aber fiel mir das verdorbene Aussehen, und die, obschon es Sonntag
                     war, höchst armselige Kleidung vieler dieser Menschen auf. In den Strassen, die
                     dieselben dann vorzugsweise bewohnen, sieht man Weibspersonen jedes Alters
-                    herumgehend oder vor der Thüre sitzend Tabak rauchen; die grasse Depravität
+                    herumgehend oder vor der Thüre sitzend <term ref="gfa-keywords-9072">Tabak</term> rauchen; die grasse Depravität
                     derselben, die man noch über dieses wahrzunehmen Gelegenheit hat, vollendet die
                     Idee über Erziehung und Bildung dieser eigentlich bedauernswürdigen
                     Menschenklasse.</p></div>
@@ -838,8 +838,8 @@
                 <head>Fischers Unternehmensziele in Birmingham, 13. Juni 1825</head>
                 <p>Montags den <date when="1825-06-13">13</date>. Da mir hauptsächlich daran lag, eine Stahldrathzieherei zu
                     sehen, wo möglich von ihren Zugeisen zu bekommen, sodann ausfindig zu machen, ob
-                    irgend ein Fabrikant ein dem Silber ähnliches, dem meinigen oder dem <term ref="gfa-keywords-9106">Pakfong</term>
-                    gleichkommendes ductiles Metall darstellen könne, und ob es nicht möglich sei,
+                    irgend ein Fabrikant ein dem <term ref="gfa-keywords-9107">Silber</term> ähnliches, dem meinigen oder dem <term ref="gfa-keywords-9106">Pakfong</term>
+                    gleichkommendes <term ref="gfa-keywords-8980">ductiles</term> Metall darstellen könne, und ob es nicht möglich sei,
                     den <pb n="72" facs="https://www.e-rara.ch/ebs/content/zoom/16557813"/>geheimnissvollen Schleier über die Verfertigung ihres sogenannten höchst
                     merkwürdigen, schmiedbaren und kalt und warm biegsamen <term ref="gfa-keywords-8590">Gusseisens</term>, in Verbindung
                     mit meinen selbst gemachten Erfahrungen, einmal ganz lüften zu können, oder
@@ -859,8 +859,8 @@
                 <head>Innovation Getränkepumpe, 13. Juni 1825</head>
                 <p>— Ich beschloss diesen Tag mit der nochmals ganz
                     genauen Aufnahme der in England im vornehmsten Gasthofe, wie in der
-                    allergemeinsten Pintenschenke, eingeführten Getränkpumpe, welche alle möglichen
-                    Vortheile in Gewinn an Zeit, in beständiger Frische des Bieres oder anderer
+                    allergemeinsten Pintenschenke, eingeführten <term ref="gfa-keywords-9111">Getränkpumpe</term>, welche alle möglichen
+                    Vortheile in Gewinn an Zeit, in beständiger Frische des <term ref="gfa-keywords-8829">Bieres</term> oder anderer
                     Flüssigkeiten, in möglichst weniger Verspillung desselben, und selbst in
                     Verhütung der Veruntreuung verbindet. Die allgemeine Einrichtung ist diese: Im
                     Keller wird in das zu verzapfende Fass ein metallener Halm eingeschlagen, der
@@ -951,7 +951,7 @@
                     den Gehalt der Materie im Allgemeinen schliessen zu können, und da man mir
                     sagte, das <pb n="81" facs="https://www.e-rara.ch/ebs/content/zoom/16557822"/>Pfund komme auf 16 <term ref="gfa-keywords-8463">Pence</term> oder 45 <term ref="gfa-keywords-8444">Kreuzer</term>, so gewann ich die Ueberzeugung, dass
                     zum reinen englischen <term ref="gfa-keywords-8706">Zinn</term> nebst vielleicht etwas wenigem <term ref="gfa-keywords-8643">Kupfer</term>, wohlfeilere
-                    Zusätze, als wie <term ref="gfa-keywords-9636">Zink</term>, <term ref="gfa-keywords-9464">Spiessglanz</term>, König <term ref="gfa-keywords-9625">Wissmuth</term>, vielleicht auch <term ref="gfa-keywords-8910">Cadmium</term>,
+                    Zusätze, als wie <term ref="gfa-keywords-9636">Zink</term>, <term ref="gfa-keywords-9464">Spiessglanz</term>, <term ref="gfa-keywords-9249">König</term> <term ref="gfa-keywords-9625">Wissmuth</term>, vielleicht auch <term ref="gfa-keywords-8910">Cadmium</term>,
                     wenn es in Menge könnte dargestellt werden, die integrirenden Theile dieses
                     Britannia Metals sind. — Noch wird für ähnliche Gerätschaften in andern Fabriken
                     ein Metall unter dem Namen Turkannan verarbeitet, welches sich aber von diesem
@@ -966,9 +966,9 @@
                     einige Häuser weiter entfernte <placeName ref="gfa-places-2093" type="itinerar" when="1825-06-14" n="43">Fabrike</placeName> (Factory) kommen, wo er mir dann zeigen
                     wolle, wie gut sie stehen. Diese Fabrike ist, wie die meisten in <placeName ref="gfa-places-20">Birmingham</placeName>,
                     hinter den Häusern gegen die Strasse, durch welche man durch einen schmalen Gang
-                    geht, in einer Art von Hof. Hier waren nun viele Werkstätten für Schmiede,
+                    geht, in einer Art von Hof. Hier waren nun viele <term ref="gfa-keywords-9439">Werkstätten für Schmiede</term>,
                     Feiler, Dreher, und dann eben auch die Drathzieherei. Denn es werden hier Walzen
-                    für Münzen, Stanzen, ganze <term ref="gfa-keywords-9643">Drehstühle</term>, und überhaupt allerhand Maschinen von
+                    für <term ref="gfa-keywords-9326">Münzen</term>, Stanzen, ganze <term ref="gfa-keywords-9643">Drehstühle</term>, und überhaupt allerhand Maschinen von
                     verarbeitetem Eisen und Stahl gemacht. Für mich war der <term ref="gfa-keywords-8973">Drathzug</term> das Wichtigste.
                     Ich sah runde gezogene Stangen von Gussstahl von 12 Fuss Länge und <formula rend="inline" notation="tex">\frac{3}{4}</formula> Zoll Dicke,
                     bis auf eine Linie hinunter; die dünnern Dimensionen, das heisst von 4 Linien an
@@ -1017,13 +1017,13 @@
                     pecuniären Massstab verglichen werden können, mir lieber war, als fünfzig <term ref="gfa-keywords-8410">Pfund
                     Sterling</term>. Unglaublich ist es fast, wenn man es nicht selbst sieht, welcher Menge
                     von Gegenständen die <term ref="gfa-keywords-55">Weicheisengiesserei</term> sich nach und nach bemächtiget und in
-                    ihren Kreis gezogen hat. Ich kaufte mehr als fünfzigerlei in die Schlosserei,
-                    Büchsenmacherei und andere Handwerke dienliche Artikel. Die Nettigkeit des
+                    ihren Kreis gezogen hat. Ich kaufte mehr als fünfzigerlei in die <term ref="gfa-keywords-9434">Schlosserei</term>,
+                    <term ref="gfa-keywords-9793">Büchsenmacherei</term> und andere Handwerke dienliche Artikel. Die Nettigkeit des
                     Gusses, die alle Theorie über <term ref="gfa-keywords-8980">Ductilität</term> der Metalle irre machende Biegsamkeit,
                     Zähigkeit und Weichheit der Materie selbst, und die Reinheit, der Glanz und die
                     Härte, wenn sie gefeilt, polirt und eingesetzt wird, macht den grossen Absatz
                     davon und auch die Wohlfeilheit vieler in die Büchsenmacherei, besonders für
-                    Commisgewehre, <pb n="87" facs="https://www.e-rara.ch/ebs/content/zoom/16557828"/>sodann in die <term ref="gfa-keywords-9448">Schwertfegerei</term>, <term ref="gfa-keywords-9434">Schlosserei</term>, <term ref="gfa-keywords-9102">Quincaillerie</term> und <term ref="gfa-keywords-9369">Plattirerei</term>
+                    Commisgewehre, <pb n="87" facs="https://www.e-rara.ch/ebs/content/zoom/16557828"/>sodann in die <term ref="gfa-keywords-9448">Schwertfegerei</term>, Schlosserei, <term ref="gfa-keywords-9102">Quincaillerie</term> und <term ref="gfa-keywords-9369">Plattirerei</term>
                     einschlagende Gegenstände begreiflich. Bei meiner Ankunft waren beide Associés
                     da, der eine aber musste Geschäfte halber weggehen. — Der andere, Herr <persName ref="gfa-actors-8018" type="met">Cardell</persName>,
                      seiner Aussprache nach wahrscheinlich ein <placeName ref="gfa-places-1019">Schotte</placeName>, war ein junger, noch nicht
@@ -1080,7 +1080,7 @@
                     den gleich glühend aus den Flaschen genommenen Gusswaaren abputzend und die
                     Eingüsse abschlagend oder abbrechend, und die Gusswaaren dann zum Weichmachen
                     forttragend, wie erstaunte ich, sage ich, dieses regellos scheinende und dennoch
-                    durch die Obliegenheit eines Jeden geregelte Gewühl zu erblicken. Küchengeräthe
+                    durch die Obliegenheit eines Jeden geregelte Gewühl zu erblicken. <term ref="gfa-keywords-9253">Küchengeräthe</term>
                     aller Art, Ornamente, und sogar <term ref="gfa-keywords-9795">Nägel</term> bis nur auf einen Zoll lang <pb n="92" facs="https://www.e-rara.ch/ebs/content/zoom/16557833"/>hinunter, und diese
                     Nägel dann weich gemacht, und das Pfund nach unserm Gelde zu 7 kr., nämlich 5
                     Pf. um einen Shilling verkauft, werden hier verfertigt. Es ist zu sinnreich, als
@@ -1121,12 +1121,12 @@
                     <term ref="gfa-keywords-2887">Drehbänke</term>, wo das Abdrehen wegen der Glätte des Gusses, und da der Sand so rein
                     abfällt, dass das Geschirr schon öfters silberweiss darunter erscheint, eine
                     sehr leichte Mühe ist. Von den Drehbänken kommt das Geschirr in die
-                    Schlosserwerkstätten, wo die nöthigen Löcher gebohrt und Stiel und Handhaben
+                    <term ref="gfa-keywords-9434">Schlosserwerkstätten</term>, wo die nöthigen Löcher gebohrt und Stiel und Handhaben
                     angeschlagen werden, und dann zu den Verzinnern. Diese Verzinnung von Gusseisen
                     ist noch die beste, die ich je gesehen habe; äusserst ökonomisch in Hinsicht der
                     Flussmittel und des Feuers, gar nicht gefährlich für das Verbrennen der Hände,
                     da sie das Anreibematerial in eigens dazu gemachten Zangen halten, und sehr
-                    solid und schön. — Wie bei den Kupferschmieden wird der Boden des Geschirrs,
+                    solid und schön. — Wie bei den <term ref="gfa-keywords-9261">Kupferschmieden</term> wird der Boden des Geschirrs,
                     wenn es seinen vollen Glanz erhalten hat, im Wasser abgeschreckt, um das
                         Zusammen<pb n="96" facs="https://www.e-rara.ch/ebs/content/zoom/16557837" break="no"/>laufen zu verhindern. — Von dem Verzinnen weg wird das Geschirr
                     auswendig mit Kohlentheer bestrichen, damit es nicht rostet und ein schönes
@@ -1138,8 +1138,8 @@
                     sehr bequem ist.</p></div>
             <div type="day">
                 <head>Bekanntschaft mit Henry Adcock, 15. Juni 1825</head>
-                <p>Wir fuhren zurück nach <placeName ref="gfa-places-20" type="itinerar" when="1825-06-15" n="49">Birmingham</placeName>, und hielten bei Herrn <persName ref="gfa-actors-7733" type="met">Adcoke</persName>, der eine <placeName ref="gfa-places-1863" type="itienrar" when="1825-06-15" n="50">Stanz-,
-                    Vergold- und Juwelier-Fabrike</placeName> (die älteste in Birmingham) hat, still, da mein
+                <p>Wir fuhren zurück nach <placeName ref="gfa-places-20" type="itinerar" when="1825-06-15" n="49">Birmingham</placeName>, und hielten bei Herrn <persName ref="gfa-actors-7733" type="met">Adcoke</persName>, der eine <placeName ref="gfa-places-1863" type="itienrar" when="1825-06-15" n="50"><term ref="gfa-keywords-9532">Stanz-</term>,
+                    <term ref="gfa-keywords-9602">Vergold-</term> und Juwelier-Fabrike</placeName> (die älteste in Birmingham) hat, still, da mein
                     Freund glaubte, das neue silberähnliche Metall, welches ich nur den Tag vor
                     meiner Abreise nach England in Folge mehrerer vorhergegangener Versuche auf eine
                     ganz eigenthümliche, von allen vor<pb n="97" facs="https://www.e-rara.ch/ebs/content/zoom/16557838" break="no"/>hergegangenen Compositionen abweichende Art darstellte, und nach allen
@@ -1163,12 +1163,12 @@
                     wurde, auf dem <placeName ref="gfa-places-1859" type="itinerar" when="1825-06-15" n="52">Landhaus</placeName> meines <persName ref="gfa-actors-7860">Freundes</persName> einnahm, erfuhr ich nun, dass kein
                     wahres Wort an des besagten Mannes Prätentionen, sondern dass ein anderer weit
                     genialerer Mann der Erfinder dieses <term ref="gfa-keywords-56">weichen Eisens</term> gewesen sei, der sogar nicht
-                    nur brauchbare, sondern gute Nähnadeln gegossen habe, und unter dem Namen
+                    nur brauchbare, sondern gute <term ref="gfa-keywords-9336">Nähnadeln</term> gegossen habe, und unter dem Namen
                     <persName ref="gfa-actors-7903">Millman</persName> allgemein bekannt gewesen sei. Dieser fast unglaubliche, von mir aber
                     wegen der Respectabilität der Person, von der ich es habe, nicht bezweifelte
                     Umstand, wird glaubwürdiger, seit die Kunst erfunden ist, <pb n="99" facs="https://www.e-rara.ch/ebs/content/zoom/16557840"/>eine auf Papier
                     geschriebene Schrift in Metall von dem Papier selbst abzugiessen, und die
-                    gegossenen Platten wieder als Abdruckplatten zu gebrauchen, um ein Fac Simile zu
+                    gegossenen Platten wieder als Abdruckplatten zu gebrauchen, um ein <term ref="gfa-keywords-9034">Fac Simile</term> zu
                     erhalten.</p></div>
             <div type="day">
                 <head>Zusammenarbeit mit Henry Adcock, 16. Juni 1825</head>
@@ -1191,12 +1191,12 @@
                     sah, wie von dem gravirten Stahl, sei es auch noch so tief und gross, ganz
                     genaue und scharfe Abdrücke zu machen, und wieder auf andern Stahl überzutragen
                     und somit die Stempel nach Belieben zu vervielfältigen sind. —. Dieses ist eine,
-                    für Münzen ganz gewiss höchst beachtenswürdige Sache, da ich die Zufälle kenne,
+                    für <term ref="gfa-keywords-9326">Münzen</term> ganz gewiss höchst beachtenswürdige Sache, da ich die Zufälle kenne,
                     die in mancher statt haben. Ferner versprach er mir von diesem Metall, das ich
                     <term ref="gfa-keywords-9528">Silveretto</term> <pb n="101" facs="https://www.e-rara.ch/ebs/content/zoom/16557842"/>nenne, noch einen Ring zu verfertigen, der einen Stein von Hyacinth-Farbe und
                     ungemeiner Durchsichtigkeit enthält, den ich, als ich vor Kurzem <term ref="gfa-keywords-8895">Braunstein</term> zu
                     Metall reducirte, als <term ref="gfa-keywords-336">Schlake</term> erhielt und ihm dazu gab.</p>
-                <p>ln dieser <placeName ref="gfa-places-1863">Fabrik</placeName> werden sehr schöne Sachen von Gold, <term ref="gfa-keywords-8982">Edelgesteinen</term>, so wie auch
+                <p>ln dieser <placeName ref="gfa-places-1863">Fabrik</placeName> werden sehr schöne Sachen von <term ref="gfa-keywords-9108">Gold</term>, <term ref="gfa-keywords-8982">Edelgesteinen</term>, so wie auch
                     viel nur Vergoldetes, und zwar in sehr billigen Preisen, wie es mir schien,
                     gemacht. Ich kann nicht umhin, eine höchst merkwürdige Thatsache anzuführen, da
                     wir über das Vergolden sprachen. Im Anfang des Krieges, sagte er, gab es
@@ -1225,7 +1225,7 @@
                     leichten <term ref="gfa-keywords-9122">Gigs</term> allein fahrend an, sondern eben so auch auf ihren Poneys (kleine
                     Pferde) über Land reitend. Er nahm von mir mit dem in England so bedeutenden God
                     bless You Abschied, welches ich eben so herzlich erwiederte. Noch kaufte ich im
-                    Zuhausegehen von den schönen Massstäben (Rules), die sie in Birmingham machen,
+                    Zuhausegehen von den schönen <term ref="gfa-keywords-9299">Massstäben</term> (Rules), die sie in Birmingham machen,
                     schrieb einen Brief nach Hause, und packte meine Siebensachen zusammen, um den
                     folgenden Tag den Wanderstab weiter zu setzen.</p></div>
             <div type="day">
@@ -1240,7 +1240,7 @@
                     des unbeschreiblichen Staubes, des gepressten Sitzens und der Besorgniss des
                     öfter sich ereignenden Umwerfens, tröstete und amusirte mich doch der Anblick
                     der Steinkohlenminen, öfters dicht an der Strasse mit ihren Pferde- und
-                    Dampfgöpeln, die vielen Eisenwerke und Schmelzöfen, die Glashütten und
+                    <term ref="gfa-keywords-8939">Dampfgöpeln</term>, die vielen <term ref="gfa-keywords-9005">Eisenwerke</term> und Schmelzöfen, die <term ref="gfa-keywords-9124">Glashütten</term> und
                     <term ref="gfa-keywords-9038">Fayence-Fabriken</term> und was sonst noch Rauch und Brand verursacht, und diese Gegend
                     bestimmt zu der <pb n="105" facs="https://www.e-rara.ch/ebs/content/zoom/16557846"/>einzigen ihrer Art
                     in der Welt macht. Eben so amusirte mich die neue Art, Strassensteine zu
@@ -1342,7 +1342,7 @@
                 <p>Den<date when="1825-06-20"> 20. Juni</date>. Diesen Morgen ging ich, erhaltener Einladung zu Folge, in die sonst
                     bei Weitem nicht für Jedermann zum Zutritt geöffnete <placeName ref="gfa-places-1871" type="itinerar" when="1825-06-20" n="64">Fabrik von den Herren Sharp
                         Hill &amp; Comp.</placeName>, wo nebst vielen andern Gegenständen vorzüglich Power looms
-                    (<term ref="gfa-keywords-3009">mechanische Webstühle</term>) und (Patent Reeds) <term ref="gfa-keywords-9357">Blätter für Weber</term> gemacht werden. Auf
+                    (<term ref="gfa-keywords-3009">mechanische Webstühle</term>) und (<term ref="gfa-keywords-9357">Patent Reeds</term>) <term ref="gfa-keywords-9357">Blätter für Weber</term> gemacht werden. Auf
                     die Introduction von Herrn <persName ref="gfa-actors-7785">Bodmer</persName>, welcher selbst in dieser Fabrike ist, wurde
                     ich nicht nur von dem Ingenieur, Herrn <persName ref="gfa-actors-7939" type="met">Roberts</persName>, der ein sehr geschickter
                         Mecha<pb n="113" facs="https://www.e-rara.ch/ebs/content/zoom/16557854" break="no"/>nikus ist, sondern auch von einem der anwesenden Associés, Herrn
@@ -1380,7 +1380,7 @@
                     Beschreibung. Ich begnüge mich also lediglich mit der Anzeige ihrer Wirkung, wie
                     mir sie Herr <persName ref="gfa-actors-7939">Roberts</persName> selber mitgetheilt.</p>
                 <p>Die gespaltenen und in gehöriger Entfernung von einander gehaltenen Ruthen <pb n="116" facs="https://www.e-rara.ch/ebs/content/zoom/16557857"/>oder Stöcke
-                    befinden sich in aufrecht siebenden kurzen Cylindern von Messing, durch welche
+                    befinden sich in aufrecht siebenden kurzen Cylindern von <term ref="gfa-keywords-9306">Messing</term>, durch welche
                     sie, nach Massgabe wie die Zähne oder Stahlblättchen, welche die Maschine ab
                     einer Walze, auf welcher sie als lange dünne Stahlstreifen aufgewunden sind,
                     durch eine Coulisse oder Rinne schiebt und in erforderliche Länge abschneidet,
@@ -1407,7 +1407,7 @@
                     ausgeführt.</p></div>
             <div type="day">
                 <head>Besuch der St. Georges Foundry, 20. Juni 1825</head>
-                <p>Ich hätte sehr gerne die verticale Bohrmaschine gesehen, auf welcher die Cylinder
+                <p>Ich hätte sehr gerne die verticale <term ref="gfa-keywords-8852">Bohrmaschine</term> gesehen, auf welcher die Cylinder
                     der Dampfmaschinen gebohrt werden, da mir die horizontale Manier, wie sie bei
                     Herrn <persName ref="gfa-actors-7572">Watt</persName> in Soho eingeführt ist, nicht gefallen wollte. — Dieselbe ist in
                     Herrn <persName ref="gfa-actors-7921">Richard Ormrods</persName> <placeName ref="gfa-places-1874" type="itinerar" when="1825-06-20" n="65">Eisengiesserei</placeName>, in <placeName ref="gfa-places-1875">Minshull Street</placeName>, <placeName ref="gfa-places-1876">London-Road</placeName>. Der junge
@@ -1439,7 +1439,7 @@
                     unseres Geldes zu stehen kommen, und von welchen mehrere theils angefangen,
                     theils bald vollendet vorhanden waren, so führe ich nur mit Uebergehung dessen,
                     was andern gemein ist, das Neue oder Bemerkungswerthe an.</p>
-                <p>Die Bohrmaschine gefiel mir besonders; der Cylinder geht nicht, wie bei den
+                <p>Die <term ref="gfa-keywords-8852">Bohrmaschine</term> gefiel mir besonders; der Cylinder geht nicht, wie bei den
                         Kano<pb n="121" facs="https://www.e-rara.ch/ebs/content/zoom/16557862" break="no"/>nen, die ehemals auch vertical gebohrt wurden, von oben
                     herunter, sondern er steht auf einem gemauerten Fundament fest, welches in der
                     Mitte ein Loch hat und mit metallenen Büchsen, in welchen die <term ref="gfa-keywords-9155">Bohrstangen</term> sich
@@ -1466,7 +1466,7 @@
                         <pb n="123" facs="https://www.e-rara.ch/ebs/content/zoom/16557864"/>und
                     inwendig mit Zierleim beschlagen und mit beweglicher Schiene oder <term ref="gfa-keywords-9662">Ripp</term>
                     ausgeformt, wie die Glocken. Der Kern wird ebenfalls stehend und auch mit der
-                    Schiene oder dem Ripp ausgeformt, und dann alles in den Trockenkammern
+                    Schiene oder dem Ripp ausgeformt, und dann alles in den <term ref="gfa-keywords-9584">Trockenkammern</term>
                     getrocknet und gebrannt, weil diese Gegenstände durchaus <term ref="gfa-keywords-56">zähes und weiches
                         Gusseisen</term> erfordern. Fünf Cupolo-Oefen, die Herr <persName ref="gfa-actors-7921">Ormrod </persName>hat und die — ich glaube
                     nur um Raum zu sparen, der in England über alle Begriffe kostbar ist — durch
@@ -1495,9 +1495,9 @@
                     Verbindungscylinder (coupling-boxes), alle Arten von Mühlen- und
                     Maschinenrädern; eine Menge Gitterwerk nach den schönsten Zeichnungen;
                     Eisenbahnen für <term ref="gfa-keywords-9230">Kohlenwerke</term>, Salzkarrenräder, Bootöfen, Wägemaschinen und
-                    gegossene eiserne Röhren; Dampfheizapparate für Fabriken nach den besten
+                    gegossene eiserne Röhren; <term ref="gfa-keywords-8941">Dampfheizapparate</term> für Fabriken nach den besten
                     Grundsätzen; alle Grössen von metallenen Hahnen; Cylinder für Indienne-Drucker;
-                    Gasapparate vorzüglicher Art; <term ref="gfa-keywords-9356">hydromechanische Patent-Pressen</term> für Bleicher und
+                    <term ref="gfa-keywords-9061">Gasapparate</term> vorzüglicher Art; <term ref="gfa-keywords-9356">hydromechanische Patent-Pressen</term> für Bleicher und
                     Papierfabrikanten u.s.w.; Dampfmaschinen von jeder Art und Grösse; Dampfkessel
                     aus ge<pb n="126" facs="https://www.e-rara.ch/ebs/content/zoom/16557867" break="no"/>schmiedetem Eisen; Druckermaschinen nach vervollkommnetster
                     Einrichtung für eine, zwei, drei und vier Farben; Trokenmaschinen bester Art;
@@ -1521,7 +1521,7 @@
                     Mannes zu hören, der nun bei Herrn <persName ref="gfa-actors-6319">Fairbairn</persName> arbeitet, und dessen <persName ref="gfa-actors-7525">Vater</persName>, den wir
                     als Bürger und Staatsmann gleich ehren, gefunden hat, ein hoffnungsvoller Sohn
                     mit <term ref="gfa-keywords-9663">Schurzfell</term> (ohne daneben auf die eigentliche Bildung zu verzichten) sei
-                    ehrenhafter, als mit dem Pergament einer (oft zweifelhaften) Genealogie, wenn
+                    ehrenhafter, als mit dem Pergament einer (oft zweifelhaften) <term ref="gfa-keywords-9067">Genealogie</term>, wenn
                     sonst keine andern Verdienste vorwalten.</p></div>
             <div type="day">
                 <head>Gedanken zum englischen Geldfluss, 21. Juni 1825</head>
@@ -1545,7 +1545,7 @@
                     viele Arbeiter er hat, so reichen selbige doch nicht hin, um die gemachten
                     Bestellungen zu fertigen.</p>
                 <p>Diese grossen Bestellungen, diese grossen Summen, die dadurch in Umlauf kommen,
-                    und die gegenwärtige Menge Goldes sind Ursache, dass in diesen Ueberfluss
+                    und die gegenwärtige Menge <term ref="gfa-keywords-9108">Goldes</term> sind Ursache, dass in diesen Ueberfluss
                     darbietenden Zeiten die Lebensmittel und andere Sachen verhältnissmässig zu
                     theuer sind. Es ist vielleicht eine lächerliche Idee, die ich schon über den
                     relativen und reciprocitativen Reichthum der Nationen gehabt habe. — Es will
@@ -1592,7 +1592,7 @@
                     wirkt, sehr bedeutend ist.</p></div>
             <div type="day">
                 <head>Besuch der Baumwollspinnerei Philipps &amp; Lee , 21. Juni 1825</head>
-                <p>Diesen Abend war ich noch in <placeName ref="gfa-places-1940">Salford</placeName>, der <placeName ref="gfa-places-1782" type="itinerar" when="1825-06-21" n="69">Spinnerei</placeName> der Herren <orgName ref="gfa-actors-7929"><persName ref="gfa-actors-7928">Phillips</persName> und <persName ref="gfa-actors-7607">Lee</persName></orgName>,
+                <p>Diesen Abend war ich noch in <placeName ref="gfa-places-1940">Salford</placeName>, der <placeName ref="gfa-places-1782" type="itinerar" when="1825-06-21" n="69"><term ref="gfa-keywords-9466">Spinnerei</term></placeName> der Herren <orgName ref="gfa-actors-7929"><persName ref="gfa-actors-7928">Phillips</persName> und <persName ref="gfa-actors-7607">Lee</persName></orgName>,
                     um mich nach der Ankunft des Letztern zu erkundigen. — Herr <persName ref="gfa-actors-7928" type="met">Phillips </persName>kam selbst
                     auf das Comptoir, nachdem ihm durch das sogenannte Ohr des Dionysius, welches
                     ich sonst noch nirgends als in dem <placeName ref="gfa-places-1941">Rosenburger Schloss</placeName> in <placeName ref="gfa-places-427">Koppenhagen </placeName>angebracht
@@ -1601,7 +1601,7 @@
                     Sonnabend, weil Herr <persName ref="gfa-actors-7607">Lee </persName>abwesend sei, nachgefragt, um den Sonntag auf seinem
                     Landgut mit ihm zuzubringen, und lud mich ein, nun ohne Weiteres auf den
                     folgenden Tag zu ihm zu kommen und dort zu über<pb n="134" facs="https://www.e-rara.ch/ebs/content/zoom/16557875"/>nachten. — Noch
-                    zeigte er mir, da ich ihn zu sehen wünschte, ihren Gasapparat, der einer der
+                    zeigte er mir, da ich ihn zu sehen wünschte, ihren <term ref="gfa-keywords-9061">Gasapparat</term>, der einer der
                     zuerst und am besten eingerichteten und grössten in <placeName ref="gfa-places-471">Manchester </placeName>ist.</p>
                 <p>Wo man <placeName ref="gfa-places-2075">Wigan</placeName> oder Kennel Coal, um das Gas zu gewinnen, haben kann, ist dieses
                     wohl das Vortheilhafteste, wo aber selbiges nicht der Fall ist, verdient Oel den
@@ -1622,7 +1622,7 @@
                     Maschinen so häufig in der Schweiz gebraucht und angewendet werden, es wären ein
                     Dutzend Besitzer solcher Werke aus <placeName ref="gfa-places-134">meinem Vaterlande</placeName> hier mit mir in diesem
                     Etablissement anwesend gewesen; sie würden sich überzeugt haben, besonders wenn
-                    man betrachtet, dass die Sägmühlen überhaupt noch nicht lange in England
+                    man betrachtet, dass die <term ref="gfa-keywords-9414">Sägmühlen</term> überhaupt noch nicht lange in England
                     existiren, und selbst jetzt noch nicht häufig sind, da noch Vieles von Hand
                     geschnitten wird, sie würden sich überzeugt haben, sage ich, wie der englische
                     Verbesserungsgeist auch hier gewaltet hat. — Dass man viele Blätter in eine
@@ -1670,7 +1670,7 @@
                     so wie auch die Bande, wenn zugespitzte Hölzer geschnitten werden müssten, durch
                     Schrauben nach Belieben reglirt und zugleich auch festgestellt werden
                     können.</p>
-                <p>Noch erwähne ich zweier Drehstühle für Schirmstöcke, die in ungeheuerm Quantum
+                <p>Noch erwähne ich zweier <term ref="gfa-keywords-9643">Drehstühle</term> für Schirmstöcke, die in ungeheuerm Quantum
                     hier gemacht werden. Dieselben kommen von der <term ref="gfa-keywords-8662">Circular-Säge</term> ganz viereckigt
                     zugeschnitten. In die konische Oeffnung des Spindelkopfes, der wie die Spindel
                     selbst durch und durch hohl ist, und in welchem sich, wie ein Hobeleisen schräge
@@ -1679,12 +1679,12 @@
                     durchgeschoben, wo er dann ganz cylindrisch und schön glatt am andern Ende
                     hervorkommt. Er ist geschwinder fertig, als ein <term ref="gfa-keywords-8976">Drechsler</term> nur im Stande wäre,
                     denselben einzuspannen und zum Rundlaufen zu bringen. Ein zweiter ähnlicher
-                    <term ref="gfa-keywords-9643">Drehstuhl</term> und eine andere Person macht den Zapfen in einem Nu, wo nachher der
+                    Drehstuhl und eine andere Person macht den Zapfen in einem Nu, wo nachher der
                     krumme Griff des Schirms angesteckt wird. — Das Schleifen des Holzes auf den
                     Drehstühlen geschieht, statt wie <placeName ref="gfa-places-1406">bei uns</placeName> mit Schachthalm, mit Scouring papes
                     (Glas- oder Schmirgelpapier), und das Poliren mit Wachs und einem harten Holz
                     sehr schön. — Zu meiner Verwunderung kam ich hier in eine Werkstätte, wo man
-                    eine Maschine zu einem Dampfboot baute, auf welchem Herr <persName ref="gfa-actors-7775">Bellhouse </persName>sein Holz,
+                    eine Maschine zu einem <term ref="gfa-keywords-8801">Dampfboot</term> baute, auf welchem Herr <persName ref="gfa-actors-7775">Bellhouse </persName>sein Holz,
                     wie <pb n="141" facs="https://www.e-rara.ch/ebs/content/zoom/16557882"/>es
                     scheint, selbst in <placeName ref="gfa-places-105">Holland </placeName>oder <placeName ref="gfa-places-109">Norwegen </placeName>holen will. Ich glaubte nicht, hier
                     eine Werkstätte des <persName ref="gfa-actors-7964">Vulkans</persName> unter den Tausenden von Bretern und Haufen von
@@ -1704,13 +1704,13 @@
                     kleine Wäldchen bildend, beisammen stehen, weiden seine Schaafe, Pferde und Kühe
                     in vollem Behagen. Fast überall noch in England in den Parks und Gütern bleibt
                     das Vieh Tag und Nacht draussen bis gegen den Winter. Nur um <placeName ref="gfa-places-89">London </placeName>herum
-                    gewinnt die Stallfütterung nach und nach die Oberhand. — Malerisch wird ein
+                    gewinnt die <term ref="gfa-keywords-9531">Stallfütterung</term> nach und nach die Oberhand. — Malerisch wird ein
                     solches Gut dadurch, und das ganze Land, weil sich dieses häufig wiederholt,
                     gewinnt an frohem Aussehen; aber vortheilhaft kann es doch nicht sein.</p>
                 <p>Da wir noch auf einen Verwandten warten mussten, der auch zum Mittagessen geladen
                     war, und <persName ref="gfa-actors-8268">Ms. Phillips</persName> indessen, die eine sehr schöne Frau ist, ihre Toilette
-                    machte, führte mich Herr <persName ref="gfa-actors-7928">Phillips</persName> in sein Treibhaus. Ich erstaunte da über die
-                        Wir<pb n="143" facs="https://www.e-rara.ch/ebs/content/zoom/16557884" break="no"/>kung des Dampfes auf die Vegetation der Trauben, und nie in
+                    machte, führte mich Herr <persName ref="gfa-actors-7928">Phillips</persName> in sein <term ref="gfa-keywords-9580">Treibhaus</term>. Ich erstaunte da über die
+                        Wir<pb n="143" facs="https://www.e-rara.ch/ebs/content/zoom/16557884" break="no"/>kung des Dampfes auf die Vegetation der <term ref="gfa-keywords-9577">Trauben</term>, und nie in
                     meinem Leben habe ich in Hinsicht auf Menge und Grösse auch nur entfernt etwas
                     Aehnliches gesehen. Dieses ganze ziemlich grosse Treibhaus, dessen schräges Dach
                     auch aus lauter Fensterscheiben besteht, von dem ebenfalls alles dicht voll
@@ -1722,13 +1722,13 @@
                     ins Leben treten. — Herr <persName ref="gfa-actors-7928">Phillips</persName>, der die <placeName ref="gfa-places-134">Schweiz </placeName>kennt, und eilf Monate an den
                     Ufern des <placeName ref="gfa-places-1959">Genfersees </placeName>zubrachte, sagte, als wir von unserm Weinbau sprachen: «You
                     have a climate, but we <pb n="144" facs="https://www.e-rara.ch/ebs/content/zoom/16557885"/>must make one (Sie
-                    haben ein Klima, aber wir müssen eins machen)». Ja, dachte ich, könnten wir es
+                    haben ein <term ref="gfa-keywords-9216">Klima</term>, aber wir müssen eins machen)». Ja, dachte ich, könnten wir es
                     nur auch, denn bald, wenn es so fortgeht, sind unsere armen Weinbauern dazu
                     verdammt, ewig Wasser zu trinken. Uebrigens gebe ich die Hoffnung nicht auf, so
                     grundlos als sie erscheinen mag, dass die Kunst auch noch bei uns mit Vortheil
                     wird der Natur zu Hilfe kommen können.</p>
                 <p>Herr <persName ref="gfa-actors-8086" type="met">Marc Phillips</persName>, der mit uns zu Mittag speisete, ist Miteigenthümer eines
-                    grossen Eisenwerks in <placeName ref="gfa-places-1945">Wales</placeName>, wo sie aber nur Gusseisen machen. Er sagte, man
+                    grossen <term ref="gfa-keywords-9005">Eisenwerks</term> in <placeName ref="gfa-places-1945">Wales</placeName>, wo sie aber nur Gusseisen machen. Er sagte, man
                     werde sehen, wie innerhalb sechs Jahren Wales sich heben werde. Denn ganz
                     neuerlich hat man ungemein reiche Kohlen- und Eisenminen entdeckt. Eben so auch
                     <term ref="gfa-keywords-9664">Blende</term>, mit welcher sie nun, und mit <term ref="gfa-keywords-8643">Kupfer</term> von dem nahe liegenden <placeName ref="gfa-places-1881">Anglese</placeName>,
@@ -1744,13 +1744,13 @@
                 <head>Zurück in der Stadt, 23. Juni 1825</head>
                 <p>Den <date when="1825-06-23">23</date>. Da Herr <persName ref="gfa-actors-7928">Phillips</persName> um 9 Uhr in der <placeName ref="gfa-places-471">Stadt</placeName> sein wollte, was mir auch lieb
                     war, so frühstückten wir zeitlicher, als man sonst in England zu thun pflegt,
-                    und wie gewohnt weit reichlicher, als bei uns. Denn nebst Thee und Kaffe dürfen
+                    und wie gewohnt weit reichlicher, als bei uns. Denn nebst <term ref="gfa-keywords-9558">Thee</term> und <term ref="gfa-keywords-9197">Kaffe</term> dürfen
                         <pb n="146" facs="https://www.e-rara.ch/ebs/content/zoom/16557887"/>zweierlei Fleisch nebst Eier, Butter und Brod niemals fehlen. — Ich beurlaubte
                     mich bei <persName ref="gfa-actors-8132">Mrs. Phillips</persName>, die mir zum Abschied freundlich die Hand reichte, wie
                     dieses in England zum Zeichen des Wohlwollens Sitte ist, so auch bei ihrer
                     muntern Tochter. Ganz nahe bei Herrn <placeName ref="gfa-places-1944" type="itinerar" when="1825-06-23" n="72">Phillips Landgut</placeName> betrachteten wir noch im
                     Vorbeifahren eine ganz neue, isolirt auf einem kleinen Hügel stehende, durchaus
-                    in gothischem Geschmack mit zwei Thüren gezierte, und von lauter gehauenen
+                    in <term ref="gfa-keywords-9139">gothischem</term> Geschmack mit zwei Thüren gezierte, und von lauter gehauenen
                     Steinen aufgeführte Landkirche, die aber auch 14,000 <term ref="gfa-keywords-8410">Pfund Sterling</term>, oder nach
                     unserm Gelde ungefähr 150,000 <term ref="gfa-keywords-8457">fl.</term> gekostet hat. — Diese Kirche gibt dem Gute von
                     Herrn Phillips einen bedeutenden Werth, indem sie einen sehr schönen Point de
@@ -1838,7 +1838,7 @@
                     Anwendung davon öfters räthselhaft und penibel.</p>
                 <p>Nach aufgehobener Tafel hörte ich noch manche merkwürdige Mittheilung von diesem
                     erfahrnen Mann. Unter anderm frug ich ihn, warum selbst in England manche
-                    Spinnereien prosperiren, während andere zu Grunde gingen. Wegen den Spinnereien
+                    <term ref="gfa-keywords-9466">Spinnereien</term> prosperiren, während andere zu Grunde gingen. Wegen den Spinnereien
                     sagte er mir, es sei möglich, und man könne nicht einmal immer genau die Gründe
                     angeben (einer der hauptsächlichsten und untrüglichsten sei indessen immer der
                     grössere oder kleinere Massstab, nach welchem selbige errichtet worden), dass
@@ -1851,7 +1851,7 @@
                     Gewinn sei, während dem die andern, die auch 20 Procent verlieren, dann statt
                     allem Gewinn noch 10 Procent einbüssen, welches dann in Kurzem den Untergang
                     derselben nach sich ziehen kann.</p>
-                <p>Er hatte vor dem Theetrinken noch die Gefälligkeit, mir seinen Oelgas-Apparat,
+                <p>Er hatte vor dem <term ref="gfa-keywords-9558">Theetrinken</term> noch die Gefälligkeit, mir seinen Oelgas-Apparat,
                     der sehr niedlich und simpel nur für sein eigenes Wohnhaus eingerichtet war, zu
                     zeigen. Er producirt für jedes Mal 200 Cubikfuss Gas, um den <term ref="gfa-keywords-8550">Gazometer</term> zu
                     füllen, welches ihm dann den Dienst für 20 Pfund Kerzen leistet, ein Quantum,
@@ -1870,7 +1870,7 @@
             <div type="day">
                 <head>Manchester-Leeds, 25.-26. Juni 1825</head>
                 <p>Den <date when="1825-06-25">25</date>. Diesen Morgen erhielt ich von Herrn <persName ref="gfa-actors-7607">Lee </persName>eine Introduction an Herrn <persName ref="gfa-actors-8088">Y.</persName>,
-                    Associé in dem grossen <placeName ref="gfa-places-1952"><orgName ref="gfa-actors-8089">Eisenwerk und der Gussstahlfabrik zu H. O.</orgName></placeName> nahe bei <placeName ref="gfa-places-20">Bir<pb n="156" facs="https://www.e-rara.ch/ebs/content/zoom/16557897" break="no"/>mingham</placeName>; schrieb einen grossen Brief an Herrn Lee zurück; nahm
+                    Associé in dem grossen <placeName ref="gfa-places-1952"><orgName ref="gfa-actors-8089"><term ref="gfa-keywords-9005">Eisenwerk</term> und der <term ref="gfa-keywords-9519">Gussstahlfabrik</term> zu H. O.</orgName></placeName> nahe bei <placeName ref="gfa-places-20">Bir<pb n="156" facs="https://www.e-rara.ch/ebs/content/zoom/16557897" break="no"/>mingham</placeName>; schrieb einen grossen Brief an Herrn Lee zurück; nahm
                     einen Platz in der <term ref="gfa-keywords-8570">Diligence</term> auf morgen nach <placeName ref="gfa-places-1760">Leeds</placeName>, und beschloss den Abend mit
                     Einpacken.</p>
                 <p>Sonntag den <date when="1825-06-26">26</date>. Beim Frühstück las ich die berühmte englische Zeitung <term ref="gfa-keywords-9665">The Times</term>
@@ -1920,7 +1920,7 @@
                 <p>Unter allen fiel mir sogleich auf, und gefiel mir zum allermeisten, ein Portrait
                     in Lebensgrösse, wie ich glaube von <persName ref="gfa-actors-7862">Lord Howder</persName>, durch den Präsidenten der
                     königl. Akademie Herrn <persName ref="gfa-actors-7883">Lawrence</persName> gemalt. — Man behauptet, und ich glaube es, er
-                    sei der erste der nun lebenden Portraitmaler. Dieses Stück kostete über
+                    sei der erste der nun lebenden <term ref="gfa-keywords-9371">Portraitmaler</term>. Dieses Stück kostete über
                     sechshundert <term ref="gfa-keywords-8410">Pfund Sterling</term>. Herr <persName ref="gfa-actors-7607">Lee</persName>, bei dem ich zuerst nur ein Bruststück
                     über dem Kamin sah <pb n="160" facs="https://www.e-rara.ch/ebs/content/zoom/16557901"/>und welches 250
                     <term ref="gfa-keywords-8536">Guinen</term> kostete, sagte mir schon, dass man ihm obenerwähnten Preis für seine
@@ -1935,7 +1935,7 @@
                     erforderlichen Instrumente, ein Laboratorium und ein schöner Hörsaal sind dafür
                     vorhanden. Obenauf ist eine artige, ausgewählte Sammlung englischer Mineralien
                     und Fossilien, und wohl erhaltene aber nicht <pb n="161" facs="https://www.e-rara.ch/ebs/content/zoom/16557902"/>sehr zahlreiche
-                    Exemplare aus dem Thierreich. Einige vortrefflich erhaltene Mumien, die noch
+                    Exemplare aus dem Thierreich. Einige vortrefflich erhaltene <term ref="gfa-keywords-9325">Mumien</term>, die noch
                     nicht lange hier sind, interessirten mich darum, weil mir Herr <persName ref="gfa-actors-7697">Gott</persName> sagte, dass
                     die auf den Särgen von Sycamoreholz so trefflich und in den lebendigsten Farben
                     erhaltenen <term ref="gfa-keywords-9178">Hieroglyphen</term> von zwei jungen Leuten hier, die von einer Person in
@@ -1971,7 +1971,7 @@
             <div type="day">
                 <head>Besuch der Textilfabrik Park Mill, 27. Juni 1825</head>
                 <p>Von dieser Anstalt weg besuchten wir noch die dem Herrn <persName ref="gfa-actors-7697">Gott</persName> zuständige
-                    Tuchfabrike, <placeName ref="gfa-places-1795" type="itinerar" when="1825-06-27" n="85">Park mill</placeName> genannt. — Ich hatte selbige <date to="1814-12-31" from="1814-01-01">vor eilf Jahren</date> schon
+                    <term ref="gfa-keywords-9585">Tuchfabrike</term>, <placeName ref="gfa-places-1795" type="itinerar" when="1825-06-27" n="85">Park mill</placeName> genannt. — Ich hatte selbige <date to="1814-12-31" from="1814-01-01">vor eilf Jahren</date> schon
                     gesehen, musste mich aber nicht nur über die äusserst bedeutenden
                     Vergrösserungen wundern, die <pb n="164" facs="https://www.e-rara.ch/ebs/content/zoom/16557905"/>er wirklich
                     vornimmt, sondern auch über die ungemein kurze Zeit, in welcher, und über die
@@ -2086,7 +2086,7 @@
                     errichten, die sich (das Locale erheischt es so) vor allen andern darin
                     unterscheidet, dass die Seitenwände, so wie dann der Boden, auf die Ketten
                     aufgestellt werden, anstatt, wie sonst, von denselben herunter zu hängen.</p>
-                <p>Erst gegen Mitternacht — wir verweilten nach dem Theetrinken noch einige Zeit in
+                <p>Erst gegen Mitternacht — wir verweilten nach dem <term ref="gfa-keywords-9558">Theetrinken</term> noch einige Zeit in
                     der fast lauter Pracht- oder sonst ausgesuchte Werke enthaltenden Bibliothek —
                     führte mich Herr <persName ref="gfa-actors-7697">Gott</persName> in mein Schlafzimmer. Hier unter diesem Fenster, sagte
                     Herr Gott, stand vor fünf Jahren auch um diese Zeit Ihr nun verstorbener Freund,
@@ -2102,7 +2102,7 @@
                 <head>Besuch der Textilfabrik Armsley Watermill, 28. Juni 1825</head>
                 <p>Den <date when="1825-06-28">28</date>. Nach dem Frühstück, vor welchem ich mit Herrn <persName ref="gfa-actors-7697">Gott</persName>einen Spaziergang
                     durch seinen <placeName ref="gfa-places-1794" type="itinerar" when="1825-06-28" n="87">Park</placeName> machte, und mit Vergnügen die schöne umgehende Landschaft
-                    beschaute, worin sich die malerischen gothischen Ruinen eines <date to="1547-01-28" from="1509-04-24">zur Zeit <persName ref="gfa-actors-7854">Heinrichs
+                    beschaute, worin sich die malerischen <term ref="gfa-keywords-9139">gothischen</term> <term ref="gfa-keywords-9409">Ruinen</term> eines <date to="1547-01-28" from="1509-04-24">zur Zeit <persName ref="gfa-actors-7854">Heinrichs
                     des Achten</persName></date> zerstörten <placeName ref="gfa-places-1975">Klosters Kirkdale</placeName>, dann das entfernte Leeds mit der Menge
                     seiner rauchenden, <term ref="gfa-keywords-9341">Obelisken</term> ähnlichen <pb n="175" facs="https://www.e-rara.ch/ebs/content/zoom/16557916"/>Kamine, so wie der
                     tief liegende, in mehrfachen Krümmungen erscheinende Kanal und Fluss <placeName ref="gfa-places-1872">Car</placeName>
@@ -2151,10 +2151,10 @@
                     sein, mich dennoch abweisen können.</p></div>
             <div type="day">
                 <head>Besuch der Flachsspinnerei Marshall Mills, 28. Juni 1825</head>
-                <p>Zu meinem Leidwesen war Herr <persName ref="gfa-actors-8092" type="met">M.</persName>, als ich auf das Comptoir der <placeName ref="gfa-places-1977" type="itinerar" when="1825-06-28" n="89">Spinnerei</placeName> kam,
+                <p>Zu meinem Leidwesen war Herr <persName ref="gfa-actors-8092" type="met">M.</persName>, als ich auf das Comptoir der <placeName ref="gfa-places-1977" type="itinerar" when="1825-06-28" n="89"><term ref="gfa-keywords-9466">Spinnerei</term></placeName> kam,
                     nicht anwesend, man sagte aber, er werde kommen. Ich hatte indessen eine
                     wunderliche Unterredung mit einem wie es schien der ersten Commis. — Nach einer
-                    Personal-Examination, die er mit mir vor<pb n="179" facs="https://www.e-rara.ch/ebs/content/zoom/16557920" break="no" xml:id="TB3_p_179"/>nahm,
+                    Personal-Examination, die er mit mir vor<pb n="179" facs="https://www.e-rara.ch/ebs/content/zoom/16557920" break="no" xml:id="p_179"/>nahm,
                     fing er mich ohne weitere Einleitung an zu fragen, ob die Leute in meinem Lande
                     auch glücklich seien? — Ich sagte, es komme nur darauf an, was man dabei
                     verstehe; denn darüber, ich wisse nicht, ob zum Glück oder zum Unglück, seien
@@ -2180,7 +2180,7 @@
                     gern an dem Ort, <pb n="181" facs="https://www.e-rara.ch/ebs/content/zoom/16557922"/>wo er hin gehört,
                     und ohne eine so wichtige Empfehlung ich wahrscheinlich wieder unbefriedigt
                     hätte umkehren können, denn Herr <persName ref="gfa-actors-8092">M</persName>. sah im Anfang eben nicht sehr disponirt aus,
-                    den Cicerone seiner Fabrik zu machen. — Indessen stand er plötzlich auf, und
+                    den <term ref="gfa-keywords-8921">Cicerone</term> seiner Fabrik zu machen. — Indessen stand er plötzlich auf, und
                     hiess mich mit ihm gehen.</p>
                 <p>Zuvörderst führte er mich zur Dampfmaschine, die in einem niedlichen und äusserst
                     rein gehaltenen Zimmer steht, und wegen ihrer schönen auch äusserlichen
@@ -2188,7 +2188,7 @@
                     gleich sieht. Sie ist in <placeName ref="gfa-places-1760">Leeds</placeName>, vermuthlich von dem berühmten <persName ref="gfa-actors-7700">Murray</persName>, gebaut. —
                     Ich fürchtete mich fast vor der schnellen Rotation des Schwungrades von einer
                     siebenzig Pferde starken Maschine, denn erst vor wenigen Tagen flog eines durch
-                    überwiegende Centrifugalkraft auseinander und zerstörte fast das ganze Gebäude,
+                    überwiegende <term ref="gfa-keywords-9631">Centrifugalkraft</term> auseinander und zerstörte fast das ganze Gebäude,
                     wie solches gestern die Zeitung berichtete. — Bei dieser Maschine <pb n="182" facs="https://www.e-rara.ch/ebs/content/zoom/16557923"/>ist übrigens gar
                     kein Abwart, denn sie pumpt sich ihr Wasser selbst, und schüttet sich durch
                     einen weiten Mühlentrichter ihre Kohlen selbst auf, auf den immer rotirenden
@@ -2196,8 +2196,8 @@
                 <p>Von der Dampfmaschine weg führte er mich in das Magazin von rohem <term ref="gfa-keywords-9049">Flachs</term>, theils
                     aus russischem, theils aus flammändischem bestehend, welchem letztern er den
                     Vorzug gab. Da das feuerfeste Zimmer, wo der gesponnene Flachs getrocknet wird,
-                    anstossend war, führte er mich hinein. Die Temperatur mag 28° <term ref="gfa-keywords-8567">Reaumur </term>gewesen
-                    sein, und sie wird weder durch eigentliche Luft noch Dampfheitzung, sondern
+                    anstossend war, führte er mich hinein. Die Temperatur mag 28° <term ref="gfa-keywords-8567">Reaumur</term> gewesen
+                    sein, und sie wird weder durch eigentliche Luft noch <term ref="gfa-keywords-8941">Dampfheitzung</term>, sondern
                     directe durch den Contact der Zimmerluft, mit vier sehr weiten (2 Fuss) und die
                     ganze Länge des Zimmers durchlaufenden eisernen Röhren erhalten; also
                     eigentliche Oefen. Gleich neben diesem befand sich das Zimmer mit den
@@ -2218,8 +2218,8 @@
                     lange bleiben, auszumerzen; die sorgfältige aber sehr schnell vor sich gehende
                     Dispation dieser nun so meist gleich langen Fibern in sehr lange Bänder, wobei
                     Hand und Auge der Weiber, die dieses verrichten, sehr gewandt ist; das
-                    Geheimniss aller Maschinenspinnerei, die Multiplikation der Bänder für die
-                    Laminirwerke und die Vorgespunst, um die Fehler zu vermindern, war hier so wohl
+                    Geheimniss aller <term ref="gfa-keywords-9466">Maschinenspinnerei</term>, die Multiplikation der Bänder für die
+                    <term ref="gfa-keywords-9264">Laminirwerke</term> und die Vorgespunst, um die Fehler zu vermindern, war hier so wohl
                     berücksichtiget, so wie auch die Reinigung der Bänder von allem Staub oder
                     unzusammenhängenden Trümmern durch Bürsten statt der Putzcylinder bei der
                     Baumwollspinnerei, dass ein gutes Resultat erfolgen muss. Dieses Resultat
@@ -2241,7 +2241,7 @@
                     neuem aufgenommen werden sollte; nämlich den Flachs zu zerschneiden. Noch sind
                     sie damit nicht ganz im Reinen, was ich aber auf der <term ref="gfa-keywords-8916">Cardmaschine</term> sehen konnte,
                     schien es mir nicht, als wenn die Sache wieder aufgegeben werden würde. Ich
-                    zählte die Feinspinnmaschinen in einem Saal, es waren zwei Reihen jede zu 25,
+                    zählte die <term ref="gfa-keywords-9467">Feinspinnmaschinen</term> in einem Saal, es waren zwei Reihen jede zu 25,
                     und da, so viel ich mich erinnere, wir in vier solchen Sälen waren, so arbeiten
                     hiermit täglich 20,000 <term ref="gfa-keywords-9465">Spindeln</term>, welches, die Vorwerke auch mit eingerechnet,
                     die Kraft der Dampfmaschine noch lange nicht absorbirt; auch wird bereits wieder
@@ -2283,7 +2283,7 @@
                     Rest des Tages zu Hause.</p></div>
             <div type="day">
                 <head>Über das Glück und die Rechte der Frauen, 29. Juni 1825</head>
-                <p>Den <date when="1825-06-29">29</date>. Ich machte mir beim Erwachen einen grossen Vorwurf, das <ref type="cross" target="TB3_p_179">Rezept zur
+                <p>Den <date when="1825-06-29">29</date>. Ich machte mir beim Erwachen einen grossen Vorwurf, das <ref type="cross" target="#p_179">Rezept zur
                     menschlichen Glückseligkeit</ref> eine ganze Nacht in meiner Tasche gehabt zu haben,
                     ohne dessen Inhalt zu kennen, da man doch nie weiss, was in einer einzigen Nacht
                     begegnen kann. — Ich klingelte für das Frühstück, um Kraft zu erhalten, mich zu
@@ -2342,16 +2342,16 @@
                     geschrieben, was man darin treibt und macht. — Ich sah nur die Stahlstrecke
                     (Tiltinghouse), eine Guss- und <term ref="gfa-keywords-9509">Brennstahlfabrike</term>, eine feuerfeste
                     <term ref="gfa-keywords-9633">Ziegelmanufaktur</term>, eine <term ref="gfa-keywords-9395">Rasiermesserfabrike</term>, eine Schleif- und Polirmühle, eine
-                    <term ref="gfa-keywords-9487">Drathzieherei</term> für Gussstahl, und ein <term ref="gfa-keywords-9245">Walzwerk</term>, wo <term ref="gfa-keywords-8672">Eisen</term> und <term ref="gfa-keywords-8482">Gussstahl</term> in sehr
+                    <term ref="gfa-keywords-8973">Drathzieherei</term> für Gussstahl, und ein <term ref="gfa-keywords-9245">Walzwerk</term>, wo <term ref="gfa-keywords-8672">Eisen</term> und <term ref="gfa-keywords-8482">Gussstahl</term> in sehr
                     kleinen Dimensionen gestreckt wird, als das Wichtigste für mich aus, und ging,
                     da ich mir ein grosses Pensum vorgenommen hatte, zeitlich zu Bette.</p></div>
             <div type="day">
                 <head>Fabrikbesuche in Sheffield, 30. Juni 1825</head>
                 <p>Den<date when="1825-06-30"> 30. Juni</date>. Das <placeName ref="gfa-places-1979" type="itinerar" when="1825-06-30" n="92">Tiltinghouse</placeName> ist ein <term ref="gfa-keywords-9166">Hammerwerk</term>, vom Wasser des durch die Stadt
-                    fliessenden <placeName ref="gfa-places-1668">Dons </placeName>getrieben, und, sonderbar genug, ganz wie ein altes Kastell,
+                    fliessenden <placeName ref="gfa-places-1668">Dons </placeName>getrieben, und, sonderbar genug, ganz wie ein altes <term ref="gfa-keywords-9205">Kastell</term>,
                     mit vier Thürmen, mit Zinnen und gothischen hohen Fenstern und Schiefsscharten
                     in Kreuzform gebaut, indessen aber ganz <pb n="195" facs="https://www.e-rara.ch/ebs/content/zoom/16557936"/>modern. Die
-                    Engländer lieben das Gothische ungemein, und bringen es zuweilen auch da an, wo
+                    Engländer lieben das <term ref="gfa-keywords-9139">Gothische</term> ungemein, und bringen es zuweilen auch da an, wo
                     es sich gewiss nicht schickt. — Schon wie ich vor eilf Jahren bemerkte, sind sie
                     in Einrichtung und Betrieb der Hammerwerke hinter uns in Deutschland zurück.
                     Hier sind vier Streckhämmer, zwei grössere und zwei kleinere, wovon aber nur
@@ -2362,14 +2362,14 @@
                     Wärmfeuer ist anders, als in Deutschland. Holzkohlen haben sie nicht; in den
                     <term ref="gfa-keywords-8551">Coks</term> würde der Stahl verbrennen, und die unmittelbare Berührung der <term ref="gfa-keywords-8474">Steinkohlen</term>
                     ihm schaden, deswegen wird der zu verstreckende Stahl in der blossen Flamme <pb n="196" facs="https://www.e-rara.ch/ebs/content/zoom/16557937"/>geglüht,
-                    welches sehr gut ist. Ich brachte ein Stück meines <term ref="gfa-keywords-8453">Meteorstahls </term>mit, um dasselbe
+                    welches sehr gut ist. Ich brachte ein Stück meines <term ref="gfa-keywords-8453">Meteorstahls</term> mit, um dasselbe
                     von der dickern Form, die es hatte, in Rasiermesserform zu verstrecken. Sie
                     wollten Anfangs nicht dahinter, indessen erhielt ich doch zuletzt meinen Willen.
                     Was mir interessant schien, war die Verbindung des <term ref="gfa-keywords-9433">Schleifsteins</term>, um das
                     Hammergeschirr zu schleifen, vermittelst eines geer wheels (schrägen Rades) mit
                     den schrägen Kämmen, die an dem Kranzring, in dem die Hebarme oder Daumen, um
                     den Hammer zu treiben, stecken, angegossen waren. — Von da ging ich in die
-                    <placeName ref="gfa-places-1980" type="itinerar" when="1825-06-30" n="93">Gussstahlfabrik</placeName> und meldete mich auf dem Comptoir. Ich wünschte eine Preisnote,
+                    <placeName ref="gfa-places-1980" type="itinerar" when="1825-06-30" n="93"><term ref="gfa-keywords-9519">Gussstahlfabrik</term></placeName> und meldete mich auf dem Comptoir. Ich wünschte eine Preisnote,
                     sodann ein abgeschlagenes Stück Ingot Steel oder <term ref="gfa-keywords-9510">Eingussstahl</term>, und ein Stück
                     dünnen, viereckigten, <term ref="gfa-keywords-9475">gewalzten Stahl</term>. Den folgenden Tag wollte ich es abholen,
                     und gab eine halbe <term ref="gfa-keywords-8586">Krone</term> darauf, die man mir nur nach mehrmaligem Weigern
@@ -2379,7 +2379,7 @@
                     Erlauben Sie, wo gehen Sie hin? etc. etc.; Man bewegt sieh frei wie in seinem
                     eigenen Hause, und jeder respectirt am andern das Recht, für sich selbst zu
                     sein.</p>
-                <p>Ich ging, da mir der Buchhalter den Cementofen gezeigt hatte, noch in das
+                <p>Ich ging, da mir der Buchhalter den <term ref="gfa-keywords-9629">Cementofen</term> gezeigt hatte, noch in das
                     Giesshaus, und wartete, da ich nun einmal Erlaubniss hatte, den Guss aus zwei
                     Oefen ab. Es waren deren im Ganzen sechs. Ich bemerkte, dass darin eine
                     Aenderung gegen früher vorgenommen worden, dass jeder Ofen nun zwei <term ref="gfa-keywords-8532">Tigel</term>
@@ -2394,7 +2394,7 @@
                     achteckig sind, und sehr genau in einander passen, und zum Walzen der Bleche
                     sehr breite, niedere und dünne. — Da ich mit ansah, wie die Tigel gefüllt und
                     componirt wurden, so konnte ich mich überzeugen, wie die, welche aus diesem
-                    Stahl gewalzte Bleche zu Uhrfedern verwenden, zuweilen so sehr übel ihre
+                    Stahl gewalzte Bleche zu <term ref="gfa-keywords-9591">Uhrfedern</term> verwenden, zuweilen so sehr übel ihre
                     Rechnung dabei finden. Kalter Regen trieb mich heim, und an ein kaum
                     angezündetes Kaminfeuer, das mit dunkeln, zweifelhaften Flammen brannte.</p>
                 <p>Ich glaube wirklich, sprach ich zu mir selbst, dass man in der Hölle nur
@@ -2408,7 +2408,7 @@
                     lebendigem Schimmer und lichten Flammen brennen.</p></div>
             <div type="day">
                 <head>Innovation Rasiermesser aus Meteorstahl, 30. Juni 1825</head>
-                <p>Ich wünschte zu wissen, was auch ein englischer Messerschmied zu meinem
+                <p>Ich wünschte zu wissen, was auch ein englischer <term ref="gfa-keywords-9305">Messerschmied</term> zu meinem
                     <term ref="gfa-keywords-8453">Meteorstahl</term> sagen würde, wenn ich ihm Stahl geben würde, um ein paar
                     <term ref="gfa-keywords-8659">Rasiermesser</term> davon zu machen. — Der Zufall führte mich in ein Haus, wo man mir
                     sagte, dass eine <placeName ref="gfa-places-1981" type="itinerar" when="1825-06-30" n="94">Manufaktur</placeName> da sei. — In dem Magazin war ein freundlich
@@ -2418,12 +2418,12 @@
                     ich antwortete: ganz einfache; ich wolle den Stahl dazu geben, und wünsche beim
                     Schmieden gegenwärtig zu sein, um das Nöthige wegen der Eigenthümlichkeit des
                     Stahls bemerken zu können. Er sendete, nachdem ich ihm den Stahl hatte weisen
-                    müssen, der an dem einen Ende noch den <term ref="gfa-keywords-8452">Damast </term>erkennen liess, und den er
+                    müssen, der an dem einen Ende noch den <term ref="gfa-keywords-8452">Damast</term> erkennen liess, und den er
                     aufmerksam, ohne etwas zu sagen, betrachtete, einen jungen Menschen mit mir in
                     den Hof, wo die Schmiedwerkstätten waren, in deren eine dieser ging, um den
                     Befehl des Herrn auszurichten. — Die Rasiermesser werden hier alle unter zwei
                     Hämmern geschmiedet, die eine nicht gar flache und ringsherum runde Bahn haben.
-                    Der <term ref="gfa-keywords-8658">Ambos </term>ist äusserst einfach, ein viereckiger Klotz, 5 <term ref="gfa-keywords-8460">Zoll</term> breit, 12 Zoll
+                    Der <term ref="gfa-keywords-8658">Ambos</term> ist äusserst einfach, ein viereckiger Klotz, 5 <term ref="gfa-keywords-8460">Zoll</term> breit, 12 Zoll
                     lang, beinahe <pb n="201" facs="https://www.e-rara.ch/ebs/content/zoom/16557942"/>ganz flach; die beiden kurzen Seiten, um die Messer etwas hohl zu schmieden,
                     abgerundet, so wie auch die vordere lange Seite in der Mitte, aber nur ein
                     wenig, rund ist, um den Talon ansetzen zu können. Sie haben immer 4 bis 5
@@ -2432,7 +2432,7 @@
                     Kreide auf dem Ambos machen, ab. — Durch lange Uebung schneiden sie solche so
                     schön, dass keine Feile daran kommt; auch das Loch wird gleich warm hinein
                     geschlagen. Zwei Mann schneiden im Tag zwanzig Dutzend, und für das Dutzend
-                    erhalten sie 9 <term ref="gfa-keywords-8463">Pence </term>Bezahlung, welches also für beide 15 <term ref="gfa-keywords-8443">Shilling</term>, oder für
+                    erhalten sie 9 <term ref="gfa-keywords-8463">Pence</term> Bezahlung, welches also für beide 15 <term ref="gfa-keywords-8443">Shilling</term>, oder für
                     jeden 4 <term ref="gfa-keywords-8457">fl</term>. 24 <term ref="gfa-keywords-8444">kr</term>. unseres Geldes per Tag ausmacht. — Dieser Taglohn würde bei
                     uns übertrieben erscheinen, in England ist er es aber nicht, weil alles beinahe
                     zwei bis drei Mal theurer ist. Wie <pb n="202" facs="https://www.e-rara.ch/ebs/content/zoom/16557943"/>die Messer, für
@@ -2461,7 +2461,7 @@
                 <p>Auch bei dem Poliren halten sie das Messer in allen Richtungen gegen die Scheibe,
                     fast meistens der Länge nach, und <pb n="204" facs="https://www.e-rara.ch/ebs/content/zoom/16557945"/>dieses geht wohl an,
                     weil Messer und Talon darnach geschmiedet ist, und darum sieht man, was viele
-                    unserer Messerschmiede wundert, auch keinen Strich. Bis die Messer zurückkamen,
+                    unserer <term ref="gfa-keywords-9305">Messerschmiede</term> wundert, auch keinen Strich. Bis die Messer zurückkamen,
                     waren auch, da das Mass dazu vor dem Schleifen genommen wurde, die Hefte von
                     Elfenbein fertig, und so mussten sie nur noch abgezogen werden. Da Herr <persName ref="gfa-actors-7937">Rhodes</persName>,
                     so war der Name des Fabrikanten, gerade nicht anwesend war, so sagte ich, ich
@@ -2481,7 +2481,7 @@
                     nach der Beschaffenheit des Materials im Allgemeinen, sondern selbst im
                     Augenblick während des Ziehens selbst abändern können, verhütet ihnen vielen
                     Bruch, und schont die <term ref="gfa-keywords-9655">Zieheisen</term>. — Noch ging ich spät nach dem <placeName ref="gfa-places-1668" type="itinerar" when="1825-06-30" n="97">Don</placeName> hinunter,
-                    weil ich vermuthete, dass daselbst Walzwerke sein müssten. Ehe ich dahin
+                    weil ich vermuthete, dass daselbst <term ref="gfa-keywords-9245">Walzwerke</term> sein müssten. Ehe ich dahin
                     gelangte, kam ich neben der Brücke zu einem grossen Gebäude, an dem Frontispice
                     war das englische Wappen in Stein ausgehauen, und ringsherum die Inschrift:
                     <placeName ref="gfa-places-1985" type="itinerar" when="1825-06-30" n="98">Sheffield Gas Works</placeName>, darunter das nicht übel gewählte Motto: Ex Fumo Dare Lucem<note>Lat. für Aus Rauch Licht erzeugen</note>.
@@ -2489,12 +2489,12 @@
                     Mann im Begriff war, die <term ref="gfa-keywords-8882">Retorten</term> zu füllen, so ging ich hinein. Die Einrichtung
                     war sehr verständig. In einem verhältnissmässig gar nicht grossen Ofen waren
                     nämlich 40 Retorten, und zwar so disponirt, dass jedes einzelne Feuer fünf, die
-                    auf diese Art <figure xml:id="fig1"><graphic url="images/JCF1825_1_Skizze.jpg"/></figure> über einander gelegt waren, heizte. Diesen fünfen
+                    auf diese Art <figure xml:id="fig1"><graphic url="images/JCF1825_1_Skizze.png"/></figure> über einander gelegt waren, heizte. Diesen fünfen
                     entgegengesetzt waren auf der andern Seite wieder fünfe, so dass die beiden
                     Feuer gegen einander spielten und sich in der Mitte in einem Kamin vereinigten.
                     Aus zwei weiten Hauptröhren ging das Gas in den Purificator oder
                     Reinigungsapparat, der nebst dem Gazometer vor den gewöhnlichen nichts voraus
-                    hatte. Der Kalk wird täglich vier bis fünf Mal gewechselt, und zur Destillation
+                    hatte. Der <term ref="gfa-keywords-9198">Kalk</term> wird täglich vier bis fünf Mal gewechselt, und zur <term ref="gfa-keywords-8967">Destillation</term>
                     werden Wigam, zum Verbrand aber gewöhnliche Steinkohlen genommen. — Das Licht
                     schien mir reiner und geruchloser, als das in <placeName ref="gfa-places-471">Manchester</placeName>.</p>
                 <p>Bald nachher kam ich zu zwei solchen <pb n="207" facs="https://www.e-rara.ch/ebs/content/zoom/16557948"/><placeName ref="gfa-places-1986" type="itinerar" when="1825-06-30" n="99">Werken</placeName>, an denen ich
@@ -2504,7 +2504,7 @@
                     so spröde, dass an beiden Seiten häufige, Zoll tiefe Risse hineinspringen, die
                     nachher müssen weggeschnitten werden, was viel Abgang verursacht.</p>
                 <p>Der viereckigte, 2 bis 2<formula rend="inline" notation="tex">\frac{1}{2}</formula> Linie starke, und dann wieder der flache
-                    <term ref="gfa-keywords-8660">Federmesserstahl</term> wird aus kurzen, 10 Zoll langen Stücken in Façon wie Kernstahl
+                    <term ref="gfa-keywords-8660">Federmesserstahl</term> wird aus kurzen, 10 Zoll langen Stücken in F<term ref="gfa-keywords-9523">açon wie </term>Kernstahl
                     herausgewalzt, und, wie es sich von selbst versteht, in einer Hitze fertig
                     gemacht, wo dann die Stängelchen 9 bis 10 Fuss lang sind.</p>
                 <p>Es war schon ganz Nacht, ehe ich nach Hause ging, und nur um nicht Aufsehen zu
@@ -2517,7 +2517,7 @@
                     paar Stängelchen vierekigten dünn gewalzten, abzuholen. Wie ich es erwartete und
                     es bei der Art zu giessen nicht anders sein kann, war der Eingussstahl inwendig
                     voller Löcher. ln manchen Fällen hat dieses gar nichts zu sagen, aber für Bleche
-                    zu Uhrfedern ist es gewiss schädlich. — Von der Gussstahlfabrik nahm ich den Weg
+                    zu Uhrfedern ist es gewiss schädlich. — Von der <term ref="gfa-keywords-9519">Gussstahlfabrik</term> nahm ich den Weg
                     dahin, <placeName ref="gfa-places-1989" type="itinerar" when="1825-07-01" n="101">wo die feuerfesten Ziegel gemacht werden</placeName>, deren <placeName ref="gfa-places-1265">Sheffield</placeName>so viele
                     braucht, und die nichts weniger als wohlfeil sind, denn das Hundert kostet 9
                     <term ref="gfa-keywords-8443">Schilling</term> und 6 <term ref="gfa-keywords-8463">Pence</term>, oder das Stück ungefähr 3<formula rend="inline" notation="tex">\frac{1}{2}</formula> <term ref="gfa-keywords-8444">Kreuzer</term>. Auch hier werden die
@@ -2548,13 +2548,13 @@
             <div type="day">
                 <head>Qualitätsbescheinigung für Fischers Meteorstahl, 1. Juli 1825</head>
                 <p>Ich wünschte nun meine Messer zu sehen, und als ich <placeName ref="gfa-places-1982" type="itinerar" when="1825-07-01" n="102">zu Herrn <persName ref="gfa-actors-7937" type="met">Rhodes</persName></placeName> kam, waren
-                    selbige eingewickelt und die Note dabei, die 7 <term ref="gfa-keywords-8443">Schilling </term>oder ungefähr 4 <term ref="gfa-keywords-8457">fl</term>. 6
+                    selbige eingewickelt und die Note dabei, die 7 <term ref="gfa-keywords-8443">Schilling</term> oder ungefähr 4 <term ref="gfa-keywords-8457">fl</term>. 6
                     <term ref="gfa-keywords-8444">kr</term>. für beide betrug. — Ich konnte kein <pb n="211" facs="https://www.e-rara.ch/ebs/content/zoom/16557951"/>Wort darüber sagen,
                     denn sie waren mit einer ungemeinen Vollendung bearbeitet. Sie haben hier ein
                     paar vortreffliche Messer, sagte er, und wickelte sie wieder ein. Als ich ihn
                     bezahlt hatte und gehen wollte, sagte er: I should be glad to know little more
                     of the history of that steel. (Es würde mich freuen, etwas mehr von der
-                    Geschichte dieses Stahls zu wissen.) Darauf antwortete ich: And i shuld be glad
+                    Geschichte dieses <term ref="gfa-keywords-9474">Stahls</term> zu wissen.) Darauf antwortete ich: And i shuld be glad
                     to have a few lines from You containing Your opinion about it. — Ohne ein Wort
                     zu sagen, setzte er sich hin und schrieb Folgendes, das ich, wegen der
                     Respectabilität des Mannes, als eine Art von Aktenstück ansehe und darum im
@@ -2591,7 +2591,7 @@
                     auffallenden Karakterzug dieser Nation darzustellen scheint, der sich durch das
                     Gemüth und nicht durch Komplimente ausspricht: Delikatesse und
                     Gutherzigkeit.</p>
-                <p>Heftiger Regengüsse ungeachtet ging ich sechs Meilen weit auf ein <placeName ref="gfa-places-2159" type="itinerar" when="1825-07-01" n="103">Eisenwerk</placeName>, wo
+                <p>Heftiger Regengüsse ungeachtet ging ich sechs Meilen weit auf ein <placeName ref="gfa-places-2159" type="itinerar" when="1825-07-01" n="103"><term ref="gfa-keywords-9005">Eisenwerk</term></placeName>, wo
                     ich wusste, dass Walzen, um die Sturzbleche vor dem Verzinnen zu glätten,
                     gegossen wurden. — Wegen dem schlechten Wetter musste ich in einem ganz kleinen
                     <placeName ref="gfa-places-2082" type="itinerar" when="1825-07-01" n="104">Wirthshaus</placeName> an der Strasse übernachten; ein solches, von dem <persName ref="gfa-actors-7841">Goldsmith</persName> sagt:
@@ -2614,7 +2614,7 @@
                     Journal, dessen ich unterm <date when="1825-06-14">14. Juni</date> erwähnte, mit, <pb n="216" facs="https://www.e-rara.ch/ebs/content/zoom/16557956"/>und ersuchte ihn,
                     die ganz kurze Abhandlung zu lesen. Er that es laut; als er fertig war, fuhr ich
                     fort: Dieser Herr Fischer, dessen im Eingang dieses Rapports erwähnt ist, bin
-                    ich, und die Person, die den Stahl gemacht hat, aus welchem Sie die zwei
+                    ich, und die Person, die den <term ref="gfa-keywords-9474">Stahl</term> gemacht hat, aus welchem Sie die zwei
                     Rasiermesser verfertigt haben, bin auch ich. Sie waren so verbindlich und
                     höflich gegen mich, ich glaube weniger, als Ihnen zu sagen, gegen wen Sie es
                     waren, kann ich nicht thun. — Ueber dieses zeigte ich ihm ein in meinem Werk
@@ -2647,7 +2647,7 @@
                     ich noch keine bei einem Hufschmiede gesehen hatte, machte mich aufmerksam. Die
                     lange Bohrstange, die in zwei Hälsen perpendiculär hinauf und hinunter geschoben
                     werden konnte, und welche unten ein vierekigtes Loch zum Einsteken der Bohrer
-                    hat, ist in der Mitte gekrüpft, wie ein gewöhnlicher Windelbohrer; dann aber ist
+                    hat, ist in der Mitte gekrüpft, wie ein gewöhnlicher <term ref="gfa-keywords-9623">Windelbohrer</term>; dann aber ist
                     noch eine Stelze, wie an einem Werkstatt-Schleifstein, angebracht, an welcher
                     man stösst und zieht, und dadurch eine grössere Gewalt hat; oben ist, was mir
                     bei dieser Einrichtung die <pb n="219" facs="https://www.e-rara.ch/ebs/content/zoom/16557959"/>Hauptsache schien,
@@ -2696,7 +2696,7 @@
                     Walzen diejenige Härte zu ertheilen wissen, dass solches gerade noch mit den
                     besten Instrumenten von Gussstahl gedreht werden kann, und dann wegen seiner
                     Härte und noch einiger Zähigkeit eine lange Resistenz leistet. Nicht weit von
-                    diesen <term ref="gfa-keywords-9245">Walzwerken</term> war eine Frischschmiede, wo man altes Eisen auf runden Böden
+                    diesen <term ref="gfa-keywords-9245">Walzwerken</term> war eine <term ref="gfa-keywords-9056">Frischschmiede</term>, wo man altes Eisen auf runden Böden
                     von Sandstein in einem Reverberirfeuer zu gute macht. Es kamen zwölf solcher
                     Böden jeder zu 75 <term ref="gfa-keywords-8511">Pfund</term> in den Ofen, und nach Verlauf von beinahe zwei Stunden
                     war die Schweisshitze stark genug, dass sie sich setzte. Der Arbeiter streute
@@ -2730,8 +2730,8 @@
                     selbst leisten werden? Will man sich nie durch Verbindung stark machen, und will
                     der Reichthum nie zur Experienz und zur Wissenschaft sich gesellen? — Was sind
                     Wasser und Staub? — Zwei unhaltbare leicht zertrennliche Körper. Aber trozt
-                    nicht der Porzelain als Masse Jahrtausenden, und wird er nicht in seiner
-                    höchsten Vollendung mit Gold aufgewogen? Wir haben nun so ziemlich die
+                    nicht der <term ref="gfa-keywords-9373">Porzelain</term> als Masse Jahrtausenden, und wird er nicht in seiner
+                    höchsten Vollendung mit <term ref="gfa-keywords-9108">Gold</term> aufgewogen? Wir haben nun so ziemlich die
                     Schlüssel, die Zusammensetzung der Körper zu lösen und zu binden; aber sollen
                     wir sie immer nur in Beziehung auf das gemeinste und doch edelste aller Metalle
                     am Rockschofs tragen? Es gibt 24 karätiges Eisen, wie 24 karätiges Gold!</p>
@@ -2775,9 +2775,9 @@
             <div type="day">
                 <head>Geschäftstreffen in Birmingham, 4. Juli 1825</head>
                 <p>Den <date when="1825-07-04">4. Juli</date>. Auf 1 Uhr diesen Nachmittag hatte ich eine Zusammenkunft mit Herrn
-                    <persName ref="gfa-actors-7945" type="met">John Sanders</persName>, Gussstahlfabrikant von <placeName ref="gfa-places-1265">Sheffield</placeName>, verabredet, weshalb ich am
+                    <persName ref="gfa-actors-7945" type="met">John Sanders</persName>, <term ref="gfa-keywords-9519">Gussstahlfabrikant</term> von <placeName ref="gfa-places-1265">Sheffield</placeName>, verabredet, weshalb ich am
                     Morgen nur wenig ausgehen konnte. Ich hatte die Bekanntschaft dieses auf alle
-                    Fälle sehr respectablen Mannes in der Mailcoatch nach <placeName ref="gfa-places-20">Birmingham</placeName> gemacht, und er
+                    Fälle sehr respectablen Mannes in der <term ref="gfa-keywords-9291">Mailcoatch</term> nach <placeName ref="gfa-places-20">Birmingham</placeName> gemacht, und er
                     ist nebst seinen zwei Brüdern der grösste Gussstahlmanufacturist in England, und
                     seine Exportation ist nach den beiden <placeName ref="gfa-places-250">Amerika</placeName>. Er war sehr verwundert, da ich
                         <pb n="229" facs="https://www.e-rara.ch/ebs/content/zoom/16557969"/>ihm ihre
@@ -2795,14 +2795,14 @@
                 <p>Wir sprachen über Vieles, da wir bald gegenseitig fanden, dass wir eigentliche
                         <pb n="230" facs="https://www.e-rara.ch/ebs/content/zoom/16557970"/>Handwerksgenossen seien, und sahen einander des Abends noch ein und vielleicht
                     nicht das letzte Mal. — Noch besuchte ich den <placeName ref="gfa-places-1863" type="itinerar" when="1825-07-04" n="119">Herrn Adcock</placeName>. Mein Ring aus dem
-                    weissen Metall mit dem dazu geschliffenen Stein aus der Braunsteinschlacke, die
+                    weissen Metall mit dem dazu geschliffenen Stein aus der <term ref="gfa-keywords-8895">Braunsteinschlacke</term>, die
                     ich ihm gebracht, war noch nicht fertig; in wenigen Tagen soll ich ihn haben.</p></div>
             <div type="day">
                 <head>Über Sitten und Manieren, 4. Juli 1825</head> 
                 <p>Die Arbeiter in <placeName ref="gfa-places-20">Birmingham</placeName> arbeiten des Montags auch nicht gern wie anderwärts.
                     Die Strassen und Wirthshäuser waren von ihnen angefüllt; vielleicht jetzt um
                     eines Grundes willen mehr, da eine wichtige Frage in Betreff ihrer obschwebt.
-                    Von Herrn <persName ref="gfa-actors-7733" type="met">Adcock</persName> erfuhr ich, dass eine, aber nur eine Gussstahlmanufaktur in
+                    Von Herrn <persName ref="gfa-actors-7733" type="met">Adcock</persName> erfuhr ich, dass eine, aber nur eine <term ref="gfa-keywords-9519">Gussstahlmanufaktur</term> in
                     ganz Birmingham ist, die dem Banquier <persName ref="gfa-actors-7742">Atwood</persName> angehört. Ich ging <placeName ref="gfa-places-2047" type="itinerar" when="1825-07-04" n="120">hin</placeName>, um sie zu
                     sehen, sie schien mir aber nicht vom ersten Range zu sein. Auch in eine Eisengiesserei ging ich. Schon die aussen herumliegende Gusswaare gefiel mir
                     nicht, das Innere entsprach dem Aeussern, und es ist kaum zu begreifen, wie <pb n="231" facs="https://www.e-rara.ch/ebs/content/zoom/16557971"/>Gutes und
@@ -2841,7 +2841,7 @@
                     die in den Gussstahlfabriken selbst. Auch hier wird zu einem Theil neuer Materie
                     das Doppelte von alten gebrauchten Schmelztigeln genommen, welches hauptsächlich
                     gegen das Zerspringen und Reissen schützt. Von Weibern werden, wie in den
-                    Glashütten, die alten Tigelbrocken in kleine Stücken zerschlagen, und die
+                    <term ref="gfa-keywords-9124">Glashütten</term>, die alten Tigelbrocken in kleine Stücken zerschlagen, und die
                     <term ref="gfa-keywords-336">Schlacken</term> sorgfältig mit einem scharfen Hammer weggesprengt. Dann wird die
                     Materie nach Gewicht — der frische Thon ist <pb n="234" facs="https://www.e-rara.ch/ebs/content/zoom/16557974"/>auch ganz trocken —
                     unter einander gemischt, und auf einer Reibe, deren aufrecht umlaufender Stein
@@ -2878,14 +2878,14 @@
                 <p>Den <date when="1825-07-06">6</date>. Diesen Morgen ging ich, nachdem ich einen Platz in der Kutsche nach <placeName ref="gfa-places-89">London</placeName>
                     (es fahren deren täglich, nur was mir bekannt ist, des Abends drei oder vier,
                     und eben so viel des Morgens ab) gegen Erlegung von zwei <term ref="gfa-keywords-8410">Pfund Sterling</term> genommen
-                    hatte, zu dem Eigenthümer des schönen <placeName ref="gfa-places-2033" type="itinerar" when="1825-07-06" n="124">Hauses</placeName> mit Joaillerie-, Goldschmieds-,
-                    Kunst- und Bijouterie-, wie auch Quincaillerie-Waaren, und kaufte etwas von
+                    hatte, zu dem Eigenthümer des schönen <placeName ref="gfa-places-2033" type="itinerar" when="1825-07-06" n="124">Hauses</placeName> mit Joaillerie-, <term ref="gfa-keywords-9138">Goldschmieds-</term>,
+                    Kunst- und Bijouterie-, wie auch <term ref="gfa-keywords-9102">Quincaillerie-Waaren</term>, und kaufte etwas von
                     künstlichem <term ref="gfa-keywords-9343">Obsidian</term>, den sie sehr schön zu machen wissen, und der nun sehr in
                         <pb n="237" facs="https://www.e-rara.ch/ebs/content/zoom/16557977"/>Mode
                     ist. — Es freute den Herrn <persName ref="gfa-actors-7874" type="met">Jones</persName>, so heisst der Eigenthümer, als ich ihm, nur
                     nach dem was ebener Erde befindlich war zu urtheilen, sagte, er habe mit Recht
                     seinem Hause die griechische Aufschrift ertheilt, denn wirklich waren
-                    Gegenstände aller Arten von Künsten, Malerei und Bildhauerei und <term ref="gfa-keywords-8642">Bronze</term> nicht
+                    Gegenstände aller Arten von Künsten, Malerei und <term ref="gfa-keywords-8830">Bildhauerei</term> und <term ref="gfa-keywords-8642">Bronze</term> nicht
                     ausgeschlossen, vorhanden. — Ja, sagte er, Sie müssen mit mir hinauf gehen, es
                     sind noch zwei Zimmer. Wir stiegen die marmornen Treppen hinauf, die, damit man
                     nicht darauf glitsche, mit Bleitafeln, wo man auftritt, überzogen sind, in die
@@ -2893,8 +2893,8 @@
                     sein, und so, glaube ich, ist es in Hinsicht des Reichthums, der Menge und der
                     Schönheit der Gegenstände dieses. So wie das unterste Zimmer Theeurnen,
                     Theebleche und eine Menge anderer Gegenstände für Luxus und Hausgebrauch
-                    enthält, so ist auf der ersten Etage alles von Silber und Gold und auch
-                    plattirter <pb n="238" facs="https://www.e-rara.ch/ebs/content/zoom/16557978"/>Arbeit für Thee- und Tafelservice und Schmuck, und auf dem obersten, dessen
+                    enthält, so ist auf der ersten Etage alles von <term ref="gfa-keywords-9107">Silber</term> und <term ref="gfa-keywords-9108">Gold</term> und auch
+                    plattirter <pb n="238" facs="https://www.e-rara.ch/ebs/content/zoom/16557978"/>Arbeit für <term ref="gfa-keywords-9560">Thee-</term> und <term ref="gfa-keywords-9552">Tafelservice</term> und Schmuck, und auf dem obersten, dessen
                     ebene Diele oder Decke ganz von gefärbtem und gemaltem Glas ist, <term ref="gfa-keywords-8642">Bronze</term>, <term ref="gfa-keywords-9292">Malerei</term>
                     und <term ref="gfa-keywords-9102">Quincaillerie</term>. Etwas ganz Neues muss ich Ihnen zeigen, was wir haben, sagte
                     er, und machte ein schwarzes Etui, welches auch die griechische Inschrift hatte,
@@ -2925,7 +2925,7 @@
             <div type="day">
                 <head>Über Eisensteinporzellan und Kristallglas, 8. Juli 1825</head>
                 <p>Den 8. Da ich schon oft von der <term ref="gfa-keywords-9022">Iron stone china ware</term> gehört hatte, welches ein
-                    beinahe unzerbrüchliches Porzellan sein soll, so ging ich diesen Morgen in den
+                    beinahe unzerbrüchliches <term ref="gfa-keywords-9373">Porzellan</term> sein soll, so ging ich diesen Morgen in den
                     <placeName ref="gfa-places-2032" type="itinear" when="1825-07-08" n="126">Laden</placeName>, wo man es verkauft (<placeName ref="gfa-places-1700">St. Pauls Churchyard</placeName>). Nebst diesem und andern Arten
                     von Porzellan ist hier auch eine grosse, ja vielleicht die grösste Niederlage
                     von Krystallglas im Reiche. Der Eigenthümer war sehr höflich und führte mich in
@@ -2937,7 +2937,7 @@
                     dann einen ganz von grünem Glas und stehend, <pb n="241" facs="https://www.e-rara.ch/ebs/content/zoom/16557981"/>statt zum Hängen,
                     wovon sieben ähnliche an einen Nabob<note>Nawab oder Nabob ist ein historischer Herrschertitel auf dem Indischen Subkontinent.</note> von <placeName ref="gfa-places-67">Indien</placeName>, jedes Stück zu 300 <term ref="gfa-keywords-8536">Guineen</term>,
                     versendet worden sind. Weinflaschen für <term ref="gfa-keywords-9372">Portwein</term> waren da, das Stück zu sechszig
-                    <term ref="gfa-keywords-8457">Gulden</term>. Zu solchen Bouteillen gehört dann ein silberner Tischwagen, wie ich in
+                    <term ref="gfa-keywords-8457">Gulden</term>. Zu solchen Bouteillen gehört dann ein <term ref="gfa-keywords-9107">silberner</term> Tischwagen, wie ich in
                     <placeName ref="gfa-places-20">Birmingham</placeName> in Herrn <persName ref="gfa-actors-7874">Jones</persName> Magazin sah, wovon ich vergass, Erwähnung zu thun.
                     Diese Wagen, ganz von Silber und mit breiten Rädern, deren Felgen mit blauem
                     Tuch überzogen sind, damit er ja leise und sanft gehe, enthält nebst der
@@ -3025,7 +3025,7 @@
             <div type="day">
                 <head>Geschäftschancen in der Londoner Münze, 11. Juli 1825</head>
                 <p>Den <date when="1825-07-11">11. Juli</date>. Um halb eilf Uhr ging ich <placeName ref="gfa-places-2053" type="itinerar" when="1825-07-11" n="132">zu Herrn <persName ref="gfa-actors-7936" type="met">Rennié</persName></placeName>. Nach kurzer Unter<pb n="248" facs="https://www.e-rara.ch/ebs/content/zoom/16557988" break="no"/>haltung fragte er mich, ob ich nicht um 1 Uhr in die  <placeName ref="gfa-places-1636" type="itinerar" when="1825-07-11" n="133">königl. Münze</placeName> kommen, und
-                    etwas von meinem Stahl zur Untersuchung mitbringen möchte. Es ereignen sich,
+                    etwas von meinem <term ref="gfa-keywords-9474">Stahl</term> zur Untersuchung mitbringen möchte. Es ereignen sich,
                     fuhr er fort, bei ihnen in dieser Münze immer so viele Zufälle mit den so
                     kostbaren Stempeln, und wenn mein Stahl aushalten würde, könnten wir bedeutende
                     Geschäfte mit einander machen.</p>
@@ -3037,7 +3037,7 @@
                     lernen; das Resultat wird sich nun ergeben.</p>
                 <p>Herr <persName ref="gfa-actors-7741" type="met">Atkinson</persName>, der <term ref="gfa-keywords-9327">Münzmeister</term>, kam auch zu uns. Es freute und interessirte ihn
                         <pb n="249" facs="https://www.e-rara.ch/ebs/content/zoom/16557989"/>eben so,
-                    wie die andern Herren, die schönen <term ref="gfa-keywords-8452">Damastzeichnungen</term> auf den Dolch- und
+                    wie die andern Herren, die schönen <term ref="gfa-keywords-8452">Damastzeichnungen</term> auf den <term ref="gfa-keywords-8971">Dolch-</term> und
                     <term ref="gfa-keywords-8659">Rasiermesserklingen</term> zu sehen, die ich mitgebracht hatte; während dem wir uns
                     darüber unterhielten, gingen wir in der Münze herum. Drei Dampfmaschinen
                     besorgen die verschiedenen Arbeiten. Eine nämlich treibt sechs <term ref="gfa-keywords-8767">Walzenpaare</term>, die
@@ -3208,7 +3208,7 @@
                     sehen, und in der That fand ich sie merkwürdig genug. Das Gas wird in sechs
                     geraden und neben einander liegenden Retorten, oder eigentlicher zu reden,
                     Cylindern, die mit beiden Enden auf den zwei langen Seiten des Ofens
-                    hinausragen, und die mit aufgeschraubten Deckeln während der Destillation
+                    hinausragen, und die mit aufgeschraubten Deckeln während der <term ref="gfa-keywords-8967">Destillation</term>
                     luftdicht verschlossen sind, nach der gewöhnlichen Art, das heisst, durch zartes
                     Hineintropfen des Oels auf der einen Seite auf die im Cylinder befindlichen
                     Coks, und <pb n="263" facs="https://www.e-rara.ch/ebs/content/zoom/165579903"/>nach seiner Zersetzung durch Aufsteigen des Gases auf der andern Seite,
@@ -3252,7 +3252,7 @@
                     einströmt, luftvoll oder luftleer? — Sie sind luftvoll, so dass also ein
                     dreissigster Theil atmosphärischer Luft mit dem Oelgas sich verbindet; aber weit
                     entfernt, zu schaden, da dieses Verhältniss durchaus kein Explosivgas bildet,
-                    ist diese Verbindung nützlich, weil der Antheil Sauerstoff, der in der
+                    ist diese Verbindung nützlich, weil der Antheil <term ref="gfa-keywords-9421">Sauerstoff</term>, der in der
                     atmosphärischen Luft enthalten ist, die Flamme von Gas mit hellerm Glanze
                     brennen macht. — Die Gefässe werden alle, ehe man sie gebraucht, einer Pression
                     von 50 Atmosphären ausgesetzt, und wann sie diese Probe halten, gestempelt.</p></div>
@@ -3364,7 +3364,7 @@
                 <p>Sonntags den <date when="1825-07-17">17. Juli</date>. In einer der Postkutschen, die von <placeName ref="gfa-places-2030" type="itinerar" when="1825-07-17" n="146">Charing cross</placeName> täglich
                     mehrmal nach <placeName ref="gfa-places-1608" type="itinerar" when="1825-07-17" n="150">Dover</placeName> abgehen, verliess ich London morgens um acht Uhr, und langte
                     Abends um vier Uhr in Dover an. Da das Dampfboot erst morgen Vormittags wegging,
-                    so ging ich nach den niedlichen <placeName ref="gfa-places-2029" type="itinerar" when="1825-07-17" n="151">Seebädern</placeName>, die in kleinen Barraken an dem Ufer
+                    so ging ich nach den niedlichen <placeName ref="gfa-places-2029" type="itinerar" when="1825-07-17" n="151"><term ref="gfa-keywords-9449">Seebädern</term></placeName>, die in kleinen Barraken an dem Ufer
                     des Meeres errichtet sind. — Man kann sie kalt oder warm nehmen, und was für
                     eine solche Einrichtung der Anstand, die Reinlichkeit und die Gesundheit
                     erfordert, ist hier beisammen, und sie könnten als Muster für die Bäder des
