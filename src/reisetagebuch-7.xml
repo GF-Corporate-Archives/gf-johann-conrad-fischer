@@ -24,9 +24,10 @@
             <titlePage>
                 <pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16618482"/>
                 <docTitle>
-                    <titlePart type="main"><add place="top" hand="#jcf">
-                        Seinem wehrten Dinste geführten(?) zur IndustrienAusstellung auf London, und zum Andenken, den Herrn Kantonsrath <persName ref="gfa-actors-7449">Amman</persName> von Ermatingen. der Verfasser
-                    </add>TAGEBUCH EINER REISE<lb/>ZU DER AUSSTELLUNG IN LONDON<lb/>UND NACH EINIGEN FABRIKSTÄDTEN<lb/>IN ENGLAND<lb/>im Sommer 1851<lb/>VON J.C.FISCHER,<lb/>Oberstlieutnant.</titlePart>
+                    <titlePart type="main"><add place="top" hand="#jcf">Seinem wehrten Dinste geführten(?) zur IndustrienAusstellung auf London, und zum Andenken, den Herrn Kantonsrath <persName ref="gfa-actors-7449">Amman</persName> von Ermatingen. der Verfasser</add></titlePart>
+                    <titlePart>TAGEBUCH EINER REISE ZU DER AUSSTELLUNG IN LONDON</titlePart>
+                     <titlePart>UND NACH EINIGEN FABRIKSTÄDTEN IN ENGLAND im Sommer 1851</titlePart>
+                     <titlePart>VON J.C.FISCHER, Oberstlieutnant.</titlePart>
                     <titlePart>Mit einer Abbildung in Steindruk.</titlePart>
                 </docTitle>
                 <docImprint>SCHAFFHAUSEN. Gedrukt bei <orgName ref="gfa-actors-7553">MURBACH &amp; GELZER</orgName>. <docDate>1845</docDate></docImprint>
