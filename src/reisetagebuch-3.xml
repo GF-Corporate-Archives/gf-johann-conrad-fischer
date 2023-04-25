@@ -32,9 +32,9 @@
                 <p>VORREDE.</p>
                 <p>Um meinen <persName ref="gfa-actors-7384">zweitjüngsten Sohn</persName> zu besuchen, welcher schon seit ein paar Jahren das
                     Glück genoss, in dem <placeName ref="gfa-places-1818">k. k. polytechnischen Institut</placeName> in <placeName ref="gfa-places-247">Wien</placeName> dem Studium der
-                    Chemie und Physik sich widmen zu können, und diese in Europa schwerlich
+                    <term ref="gfa-keywords-604">Chemie</term> und <term ref="gfa-keywords-3048">Physik</term> sich widmen zu können, und diese in <placeName ref="gfa-places-42">Europa</placeName> schwerlich
                     Ihresgleichen habende Anstalt, und die Männer, unter deren Leitung sie steht,
-                    kennen zu lernen, reisete ich im <date to="1824-12-31" from="1824-09-01">Spätjahr 1824</date> nach <placeName ref="gfa-places-247">Wien</placeName>, und fand in jeder
+                    kennen zu lernen, reisete ich im <date to="1824-12-31" from="1824-09-01">Spätjahr 1824</date> nach Wien, und fand in jeder
                     Hinsicht meine Vor<pb n="4" facs="https://www.e-rara.ch/ebs/content/zoom/16557745" break="no"/>stellung
                     übertroffen, und mich für die Reise selbst mehr als reichlich belohnt.</p>
                 <p>— Ich erwarb mir während meines Aufenthalts daselbst, nebst manchen höchst
@@ -43,12 +43,12 @@
                     Güte, mich einmal auf das <placeName ref="gfa-places-2084">kaiserl. Naturalienkabinet</placeName> zu führen, welches so
                     kostbare Schätze der Natur und Kunst (<term ref="gfa-keywords-9323">Mosaik</term>) enthält. Ich erstaunte ob den
                     herrlichen Schaustücken aus dem Mineralreich, und verwundert fragte ich mich:
-                    Wie konnte dieses so werden? Welcher Gnome pflegt die Gold- und Silber<pb n="5" facs="https://www.e-rara.ch/ebs/content/zoom/16557746" break="no"/>bäume,
+                    Wie konnte dieses so werden? Welcher Gnome pflegt die <term ref="gfa-keywords-9108">Gold</term>- und <term ref="gfa-keywords-9107">Silber<pb n="5" facs="https://www.e-rara.ch/ebs/content/zoom/16557746" break="no"/>bäume</term>,
                     dass sie lustig und in ihrem eigenthümlichen Glanze emporwachsen? Wer färbt den
-                    Malachit und <term ref="gfa-keywords-9269">Lasur</term>, gibt den <term ref="gfa-keywords-8982">Edelsteinen</term> ihren Widerschein und alle Farben des
-                    Regenbogens, und streut den Samen aus zu den Stämmen und Zinken der schneereinen
-                    Eisenblüthe? Seid ihr von allem Anfang an schon gewesen, oder, wie der blinde
-                    Schauer Milton wähnt, aus unsichtbaren Dünsten zusammengeronnen? Bleibt ihr
+                    <term ref="gfa-keywords-8504">Malachit</term> und <term ref="gfa-keywords-9269">Lasur</term>, gibt den <term ref="gfa-keywords-8982">Edelsteinen</term> ihren Widerschein und alle Farben des
+                    Regenbogens, und streut den Samen aus zu den Stämmen und <term ref="gfa-keywords-9636">Zinken</term> der schneereinen
+                    <term ref="gfa-keywords-8672">Eisenblüthe</term>? Seid ihr von allem Anfang an schon gewesen, oder, wie der blinde
+                    Schauer <persName ref="gfa-actors-7904">Milton</persName> wähnt, aus unsichtbaren Dünsten zusammengeronnen? Bleibt ihr
                     unveränderlich, so wie euch die äusserste Finsterniss zugleich mit der
                     Doppelmutter: Wärme und Feuchtigkeit, oder vorübergehendes chemisches Feuer,
                     welches die Erdrinde unsern Augen verbirgt, erzeugt<pb n="6" facs="https://www.e-rara.ch/ebs/content/zoom/16557747"/> hat; oder unterliegt
@@ -66,11 +66,11 @@
                     aus homogenen Massen bestehende Gefüge des <term ref="gfa-keywords-9010">Meteoreisens</term>, welches Herr <persName ref="gfa-actors-7966">von
                     Widmanstadt</persName> so glücklich geahnt und für das Auge dargestellt hat, veranlasste
                     mich zu der Aeusserung gegen den Herrn <persName ref="gfa-actors-7704">Baron</persName>: bei meiner Heimkunft zu versuchen,
-                    das Meteoreisen künstlich nachzumachen. Ich reisete von <placeName ref="gfa-places-247">Wien </placeName>über <placeName ref="gfa-places-1819">Triest</placeName> und
+                    das Meteoreisen künstlich nachzumachen. Ich reisete von <placeName ref="gfa-places-247">Wien</placeName> über <placeName ref="gfa-places-1819">Triest</placeName> und
                     <placeName ref="gfa-places-1820">Venedig</placeName>. Im dortigen <placeName ref="gfa-places-1821">Arsenal</placeName>, in dem präch<pb n="8" facs="https://www.e-rara.ch/ebs/content/zoom/16557749" break="no"/>tigen
                     Waffensaal, erblickte ich auf verschiedenen <placeName ref="gfa-places-148">türkischen</placeName> Klingen Zeichnungen von
-                    Damast, die Analogie mit denen des Meteoreisens zu haben schienen. Ich verfiel
-                    auf den Gedanken, statt Meteoreisen Meteorstahl zu machen, und eine lange Reihe
+                    <term ref="gfa-keywords-8452">Damast</term>, die Analogie mit denen des Meteoreisens zu haben schienen. Ich verfiel
+                    auf den Gedanken, statt Meteoreisen <term ref="gfa-keywords-8453">Meteorstahl</term> zu machen, und eine lange Reihe
                     von Versuchen, die ich nach meiner Zurückkunft anstellte, gab mir die
                     Ueberzeugung, dass auf diesem, und nur auf diesem Wege, nämlich durch
                     Combination des <term ref="gfa-keywords-9471">Nikels</term> mit <term ref="gfa-keywords-613">Stahl</term>, die ächte Damascener Klinge erhalten werde. —
@@ -88,7 +88,7 @@
                     oder Neue bekannt, und solches um dessentwillen gütige Nachsicht erwerben werde,
                     hat mich endlich dazu bestimmt. Möge desshalb mein guter Wille, etwas zu
                     leisten, mit Wohlwollen aufgenommen werden.</p>
-                <p>Schaffhausen, den <date when="1826-07-28">28. Heumonat 1826</date>.</p>
+                <p><placeName ref="gfa-places-131">Schaffhausen</placeName>, den <date when="1826-07-28">28. Heumonat 1826</date>.</p>
                 <p>Der <persName ref="gfa-actors-35">Verfasser</persName>.</p>
             </div>
         </front>
@@ -96,9 +96,9 @@
             <pb n="11" facs="https://www.e-rara.ch/ebs/content/zoom/16557752"/>
             <div type="day">
                 <head>Schaffhausen-Audincourt, 26–30. Mai 1825</head>
-                <p>Den <date when="1825-05-26">26. Mai</date> trat ich meine <placeName ref="gfa-places-131" type="itinerar" when="1825-05-26" n="1">Reise</placeName> über <placeName ref="gfa-places-10" type="itinerar" when="1825-05-26" n="1.1">Basel</placeName> und <placeName ref="gfa-places-1310">Montbeillard</placeName>, wo ich Geschäfte
+                <p><date when="1825-05-26">Den 26. Mai</date> trat ich <placeName ref="gfa-places-131">meine Reise</placeName> über <placeName ref="gfa-places-10" type="itinerar" when="1825-05-26" n="1.1">Basel</placeName> und <placeName ref="gfa-places-1310">Montbeillard</placeName>, wo ich Geschäfte
                     hatte, und einige Fabriken, besonders aber die von mir vor ein paar Jahren
-                    gegründete <placeName ref="gfa-places-1927"><term ref="gfa-keywords-9519">Gussstahlfabrik</term></placeName> in <placeName ref="gfa-places-1928">La Roche</placeName>, besuchen wollte, nach dem mir
+                    gegründete <term ref="gfa-keywords-9519"><placeName ref="gfa-places-1927">Gussstahlfabrik</placeName></term> in <placeName ref="gfa-places-1928">La Roche</placeName>, besuchen wollte, nach dem mir
                     vorgesetzten Ziele an. Ich blieb den <date when="1825-05-27">27.</date> in <placeName ref="gfa-places-10" type="itinerar" when="1825-05-27" n="2">Basel</placeName>, und kam den <date when="1825-05-28">28.</date> Abends nach
                     <placeName ref="gfa-places-1310" type="itinerar" when="1825-05-28" n="3">Montbeillard</placeName>; den <date when="1825-05-29">29.</date> ging ich nach <placeName ref="gfa-places-1583" type="itinerar" when="1825-05-29" n="4">Belfort</placeName>, um die dortigen <term ref="gfa-keywords-288">Hochöfen</term> zu sehen.
                     Ihr Bau ist nichts weniger als nach der besten Construction eingerichtet, das
@@ -113,29 +113,29 @@
                     keines artete sich so gut als wie das erste, da der Stahl davon bei bedeutender
                     Härtungsfähigkeit ungemeine Zähigkeit bewies. Uebrigens bestätigte sich auch
                     hier wieder meine vielfältige Erfahrung, dass Eisen, aus <term ref="gfa-keywords-8653">Thoneisensteinen</term>
-                    erzeugt, sich ohne besondere Handgriffe nicht gerne zu Stahl wendet.</p> </div>
+                    erzeugt, sich ohne besondere Handgriffe nicht gerne zu <term ref="gfa-keywords-613">Stahl</term> wendet.</p> </div>
             <div type="day">
                 <head>Geschäftsgänge in Audincourt und Montbéliard, 30–31. Mai 1825</head>
-                <p>Den <date when="1825-05-30">30</date>. — Ich ging zeitlich nach dem <placeName ref="gfa-places-2057" type="itinerar" when="1825-05-30" n="5">grossen <term ref="gfa-keywords-9005">Eisenwerk</term></placeName> in <placeName ref="gfa-places-1313">Odincourt</placeName>, welches
-                    ehemals dem Prinzen <persName ref="gfa-actors-7710">von Mümpelgardt</persName>, nun aber den Herren <orgName ref="gfa-actors-7711"><persName ref="gfa-actors-8134">Saglio</persName>, <persName ref="gfa-actors-8133">Umene</persName> und <persName ref="gfa-actors-7838">Gash</persName></orgName>
+                <p>Den <date when="1825-05-30">30</date>. — Ich ging zeitlich nach dem grossen <term ref="gfa-keywords-9005"><placeName ref="gfa-places-2057">Eisenwerk</placeName></term> in <placeName ref="gfa-places-1313">Odincourt</placeName>, welches
+                    ehemals dem Prinzen <persName ref="gfa-actors-7710">von Mümpelgardt</persName>, nun aber den Herren <persName ref="gfa-actors-8133"><persName ref="gfa-actors-8134"><persName ref="gfa-actors-7838"><orgName ref="gfa-actors-7711">Saglio, Umene und Gash</orgName></persName></persName></persName>
                     gehört.</p>
                 <p>Dieses prächtige Werk, an dem <placeName ref="gfa-places-1823">Doubs</placeName> <pb n="13" facs="https://www.e-rara.ch/ebs/content/zoom/16557754"/>gelegen, verdient
-                    wirklich besucht zu werden, besonders seitdem diese Herren ihre Walzwerke ganz
-                    nach dem englischen System, aber alles in <placeName ref="gfa-places-1824">Charenton </placeName>bei <placeName ref="gfa-places-118">Paris</placeName>, von den dort
+                    wirklich besucht zu werden, besonders seitdem diese Herren ihre <term ref="gfa-keywords-9245">Walzwerke</term> ganz
+                    nach dem englischen System, aber alles in <placeName ref="gfa-places-1824">Charenton</placeName> bei <placeName ref="gfa-places-118">Paris</placeName>, von den dort
                     etablirten Engländern angefertiget haben. Der <term ref="gfa-keywords-8644">Wendelbaum</term> (hohl), das <term ref="gfa-keywords-9478">Wasserrad</term>
                     und die <term ref="gfa-keywords-9477">Stirnräder</term> sind alle von Eisen gegossen und wiegen über 50,000 Kilogramm
                     oder 1000 <term ref="gfa-keywords-8451">Centner</term>. Nebst den schönen <term ref="gfa-keywords-8993">Eisenblechen</term> aller Art, die sie machen, und
-                    dem <term ref="gfa-keywords-9015">Streckeisen</term>, werden auch täglich 5000 bis 6000 Stück <term ref="gfa-keywords-8638">Weiss-</term> oder <term ref="gfa-keywords-9479">Sturzbleche</term>
+                    dem <term ref="gfa-keywords-9015">Streckeisen</term>, werden auch täglich 5000 bis 6000 Stück <term ref="gfa-keywords-8638">Weiss-</term> oder <term ref="gfa-keywords-8639">Sturzbleche</term>
                     fabricirt, und haben vor den englischen den grössern Vorzug von Weichheit.</p>
-                <p>Die Fabrikation ist übrigens ganz die englische, wie ich sie vor eilf Jahren in
-                    <placeName ref="gfa-places-1786">Rotherham </placeName>gesehen und beschrieben. — Mit den <term ref="gfa-keywords-8767">Walzen</term> sind sie auch nicht ganz im
+                <p>Die Fabrikation ist übrigens ganz die englische, wie ich sie <date>vor eilf Jahren</date> in
+                    <placeName ref="gfa-places-1786">Rotherham</placeName> gesehen und beschrieben. — Mit den <term ref="gfa-keywords-8767">Walzen</term> sind sie auch nicht ganz im
                     Reinen, und Herr <persName ref="gfa-actors-7871">Jeanmaire</persName>, der Direktor, sagte mir, sie würden eine hübsche
                     Summe dafür bezahlen, wenn ihnen Jemand <pb n="14" facs="https://www.e-rara.ch/ebs/content/zoom/16557755"/>die beste Methode,
                     sie zu machen, anzeigen würde.</p>
                 <p>Den <date when="1825-05-31">31</date>. brachte ich noch Geschäfte halber in <placeName ref="gfa-places-1310">Montbeillard</placeName> zu, und dann
                     besichtigte ich die im <placeName ref="gfa-places-1825">Schloss</placeName> befindliche, dem Publikum aber nicht zugängliche <placeName ref="gfa-places-1931" type="itinerar" when="1825-05-31" n="6"><orgName ref="gfa-actors-8293">Fabrike der Herren <persName ref="gfa-actors-7963">Vincenti</persName> und <persName ref="gfa-actors-7940">Rogier</persName></orgName></placeName>, wo die verschiedenen Maschinen gemacht
                     und gebraucht werden, um alle Theile der <term ref="gfa-keywords-9590">Uhren</term> bis auf die geringste
-                    Kleinigkeit, selbst das Poliren nicht ausgenommen, gänzlich fertig zu machen,
+                    Kleinigkeit, selbst das <term ref="gfa-keywords-9742">Poliren</term> nicht ausgenommen, gänzlich fertig zu machen,
                     ohne alle Beihilfe von Handgeschicklichkeit, so dass nur die Bewegung
                     hervorgebracht werden muss, wo Hr. <persName ref="gfa-actors-7963">Vincenti </persName>früher <term ref="gfa-keywords-9187">Hunde</term> gebrauchte, dieselben
                     aber doch später gegen <term ref="gfa-keywords-9213">Kinder</term> umtauschte. Die Hauptidee oder das vorwaltende
@@ -148,27 +148,27 @@
             <div type="day">
                 <head>Montbéliard-Calais, 1.–6. Juni 1825</head>
                 <p>Den <date when="1825-06-01">1. Juni</date> verreisete ich von <placeName ref="gfa-places-1310" type="itinerar" when="1825-06-01" n="7">Montbeillard</placeName> über <placeName ref="gfa-places-1583" type="itinerar" n="8">Belfort</placeName> nach <placeName ref="gfa-places-118" type="itinerar" when="1825-06-04" n="9">Paris</placeName>, woselbst ich
-                    den <date when="1825-06-04">4</date>. Nachmittags um 2 Uhr anlangte. Ich nahm nun einen Platz in der Diligence
+                    den <date when="1825-06-04">4</date>. Nachmittags um 2 Uhr anlangte. Ich nahm nun einen Platz in der <term ref="gfa-keywords-8570">Diligence</term>
                     nach <placeName ref="gfa-places-89">London </placeName>auf den folgenden Tag, und war froh, nachdem ich dieses
                     niedergeschrieben, wieder ein wenig zu ruhen.</p>
                 <p>Sonntags den <date when="1825-06-05">5. Juni</date> Morgens um 9 Uhr reisete ich von <placeName ref="gfa-places-118" type="itinerar" when="1825-06-05" n="10">Paris</placeName> ab und hatte nur
-                    einen Reisegesellschafter, der, wie er sagte, nach England ging, um einen
+                    einen Reisegesellschafter, der, wie er sagte, nach <placeName ref="gfa-places-41">England</placeName> ging, um einen
                     Prozess für Jemand daselbst zu führen, und mir mit seiner Rechtsgelehrsamkeit
                     viele Langeweile machte.</p>
                 <p>Nachmittags um 4 Uhr langten wir in <placeName ref="gfa-places-1826" type="itinerar" when="1825-06-05" n="11">Beauvais</placeName>, 18 Stunden von Paris, den 6. <pb n="16" facs="https://www.e-rara.ch/ebs/content/zoom/16557757"/>Morgens in
                     <placeName ref="gfa-places-1827" type="itinerar" when="1825-06-06" n="12">Montreuil</placeName> und Abends um 6 Uhr in <placeName ref="gfa-places-1607" type="itinerar" when="1825-06-06" n="13">Calais</placeName> an, wo wir schliefen.</p></div>
             <div type="day">
                 <head>Calais-London, 7. Juni 1825</head>
-                <p>Den <date when="1825-06-07">7. Juni</date> Morgens um 5 Uhr schiffte ich mich auf dem Dampfboot <term ref="gfa-keywords-9480">the Mountaineer</term>
+                <p>Den <date when="1825-06-07">7. Juni</date> Morgens um 5 Uhr schiffte ich mich auf dem <term ref="gfa-keywords-8801">Dampfboot the Mountaineer</term>
                     ein. Die Witterung war günstig, das Meer ziemlich ruhig, die Räder brauseten,
                     eilends durchschnitt das Schiff die Wellen, und ehe wir daran dachten, befanden
                     wir uns schon auf der Seehöhe vor Langnose, und die Küsten <placeName ref="gfa-places-41">Albions</placeName> lagen wie
                     eine unermessliche Mappe ausgebreitet vor uns.</p>
                 <p>Und also — so sprach ich in mir selbst— und also sehe ich dich wieder, du
                     merkwürdiges Eiland, du Herrscherin in fünf Welttheilen! von dem ich, als ich
-                    vor eilf Jahren die rauchenden Werkstätten der <term ref="gfa-keywords-8931">Cyklopen</term> deines Landes, die immer
+                    <date>vor eilf Jahren</date> die rauchenden Werkstätten der <term ref="gfa-keywords-8931">Cyklopen</term> deines Landes, die immer
                     steigende Betriebsamkeit deiner Bewohner in Hervorbringung alles dessen, was den
-                    Menschen kleidet und nährt und erhält, Londons unendliches Gewühl, und deine mit
+                    Menschen kleidet und nährt und erhält, <placeName ref="gfa-places-89">Londons</placeName> unendliches Gewühl, und deine mit
                     Schiffen bedeckten <term ref="gfa-keywords-9405">Rheden</term> verliess, am Schlusse <pb n="17" facs="https://www.e-rara.ch/ebs/content/zoom/16557758"/>meines Tagebuchs
                     ahnend sagte, es werde nicht das letzte Mal sein. Herrlich im Sonnenschein
                     treten deine senkrecht abgeschnittenen schneeweissen Ufer hervor, als Saum die
@@ -186,7 +186,7 @@
                 <p>Die Reisegesellschaft im Dampfboote war, wegen der <term ref="gfa-keywords-9481">Krönungsfestivitäten</term> in <placeName ref="gfa-places-118">Paris</placeName>,
                     nicht sehr zahlreich. Drei Damen mit ihren Kammerfrauen und einem Kinde von fünf
                     Monaten, welchem die Seereise besser als seiner Wärterin und Mutter zuzuschlagen
-                    schien, ein Advokat, auch zugleich Ludwigsritter von <placeName ref="gfa-places-118">Paris</placeName>, mit dem ich, da er
+                    schien, ein Advokat, auch zugleich <term ref="gfa-keywords-9288">Ludwigsritter</term> von <placeName ref="gfa-places-118">Paris</placeName>, mit dem ich, da er
                     durchaus kein Englisch verstand, überhaupt noch nie gereiset und an die 60 Jahre
                     alt war, meine eigne Noth hatte, und fünf Engländer, worunter ein Pfarrer, der
                     zu seinem Vergnügen an der Strickleiter zum Mastkorb hinauf klimmen wollte,
@@ -195,16 +195,16 @@
                     gewesene Herren. Das Dampfboot war, wie <pb n="19" facs="https://www.e-rara.ch/ebs/content/zoom/16557760"/>nun die meisten
                     sind, vortrefflich eingerichtet. Es ist 110 <term ref="gfa-keywords-8449">Fuss</term> lang, 25<formula rend="inline" notation="tex">\frac{1}{2}</formula> Fuss breit, geht 9
                     Fuss im Wasser, trägt 250 Tonnen oder 5000 <term ref="gfa-keywords-8451">Zentner</term>, hat zwei double acting
-                    <term ref="gfa-keywords-8587">Wattsche Dampfmaschinen</term>, jede von 36 Pferdekräften, und legt in einer Stunde
+                    <term ref="gfa-keywords-8587">Wattsche Dampfmaschinen</term>, jed<term ref="gfa-keywords-8588">e von 36 Pfer</term>dekräften, und legt in einer Stunde
                     zehn englische Meilen zurück. Jede Reise, worunter Löhnung der Mannschaft und
-                    Interesse des Kapitals begriffen ist, kostet die Unternehmer 60 Pfund Sterling,
+                    Interesse des Kapitals begriffen ist, kostet die Untern<term ref="gfa-keywords-8410">ehmer 60 Pfund</term> Sterling,
                     wovon 24 auf die Heizung fallen. Jeder Passagier bezahlt im ersten Zimmer 33, im
-                    gemeinern 22 Shillings, eine Kutsche 2 Pfund und 10 Shilling, ein Pferd 3 Pfund
+                    geme<term ref="gfa-keywords-8443">inern 22 </term>Shillin<term ref="gfa-keywords-9277">gs, ein</term>e Kutsche 2 Pfund und 10 Shilling, ein Pferd 3 Pfund
                     und ein Hund 5 Shilling. Auf der Hälfte Weges holten wir ein lange vorher
-                    gesehenes und gleiche Richtung nehmendes <term ref="gfa-keywords-9491">Dampfboot, die <persName ref="gfa-actors-8135">Königin von Holland</persName></term>, von
+                    gesehenes und gleiche Richtung nehmendes Dampfboot, die <persName ref="gfa-actors-8135"><term ref="gfa-keywords-9491">Königin von Holland</term></persName>, von
                     <placeName ref="gfa-places-473">Rotterdam</placeName> kommend, ein, und liessen es noch, ehe wir auf die Höhe kamen, wo der
                     <placeName ref="gfa-places-1829">Midway</placeName> rechts und die <placeName ref="gfa-places-1641">Themse</placeName> links ihr süsses Wasser mit den gesalzenen Flu<pb n="20" facs="https://www.e-rara.ch/ebs/content/zoom/16557761" break="no"/>then des Ozeans vermischen, weit hinter uns zurück. — Bald darauf begrüsste
-                    uns mit aufgezogener Flagge der S<term ref="gfa-keywords-8801">trumer, (Da</term>mpfschiff) <term ref="gfa-keywords-9492">Lord Melville</term>, von <placeName ref="gfa-places-89">London</placeName>
+                    uns mit aufgezogener Flagge der Strumer, (Damp<term ref="gfa-keywords-9492">fsch</term>iff) Lord, von <placeName ref="gfa-places-89">London</placeName>
                     nach <placeName ref="gfa-places-1607">Calais</placeName> gehend, und nach und nach erblickten wir in verschiedenen Richtungen
                     noch mehrere, die mit ihren schwarzen Wirbeln auf der unendlichen See den
                     Rauchsäulen der Wüste glichen. — Unter immer wechselnden Bildern erschienen zwei
@@ -3008,7 +3008,7 @@
                     Geschäfte lebt, ich schon oft erfahren, diesen Nachmittag frei hatte, so
                     brachten wir denselben und noch einen Theil des spätern Abends vergnügt und
                     Vieles besprechend mit einander zu.</p></div>
-            <div type="day" xml:id="TB3_d_10_7">
+            <div type="day">
                 <head>Ein neues Geschäftsangebot in London, 10. Juli 1825</head>
                 <p>Den <date when="1825-07-10">10</date>. Ich wollte um die Mittagszeit den berühmten Ingenieur <persName ref="gfa-actors-7936">Rennié</persName>, an den ich
                     eine Empfehlung hatte, besuchen, traf <pb n="247" facs="https://www.e-rara.ch/ebs/content/zoom/16557987"/>ihn aber nicht <placeName ref="gfa-places-2053" type="itinerar" when="1825-07-10" n="130">zu
