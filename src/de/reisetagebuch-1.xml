@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" n="1">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,7 +45,7 @@
                         <persName ref="gfa-actors-35">Johann Conrad Fischer</persName>, Kantonsrath und Artillerie-Oberstlieutenant.
                   <lb/> <placeName ref="gfa-places-131">Schaffhausen</placeName>, <date when="1844-11-26">26. Nov. 1844</date>.<note>Das Tagebuch wurde 1845 bei <persName ref="gfa-actors-1128">Franz Hurter</persName> in Schaffhausen gedruckt.</note></salute>
          </div>
-            <div type="preface">
+
                <div type="day">
                <head>Jugend und Ausbildung</head>
                   <p>Vorwort.</p>
@@ -257,7 +257,6 @@
          <pb n="57" facs="https://www.e-rara.ch/ebs/content/zoom/16618153"/>
          <pb n="58" facs="https://www.e-rara.ch/ebs/content/zoom/16618154"/>
          <pb n="59" facs="https://www.e-rara.ch/ebs/content/zoom/16618155"/>
-      </div>
       </body>
    </text>
 </TEI>
