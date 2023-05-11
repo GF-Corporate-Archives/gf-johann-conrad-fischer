@@ -15,7 +15,8 @@
    <text>
       <front>
          <titlePage>
-            <docTitle>
+            <docTitle><figure xml:id="fig0">
+               <graphic url="images/JCF1794-Titelblatt.jpg"/></figure>
                <titlePart type="main"><pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16618097"/> Tagebuch einer Reise von Coppenhagen nach Stokholm, im Frühjahr 1794.</titlePart>
             </docTitle>
                <lb/>

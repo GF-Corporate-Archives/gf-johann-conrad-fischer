@@ -22,7 +22,8 @@
     <text>
         <front>
             <titlePage>
-                <docTitle>
+                <docTitle><figure xml:id="fig0">
+                    <graphic url="images/JCF1851-Titelblatt.jpg"/></figure>
                     <titlePart type="main"><pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16618482"/>Tagebuch einer Reise zu der Ausstellung in London und nach einigen Fabrikstädten in England im Sommer 1851.</titlePart>
                 </docTitle>
                 <lb/>
