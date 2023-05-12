@@ -18,21 +18,23 @@
             <pb facs="https://www.e-rara.ch/ebs/content/zoom/16557503"/>
             <docTitle>
                <figure xml:id="fig0">
-                  <graphic url="images/JCF1814-Titelblatt.jpg"/></figure>
+                  <graphic url="images/JCF1814-Titelblatt.jpg"/>
+               </figure>
                <titlePart>Tagebuch einer im Jahr 1814 gemachten Reise über Paris nach London und einigen Fabrikstädten Englands vorzüglich in technologischer Hinsicht.</titlePart>
             </docTitle>
             <lb/>
-               <byline>Von Johann Conrad Fischer, Oberstlieutenant der Artillerie.</byline>
+            <byline>Von <docAuthor>Johann Conrad Fischer</docAuthor>, Oberstlieutenant der Artillerie.</byline>
             <lb/>
-            <docImprint>Arau 1816. Heinrich Remigius Sauerländer.</docImprint>
+            <docImprint>Arau <docDate>1816</docDate>. Heinrich Remigius Sauerländer.</docImprint>
            </titlePage>
          <div type="content">
             <head>Titelseite</head>
          </div>
-         <pb n="1" facs="https://www.e-rara.ch/ebs/content/zoom/16557507"/>
-         <div type="Preface">
+      </front>
+      <body>
+         <div type="preface">
             <head>Fischers Interesse am technischen Fortschritt</head>
-            <p>Vorwort.</p>
+            <p><pb n="1" facs="https://www.e-rara.ch/ebs/content/zoom/16557507"/> Vorwort.</p>
             <p>Vor nicht gar anderthalb Jahren entschloss ich mich, eine Reise über <placeName ref="gfa-places-118">Paris</placeName> nach <placeName ref="gfa-places-89">London</placeName> und einigen Fabrikstädten <placeName ref="gfa-places-41">Englands</placeName> zu machen, um, so viel es die Beschränktheit meiner Zeit erlaubte, durch Selbstbeschauung die Fortschritte kennen zu lernen, welche seit zwanzig Jahren, als ich aus <placeName ref="gfa-places-133">Schweden</placeName> zurückkehrend dieses Land besuchte, in der Eisen- und Stahlfabrikation mochten statt gehabt haben.</p>
             <p><pb n="2" facs="https://www.e-rara.ch/ebs/content/zoom/16557508"/> Besonders günstige Umstände gaben meinen Wahrnehmungen einen grössern Umfang und grössere Bedeutenheit, als ich anfangs selbst glaubte.</p>
             <p>Ich mochte bei der Mannigfaltigkeit der Gegenstände dem Gedächtniss nicht Alles anvertrauen, und zeichnete auf, was täglich an mir vorüberging, und so entstand dieses Reisejournal, das ich schmucklos und nur für mich selbst schrieb, weil ich nur für mich selbst reisete, ohne Nebenabsicht.</p>
@@ -42,8 +44,6 @@
                <p><persName ref="gfa-actors-35">Der Verfasser</persName>.</p> 
             <p><placeName ref="gfa-places-131">Schafhausen</placeName>, <date when="1816-01-28">28. Januar 1816.</date><note>Das Tagebuch wurde 1816 bei <persName ref="gfa-actors-7458">Heinrich Remigius Sauerländer</persName> in Aarau gedruckt.</note></p>
          </div>
-      </front>
-      <body>
          <div type="day">
             <head>Schaffhausen–Basel, 7. August 1814</head>
             <p><pb n="5" facs="https://www.e-rara.ch/ebs/content/zoom/16557511"/> Sonntags den <date when="1814-08-07">7. August</date> reiste ich in Begleitung meines jungen Freundes <persName ref="gfa-actors-7484">Ringk von Wildenberg</persName>, der aus <placeName ref="gfa-places-72">Italien</placeName> kommend sich auch nach <placeName ref="gfa-places-89">London</placeName> begeben wollte, von <placeName ref="gfa-places-131" type="itinerar" when="1814-08-07" n="1">hier</placeName> nach <placeName ref="gfa-places-10" type="itinerar" when="1814-08-07" n="2">Basel</placeName> ab, um den <date when="1814-08-08">folgenden Tag</date> mit dem <term ref="gfa-keywords-9291">Kurier</term> über <placeName ref="gfa-places-1583">Belfort</placeName> nach <placeName ref="gfa-places-118">Paris</placeName> zu gehen. Allein die Einrichtung war seit dem <term ref="gfa-keywords-9831">Frieden</term> noch nicht wieder getroffen, und wir waren genöthigt, den Umweg über <placeName ref="gfa-places-1584">Colmar</placeName> und <placeName ref="gfa-places-1154">Nancy</placeName> einzuschlagen.</p>
