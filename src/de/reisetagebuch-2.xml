@@ -23,9 +23,9 @@
                <titlePart>Tagebuch einer im Jahr 1814 gemachten Reise über Paris nach London und einigen Fabrikstädten Englands vorzüglich in technologischer Hinsicht.</titlePart>
             </docTitle>
             <lb/>
-               <byline>Von Johann Conrad Fischer, Oberstlieutenant der Artillerie.</byline>
+            <byline>Von <docAuthor>Johann Conrad Fischer</docAuthor>, Oberstlieutenant der Artillerie.</byline>
             <lb/>
-            <docImprint>Arau 1816. Heinrich Remigius Sauerländer.</docImprint>
+            <docImprint>Arau <docDate>1816</docDate>. Heinrich Remigius Sauerländer.</docImprint>
            </titlePage>
          <div type="content">
             <head>Titelseite</head>
