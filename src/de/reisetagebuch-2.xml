@@ -15,12 +15,11 @@
    <text>
       <front>
          <titlePage>
-            <pb facs="https://www.e-rara.ch/ebs/content/zoom/16557503"/>
             <docTitle>
                <figure xml:id="fig0">
                   <graphic url="images/JCF1814-Titelblatt.jpg"/>
                </figure>
-               <titlePart>Tagebuch einer im Jahr 1814 gemachten Reise über Paris nach London und einigen Fabrikstädten Englands vorzüglich in technologischer Hinsicht.</titlePart>
+               <titlePart><pb facs="https://www.e-rara.ch/ebs/content/zoom/16557503"/> Tagebuch einer im Jahr 1814 gemachten Reise über Paris nach London und einigen Fabrikstädten Englands vorzüglich in technologischer Hinsicht.</titlePart>
             </docTitle>
             <lb/>
             <byline>Von <docAuthor>Johann Conrad Fischer</docAuthor>, Oberstlieutenant der Artillerie.</byline>
