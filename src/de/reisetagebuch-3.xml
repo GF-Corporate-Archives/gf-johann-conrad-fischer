@@ -16,15 +16,14 @@
     <text>
         <front>
             <titlePage>
-                <pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16557741"/>
                 <docTitle>
                     <figure xml:id="fig0">
                         <graphic url="images/JCF1825-Titelblatt.jpg"></graphic>
                     </figure>
-                    <titlePart type="main">Tagebuch einer zweiten Reise über Paris nach London und einigen Fabrikstädten Englands vorzüglich in technologischer Hinsicht</titlePart>
+                    <titlePart type="main"><pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16557741"/> Tagebuch einer zweiten Reise über Paris nach London und einigen Fabrikstädten Englands vorzüglich in technologischer Hinsicht</titlePart>
                 </docTitle>
                 <lb/>
-                <byline>von <docAuthor>Johann Conrad Fischer</docAuthor>, Oberstlieutenant der Artillerie.</byline>
+                <byline>Von <docAuthor>Johann Conrad Fischer</docAuthor>, Oberstlieutenant der Artillerie.</byline>
                 <lb/>
                 <docImprint>Aarau, <docDate>1826</docDate>. Heinrich Remigius Sauerländer.</docImprint>
             </titlePage>
