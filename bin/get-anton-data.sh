@@ -28,5 +28,5 @@ for entity in ${entities[@]}; do
     # get ids as commaseparated string
     ids=$(ack -oh "\bgfa-$entity-(\d+)\b" | uniq | sort | ack -oh '\d+'  | sed -e :a -e '$!N; s/\n/,/; ta')
 
-    wget --post-data "ids=$ids" $URL/$entity?api_token=$API_TOKEN -O ../register/archives-anton-$entity-$locale.xml;
+    wget --post-data "ids=$ids" $URL/$entity?api_token=$API_TOKEN -O ../register/archives-$entity-$locale.xml;
 done
