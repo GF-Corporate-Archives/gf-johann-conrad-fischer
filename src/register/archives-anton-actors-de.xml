@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-06-01 08:13:16 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-06-02 13:43:53 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -11399,7 +11399,7 @@
             <persName type="full" xml:lang="de">Andrews, Joseph</persName>
             <persName type="main" xml:lang="de">Andrews, Joseph</persName>
             <note type="description" xml:lang="de">
-              <p>Literarische Figur aus <ref target="https://archives.georgfischer.com/actors/7830">Henry Fieldings</ref> Werk <hi rend="italic">The History of the Adventures of Joseph Andrews</hi>.</p>
+              <p>Literarische Figur aus Henry Fieldings Werk <hi rend="italic">The History of the Adventures of Joseph Andrews</hi>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -17349,7 +17349,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-06-01T08:13:18+02:00">teiHeader was automatically produced from the database 2023-06-01T08:13:18+02:00</change>
+      <change when="2023-06-02T13:43:55+02:00">teiHeader was automatically produced from the database 2023-06-02T13:43:55+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
