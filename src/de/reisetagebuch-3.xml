@@ -17,9 +17,6 @@
         <front>
             <titlePage>
                 <docTitle>
-                    <figure xml:id="fig0">
-                        <graphic url="images/JCF1825-Titelblatt.jpg"></graphic>
-                    </figure>
                     <titlePart type="main"><pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16557741"/> Tagebuch einer zweiten Reise über Paris nach London und einigen Fabrikstädten Englands vorzüglich in technologischer Hinsicht</titlePart>
                 </docTitle>
                 <lb/>
@@ -29,6 +26,7 @@
             </titlePage>
             <div type="content">
                 <head>Titelseite</head>
+                <p><term ref="gfa-keywords-9842">Titelblatt aus der Erstedition</term>.</p>
             </div>
         </front>
         <body>
@@ -85,7 +83,7 @@
                     ebenfalls, langer Gewohnheit gemäss, mein Tagebuch führte, und darin aufnahm,
                     was ich der Aufzeichnung für mich und der Rückerinnerung werth glaubte.</p>
                 <p>So einen unerwarteten, und darum für mich desto schmeichelhaftern Beifall mein
-                    <ref type="cross" target="reisetagebuch/1814">Tagebuch der frühern Reise nach England</ref> bei dem Publikum gefunden, so besorgt
+                    <ref type="cross" target="../1814">Tagebuch der frühern Reise nach England</ref> bei dem Publikum gefunden, so besorgt
                     bin ich doch, ob es nicht unbescheiden sei, wiederum vor dasselbe zu treten, da
                     ich weder Meister der Ereignisse, noch der sich mir darbietenden Gegenstände
                     war, sondern alles nehmen musste, und <pb n="10" facs="https://www.e-rara.ch/ebs/content/zoom/16557751"/> nahm, wie es kam;
@@ -171,7 +169,7 @@
                     vor eilf Jahren die rauchenden Werkstätten der <term ref="gfa-keywords-8931">Cyklopen</term> deines Landes, die immer
                     steigende Betriebsamkeit deiner Bewohner in Hervorbringung alles dessen, was den
                     Menschen kleidet und nährt und erhält, <placeName ref="gfa-places-89">Londons</placeName> unendliches Gewühl, und deine mit
-                    Schiffen bedeckten <term ref="gfa-keywords-9405">Rheden</term> verliess, am Schlusse <pb n="17" facs="https://www.e-rara.ch/ebs/content/zoom/16557758"/> <ref type="cross" target="reisetagebuch/1814">meines Tagebuchs</ref>
+                    Schiffen bedeckten <term ref="gfa-keywords-9405">Rheden</term> verliess, am Schlusse <pb n="17" facs="https://www.e-rara.ch/ebs/content/zoom/16557758"/> <ref type="cross" target="../1814">meines Tagebuchs</ref>
                     ahnend sagte, es werde nicht das letzte Mal sein. Herrlich im Sonnenschein
                     treten deine senkrecht abgeschnittenen schneeweissen Ufer hervor, als Saum die
                     schönen grünen Fluren begrenzend, an deren Rand bald <term ref="gfa-keywords-9271">Leuchtthürme</term>, bald
@@ -2133,7 +2131,7 @@
                 <p>Zu meinem Leidwesen war Herr <persName ref="gfa-actors-8092" type="met">M.</persName>, als ich auf das Comptoir der <placeName ref="gfa-places-1977" type="itinerar" when="1825-06-28" n="89" cert="0"><term ref="gfa-keywords-9466">Spinnerei</term></placeName> kam,
                     nicht anwesend, man sagte aber, er werde kommen. Ich hatte indessen eine
                     wunderliche Unterredung mit einem wie es schien der ersten Commis. — Nach einer
-                    Personal-Examination, die er mit mir vor<pb n="179" facs="https://www.e-rara.ch/ebs/content/zoom/16557920" break="no" xml:id="TB3_p_179"/>nahm,
+                    Personal-Examination, die er mit mir vor<pb n="179" facs="https://www.e-rara.ch/ebs/content/zoom/16557920" break="no"/>nahm,
                     fing er mich ohne weitere Einleitung an zu fragen, ob die Leute in <placeName ref="gfa-places-134">meinem Lande</placeName>
                     auch glücklich seien? — Ich sagte, es komme nur darauf an, was man dabei
                     verstehe; denn darüber, ich wisse nicht, ob zum Glück oder zum Unglück, seien
@@ -2260,7 +2258,7 @@
                     Rest des Tages zu Hause.</p></div>
             <div type="day">
                 <head>Über die Rechte der Frauen, 29. Juni 1825</head>
-                <p><placeName ref="gfa-places-1760"><date when="1825-06-29">Den 29</date></placeName>. Ich machte mir beim Erwachen einen grossen Vorwurf, das <ref type="cross" target="TB3_p_179">Rezept zur
+                <p><placeName ref="gfa-places-1760"><date when="1825-06-29">Den 29</date></placeName>. Ich machte mir beim Erwachen einen grossen Vorwurf, das <ref type="cross" target="../1825/44">Rezept zur
                     menschlichen Glückseligkeit</ref> eine ganze Nacht in meiner Tasche gehabt zu haben,
                     ohne dessen Inhalt zu kennen, da man doch nie weiss, was in einer einzigen Nacht
                     begegnen kann. — Ich klingelte für das Frühstück, um Kraft zu erhalten, mich zu
@@ -2465,7 +2463,7 @@
                     Da es gerade offen <pb n="206" facs="https://www.e-rara.ch/ebs/content/zoom/16557947"/> und der angestellte
                     Mann im Begriff war, die <term ref="gfa-keywords-8882">Retorten</term> zu füllen, so ging ich hinein. Die Einrichtung
                     war sehr verständig. In einem verhältnissmässig gar nicht grossen Ofen waren
-                    nämlich 40 Retorten, und zwar so disponirt, dass jedes einzelne Feuer fünf, die auf diese Art <figure xml:id="fig1"><graphic url="images/JCF1825_1_Skizze.jpg"/></figure> über einander gelegt waren, heizte. Diesen fünfen
+                    nämlich 40 Retorten, und zwar so disponirt, dass jedes einzelne Feuer fünf, die auf <term ref="gfa-keywords-9839">diese Art</term> über einander gelegt waren, heizte. Diesen fünfen
                     entgegengesetzt waren auf der andern Seite wieder fünfe, so dass die beiden
                     Feuer gegen einander spielten und sich in der Mitte in einem Kamin vereinigten.
                     Aus zwei weiten Hauptröhren ging das Gas in den Purificator oder
