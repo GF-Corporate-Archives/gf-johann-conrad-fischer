@@ -16,7 +16,7 @@
       <front>
          <titlePage>
             <docTitle>
-               <titlePart type="main"><pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16618097"/> <term ref="gfa-keywords-9835">Diary</term> of a Journey from Coppenhagen to Stokholm in the Spring of 1794.</titlePart>
+               <titlePart type="main"><pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16618097"/> Diary of a Journey from Coppenhagen to Stokholm in the Spring of 1794.</titlePart>
             </docTitle>
                <lb/>
             <byline>By <docAuthor>Johann Conrad Fischer</docAuthor>, Journeyman Coppersmith of Schaffhausen in Switzerland.</byline>
@@ -25,6 +25,7 @@
             </titlePage>
          <div type="content">
             <head>Title Page</head>
+            <p><term ref="gfa-keywords-9835">Cover page from the first edition</term>.</p>
          </div>
       </front>
       <body>
