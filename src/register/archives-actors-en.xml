@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-06-02 13:55:19 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-06-02 14:01:45 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -8594,7 +8594,7 @@ The Archipelago Fleet existed from 1756 to 1823 as an independent force in the S
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-06-02T13:55:20+02:00">teiHeader was automatically produced from the database 2023-06-02T13:55:20+02:00</change>
+      <change when="2023-06-02T14:01:46+02:00">teiHeader was automatically produced from the database 2023-06-02T14:01:46+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
