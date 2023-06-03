@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-06-02 14:01:39 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-06-03 16:10:39 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -8457,7 +8457,7 @@
             <placeName type="alternative" xml:lang="de">Königsholm</placeName>
             <placeName type="alternative" xml:lang="en">Königsholm</placeName>
             <location>
-              <geo>59.33055 18.04166</geo>
+              <geo>59.33183 18.04118</geo>
               <settlement xml:lang="de">Stockholm</settlement>
               <settlement xml:lang="en">Stockholm</settlement>
               <country xml:lang="de">Schweden</country>
@@ -27398,7 +27398,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-06-02T14:01:43+02:00">teiHeader was automatically produced from the database 2023-06-02T14:01:43+02:00</change>
+      <change when="2023-06-03T16:10:42+02:00">teiHeader was automatically produced from the database 2023-06-03T16:10:42+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
