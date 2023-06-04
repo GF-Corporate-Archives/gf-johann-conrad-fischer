@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-06-04 15:05:11 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-06-04 20:04:56 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -7780,7 +7780,7 @@
               <p>Insel in <ref target="https://archives.georgfischer.com/places/1529">Gamla Stan</ref> mit der<ref target="https://archives.georgfischer.com/places/1539">Ritterholmskirche</ref> und zahlreichen Adelspalästen.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>An island in <ref target="https://archives.georgfischer.com/places/1529">Gamla Stan</ref> on which are situated the Riddarholm<br/><ref target="https://archives.georgfischer.com/places/1539">Church</ref> and numerous aristocratic palaces.</p>
+              <p>An island in <ref target="https://archives.georgfischer.com/places/1529">Gamla Stan</ref> on which are situated the Riddarholm <ref target="https://archives.georgfischer.com/places/1539">Church</ref> and numerous aristocratic palaces.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1539">
@@ -13349,13 +13349,9 @@
           <place type="S" xml:id="gfa-places-1723">
             <placeName type="main" xml:lang="de">Soho Manufactory</placeName>
             <placeName type="full" xml:lang="de">Soho Manufactory / Birmingham</placeName>
-            <placeName type="main" xml:lang="en">Maschinenfabrik Karlsruhe</placeName>
-            <placeName type="full" xml:lang="en">Maschinenfabrik Karlsruhe / Karlsruhe</placeName>
-            <placeName type="alternative" xml:lang="en">Maschinenbau-Gesellschaft Karlsruhe</placeName>
             <location>
               <geo>52.49888 -1.9263</geo>
               <settlement xml:lang="de">Birmingham</settlement>
-              <settlement xml:lang="en">Karlsruhe</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -13391,11 +13387,6 @@
               <p>Die Anlage wurde vom Architekten William Wyatt entworfen. In der Anlage wurden ursprünglich «Birmingham Toys», also Flitter und billige Schmuckstücke wie Schnallen, Knöpfe oder Uhrketten produziert. Später wurden hier auch Watts Dampfmaschinen hergestellt. Fischer besuchte die Soho Manufactory am 27. und 28. August 1814.</p>
               <p>Organisation: <ref target="https://archives.georgfischer.com/actors/7571">Boulton &amp; Watt</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
-            </note>
-            <note type="description" xml:lang="en">
-              <p>A German machine shop that specialised in mechanical apparatus.</p>
-              <p>In 1836, the two mechanics <ref target="https://archives.georgfischer.com/actors/7547">Emil Kessler</ref> and Theodor Martiensen acquired the mechanical workshop of their former teacher Jakob Friedrich Messmer and renamed it Maschinenfabrik Emil Kessler &amp; Theodor Martiensen. The company produced mechanical and physical instruments and apparatus as well as industrial and agricultural machines. In this early phase of industrialisation, its order books were so full that the two founders had to build a new factory only one year later.</p>
-              <p>Starting in 1841, the company specialised in the construction of locomotives, which was a pioneering effort in Germany at this time. Martiensen left the firm in 1842, and Kessler then renamed it Maschinenfabrik Emil Kessler, Carlsruhe. In the following years, the company became the main supplier for the Railway Administration in Baden. In 1848 Kessler transformed the firm for financial, political and organisational reasons into a joint-stock company known as Maschinenfabrik Karlsruhe, of which he was the Director until it was liquidated in 1851.</p>
             </note>
           </place>
           <place type="R" xml:id="gfa-places-1726">
@@ -15695,7 +15686,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-06-04T15:05:12+02:00">teiHeader was automatically produced from the database 2023-06-04T15:05:12+02:00</change>
+      <change when="2023-06-04T20:04:58+02:00">teiHeader was automatically produced from the database 2023-06-04T20:04:58+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-06-03 16:12:10 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-06-04 20:03:33 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2023-06-03T16:12:10+02:00">teiHeader was automatically produced from the database 2023-06-03T16:12:10+02:00</change>
+      <change when="2023-06-04T20:03:33+02:00">teiHeader was automatically produced from the database 2023-06-04T20:03:33+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -28134,9 +28134,9 @@
         </item>
         <item xml:id="gfa-keywords-9412">
           <objectType xml:lang="de">anderes/diverses</objectType>
-          <label xml:lang="de">Säbelklingen</label>
+          <label xml:lang="de">Säbelklinge</label>
           <objectType xml:lang="en">other/miscellaneous</objectType>
-          <label xml:lang="en">sabre-rattling</label>
+          <label xml:lang="en">sabre blade</label>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -34877,49 +34877,79 @@
         </item>
         <item xml:id="gfa-keywords-9835">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de">Titelblatt Reisetagebuch 1794</label>
+          <label xml:lang="de">Reisetagebuch 1794, Titelblatt</label>
+          <note type="description" xml:lang="de">
+            <p>Titelblatt von Fischers Reisetagebuch 1794.</p>
+          </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en">cover of travel journal 1794</label>
+          <label xml:lang="en">travel journal 1794, cover page</label>
+          <note type="description" xml:lang="en">
+            <p>Cover page of Fischer's travel journal of 1794.</p>
+          </note>
+          <note type="sources">Fischer, Johann Conrad: Tagebuch einer Reise von Coppenhagen nach Stokholm, im Frühjahr 1794. Schaffhausen: Hurter, 1845.</note>
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133133"/>
-              <title xml:lang="de">Titelblatt Reisetagebuch 1794</title>
+              <title xml:lang="de">Titelblatt von Fischers Reisetagebuch 1794</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_206-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_206-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_206-0001" type="thumb"/>
             </bibl>
+            <bibl>
+              <ptr type="e-rara" target="https://doi.org/10.3931/e-rara-61267"/>
+            </bibl>
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9836">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de">Abbildung eines Bohrkopfes, Tagebuch 1794</label>
+          <label xml:lang="de">Reisetagebuch 1794, Abbildung S. 46</label>
+          <note type="description" xml:lang="de">
+            <p>Zeichnung eines Bohrkopfs.</p>
+          </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en">picture of a drill head, travel journal of 1794</label>
+          <label xml:lang="en">travel journal 1794, figure p. 46</label>
+          <note type="description" xml:lang="en">
+            <p>Drawing of a drill head.</p>
+          </note>
+          <note type="sources">Fischer, Johann Conrad: Tagebuch einer Reise von Coppenhagen nach Stokholm, im Frühjahr 1794. Schaffhausen: Hurter, 1845.</note>
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133134"/>
-              <title xml:lang="de">Abbildung eines Bohrkopfes im Tagebuch 1794</title>
+              <title xml:lang="de">Zeichnung eines Bohrkopfs (Fischers Reisetagebuch 1794, Seite 46)</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_207-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_207-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_207-0001" type="thumb"/>
             </bibl>
+            <bibl>
+              <ptr type="e-rara" target="https://doi.org/10.3931/e-rara-61267"/>
+            </bibl>
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9837">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de">Abbildung einer Säule, Tagebuch 1794</label>
+          <label xml:lang="de">Reisetagebuch 1794, Abbildung S. 57</label>
+          <note type="description" xml:lang="de">
+            <p>Zeichnung einer Säule der Königlichen Münzstätte in Stockholm.</p>
+          </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en">picture of a column, travel journal of 1794</label>
+          <label xml:lang="en">travel journal 1794, figure p. 57</label>
+          <note type="description" xml:lang="en">
+            <p>Drawing of a column in the Royal Mint in Stockholm.</p>
+          </note>
+          <note type="sources">Fischer, Johann Conrad: Tagebuch einer Reise von Coppenhagen nach Stokholm, im Frühjahr 1794. Schaffhausen: Hurter, 1845.</note>
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133135"/>
-              <title xml:lang="de">Abbildung einer Säule im Tagebuch 1794</title>
+              <title xml:lang="de">Zeichnung einer Säule der königlichen Münzstätte in Stockholm (Fischers Reisetagebuch 1794, Seite 57)</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_208-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_208-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_208-0001" type="thumb"/>
+            </bibl>
+            <bibl>
+              <ptr type="e-rara" target="https://doi.org/10.3931/e-rara-61267"/>
             </bibl>
           </listBibl>
         </item>
@@ -34931,7 +34961,7 @@
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133136"/>
-              <title xml:lang="de">Titelblatt Reisetagebuch 1814</title>
+              <title xml:lang="de">Titelblatt von Fischers Reisetagebuch 1814</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_209-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_209-0001" type="web"/>
@@ -34979,7 +35009,7 @@
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133139"/>
-              <title xml:lang="de">Titelblatt Reisetagebuch 1825–1827</title>
+              <title xml:lang="de">Titelblatt von Fischers Reisetagebuch 1825–1827</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_212-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_212-0001" type="web"/>
@@ -34995,7 +35025,7 @@
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133140"/>
-              <title xml:lang="de">Titelblatt Reisetagebuch 1825</title>
+              <title xml:lang="de">Titelblatt von Fischers Reisetagebuch 1825</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_213-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_213-0001" type="web"/>
@@ -35075,7 +35105,7 @@
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133145"/>
-              <title xml:lang="de">Titelblatt Reisetagebuch 1851</title>
+              <title xml:lang="de">Titelblatt von Fischers Reisetagebuch 1851</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_218-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_218-0001" type="web"/>
