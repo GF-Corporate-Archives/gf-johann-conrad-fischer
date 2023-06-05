@@ -23,7 +23,7 @@
         <front>
             <titlePage>
                 <docTitle>
-                    <titlePart type="main"><pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16618482"/>Tagebuch einer Reise zu der Ausstellung in London und nach einigen Fabrikstädten in England im Sommer 1851.</titlePart>
+                    <titlePart type="main">Tagebuch einer Reise zu der Ausstellung in London und nach einigen Fabrikstädten in England im Sommer 1851.</titlePart>
                 </docTitle>
                 <lb/>
                 <byline>Von J.C.Fischer, Oberstlieutnant. Mit einer Abbildung in Steindruk.</byline>
@@ -32,7 +32,7 @@
             </titlePage>
             <div type="content">
                 <head>Titelseite</head>
-                <p><term ref="gfa-keywords-9847">Titelblatt aus der Erstedition</term>.</p>
+                <p><pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16618482"/> <term ref="gfa-keywords-9847">[Titelblatt der Erstedition]</term></p>
             </div>
         </front>
         <body>
@@ -350,8 +350,8 @@
             <div type="annex">
                 <head>Anhang: Grundrisse des Crystal Palace und der Stadt Schaffhausen</head>
                 <p><pb n="107" facs="https://www.e-rara.ch/ebs/content/zoom/16618595"/> <term ref="gfa-keywords-9844">Grundriss</term> des <placeName ref="gfa-places-1701">Crystal Palace</placeName>.</p>
-                <p><pb n="108" facs="https://www.e-rara.ch/ebs/content/zoom/16618596"/> <term ref="gfa-keywords-9845">Grundriss</term> der Stadt <placeName ref="gfa-places-131">Schaffhausen</placeName>.</p>
-                <p><pb n="109" facs="https://www.e-rara.ch/ebs/content/zoom/16618597"/> <term ref="gfa-keywords-9846">Kombination der beiden Grundrisse</term> im gleichen Verhältnis.</p>
+                <p><pb n="108" facs="https://www.e-rara.ch/ebs/content/zoom/16618596"/> <term ref="gfa-keywords-9846">Grundriss</term> der Stadt <placeName ref="gfa-places-131">Schaffhausen</placeName>.</p>
+                <p><pb n="109" facs="https://www.e-rara.ch/ebs/content/zoom/16618597"/> <term ref="gfa-keywords-9845">Kombination der beiden Grundrisse</term> im gleichen Verhältnis.</p>
             </div>
         </body>
     </text>

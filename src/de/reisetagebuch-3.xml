@@ -17,7 +17,7 @@
         <front>
             <titlePage>
                 <docTitle>
-                    <titlePart type="main"><pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16557741"/> Tagebuch einer zweiten Reise über Paris nach London und einigen Fabrikstädten Englands vorzüglich in technologischer Hinsicht</titlePart>
+                    <titlePart type="main">Tagebuch einer zweiten Reise über Paris nach London und einigen Fabrikstädten Englands vorzüglich in technologischer Hinsicht</titlePart>
                 </docTitle>
                 <lb/>
                 <byline>Von <docAuthor>Johann Conrad Fischer</docAuthor>, Oberstlieutenant der Artillerie.</byline>
@@ -26,7 +26,7 @@
             </titlePage>
             <div type="content">
                 <head>Titelseite</head>
-                <p><term ref="gfa-keywords-9842">Titelblatt aus der Erstedition</term>.</p>
+                <p><pb n="I" facs="https://www.e-rara.ch/ebs/content/zoom/16557741"/> <term ref="gfa-keywords-9842">[Titelblatt der Erstedition]</term></p>
             </div>
         </front>
         <body>
@@ -3014,7 +3014,7 @@
                     bestreichen, so brechen sie ihnen doch auch zuweilen. Eine andere Dampfmaschine
                     treibt die Aushaumaschine, deren zwölfe ringsherum in einem Kreise stehen, und
                     dann die dritte die acht <term ref="gfa-keywords-9328">Münzpressen</term>, die in einer geraden Linie nach einander
-                    stehen. Es wurde gerade Geld für die <orgName ref="gfa-actors-7942">ostindische <pb n="250" facs="https://www.e-rara.ch/ebs/content/zoom/165579891"/> Compagnie</orgName> geprägt,
+                    stehen. Es wurde gerade Geld für die <orgName ref="gfa-actors-7942">ostindische <pb n="250" facs="https://www.e-rara.ch/ebs/content/zoom/16557991"/> Compagnie</orgName> geprägt,
                     um es nach <placeName ref="gfa-places-67">Indien</placeName> zu senden. Auf der einen Seite ist das Wappen der
                     Gesellschaft, und auf der andern Seite eine arabische Inschrift. Jede dieser
                     Pressen wird nur durch einen kleinen Knaben besorgt, der oben hinein die zu
@@ -3026,7 +3026,7 @@
                     aufmerksam, die die runden Stücke unter den Stempel schickt, die ich aber schon
                     kannte. Dieses hat Ihr Landsmann (er meinte Herrn <persName ref="gfa-actors-7821">Droz</persName> von <placeName ref="gfa-places-1220">Neuchâtel</placeName>) erfunden,
                     sagte er. — Noch als etwas Neues zeigte er mir die Zug- oder <term ref="gfa-keywords-9676">Egalisir-Maschine</term>.
-                    Es ist natürlich alles von <term ref="gfa-keywords-8672">Eisen</term> <pb n="251" facs="https://www.e-rara.ch/ebs/content/zoom/165579892"/> und <term ref="gfa-keywords-613">Stahl</term>, und die
+                    Es ist natürlich alles von <term ref="gfa-keywords-8672">Eisen</term> <pb n="251" facs="https://www.e-rara.ch/ebs/content/zoom/16557992"/> und <term ref="gfa-keywords-613">Stahl</term>, und die
                     flachen Streifen, wenn sie von der Scheere wegkommen, werden nun hier durch ein
                     flaches Loch, wie man sonst den <term ref="gfa-keywords-633">Drath zieht</term>, gezogen, welches folglich denselben
                     eine weit grössere Gleichförmigkeit, als durch das blosse <term ref="gfa-keywords-3621">Walzen</term> erhalten werden
@@ -3040,7 +3040,7 @@
                     Stück zu kaufen. Wer diese Herren nicht gekannt hätte, hätte ihnen kaum so viele
                     <term ref="gfa-keywords-8457">Gulden</term> zugetraut, denn es hatte keiner weder ein grosses noch kleines Stück
                     <term ref="gfa-keywords-9107">Silber</term> am Rock, wie mein guter Reisecompagnon von <placeName ref="gfa-places-118">Paris</placeName>, dem ich es anmerken
-                    konnte, dass er glaubte, man werde <pb n="252" facs="https://www.e-rara.ch/ebs/content/zoom/165579893"/> ihm dafür in <placeName ref="gfa-places-89">London</placeName>
+                    konnte, dass er glaubte, man werde <pb n="252" facs="https://www.e-rara.ch/ebs/content/zoom/16557993"/> ihm dafür in <placeName ref="gfa-places-89">London</placeName>
                     unters <term ref="gfa-keywords-8907">Gewehr</term> treten. Uebrigens belehrte mich auch dieser an sich unbedeutend
                     scheinende Umstand wieder, welche Cirkulation des Geldes hier statt hat. — Noch
                     muss ich aber auch dabei bemerken, dass bei diesem Geldumlauf, und man möchte
@@ -3054,7 +3054,7 @@
             <div type="day">
                 <head>Das Abenteuer mit der Brieftasche, 12. Juli 1825</head>
                 <p><placeName ref="gfa-places-89"><date when="1825-07-12">Den 12. Juli</date></placeName>. Es sollte keine Reise ohne Abentheuer sein, und ein solches (im
-                    edeln Sinn des Worts genommen) begegnete mir <pb n="253" facs="https://www.e-rara.ch/ebs/content/zoom/165579894"/> heute. Vor zehn Uhr
+                    edeln Sinn des Worts genommen) begegnete mir <pb n="253" facs="https://www.e-rara.ch/ebs/content/zoom/16557994"/> heute. Vor zehn Uhr
                     Morgens kann man schicklich wohl Niemand sehen, auch hat man bis dorthin mit
                     Frühstück und Toilette, die man nicht nur blos Dienstags und Samstags besorgt,
                     wie etwa anderwärts, vollauf zu thun. — Ich hatte das Glück, in des <placeName ref="gfa-places-1710">St. Paulus
@@ -3065,7 +3065,7 @@
                     Strasse liegend zu erblicken und ging darauf hin. Es war eine kleine Brieftasche
                     mit stählernem Schloss. Ich ging sogleich nach meinem <placeName ref="gfa-places-1710" type="itinerar" when="1825-07-12" n="137">Logis</placeName> zurück und rief dem
                     Wirth nebst dem Aufwärter. Hier habe ich einen Fund gethan, sagte ich, bringen
-                    Sie eine Schnur, Siegellak und Ihr Siegel; wenn wir den Eigen<pb n="254" facs="https://www.e-rara.ch/ebs/content/zoom/165579895" break="no"/>thümer
+                    Sie eine Schnur, Siegellak und Ihr Siegel; wenn wir den Eigen<pb n="254" facs="https://www.e-rara.ch/ebs/content/zoom/16557995" break="no"/>thümer
                     nicht aus dem Inhalt ausfindig machen, so schicke ich sie auf die Polizei. — Der
                     Aufwärter konnte das Schloss mit verborgenen Federn aufmachen, und in der ersten
                     Abtheilung waren zwei <term ref="gfa-keywords-8410">Fünf-Pfund-Banknoten</term> und in der Milte Adress-Karten, aus
@@ -3077,7 +3077,7 @@
                     Professor <persName ref="gfa-actors-7483" type="met">Brande</persName>, der nun das Stempel-Departement und das mechanische Fach der
                     <orgName ref="gfa-actors-7582">Münze</orgName> statt Hrn. <persName ref="gfa-actors-7936">Rennié</persName>, dem seine grossen Geschäfte nicht mehr alles zu
                     besorgen erlauben, unter sich hat, eine halbe Stunde zu.</p>
-                <p>Zum Zerreiben der Wurzeln, zum Aus<pb n="255" facs="https://www.e-rara.ch/ebs/content/zoom/165579896" break="no"/>pressen
+                <p>Zum Zerreiben der Wurzeln, zum Aus<pb n="255" facs="https://www.e-rara.ch/ebs/content/zoom/16557996" break="no"/>pressen
                     der Pflanzensäfte in grossen Quantitäten, zum Sieben der Pulver etc. wird in der
                     Apothecarys-Hall ebenfalls die rechte Hand aller Gewerbe in <placeName ref="gfa-places-41">England</placeName>, die
                     <term ref="gfa-keywords-8651">Dampfmaschine</term>, gebraucht; diese hier ist von acht <term ref="gfa-keywords-8588">Pferdkräften</term>, von <orgName ref="gfa-actors-7571">Bolton und
@@ -3089,7 +3089,7 @@
                     gleichen Fabrike nicht einmal, gleich guten <term ref="gfa-keywords-613">Stahl</term>, und Sie begreifen, was dieses
                     für grosse Kosten macht. — Ich führe dieses als einen kleinen Avis au Lecteur
                     an, für solche, die es angeht. — Ich bemerkte lediglich darauf: die Probe mit
-                    meinem <term ref="gfa-keywords-8453">Meteor-Stahl</term> <pb n="256" facs="https://www.e-rara.ch/ebs/content/zoom/165579897"/> werde nun zeigen,
+                    meinem <term ref="gfa-keywords-8453">Meteor-Stahl</term> <pb n="256" facs="https://www.e-rara.ch/ebs/content/zoom/16557997"/> werde nun zeigen,
                     ob er etwas besser sei, versprechen könne ich nichts, jedoch dürfe ich
                     vermuthen, dass er nicht übel sein werde.</p>
                 <p>Noch besuchte ich vor dem Zuhausegehen <placeName ref="gfa-places-2087" type="itinerar" when="1825-07-12" n="140" cert="0"><persName ref="gfa-actors-8085">Herrn Daniel</persName></placeName>, Secretair der <orgName ref="gfa-actors-8099">imperial
@@ -3101,7 +3101,7 @@
                     und Simplicität ihrer Einrichtungen schon bekannt sind. Auf meine Aeusserung,
                     dass es sehr wünschenswerth wäre, dass man auf dem Continent, gleichwie in
                     <placeName ref="gfa-places-89">London</placeName>, das Gas in comprimirtem Zustande kaufen und in schicklichen Gefässen
-                    verbrauchen könnte, sagte er: dieses wird schwerlich Eingang <pb n="257" facs="https://www.e-rara.ch/ebs/content/zoom/165579898"/> finden, denn es
+                    verbrauchen könnte, sagte er: dieses wird schwerlich Eingang <pb n="257" facs="https://www.e-rara.ch/ebs/content/zoom/16557998"/> finden, denn es
                     zeigte sich, dass das comprimirte Gas die helle Flamme nicht gibt, wie das in
                     natürlicher Spannung; auch kehrt das Gas durch die Compression wieder in einen
                     Theil von Oel zurück. Herr Professor <persName ref="gfa-actors-7814">De la Rive</persName> sagte mir schon etwas von diesem
@@ -3113,7 +3113,7 @@
                     las und das von mir gefundene Portefeuille abholen wollte. Er übergab mir
                     schweigend die Karte, die ich am Morgen mit der Anzeige, wo selbiges sei,
                     gesendet hatte. Ich holte die Brieftasche herunter, übergab sie ihm; ich glaube,
-                    wir redeten nicht fünf Worte. Er verbeugte sich ein wenig und ging fort. <pb n="258" facs="https://www.e-rara.ch/ebs/content/zoom/165579899"/> — Ich
+                    wir redeten nicht fünf Worte. Er verbeugte sich ein wenig und ging fort. <pb n="258" facs="https://www.e-rara.ch/ebs/content/zoom/16557999"/> — Ich
                     dachte, die Engländer sind doch wunderliche Leute, und setzte mich zum Essen.
                     Als ich beinahe fertig war, kam ein Herr, der sich bei dem Aufwärter nach jemand
                     erkundigte und dann auf mich zuging. Er sagte, er sei die Person, dem die
@@ -3125,7 +3125,7 @@
                     wiederholte er öfters, mit was ich Ihnen in <placeName ref="gfa-places-41">England</placeName> einen Gefallen erweisen
                     kann. Ich dankte ihm für alles und sagte, ich werde dieses Land nun bald wieder
                     verlassen, welches für mich, besonders in wissenschaftlicher und industrieller
-                    Beziehung, einen so grossen Reiz <pb n="259" facs="https://www.e-rara.ch/ebs/content/zoom/165579900"/> habe. — Die
+                    Beziehung, einen so grossen Reiz <pb n="259" facs="https://www.e-rara.ch/ebs/content/zoom/16558000"/> habe. — Die
                     Unterhaltung ging indessen bald auf das Wissenschaftliche über, und ich fand in
                     Herrn <persName ref="gfa-actors-7901">Paul Meyer</persName> einen in mehrern Fächern, besonders in der <term ref="gfa-keywords-291">Geologie</term>,
                     wohlbewanderten und kenntnissvollen Mann. Er fragte mich, ob ich <persName ref="gfa-actors-7791"><term ref="gfa-keywords-9677">William
@@ -3137,7 +3137,7 @@
                     <persName ref="gfa-actors-7965">Webster</persName> für die Sammlungen der geologischen Gesellschaft, bei. Ob ich sie werde
                     benutzen können, weiss ich nicht. Die Zeit ist eben im Verhältniss des
                     Merkwürdigen und Lehrreichen so kurz, dass, wenn ich ein ganzes Jahr hier wäre,
-                    ich schwerlich einen Tag <pb n="260" facs="https://www.e-rara.ch/ebs/content/zoom/165579901"/> mit rother Dinte zu
+                    ich schwerlich einen Tag <pb n="260" facs="https://www.e-rara.ch/ebs/content/zoom/16558001"/> mit rother Dinte zu
                     bezeichnen hätte. Eine Viertelstunde nachher erhielt ich dieses prächtige und
                     klassische Werk, und brachte den Rest des Abends mit Beschauung der zahlreichen
                     Kupfertafeln und Karten zu.</p></div>
@@ -3151,7 +3151,7 @@
                     eigene Idee gross, und da so gewichtige Kämpfer einander gegenüber stehen, so
                     muss man noch den Erfolg abwarten.</p>
                 <p>Ich kam von dem weiten Weg, und nachdem ich unterwegs bei der <placeName ref="gfa-places-2167">Börse</placeName> einen sehr
-                    guten, garantirten, mit <persName ref="gfa-actors-7827">Fahrenheits</persName> und <persName ref="gfa-actors-7935">Reaumurs</persName> Scale versehenen, zum Ge<pb n="261" facs="https://www.e-rara.ch/ebs/content/zoom/165579902" break="no"/>brauch für Flüssigkeiten eingerichteten Thermometer für den geringen Preis von
+                    guten, garantirten, mit <persName ref="gfa-actors-7827">Fahrenheits</persName> und <persName ref="gfa-actors-7935">Reaumurs</persName> Scale versehenen, zum Ge<pb n="261" facs="https://www.e-rara.ch/ebs/content/zoom/16558002" break="no"/>brauch für Flüssigkeiten eingerichteten Thermometer für den geringen Preis von
                     9 <term ref="gfa-keywords-8443">Shilling</term> gekauft hatte, ermüdet und hungrig nach <placeName ref="gfa-places-1710" type="itinerar" when="1825-07-13" n="144">Hause</placeName>. — Sonst wurde ich
                     nicht so leicht, aber dieses Mal doch, besonders weil es noch um Essenszeit (5
                     Uhr) war, über die langsame Bedienung der Kellner ungehalten, in Vergleich, wie
@@ -3165,7 +3165,7 @@
                     durch seine Menge zum Gewöhnlichen wird.</p></div>
             <div type="day">
                 <head>Besichtigung eines Gaswerks in London, 14. Juli 1825</head>
-                <p><pb n="262" facs="https://www.e-rara.ch/ebs/content/zoom/165579903"/> Den <date when="1825-07-14">14. Juli</date>. So sehr ich wegen der Menge noch zu berichtigender Geschäfte und
+                <p><pb n="262" facs="https://www.e-rara.ch/ebs/content/zoom/16558003"/> Den <date when="1825-07-14">14. Juli</date>. So sehr ich wegen der Menge noch zu berichtigender Geschäfte und
                     der nahe bevorstehenden Abreise in meiner Zeit beschränkt war, so wollte ich
                     doch die Güte meines Freundes, Herrn <persName ref="gfa-actors-7952">Smith</persName>, der einer der Directoren des
                     <placeName ref="gfa-places-2154" type="itinerar" when="1825-07-14" n="146" cert="0">Etablissements</placeName> für tragbares <term ref="gfa-keywords-8704">Oelgas</term> ist, und von dem ich eine Eintrittskarte
@@ -3176,7 +3176,7 @@
                     hinausragen, und die mit aufgeschraubten Deckeln während der <term ref="gfa-keywords-8967">Destillation</term>
                     luftdicht verschlossen sind, nach der gewöhnlichen Art, das heisst, durch zartes
                     Hineintropfen des Oels auf der einen Seite auf die im Cylinder befindlichen
-                    <term ref="gfa-keywords-8551">Coks</term>, und <pb n="263" facs="https://www.e-rara.ch/ebs/content/zoom/165579904"/> nach seiner Zersetzung durch Aufsteigen des Gases auf der andern Seite,
+                    <term ref="gfa-keywords-8551">Coks</term>, und <pb n="263" facs="https://www.e-rara.ch/ebs/content/zoom/16558004"/> nach seiner Zersetzung durch Aufsteigen des Gases auf der andern Seite,
                     bereitet. Wenn selbiges nach seinem zweiten Durchgang durch das Oelreservoir,
                     welches gewissermassen als Reinigungsapparat dient, in den <term ref="gfa-keywords-8550">Gazometer</term> getreten
                     ist, so wird es dann, wovon ich sogleich reden werde, in das Compressionsgefäss
@@ -3187,7 +3187,7 @@
                     grösster Leichtigkeit, und die Construction des Ofens wird einfacher, und weil
                     sie beinahe die doppelte Länge der gewöhnlichen haben, dürfen sie bei gleichem
                     cubischen Inhalt einen um den vierten Theil kleinern Durchmesser haben, welches
-                    für das schnelle und gleichförmige Durchdrin<pb n="264" facs="https://www.e-rara.ch/ebs/content/zoom/165579905" break="no"/>gen der
+                    für das schnelle und gleichförmige Durchdrin<pb n="264" facs="https://www.e-rara.ch/ebs/content/zoom/16558005" break="no"/>gen der
                     Hitze sehr vortheilhaft ist. Eine von den Herren <orgName ref="gfa-actors-7803">Taylor und Martineau</orgName> in <placeName ref="gfa-places-89">London</placeName>
                     verfertigte äusserst niedliche und compendiöse <term ref="gfa-keywords-8673">Hochdruckdampfmaschine</term> von sechs
                     <term ref="gfa-keywords-8588">Pferdestärken</term> setzt die Kolben von sechs als Saug- und Druckwerk functionirenden
@@ -3200,7 +3200,7 @@
                     lange Tische, mit zwei parallel neben einander darauf liegenden Röhren, die sich
                     gegen den Reservoir in eine vereinigen, und sich mit dem Reservoir
                     verbinden.</p>
-                <p><pb n="265" facs="https://www.e-rara.ch/ebs/content/zoom/165579906"/> Zwischen diesen Hauptröhren und dem Reservoir sind indessen Hahnen angebracht,
+                <p><pb n="265" facs="https://www.e-rara.ch/ebs/content/zoom/16558006"/> Zwischen diesen Hauptröhren und dem Reservoir sind indessen Hahnen angebracht,
                     damit die innere Communikation abgeschlossen oder hergestellt werden kann. — Auf
                     diesen langen auf den Tischen hinlaufenden Röhren sind dann in gleichen
                     Entfernungen von einander noch kurze, aber auch mit einem Hahn und dann oben
@@ -3211,7 +3211,7 @@
                     anzeigt, dass die allgemeine Spannung, welches innerhalb nur wenigen Minuten
                     geschieht, auf 30 <term ref="gfa-keywords-8962">Atmosphären</term> gesteigert ist, werden die Hahnen geschlossen, die
                     Gefässe abgeschraubt, auf Karren geladen und in die Kundenhäuser geführt. Andere
-                    Gefässe <pb n="266" facs="https://www.e-rara.ch/ebs/content/zoom/165579907"/> werden wieder aufgeschraubt und gefüllt, und so alle Tage circa 6000 <term ref="gfa-keywords-8449">Cubicfuss</term>
+                    Gefässe <pb n="266" facs="https://www.e-rara.ch/ebs/content/zoom/16558007"/> werden wieder aufgeschraubt und gefüllt, und so alle Tage circa 6000 <term ref="gfa-keywords-8449">Cubicfuss</term>
                     von diesem <term ref="gfa-keywords-8704">Gas</term> versendet. — Man wird fragen : sind die Gefässe, wenn das Gas
                     einströmt, luftvoll oder luftleer? — Sie sind luftvoll, so dass also ein
                     dreissigster Theil atmosphärischer Luft mit dem Oelgas sich verbindet; aber weit
@@ -3224,7 +3224,7 @@
                 <head>Besuch der Maschinenfabrik von Taylor &amp; Martineau, 15. Juli 1825</head>
                 <p>Den <date when="1825-07-15">15. Juli</date>. Nachdem ich ein sehr wichtiges Geschäft, welches die Uebertragung
                     meiner Erfindung des <term ref="gfa-keywords-8453">Meteorstahls</term>, so wie zweier in <placeName ref="gfa-places-41">England</placeName> bis jetzt noch nicht
-                    bekannter Prozeduren für Verfertigung von <term ref="gfa-keywords-2908">Oefen für Schmelzung</term> des reinen <pb n="267" facs="https://www.e-rara.ch/ebs/content/zoom/165579908"/> <term ref="gfa-keywords-8509">Stabeisens</term>,
+                    bekannter Prozeduren für Verfertigung von <term ref="gfa-keywords-2908">Oefen für Schmelzung</term> des reinen <pb n="267" facs="https://www.e-rara.ch/ebs/content/zoom/16558008"/> <term ref="gfa-keywords-8509">Stabeisens</term>,
                     und dann der dazu erforderlichen Schmelztigel betraf, abgeschlossen, so
                     besichtigte ich noch einmal mit Musse die eben so wohl gelegene als weitläufige
                     und schön eingerichtete <placeName ref="gfa-places-2028" type="itinerar" when="1825-07-15" n="147">Fabrik</placeName> der Herren <persName ref="gfa-actors-7507">Taylor</persName> und <persName ref="gfa-actors-7895">Martineau junior</persName> in <placeName ref="gfa-places-1895">City
@@ -3236,7 +3236,7 @@
                     Vergnügen, unabgesehen auf den pecuniären <term ref="gfa-keywords-4641">Gewinn</term>, für den Eigenthümer eines
                     solchen ausgedehnten Etablissements sein muss, täglich solche grosse und schöne
                     Sachen aus seinen Werkstätten hervorgehen zu sehen; und je länger ich in <placeName ref="gfa-places-41">England</placeName>
-                    bin, je mehr bedaure ich, so lieb mir mein <placeName ref="gfa-places-134">Vaterland</placeName> ist, und <pb n="268" facs="https://www.e-rara.ch/ebs/content/zoom/165579909"/> so wenig ich für
+                    bin, je mehr bedaure ich, so lieb mir mein <placeName ref="gfa-places-134">Vaterland</placeName> ist, und <pb n="268" facs="https://www.e-rara.ch/ebs/content/zoom/16558009"/> so wenig ich für
                     immer davon entfernt bleiben möchte, den schönsten Theil meines Lehens in ihren
                     zu beengenden Verhältnissen zugebracht zu haben.</p>
                 <p>Bei dem Mittagessen, zu welchem ich bei Herrn <persName ref="gfa-actors-7895">Martineau</persName> blieb, hatte ich
@@ -3248,7 +3248,7 @@
                     besonders wenn die Ursache der Explosionen, die Herr <persName ref="gfa-actors-7753">Perkins</persName> aufgefunden zu
                     haben glaubt, und die eine ganz andere als die bis dahin vermuthete sein soll,
                     sich wirklich als die wahre bewährt, wo dann aller Gefahr leicht vorgebogen
-                    werden könnte. Mit der theils freudigen, theils bedauerlichen Aussicht <pb n="269" facs="https://www.e-rara.ch/ebs/content/zoom/165579910"/> mir noch
+                    werden könnte. Mit der theils freudigen, theils bedauerlichen Aussicht <pb n="269" facs="https://www.e-rara.ch/ebs/content/zoom/16558010"/> nur noch
                     einen Tag in <placeName ref="gfa-places-89">London</placeName> zuzubringen, beschloss ich, Vorstehendes verzeichnend, den
                     heutigen.</p></div>
             <div type="day">
@@ -3263,7 +3263,7 @@
                 <p>Eine <term ref="gfa-keywords-8673">Hochdruckdampfmaschine</term> von Hrn. <orgName ref="gfa-actors-7803">Taylor und Martineau</orgName> von 10 <term ref="gfa-keywords-8588">Pferdestärken</term>
                     treibt diese Circular-Sägen, 6 an der Zahl, wovon die grösste den ungeheuern
                     Durchmesser von 18 <term ref="gfa-keywords-8449">Fuss</term>, und die kleinste von 10 Fuss hat. Eine jede dieser
-                    Sägen be<pb n="270" facs="https://www.e-rara.ch/ebs/content/zoom/165579911" break="no"/>steht nun aus einem gegossenen, flachen eisernen Rad mit 6 Armen
+                    Sägen be<pb n="270" facs="https://www.e-rara.ch/ebs/content/zoom/16558011" break="no"/>steht nun aus einem gegossenen, flachen eisernen Rad mit 6 Armen
                     und einem 1 Fuss breiten, gegen die äussere Peripherie ganz abgeschärften Ring.
                     Auf diesen Ring, der im Durchmesser 2 Fuss kleiner ist, als die ganze Säge, sind
                     lange dünne, und, wie mir wegen ihrer Steifigkeit vorkam, etwas gehärtete und
@@ -3275,7 +3275,7 @@
                     <term ref="gfa-keywords-8643">kupfernen</term> Schrauben, deren Köpfe ebenfalls versenkt sind, angeschraubt. Die
                     Hirn- oder Radial-Seiten dieser äussersten Blätter berühren einander nicht ganz
                     bei einer halben <term ref="gfa-keywords-8541">Linie</term>, auch haben sie eine kleine Neigung einwärts gegen den
-                    zuschneidenden Block, welches <pb n="271" facs="https://www.e-rara.ch/ebs/content/zoom/165579912"/> ihnen nicht nur
+                    zuschneidenden Block, welches <pb n="271" facs="https://www.e-rara.ch/ebs/content/zoom/16558012"/> ihnen nicht nur
                     mehr Stärke gibt, sondern auch unnöthig macht, dass man den Zähnen einen Weg
                     gebe. Auf einem hohen eisernen Wagen, dessen Räder auf triangulären eisernen
                     Bahnen laufen, und dessen Seitenwände mit 6 <term ref="gfa-keywords-8460">Zoll</term> von einander abstehenden, etwas
@@ -3287,7 +3287,7 @@
                     jeder Länge und Breite, und von <formula rend="inline" notation="tex">\frac{1}{4}</formula> Zoll bis auf nur <formula rend="inline" notation="tex">\frac{1}{13}</formula> Zoll dick, geschnitten
                     werden können, geschieht durch den bei allen Sagemühlen gebräuchlichen
                     Mechanismus. Noch muss ich die Befestigung des Blocks erwähnen: er wird nämlich
-                    an die vorher erwähnten Seitenrippen des Wagens, dessen <pb n="272" facs="https://www.e-rara.ch/ebs/content/zoom/165579913"/> ganze Seite
+                    an die vorher erwähnten Seitenrippen des Wagens, dessen <pb n="272" facs="https://www.e-rara.ch/ebs/content/zoom/16558013"/> ganze Seite
                     weggehoben und nach Belieben eine andere hingethan werden kann, angeleimt. — Der
                     vortreffliche Leim, das Wärmen des Blocks auf der anzuleimenden Seite, und eine
                     grosse Pressung machen es möglich, dass, was kaum denkbar scheint, der schwerste
@@ -3302,7 +3302,7 @@
                     des Baums 16 <term ref="gfa-keywords-8449">Fuss</term> lang, durchaus gleich, 5 Fuss breit und 12 <term ref="gfa-keywords-8460">Zoll</term> dick, war
                     hier, um in Fournire zerschnitten zu werden. Ich mass es selbst, um völlige
                     Gewissheit seiner Grösse zu haben. Wenn man nun bedenkt, dass der Quadratfuss
-                    Mahagonyholz, von einem Zoll Dicke, von <pb n="273" facs="https://www.e-rara.ch/ebs/content/zoom/165579914"/> einem <term ref="gfa-keywords-8443">Schilling</term> bis
+                    Mahagonyholz, von einem Zoll Dicke, von <pb n="273" facs="https://www.e-rara.ch/ebs/content/zoom/16558014"/> einem <term ref="gfa-keywords-8443">Schilling</term> bis
                     zu einer <term ref="gfa-keywords-8536">Guinee</term>, wenn das Holz ganz ausgezeichnet schön ist, verkauft wird, und
                     dass dieses einzige Stück 960 <term ref="gfa-keywords-8449">Quadratschuhe</term>, oder 80 Cubikschuhe enthalt, so
                     kann man leicht die Rechnung des Werthes davon anstellen, so wie sich auch eine
@@ -3317,7 +3317,7 @@
                     brevetiren lassen. Wann werden wir bei uns auch nur einmal eine Anstalt für
                     Dachlatten zu schneiden bekommen?</p>
                 <p>Mit Abschiedsbesuchen und dem Einkauf verschiedener Gegenstände bis Abends spät
-                    beschäftigt, brachte ich noch die wenigen <pb n="274" facs="https://www.e-rara.ch/ebs/content/zoom/165579915"/> Stunden bis um
+                    beschäftigt, brachte ich noch die wenigen <pb n="274" facs="https://www.e-rara.ch/ebs/content/zoom/16558015"/> Stunden bis um
                     Mitternacht in Gesellschaft meiner <placeName ref="gfa-places-131">Schafhauser</placeName> Freunde zu, die mich noch
                     besuchten und die es nie bereuen werden, in <placeName ref="gfa-places-41">England</placeName> gewesen zu sein, so wie ich
                     nun selbst das frohe Bewusstsein mit nach Hause nehme, alle meine Zwecke
@@ -3334,7 +3334,7 @@
                     erfordert, ist hier beisammen, und sie könnten als Muster für die Bäder des
                     festen Landes dienen. Ein jedes Bad enthält zwei Zimmer, das eigentliche
                     Badzimmer und dann das, durch eine Thür davon geschiedene Ankleide- und
-                    Ruhzimmer. In beiden aufgehängte Thermometer, ein Kamin für augenbliklich Feuer <pb n="275" facs="https://www.e-rara.ch/ebs/content/zoom/165579916"/> darin
+                    Ruhzimmer. In beiden aufgehängte Thermometer, ein Kamin für augenbliklich Feuer <pb n="275" facs="https://www.e-rara.ch/ebs/content/zoom/16558016"/> darin
                     zu machen einerseits, und Jalousieläden und Ventilatoren anderseits gewähren die
                     schnelle Herstellung und Beibehaltung der convenabelsten Temperatur, was beim
                     Baden so wichtig ist, und auch hier musste ich eben wieder sagen: was sie
@@ -3355,7 +3355,7 @@
                     Gegenstände zubrachte.</p></div>
             <div type="day">
                 <head>Bei Mirimée und Bréant in Paris, 21. Juli 1825</head>
-                <p><pb n="276" facs="https://www.e-rara.ch/ebs/content/zoom/165579917"/> <placeName ref="gfa-places-118"><date when="1825-07-21">Den 21</date></placeName>. ging ich <placeName ref="gfa-places-1934" type="itinerar" when="1825-07-21" n="155" cert="0"><persName ref="gfa-actors-7509"><persName ref="gfa-actors-7900">zu Herrn Mirimée und Herrn Bréant</persName></persName></placeName>, Verificateur général des
+                <p><pb n="276" facs="https://www.e-rara.ch/ebs/content/zoom/16558017"/> <placeName ref="gfa-places-118"><date when="1825-07-21">Den 21</date></placeName>. ging ich <placeName ref="gfa-places-1934" type="itinerar" when="1825-07-21" n="155" cert="0"><persName ref="gfa-actors-7509"><persName ref="gfa-actors-7900">zu Herrn Mirimée und Herrn Bréant</persName></persName></placeName>, Verificateur général des
                     Essays. Beide Herren haben grosse Verdienste um die Beförderung der <term ref="gfa-keywords-3246">Industrie</term>
                     und überhaupt um die <term ref="gfa-keywords-97">Metallurgie</term>, und Herr <persName ref="gfa-actors-7509">Bréant</persName> verfertigt solche grosse
                     Gefässe aus <term ref="gfa-keywords-8558">Platina</term>, und in solcher Reinheit, die in Erstaunen setzen, und

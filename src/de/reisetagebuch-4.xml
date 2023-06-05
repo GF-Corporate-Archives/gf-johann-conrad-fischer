@@ -16,7 +16,7 @@
         <front>
             <titlePage>
                 <docTitle>
-                    <titlePart type="main"><pb facs="https://www.e-rara.ch/ebs/content/zoom/16589774"/> Fragmente aus dem Tagebuch dreier Reisen nach London und einigen Fabrikstädten Englands im Spätjahr von 1825, 1826 und 1827.</titlePart>
+                    <titlePart type="main">Fragmente aus dem Tagebuch dreier Reisen nach London und einigen Fabrikstädten Englands im Spätjahr von 1825, 1826 und 1827.</titlePart>
                 </docTitle>
                 <lb/>
                 <byline>Von <docAuthor>Johann Conrad Fischer</docAuthor>, Obristlieutenant der Artillerie und Cantons-Rath. Mit einem Steindruck.</byline>
@@ -25,7 +25,7 @@
             </titlePage>
             <div type="content">
                 <head>Titelseite</head>
-                <p><term ref="gfa-keywords-9841">Titelblatt aus der Erstedition</term>.</p> 
+                <p><pb facs="https://www.e-rara.ch/ebs/content/zoom/16589774"/> <term ref="gfa-keywords-9841">[Titelblatt der Erstedition]</term></p> 
             </div>
         </front>
         <body>
