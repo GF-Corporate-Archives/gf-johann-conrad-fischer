@@ -301,7 +301,7 @@
                     die nothwendigen Besuche abzustatten und Geschäfte zu machen, wenigstens auch 16
                     <term ref="gfa-keywords-8445">englische Meilen</term> die Kreuz und die Quer zu laufen habe, wovon ich nur die
                     äussersten Punkte, das <placeName ref="gfa-places-1832" type="itinerar" when="1825-06-08" n="18">Custom <pb n="28" facs="https://www.e-rara.ch/ebs/content/zoom/16557769"/> house</placeName>, um meine
-                    Bagage zu bekommen, und dann die <placeName ref="gfa-places-1703" type="itinerar" when="1825-06-08" n="19">Royal Institution</placeName> in <placeName ref="gfa-places-1696">Albemarle Street</placeName>,
+                    Bagage zu bekommen, und dann die <orgName ref="gfa-actors-7575"><placeName ref="gfa-places-1703" type="itinerar" when="1825-06-08" n="19">Royal Institution</placeName></orgName> in <placeName ref="gfa-places-1696">Albemarle Street</placeName>,
                     <placeName ref="gfa-places-1630">Picadilly</placeName>, um den Herrn <persName ref="gfa-actors-7469">Faraday</persName> zu besuchen, erwähne, so bediente ich mich der
                     so bequemen Einrichtung der Miethkutschen, um alles Vorläufige in einem Tage
                     abzuthun. — Auf dem <placeName ref="gfa-places-1832">Zollhaus</placeName> war der Searcher (Waarenbeschauer), dem ich, auf
@@ -325,8 +325,8 @@
                     wenn er eine Kutsche wolle, so werde er ihm sie verschaffen.) Ich übersetzte
                     meinem Reisegefährten getreulich die Worte des <pb n="30" facs="https://www.e-rara.ch/ebs/content/zoom/16557771"/> ehrlichen <persName ref="gfa-actors-8291">Jaks</persName>, sie
                     schienen ihn aber nicht sonderlich zu erbauen.</p>
-                <p>Mit Ungeduld eilte ich nach <placeName ref="gfa-places-1696">Albemarle Street</placeName>, <placeName ref="gfa-places-1630">Picadilly</placeName>, in die <placeName ref="gfa-places-1703">Royal
-                    Institution</placeName>, um die persönliche Bekanntschaft des daselbst angestellten, so
+                <p>Mit Ungeduld eilte ich nach <placeName ref="gfa-places-1696">Albemarle Street</placeName>, <placeName ref="gfa-places-1630">Picadilly</placeName>, in die <orgName ref="gfa-actors-7575"><placeName ref="gfa-places-1703">Royal
+                    Institution</placeName></orgName>, um die persönliche Bekanntschaft des daselbst angestellten, so
                     geschickten <term ref="gfa-keywords-8917">Chemikers</term> und <term ref="gfa-keywords-9312">Metallurgen</term>, Herrn <persName ref="gfa-actors-7469" type="met">Faraday</persName>, zu machen. Offen und
                     freundschaftlich, wie mir ihn Herr Staatsrath <persName ref="gfa-actors-7814">Delarive</persName> geschildert hatte, führte
                     er mich gleich, was mir sehr lieb war, anstatt in das Visitenzimmer, in das
@@ -370,7 +370,7 @@
                 <p>Den <placeName ref="gfa-places-89"><date when="1825-06-09">9</date></placeName>. Diesen Morgen, nachdem ich mich vorher auf dem <placeName ref="gfa-places-1936" type="itinerar" when="1825-06-09" n="22" cert="0"><persName ref="gfa-actors-7572">Comptoir, welches Hr. Watt
                     in der Stadt</persName></placeName> hat, erkundigte, ob er hier oder auf seinen <placeName ref="gfa-places-1723">Manufakturen</placeName> zu <placeName ref="gfa-places-1693">Soho</placeName>
                     bei <placeName ref="gfa-places-20">Birmingham</placeName> sei, und zu meinem Vergnügen das Letztere vernahm, ging ich
-                    wieder<persName ref="gfa-actors-7469"> <placeName ref="gfa-places-1703" type="itinerar" when="1825-06-09" n="23">zu Herrn Faraday</placeName></persName>. Er hatte die Güte, da ich mich bei ihm nach einer
+                    wieder <persName ref="gfa-actors-7469"><placeName ref="gfa-places-1703" type="itinerar" when="1825-06-09" n="23">zu Herrn Faraday</placeName></persName>. Er hatte die Güte, da ich mich bei ihm nach einer
                     Oelgas-Anstalt erkundigte, mich bei Hrn. <pb n="34" facs="https://www.e-rara.ch/ebs/content/zoom/16557775"/> <persName ref="gfa-actors-7855" type="met">Hennel</persName> in
                     <placeName ref="gfa-places-1834" type="itinerar" when="1825-06-09" n="24" cert="0">Apothecarys Hall</placeName>, <placeName ref="gfa-places-1690">Union Street</placeName>, <placeName ref="gfa-places-1841" cert="0">Bridge Street,</placeName> der gerade gegenwärtig war,
                     einzuführen. Da in dieser bedeutenden Anstalt beide Beleuchtungsarten mit
@@ -421,7 +421,7 @@
             <div type="day">
                 <head>Besuch der Vorlesung über Chemie, 10. Juni 1825</head>
                 <p>Den <placeName ref="gfa-places-89"><date when="1825-06-10">10</date></placeName>. Um 8 Uhr schon des Morgens begab ich mich auf den Weg, um präcis um 9 Uhr
-                    mich in dem <term ref="gfa-keywords-2324">Laboratorium</term> der <placeName ref="gfa-places-1703" type="itinerar" when="1825-06-10" n="28">Royal Institution</placeName> bei der Vorlesung über <term ref="gfa-keywords-604">Chemie</term>,
+                    mich in dem <term ref="gfa-keywords-2324">Laboratorium</term> der <orgName ref="gfa-actors-7575"><placeName ref="gfa-places-1703" type="itinerar" when="1825-06-10" n="28">Royal Institution</placeName></orgName> bei der Vorlesung über <term ref="gfa-keywords-604">Chemie</term>,
                     die Herr Professor <persName ref="gfa-actors-7483" type="met">Brande</persName> jeden Tag von 9 bis 10 Uhr einem Auditorium von
                     sechszig bis achtzig Personen sehr verschiedenen Alters, und dieselbige mit den
                     gehörigen Versuchen begleitet, ertheilt, einzufinden. — Obschon mir das
@@ -1255,7 +1255,7 @@
                     geht fehl, und weil der Ring gewissermassen zugleich als Mass dient, so sah ich
                     nirgends die Haufen der Steine so gleichförmig als hier.</p>
                 <p>Da die Zeit mir sehr sparsam zugemes<pb n="107" facs="https://www.e-rara.ch/ebs/content/zoom/16557848" break="no"/>sen ist,
-                    so liess ich <placeName ref="gfa-places-1761">New-Etruria</placeName> und dessen achtungswerthen Besitzer <persName ref="gfa-actors-7568">Wedgewood </persName>für
+                    so liess ich <placeName ref="gfa-places-1761">New-Etruria</placeName> und dessen achtungswerthen Besitzer <persName ref="gfa-actors-7568">Wedgewood</persName> für
                     dieses Mal unbesucht.</p>
                 <p>Als ich <placeName ref="gfa-places-471" type="itinear" when="1825-06-17" n="58">Manchester</placeName> nur von weitem erblickte, sah ich schon, wie solches sich seit
                     eilf Jahren vergrössert hat, und bei dem Hereinfahren schien es mir an
@@ -1286,12 +1286,12 @@
                     bessere Belohnung findet. — Hauptsächlich erfreulich ist es aber, dass er so
                     viel vaterländischen Sinn behalten, jungen hoffnungsvollen Schweizern, deren ich
                     vier bei ihm antraf, den Zutritt in seine Werkstätte zu gestalten, ihnen seine
-                    Pläne mittheilt, und ihre Entwürfe und Zeichnungen leitet. Noch gingen wir <placeName ref="gfa-places-1718" type="itinerar" when="1825-06-18" n="62"><persName ref="gfa-actors-6319">zu
-                        Herrn Fairbairn</persName></placeName> hin, der gewiss einer der ersten und geschicktesten Mühlenmacher
+                    Pläne mittheilt, und ihre Entwürfe und Zeichnungen leitet. Noch gingen wir <persName ref="gfa-actors-6319"><orgName ref="gfa-actors-7612"><placeName ref="gfa-places-1718" type="itinerar" when="1825-06-18" n="62">zu
+                        Herrn Fairbairn</placeName></orgName></persName> hin, der gewiss einer der ersten und geschicktesten Mühlenmacher
                     (Millwrights) in England ist. Unter diesem Namen muss man aber ganz etwas
                     anderes als bei uns verstehen, da sie fast ausschliesslich in der Schweiz und in
                     <placeName ref="gfa-places-35">Teutschland</placeName> nur in Holz arbeiten. — In England ist das <term ref="gfa-keywords-8672">Eisen</term> gemeiner als Holz,
-                    und nur diesen Nachmittag sind in der <placeName ref="gfa-places-1718">Werkstätte</placeName>, wo ich war, aus zwei
+                    und nur diesen Nachmittag sind in der <orgName ref="gfa-actors-7612"><placeName ref="gfa-places-1718">Werkstätte</placeName></orgName>, wo ich war, aus zwei
                     <term ref="gfa-keywords-238">Cupoloöfen</term> über 120, sage ein<pb n="110" facs="https://www.e-rara.ch/ebs/content/zoom/16557851" break="no"/>hundert und zwanzig
                     <term ref="gfa-keywords-8451">Zentner</term>, an verschiedenen grossen und kleinen Gegenständen gegossen worden. —
                     Diese Cupoloöfen, die nun fast durchaus wegen ihrer grossen Wohlfeilheit in der
@@ -1397,7 +1397,7 @@
                     Herrn Watt in Soho</placeName></persName> eingeführt ist, nicht gefallen wollte. — Dieselbe ist in
                     Herrn <persName ref="gfa-actors-7921"><placeName ref="gfa-places-1874" type="itinerar" when="1825-06-20" n="65" cert="0">Richard Ormrods Eisengiesserei</placeName></persName>, in <placeName ref="gfa-places-1875" cert="0">Minshull Street</placeName>, <placeName ref="gfa-places-1876" cert="0">London-Road</placeName>. Der junge
                     Herr <persName ref="gfa-actors-7826" type="met">Escher</persName> von <placeName ref="gfa-places-154">Zürich</placeName>, Sohn meines Freundes, des um unsere vaterländische
-                    <term ref="gfa-keywords-3246">Industrie</term> so verdienstvollen Herrn <persName ref="gfa-actors-7525">Escher</persName> in der <placeName ref="gfa-places-1939" cert="0">Neumühle</placeName>, hatte die
+                    <term ref="gfa-keywords-3246">Industrie</term> so verdienstvollen Herrn <persName ref="gfa-actors-7525">Escher</persName> in der <orgName ref="gfa-actors-1081"><placeName ref="gfa-places-1939" cert="0">Neumühle</placeName></orgName>, hatte die
                     Gefälligkeit, mich hinzuführen, da er Herrn <persName ref="gfa-actors-7921">Ormrod</persName> persönlich bekannt war. Herr
                     <persName ref="gfa-actors-7826">Escher</persName>, der durch seine Sprach- und Landeskenntniss, vorzüglich aber durch seine
                     vielseitigen wissenschaftlichen Kenntnisse, zu grossen Hoffnungen berechtiget,
@@ -1525,7 +1525,7 @@
                     mit prüfendem Blick den Karakter der Kinder erkennen. Er erscheint hier
                     natürlich und ungezwungen, und dass dieses wahr ist, geht aus dem hervor, dass
                     diese Nation im Ganzen den Typus desselben in sich trägt.</p>
-                <p>Von dem Frühstück weg gingen wir nach den <placeName ref="gfa-places-1718" type="itinerar" when="1825-06-21" n="68">Werkstätten</placeName> von Herrn <persName ref="gfa-actors-6319">Fairbairn</persName>. So
+                <p>Von dem Frühstück weg gingen wir nach den <orgName ref="gfa-actors-7612"><placeName ref="gfa-places-1718" type="itinerar" when="1825-06-21" n="68">Werkstätten</placeName></orgName> von Herrn <persName ref="gfa-actors-6319">Fairbairn</persName>. So
                     viele Arbeiter er hat, so reichen selbige doch nicht hin, um die gemachten
                     Bestellungen zu fertigen.</p>
                 <p>Diese grossen Bestellungen, diese grossen Summen, die dadurch in Umlauf kommen,
@@ -2989,7 +2989,7 @@
                     präveniren. Möge es geschehen, dass diese Briefe voreilig geschrieben waren.</p></div>
             <div type="day">
                 <head>Geschäftschancen in der Londoner Münze, 11. Juli 1825</head>
-                <p>Den <placeName ref="gfa-places-89"><date when="1825-07-11">11. Juli</date></placeName>. Um halb eilf Uhr ging ich <placeName ref="gfa-places-2053" type="itinerar" when="1825-07-11" n="132" cert="0"><persName ref="gfa-actors-7936">zu Herrn Rennié</persName></placeName>. Nach kurzer Unter<pb n="248" facs="https://www.e-rara.ch/ebs/content/zoom/16557989" break="no"/>haltung fragte er mich, ob ich nicht um 1 Uhr in die  <placeName ref="gfa-places-1636" type="itinerar" when="1825-07-11" n="133">königl. Münze</placeName> kommen, und
+                <p>Den <placeName ref="gfa-places-89"><date when="1825-07-11">11. Juli</date></placeName>. Um halb eilf Uhr ging ich <placeName ref="gfa-places-2053" type="itinerar" when="1825-07-11" n="132" cert="0"><persName ref="gfa-actors-7936">zu Herrn Rennié</persName></placeName>. Nach kurzer Unter<pb n="248" facs="https://www.e-rara.ch/ebs/content/zoom/16557989" break="no"/>haltung fragte er mich, ob ich nicht um 1 Uhr in die <orgName ref="gfa-actors-7582"><placeName ref="gfa-places-1636" type="itinerar" when="1825-07-11" n="133">königl. Münze</placeName></orgName> kommen, und
                     etwas von <term ref="gfa-keywords-9474">meinem Stahl</term> zur Untersuchung mitbringen möchte. Es ereignen sich,
                     fuhr er fort, bei ihnen in dieser Münze immer so viele Zufälle mit den so
                     kostbaren <term ref="gfa-keywords-9330">Stempeln</term>, und wenn mein Stahl aushalten würde, könnten wir bedeutende
@@ -3031,7 +3031,7 @@
                     kann, ertheilen muss.</p></div>
             <div type="day">
                 <head>Ein weiterer Abend bei Joseph Egg, 11. Juli 1825</head>
-                <p>Von der <placeName ref="gfa-places-1636">Münze</placeName> weg machte ich noch einen Spaziergang von ungefähr 6 <term ref="gfa-keywords-8445">Meilen</term> <placeName ref="gfa-places-2050" type="itinerar" when="1825-07-11" n="134" cert="0"><persName ref="gfa-actors-7823">zu
+                <p>Von der <orgName ref="gfa-actors-7582"><placeName ref="gfa-places-1636">Münze</placeName></orgName> weg machte ich noch einen Spaziergang von ungefähr 6 <term ref="gfa-keywords-8445">Meilen</term> <placeName ref="gfa-places-2050" type="itinerar" when="1825-07-11" n="134" cert="0"><persName ref="gfa-actors-7823">zu
                     Herrn Egg</persName></placeName> in <placeName ref="gfa-places-1630">Picadilly</placeName>. Es war schon spät, aber dem ungeachtet kam noch der <persName ref="gfa-actors-7919">Sohn</persName>
                     des <persName ref="gfa-actors-8100">Herzogs von Norfolk</persName>, nebst noch einem jungen Herrn, der einen zerbrochenen
                     Arm in einer ledernen, steifen Rinne trug, um ein paar Gewehre zu 50 <term ref="gfa-keywords-8536">Guineen</term> das
@@ -3079,7 +3079,7 @@
                     der Pflanzensäfte in grossen Quantitäten, zum Sieben der Pulver etc. wird in der
                     Apothecarys-Hall ebenfalls die rechte Hand aller Gewerbe in <placeName ref="gfa-places-41">England</placeName>, die
                     <term ref="gfa-keywords-8651">Dampfmaschine</term>, gebraucht; diese hier ist von acht <term ref="gfa-keywords-8588">Pferdkräften</term>, von <orgName ref="gfa-actors-7571">Bolton und
-                    Watt</orgName> gebaut. — Wir gingen wieder zusammen nach der <placeName ref="gfa-places-1636" type="itinerar" when="1825-07-12" n="139">Münze</placeName>. Das wäre etwas
+                        Watt</orgName> gebaut. — Wir gingen wieder zusammen nach der <orgName ref="gfa-actors-7582"><placeName ref="gfa-places-1636" type="itinerar" when="1825-07-12" n="139">Münze</placeName></orgName>. Das wäre etwas
                     Wichtiges, sagte er zu mir, gute <term ref="gfa-keywords-9330">Stempel</term>: nachdem er mich eine kleine Weile
                     verlassen hatte und dann wieder kam: Nur diesen Morgen sind uns schon wieder
                     eilf zerbrochen, zuweilen gehen noch mehr zu Grunde, und wenn einer zwei Tage
