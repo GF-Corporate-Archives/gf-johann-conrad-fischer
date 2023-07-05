@@ -160,7 +160,7 @@
             <div type="day">
                 <head>Calais–London, 7. Juni 1825</head>
                 <p>Den <date when="1825-06-07">7. Juni</date> Morgens um 5 Uhr schiffte ich mich auf dem <term ref="gfa-keywords-8801">Dampfboot</term> the Mountaineer
-                    ein. Die Witterung war günstig, das Meer ziemlich ruhig, die Räder brauseten,
+                    ein. Die Witterung war günstig, das <placeName ref="gfa-places-2005">Meer</placeName> ziemlich ruhig, die Räder brauseten,
                     eilends durchschnitt das Schiff die Wellen, und ehe wir daran dachten, befanden
                     wir uns schon auf der Seehöhe vor Langnose, und die Küsten <placeName ref="gfa-places-41">Albions</placeName> lagen wie
                     eine unermessliche Mappe ausgebreitet vor uns.</p>
@@ -3343,7 +3343,7 @@
                 <p>Den <placeName ref="gfa-places-1608"><date when="1825-07-18">18</date></placeName>. Vormittags um zehn Uhr ging ich mit dem <term ref="gfa-keywords-9678">Dampfboot Britannia</term> nach <placeName ref="gfa-places-1607" type="itinerar" when="1825-07-18" n="152">Calais</placeName>
                     über, welchen Weg, der auf 28 <term ref="gfa-keywords-8445">englische Meilen</term> geschätzt wird, wir in zwei
                     Stunden und fünfundfünfzig Minuten zurücklegten. Als wir abfuhren, sagte der
-                    Capitain: wir werden die Ueberfahrt in zwei Stunden und fünfzig Minuten machen;
+                    Capitain: wir werden die <placeName ref="gfa-places-2005">Ueberfahrt</placeName> in zwei Stunden und fünfzig Minuten machen;
                     auf der Hälfte Weges aber änderte der Wind, und doch trug der Unterschied auf
                     diese grosse Entfernung nicht mehr als fünf Minuten aus, während dem in einem
                     gewöhnlichen Schiff dieses mehrere Stunden, ja einen ganzen Tag uns hätte
