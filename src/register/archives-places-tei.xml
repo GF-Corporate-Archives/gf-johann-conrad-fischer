@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-06-06 13:54:28 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-09-28 16:01:16 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -28,6 +28,7 @@
             <placeName type="full" xml:lang="de">Aachen</placeName>
             <placeName type="main" xml:lang="en">Aix-La-Chapelle</placeName>
             <placeName type="full" xml:lang="en">Aix-La-Chapelle</placeName>
+            <placeName type="alternative" xml:lang="en">Aachen</placeName>
             <location>
               <geo>50.77664 6.08342</geo>
               <settlement xml:lang="de">Aachen</settlement>
@@ -353,7 +354,6 @@
             <placeName type="alternative" xml:lang="de">Australia</placeName>
             <placeName type="main" xml:lang="en">Australia</placeName>
             <placeName type="full" xml:lang="en">Australia</placeName>
-            <placeName type="alternative" xml:lang="en">Australia</placeName>
             <location>
               <geo>-25 135</geo>
               <country xml:lang="de">Australien</country>
@@ -415,6 +415,8 @@
             <placeName type="full" xml:lang="de">Basel (BS)</placeName>
             <placeName type="main" xml:lang="en">Basel</placeName>
             <placeName type="full" xml:lang="en">Basel (BS)</placeName>
+            <placeName type="alternative" xml:lang="en">Bâle</placeName>
+            <placeName type="alternative" xml:lang="en">Basle</placeName>
             <location>
               <geo>47.55839 7.57327</geo>
               <settlement xml:lang="de">Basel</settlement>
@@ -630,6 +632,7 @@
             <placeName type="full" xml:lang="de">Bern (BE)</placeName>
             <placeName type="main" xml:lang="en">Bern</placeName>
             <placeName type="full" xml:lang="en">Bern (BE)</placeName>
+            <placeName type="alternative" xml:lang="en">Berne</placeName>
             <location>
               <geo>46.94809 7.44744</geo>
               <settlement xml:lang="de">Bern</settlement>
@@ -1303,7 +1306,7 @@
             <placeName type="alternative" xml:lang="de">Bündnerland</placeName>
             <placeName type="main" xml:lang="en">Canton of Graubünden</placeName>
             <placeName type="full" xml:lang="en">Canton of Graubünden (GR)</placeName>
-            <placeName type="alternative" xml:lang="en">Bündnerland</placeName>
+            <placeName type="alternative" xml:lang="en">Grisons</placeName>
             <location>
               <geo>46.6587 9.62296</geo>
               <country xml:lang="de">Schweiz</country>
@@ -1630,7 +1633,6 @@
             <placeName type="alternative" xml:lang="de">Canada</placeName>
             <placeName type="main" xml:lang="en">Canada</placeName>
             <placeName type="full" xml:lang="en">Canada</placeName>
-            <placeName type="alternative" xml:lang="en">Canada</placeName>
             <location>
               <geo>60.10867 -113.64258</geo>
               <country xml:lang="de">Kanada</country>
@@ -1684,7 +1686,6 @@
             <placeName type="alternative" xml:lang="de">Schaffhauserland</placeName>
             <placeName type="main" xml:lang="en">Canton of Schaffhausen</placeName>
             <placeName type="full" xml:lang="en">Canton of Schaffhausen (SH)</placeName>
-            <placeName type="alternative" xml:lang="en">Schaffhauserland</placeName>
             <location>
               <geo>47.71034 8.63388</geo>
               <country xml:lang="de">Schweiz</country>
@@ -2617,6 +2618,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Switzerland"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133164"/>
+                <title xml:lang="de">Wappenscheibe der Schweizerischen Eidgenossenschaft (Aquatinta von Johann-Rudolf Dickenmann, um 1815–1831)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_251-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_251-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_251-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -2953,9 +2962,7 @@
             <placeName type="alternative" xml:lang="de">Amerika</placeName>
             <placeName type="main" xml:lang="en">USA</placeName>
             <placeName type="full" xml:lang="en">USA</placeName>
-            <placeName type="alternative" xml:lang="en">Vereinsstaaten</placeName>
-            <placeName type="alternative" xml:lang="en">Vereinigte Staaten von Nordamerika</placeName>
-            <placeName type="alternative" xml:lang="en">Amerika</placeName>
+            <placeName type="alternative" xml:lang="en">United States of America</placeName>
             <location>
               <geo>39.76 -98.5</geo>
               <country xml:lang="de">Vereinigte Staaten von Amerika</country>
@@ -3771,7 +3778,7 @@
             <placeName type="alternative" xml:lang="de">Bombay (bis 1995)</placeName>
             <placeName type="main" xml:lang="en">Mumbai</placeName>
             <placeName type="full" xml:lang="en">Mumbai</placeName>
-            <placeName type="alternative" xml:lang="en">Bombay (bis 1995)</placeName>
+            <placeName type="alternative" xml:lang="en">Bombay (until 1995)</placeName>
             <location>
               <geo>19.07283 72.88261</geo>
               <settlement xml:lang="de">Mumbai</settlement>
@@ -4086,8 +4093,7 @@
             <placeName type="alternative" xml:lang="de">Strassbourg</placeName>
             <placeName type="main" xml:lang="en">Strasbourg</placeName>
             <placeName type="full" xml:lang="en">Strasbourg</placeName>
-            <placeName type="alternative" xml:lang="en">Strasbourg</placeName>
-            <placeName type="alternative" xml:lang="en">Strassbourg</placeName>
+            <placeName type="alternative" xml:lang="en">Strassburg</placeName>
             <location>
               <geo>48.58392 7.74553</geo>
               <settlement xml:lang="de">Strassburg</settlement>
@@ -4608,7 +4614,6 @@
             <placeName type="alternative" xml:lang="de">California</placeName>
             <placeName type="main" xml:lang="en">California</placeName>
             <placeName type="full" xml:lang="en">California (CA)</placeName>
-            <placeName type="alternative" xml:lang="en">California</placeName>
             <location>
               <geo>37.25022 -119.75126</geo>
               <country xml:lang="de">Vereinigte Staaten von Amerika</country>
@@ -5280,7 +5285,7 @@
             <placeName type="alternative" xml:lang="de">Freyberg im Erzgebirge</placeName>
             <placeName type="main" xml:lang="en">Freiberg</placeName>
             <placeName type="full" xml:lang="en">Freiberg</placeName>
-            <placeName type="alternative" xml:lang="en">Freyberg im Erzgebirge</placeName>
+            <placeName type="alternative" xml:lang="en">Freyberg in the Ore Mountains</placeName>
             <location>
               <geo>50.91089 13.33881</geo>
               <settlement xml:lang="de">Freiberg</settlement>
@@ -5795,7 +5800,7 @@
             <placeName type="alternative" xml:lang="de">Freistaat Bayern</placeName>
             <placeName type="main" xml:lang="en">Bavaria</placeName>
             <placeName type="full" xml:lang="en">Bavaria</placeName>
-            <placeName type="alternative" xml:lang="en">Freistaat Bayern</placeName>
+            <placeName type="alternative" xml:lang="en">Free State of Bavaria</placeName>
             <location>
               <geo>49 11.5</geo>
               <country xml:lang="de">Deutschland</country>
@@ -5989,7 +5994,6 @@
             <placeName type="alternative" xml:lang="de">Helsingør</placeName>
             <placeName type="main" xml:lang="en">Helsingör</placeName>
             <placeName type="full" xml:lang="en">Helsingör</placeName>
-            <placeName type="alternative" xml:lang="en">Helsingør</placeName>
             <location>
               <geo>56.03606 12.6136</geo>
               <settlement xml:lang="de">Helsingör</settlement>
@@ -6107,6 +6111,7 @@
             <placeName type="full" xml:lang="de">Solothurn (SO)</placeName>
             <placeName type="main" xml:lang="en">Solothurn</placeName>
             <placeName type="full" xml:lang="en">Solothurn (SO)</placeName>
+            <placeName type="alternative" xml:lang="en">Soleure</placeName>
             <location>
               <geo>47.20791 7.53714</geo>
               <settlement xml:lang="de">Solothurn</settlement>
@@ -6239,7 +6244,6 @@
             <placeName type="main" xml:lang="en">Liège</placeName>
             <placeName type="full" xml:lang="en">Liège</placeName>
             <placeName type="alternative" xml:lang="en">Lüttich</placeName>
-            <placeName type="alternative" xml:lang="en">Liége</placeName>
             <location>
               <geo>50.63373 5.56749</geo>
               <settlement xml:lang="de">Liège</settlement>
@@ -6627,8 +6631,7 @@
             <placeName type="alternative" xml:lang="de">Ostgotland</placeName>
             <placeName type="main" xml:lang="en">Ostgothland</placeName>
             <placeName type="full" xml:lang="en">Ostgothland</placeName>
-            <placeName type="alternative" xml:lang="en">Ostgothland</placeName>
-            <placeName type="alternative" xml:lang="en">Ostgotland</placeName>
+            <placeName type="alternative" xml:lang="en">Ostrogothia</placeName>
             <location>
               <geo>58.41667 15.75</geo>
               <country xml:lang="de">Schweden</country>
@@ -6852,7 +6855,6 @@
             <placeName type="alternative" xml:lang="de">Thuringia</placeName>
             <placeName type="main" xml:lang="en">Thuringia</placeName>
             <placeName type="full" xml:lang="en">Thuringia</placeName>
-            <placeName type="alternative" xml:lang="en">Thuringia</placeName>
             <location>
               <geo>50.91667 11</geo>
               <country xml:lang="de">Deutschland</country>
@@ -7415,7 +7417,6 @@
             <placeName type="alternative" xml:lang="de">Doggers-Bank</placeName>
             <placeName type="main" xml:lang="en">Dogger Bank</placeName>
             <placeName type="full" xml:lang="en">Dogger Bank</placeName>
-            <placeName type="alternative" xml:lang="en">Doggers-Bank</placeName>
             <location>
               <geo>55 3</geo>
             </location>
@@ -7543,12 +7544,12 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>Jenstad, Janelle: Shoe Lane. In: Janelle Jenstad (Hg.): The Map of Early Modern London, Edition 6.6. Victoria 2021 (<ref target="https://mapoflondon.uvic.ca/edition/6.6/SHOE1.htm">Map of Early Modern London</ref>, Stand 26.10.2021).</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>Jenstad, Janelle: Shoe Lane. In: Janelle Jenstad (Hg.): The Map of Early Modern London, Edition 6.6. Victoria 2021 (<ref target="https://mapoflondon.uvic.ca/edition/6.6/SHOE1.htm">Map of Early Modern London</ref>, Stand 26.10.2021).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Seitengasse der Fleet Street in Holborn, London.</p>
+              <p>Seitengasse der <ref target="gfa-places-2026">Fleet Street</ref> in Holborn, London.</p>
               <p>Johann Conrad Fischer arbeitete während seines London-Aufenthalts 1794 bei einem Mechaniker namens <ref target="../names/gfa-actors-7395">Rhee</ref>, dessen Werkstatt sich in der Shoe Lane befand. In <hi rend="italic">Kent's Directory for the Year 1794. Cities of London and Westminster, &amp; Borough of Southwark.</hi> ist Rhee nicht aufgeführt. Das Adressverzeichnis gibt uns dennoch einen Eindruck der gewerblichen Betriebsamkeit an der Shoe Lane zu dieser Zeit:</p>
               <list>
                 <item>Bland Thomas, Brass Founder, 40, Shoe lane, Fleet street</item>
@@ -7642,7 +7643,6 @@
             <placeName type="alternative" xml:lang="de">Schweinesund</placeName>
             <placeName type="main" xml:lang="en">Svinesund</placeName>
             <placeName type="full" xml:lang="en">Svinesund</placeName>
-            <placeName type="alternative" xml:lang="en">Schweinesund</placeName>
             <location>
               <geo>59.09773 11.27051</geo>
             </location>
@@ -7681,7 +7681,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Meerenge zwischen Norwegen und Schweden; auch Bezeichnung für das schwedische Landgebiet südlich des Sunds.</p>
+              <p>Meerenge zwischen <ref target="gfa-places-109">Norwegen</ref> und <ref target="gfa-places-133">Schweden</ref>; auch Bezeichnung für das schwedische Landgebiet südlich des Sunds.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A sound located between Norway and Sweden; it also designates the Swedish territory to the south of the sound.</p>
@@ -7694,8 +7694,6 @@
             <placeName type="alternative" xml:lang="de">Hörsholm</placeName>
             <placeName type="main" xml:lang="en">Hirschholm Palace</placeName>
             <placeName type="full" xml:lang="en">Hirschholm Palace / Hirschholm</placeName>
-            <placeName type="alternative" xml:lang="en">Hørsholm</placeName>
-            <placeName type="alternative" xml:lang="en">Hörsholm</placeName>
             <location>
               <geo>55.8755 12.49981</geo>
               <settlement xml:lang="de">Hirschholm</settlement>
@@ -7732,7 +7730,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Ehemaliges Barockschloss in der heutigen Stadt Hirschholm, erbaut um 1730 von König Christian VI.</p>
+              <p>Ehemaliges Barockschloss in der heutigen Stadt Hirschholm, erbaut um 1730 von <ref target="../names/gfa-actors-8270">König Christian VI</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A now demolished Baroque palace in the present-day municpality of Hørsholm; the palace was built by King Christian VI around 1730.</p>
@@ -7798,7 +7796,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Küstenstadt in Südschweden, bekannt für den Burgturm Kärnan.</p>
+              <p>Küstenstadt in Südschweden, bekannt für den Burgturm <ref target="gfa-places-1504">Kärnan</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A coastal city in southern Sweden famous for the medieval fortress Kärnan.</p>
@@ -7812,7 +7810,7 @@
             <placeName type="main" xml:lang="en">Zealand</placeName>
             <placeName type="full" xml:lang="en">Zealand</placeName>
             <placeName type="alternative" xml:lang="en">Sjælland</placeName>
-            <placeName type="alternative" xml:lang="en">Zealand</placeName>
+            <placeName type="alternative" xml:lang="en">Seeland</placeName>
             <location>
               <geo>55.41667 11.83333</geo>
               <country xml:lang="de">Dänemark</country>
@@ -7855,7 +7853,6 @@
             <placeName type="alternative" xml:lang="de">Kongevej</placeName>
             <placeName type="main" xml:lang="en">King's Way</placeName>
             <placeName type="full" xml:lang="en">King's Way</placeName>
-            <placeName type="alternative" xml:lang="en">Kongevej</placeName>
             <location>
               <geo>55.781631635199 12.52461303771</geo>
               <country xml:lang="de">Dänemark</country>
@@ -7868,8 +7865,8 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Alte Strasse, die im 17. und 18. Jahrhundert die Ländereien des dänischen Königs auf Seeland verband.</p>
-              <p>Der Königsweg erstreckte sich von Kopenhagen bis nach Hirschholm.</p>
+              <p>Alte Strasse, die im 17. und 18. Jahrhundert die Ländereien des dänischen Königs auf <ref target="gfa-places-1498">Seeland</ref> verband.</p>
+              <p>Der Königsweg erstreckte sich von <ref target="gfa-places-427">Kopenhagen</ref> bis nach <ref target="gfa-places-1496">Hirschholm</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An old road that connected the estates of the Danish king on Zealand in the 17th and 18th centuries.</p>
@@ -7934,7 +7931,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Schloss und Festung in Helsingör, bekannt als Schauplatz von Shakespeares <hi rend="italic">Hamlet</hi>.</p>
+              <p>Schloss und Festung in Helsingör, bekannt als Schauplatz von <ref target="../names/gfa-actors-7950">Shakespeares</ref> <hi rend="italic">Hamlet</hi>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A castle and fortress in Helsingör, famous as the scene of Shakespeare's <hi rend="italic">Hamlet</hi>.</p>
@@ -8044,7 +8041,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Hafenstadt in der historischen Provinz Schonen in Schweden.</p>
+              <p>Hafenstadt in der historischen Provinz <ref target="gfa-places-1505">Schonen</ref> in Schweden.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A port town in the historical province of Scania, Sweden.</p>
@@ -8058,7 +8055,6 @@
             <placeName type="main" xml:lang="en">Ven</placeName>
             <placeName type="full" xml:lang="en">Ven / Landskrona</placeName>
             <placeName type="alternative" xml:lang="en">Hveen</placeName>
-            <placeName type="alternative" xml:lang="en">Hven</placeName>
             <location>
               <geo>55.91004 12.69878</geo>
               <settlement xml:lang="de">Landskrona</settlement>
@@ -8098,7 +8094,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Schwedische Insel im Öresund, bekannt für die Observatorien des Astronomen <ref target="../names/gfa-actors-7400">Tycho Brahe</ref>.</p>
+              <p>Schwedische Insel im <ref target="gfa-places-1573">Öresund</ref>, bekannt für die Observatorien des Astronomen <ref target="../names/gfa-actors-7400">Tycho Brahe</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A Swedish island in the Øresund, famous as the location of the observatories of the astronomer <ref target="../names/gfa-actors-7400">Tycho Brahe</ref>.</p>
@@ -8112,7 +8108,6 @@
             <placeName type="main" xml:lang="en">Kärnan</placeName>
             <placeName type="full" xml:lang="en">Kärnan / Helsingborg</placeName>
             <placeName type="alternative" xml:lang="en">Gernä</placeName>
-            <placeName type="alternative" xml:lang="en">Kernen</placeName>
             <location>
               <geo>56.0482 12.69776</geo>
               <settlement xml:lang="de">Helsingborg</settlement>
@@ -8152,7 +8147,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Mittelalterlicher Burgturm oberhalb Helsingborgs.</p>
+              <p>Mittelalterlicher Burgturm oberhalb <ref target="gfa-places-1497">Helsingborgs</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A medieval tower above Helsingborg.</p>
@@ -8166,7 +8161,6 @@
             <placeName type="main" xml:lang="en">Scania</placeName>
             <placeName type="full" xml:lang="en">Scania</placeName>
             <placeName type="alternative" xml:lang="en">Skåne</placeName>
-            <placeName type="alternative" xml:lang="en">Scania</placeName>
             <location>
               <geo>55.98333 13.5</geo>
               <country xml:lang="de">Schweden</country>
@@ -8263,6 +8257,7 @@
             <placeName type="alternative" xml:lang="de">Wettern</placeName>
             <placeName type="main" xml:lang="en">Lake Vättern</placeName>
             <placeName type="full" xml:lang="en">Lake Vättern</placeName>
+            <placeName type="alternative" xml:lang="en">Wettern Lake</placeName>
             <placeName type="alternative" xml:lang="en">Vättern</placeName>
             <placeName type="alternative" xml:lang="en">Wettern</placeName>
             <location>
@@ -8363,7 +8358,6 @@
             <placeName type="main" xml:lang="en">Visingsö</placeName>
             <placeName type="full" xml:lang="en">Visingsö / Jönköping</placeName>
             <placeName type="alternative" xml:lang="en">Wisingsiö</placeName>
-            <placeName type="alternative" xml:lang="en">Visings-Ö</placeName>
             <location>
               <geo>58.05 14.33333</geo>
               <settlement xml:lang="de">Jönköping</settlement>
@@ -8398,7 +8392,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Grösste Insel im schwedischen Vätternsee.</p>
+              <p>Grösste Insel im schwedischen <ref target="gfa-places-1507">Vätternsee</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>The largest island in Lake Vättern, Sweden.</p>
@@ -8449,7 +8443,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Ort am Ostufer des Vätternsees.</p>
+              <p>Ort am Ostufer des <ref target="gfa-places-1507">Vätternsees</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A place on the eastern shore of Lake Vättern.</p>
@@ -8463,7 +8457,6 @@
             <placeName type="main" xml:lang="en">Södermanland</placeName>
             <placeName type="full" xml:lang="en">Södermanland</placeName>
             <placeName type="alternative" xml:lang="en">Südermanland</placeName>
-            <placeName type="alternative" xml:lang="en">Sörmland</placeName>
             <location>
               <geo>59.25 16.66667</geo>
               <country xml:lang="de">Schweden</country>
@@ -8493,7 +8486,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Historische Provinz südlich des Sees Mälaren.</p>
+              <p>Historische Provinz südlich des Sees <ref target="gfa-places-1520">Mälaren</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Historical province south of Lake Mälaren.</p>
@@ -8549,7 +8542,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Stadt in der historischen Provinz Östergötland.</p>
+              <p>Stadt in der historischen Provinz <ref target="gfa-places-1477">Östergötland</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>City in the historical province of Ostgothland.</p>
@@ -8603,7 +8596,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Stadt in der historischen Provinz Östergötland.</p>
+              <p>Stadt in der historischen Provinz <ref target="gfa-places-1477">Östergötland</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>City in the historical province of Ostgothland.</p>
@@ -8642,7 +8635,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Fluss in Schweden, Abfluss des Vätternsees.</p>
+              <p>Fluss in Schweden, Abfluss des <ref target="gfa-places-1507">Vätternsees</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A river in Sweden that drains Lake Vättern.</p>
@@ -8696,7 +8689,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Stadt in der historischen Provinz Södermanland.</p>
+              <p>Stadt in der historischen Provinz <ref target="gfa-places-1511">Södermanland</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>City in the historical province of Södermanland.</p>
@@ -8708,6 +8701,7 @@
             <placeName type="alternative" xml:lang="de">Südermalm</placeName>
             <placeName type="main" xml:lang="en">Södermalm</placeName>
             <placeName type="full" xml:lang="en">Södermalm / Stockholm</placeName>
+            <placeName type="alternative" xml:lang="en">Süder-Malm</placeName>
             <placeName type="alternative" xml:lang="en">Südermalm</placeName>
             <location>
               <geo>59.31278 18.07577</geo>
@@ -8744,7 +8738,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Stadtteil Stockholms.</p>
+              <p>Stadtteil <ref target="gfa-places-142">Stockholms</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A district of Stockholm.</p>
@@ -8756,7 +8750,7 @@
             <placeName type="alternative" xml:lang="de">Nordermalm</placeName>
             <placeName type="main" xml:lang="en">Norrmalm</placeName>
             <placeName type="full" xml:lang="en">Norrmalm / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Nordermalm</placeName>
+            <placeName type="alternative" xml:lang="en">Norder-Malm, Nordermalm</placeName>
             <location>
               <geo>59.33424 18.05998</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -8786,7 +8780,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Stadtteil Stockholms.</p>
+              <p>Stadtteil <ref target="gfa-places-142">Stockholms</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A district of Stockholm.</p>
@@ -8799,7 +8793,8 @@
             <placeName type="alternative" xml:lang="de">Katarina kyrka</placeName>
             <placeName type="main" xml:lang="en">Katarina Church</placeName>
             <placeName type="full" xml:lang="en">Katarina Church / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Catharinenkirche</placeName>
+            <placeName type="alternative" xml:lang="en">Catharine Church</placeName>
+            <placeName type="alternative" xml:lang="en">Catharinen church</placeName>
             <placeName type="alternative" xml:lang="en">Katarina kyrka</placeName>
             <location>
               <geo>59.31686 18.0783</geo>
@@ -8836,7 +8831,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Evangelisch-lutherische Kirche im Barockstil aus dem 17. Jahrhundert in Södermalm.</p>
+              <p>Evangelisch-lutherische Kirche im Barockstil aus dem 17. Jahrhundert in <ref target="gfa-places-1516">Södermalm</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An Evangelical Lutheran church in Södermalm built in the Baroque style in the 17th century.</p>
@@ -8889,9 +8884,6 @@
             <placeName type="alternative" xml:lang="de">Mälaren Sjön</placeName>
             <placeName type="main" xml:lang="en">Lake Mälaren</placeName>
             <placeName type="full" xml:lang="en">Lake Mälaren</placeName>
-            <placeName type="alternative" xml:lang="en">Mälarsee</placeName>
-            <placeName type="alternative" xml:lang="en">Mellersee</placeName>
-            <placeName type="alternative" xml:lang="en">Mäler-See</placeName>
             <placeName type="alternative" xml:lang="en">Mäler-Siö</placeName>
             <placeName type="alternative" xml:lang="en">Mälaren Sjön</placeName>
             <location>
@@ -8926,7 +8918,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>See westlich von Stockholm.</p>
+              <p>See westlich von <ref target="gfa-places-142">Stockholm</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A lake to the west of Stockholm.</p>
@@ -8938,7 +8930,6 @@
             <placeName type="alternative" xml:lang="de">Kungliga slottet</placeName>
             <placeName type="main" xml:lang="en">Stockholm Palace</placeName>
             <placeName type="full" xml:lang="en">Stockholm Palace / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Kungliga slottet</placeName>
             <location>
               <geo>59.32666 18.07186</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -9074,7 +9065,6 @@
             <placeName type="alternative" xml:lang="de">Münze</placeName>
             <placeName type="main" xml:lang="en">Royal Mint</placeName>
             <placeName type="full" xml:lang="en">Royal Mint / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Münze</placeName>
             <location>
               <geo>59.32667 18.06861</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -9114,7 +9104,6 @@
             <placeName type="alternative" xml:lang="de">Nordbrücke</placeName>
             <placeName type="main" xml:lang="en">Norrbro</placeName>
             <placeName type="full" xml:lang="en">Norrbro / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Nordbrücke</placeName>
             <location>
               <geo>59.3284 18.06976</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -9146,7 +9135,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Historische Brücke in Stockholm, welche die Stadtteile <ref target="gfa-places-1529">Gamla Stan</ref>  und Norrmalm verbindet, erbaut 1787–1807.</p>
+              <p>Historische Brücke in Stockholm, welche die Stadtteile <ref target="gfa-places-1529">Gamla Stan</ref>  und <ref target="gfa-places-1517">Norrmalm</ref> verbindet, erbaut 1787–1807.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Historical bridge in Stockholm linking the city's old town, <ref target="gfa-places-1529">Gamla Stan</ref>, with Norrmalm, was built between 1787 and 1807.</p>
@@ -9194,7 +9183,7 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Königliches Opernhaus in Stockholm, erbaut 1775–1782.</p>
-              <p>Der Neubau des Opernhauses nach Plänen von Carl Fredrik Adelcrantz war das erste Bauprojekt von König Gustav III. Im Jahr 1792 wurde er in der Königlichen Oper bei einem Maskenball ermordet.</p>
+              <p>Der Neubau des Opernhauses nach Plänen von Carl Fredrik Adelcrantz war das erste Bauprojekt von <ref target="../names/gfa-actors-7404">König Gustav III</ref>. Im Jahr 1792 wurde er in der Königlichen Oper bei einem Maskenball ermordet.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>The Royal Opera House in Stockholm, built in 1775–1782.</p>
@@ -9209,7 +9198,6 @@
             <placeName type="main" xml:lang="en">Palace of the Hereditary Prince</placeName>
             <placeName type="full" xml:lang="en">Palace of the Hereditary Prince / Stockholm</placeName>
             <placeName type="alternative" xml:lang="en">Arvfurstens palats</placeName>
-            <placeName type="alternative" xml:lang="en">Palais der Prinzessin</placeName>
             <location>
               <geo>59.32917 18.06778</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -9240,7 +9228,7 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Palastbau gegenüber der Königlich Schwedischen Oper, erbaut 1783–1794.</p>
-              <p>Das Palais wurde als Residenz für die Prinzessin <ref target="../names/gfa-actors-7438">Sofia Albertina</ref>, Schwester von König Gustav III., erbaut. Das Gebäude sollte eine exakte Kopie der alten Oper von Gustav III. auf der Platzseite gegenüber sein.</p>
+              <p>Das Palais wurde als Residenz für die Prinzessin <ref target="../names/gfa-actors-7438">Sofia Albertina</ref>, Schwester von <ref target="../names/gfa-actors-7404">König Gustav III</ref>, erbaut. Das Gebäude sollte eine exakte Kopie der alten Oper von Gustav III. auf der Platzseite gegenüber sein.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A palace located across from the Royal Swedish Opera, built between 1783 and 1794.</p>
@@ -9283,7 +9271,7 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Insel und Stadtteil Stockholms westlich des historischen Stadtkerns, ehemaliges Handwerkerviertel.</p>
-              <p>Unter anderem befand sich in diesem Quartier auch die Fabrik des schwedischen Unternehmers und Eisenfabrikanten <ref target="../names/gfa-actors-7410">Carl Appelqvist</ref>, die Johann Conrad Fischer während seiner Reise nach Skandinavien besuchte.</p>
+              <p>Unter anderem befand sich in diesem Quartier auch die Fabrik des schwedischen Unternehmers und Eisenfabrikanten <ref target="../names/gfa-actors-7410">Carl Appelqvist</ref>, die <ref target="../names/gfa-actors-35">Johann Conrad Fischer</ref> während seiner Reise nach <ref target="https://archives.georgfischer.com/places/408">Skandinavien</ref> besuchte.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An island and district of Stockholm to the west of the historical city center, formerly an area of artisans and manufacturers.</p>
@@ -9388,6 +9376,7 @@
             <placeName type="main" xml:lang="en">House of Nobility</placeName>
             <placeName type="full" xml:lang="en">House of Nobility / Stockholm</placeName>
             <placeName type="alternative" xml:lang="en">Riddarhuset</placeName>
+            <placeName type="alternative" xml:lang="en">Knights' House</placeName>
             <location>
               <geo>59.3259 18.0656</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -9441,7 +9430,6 @@
             <placeName type="alternative" xml:lang="de">Bondeska palatset</placeName>
             <placeName type="main" xml:lang="en">Bonde Palace</placeName>
             <placeName type="full" xml:lang="en">Bonde Palace / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Rathhaus</placeName>
             <placeName type="alternative" xml:lang="en">Bondeska palatset</placeName>
             <location>
               <geo>59.3261 18.0664</geo>
@@ -9614,8 +9602,8 @@
             <placeName type="alternative" xml:lang="de">Bank, Südliches Bankhaus</placeName>
             <placeName type="main" xml:lang="en">Southern Bank Building</placeName>
             <placeName type="full" xml:lang="en">Southern Bank Building / Stockholm</placeName>
+            <placeName type="alternative" xml:lang="en">Bank</placeName>
             <placeName type="alternative" xml:lang="en">Gamla Riksbanken</placeName>
-            <placeName type="alternative" xml:lang="en">Bank, Südliches Bankhaus</placeName>
             <location>
               <geo>59.32265 18.07414</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -9737,6 +9725,7 @@
             <placeName type="alternative" xml:lang="de">Riddarholmskyrkan</placeName>
             <placeName type="main" xml:lang="en">Riddarholmen Church</placeName>
             <placeName type="full" xml:lang="en">Riddarholmen Church / Stockholm</placeName>
+            <placeName type="alternative" xml:lang="en">Ritterholm Church</placeName>
             <placeName type="alternative" xml:lang="en">Riddarholmskyrkan</placeName>
             <location>
               <geo>59.3246 18.0639</geo>
@@ -9800,7 +9789,6 @@
             <placeName type="full" xml:lang="en">Wrangel Palace / Stockholm</placeName>
             <placeName type="alternative" xml:lang="en">Gamla Kongshuset</placeName>
             <placeName type="alternative" xml:lang="en">Wrangelska palatset</placeName>
-            <placeName type="alternative" xml:lang="en">altes Königshaus</placeName>
             <location>
               <geo>59.325 18.0625</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -9852,6 +9840,7 @@
             <placeName type="alternative" xml:lang="de">Kungsholmens glasbruk</placeName>
             <placeName type="main" xml:lang="en">Kungsholmen Glassworks</placeName>
             <placeName type="full" xml:lang="en">Kungsholmen Glassworks / Stockholm</placeName>
+            <placeName type="alternative" xml:lang="en">Königsholm</placeName>
             <placeName type="alternative" xml:lang="en">Kungsholmens glasbruk</placeName>
             <location>
               <geo>59.3275 18.051389</geo>
@@ -9939,7 +9928,6 @@
             <placeName type="alternative" xml:lang="de">Sankt Jakobs Kyrka</placeName>
             <placeName type="main" xml:lang="en">St. James's Church</placeName>
             <placeName type="full" xml:lang="en">St. James's Church / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Jakobi-Kirche</placeName>
             <placeName type="alternative" xml:lang="en">Sankt Jakobs Kyrka</placeName>
             <location>
               <geo>59.33039 18.07055</geo>
@@ -9983,8 +9971,7 @@
             <placeName type="alternative" xml:lang="de">öffentlicher Garten</placeName>
             <placeName type="main" xml:lang="en">Kungsträdgården</placeName>
             <placeName type="full" xml:lang="en">Kungsträdgården / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Kungsträdgården</placeName>
-            <placeName type="alternative" xml:lang="en">öffentlicher Garten</placeName>
+            <placeName type="alternative" xml:lang="en">public garden</placeName>
             <location>
               <geo>59.33104 18.07157</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -10023,8 +10010,8 @@
             <placeName type="alternative" xml:lang="de">Drottningen Gatan</placeName>
             <placeName type="main" xml:lang="en">Drottninggatan</placeName>
             <placeName type="full" xml:lang="en">Drottninggatan / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Königin-Strasse</placeName>
-            <placeName type="alternative" xml:lang="en">Drottningen Gatan</placeName>
+            <placeName type="alternative" xml:lang="en">Queen Street</placeName>
+            <placeName type="alternative" xml:lang="en">Drottning Gatan</placeName>
             <location>
               <geo>59.33889 18.05581</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -10140,7 +10127,6 @@
             <placeName type="alternative" xml:lang="de">Canonengiesserei</placeName>
             <placeName type="main" xml:lang="en">Cannon Foundry</placeName>
             <placeName type="full" xml:lang="en">Cannon Foundry / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Canonengiesserei</placeName>
             <location>
               <geo>59.329161008899 18.043300138172</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -10173,7 +10159,7 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Kanonengiesserei in Stockholm, im 18. Jahrhundert durch Gotthard Christoph Müller nach dem Vorbild der <ref target="gfa-places-1567">Englischen Kanonengiesserei zu Woolwich</ref> erbaut.</p>
-              <p>In einem seiner Reisetagebücher beschreibt Johann Conrad Fischer detailliert die Einrichtung der Giesserei, die er während seines Aufenthalts in Schweden besuchte.</p>
+              <p>In einem seiner Reisetagebücher beschreibt <ref target="../names/gfa-actors-35">Johann Conrad Fischer</ref> detailliert die Einrichtung der Giesserei, die er während seines Aufenthalts in Schweden besuchte.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -10312,7 +10298,6 @@
             <placeName type="alternative" xml:lang="de">Thiergarten</placeName>
             <placeName type="main" xml:lang="en">Djurgården</placeName>
             <placeName type="full" xml:lang="en">Djurgården / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Djurgården</placeName>
             <placeName type="alternative" xml:lang="en">Thiergarten</placeName>
             <location>
               <geo>59.32548 18.12049</geo>
@@ -10406,7 +10391,7 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Königliches Lustschloss unweit von Stockholm mit bedeutenden Gartenanlagen, fertiggestellt um 1681.</p>
-              <p>Als Johann Conrad Fischer Schweden bereiste, befand sich hier noch das <ref target="../keywords/gfa-keywords-8389">Königliche Kabinett</ref>, das er besichtigte und ausführlich beschreibt.</p>
+              <p>Als  <ref target="../names/gfa-actors-35">Johann Conrad Fischer</ref> Schweden bereiste, befand sich hier noch das <ref target="../keywords/gfa-keywords-8389">Königliche Kabinett</ref>, das er besichtigte und ausführlich beschreibt.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A royal palace not far from Stockholm with extensive gardens, built in 1681.</p>
@@ -10457,7 +10442,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Stadt im Norden Finnlands an der Grenze zu Schweden.</p>
+              <p>Stadt im Norden Finnlands an der Grenze zu <ref target="gfa-places-133">Schweden</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A city in northern Finland at the Swedish border.</p>
@@ -10509,7 +10494,7 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Ehemaliges Herzogtum, später Königreich in Norddeutschland, hervorgegangen aus dem Kurfürstentum Brandenburg.</p>
-              <p>Unter Friedrich II. (1712–1786) stieg Preussen zu einer europäischen Grossmacht auf. Preussen war ein Gliedstaat im 1815 gegründeten Deutschen Bund.</p>
+              <p>Unter <ref target="https://archives.georgfischer.com/actors/6300">Friedrich II. (1712–1786)</ref> stieg Preussen zu einer europäischen Grossmacht auf. Preussen war ein Gliedstaat im 1815 gegründeten Deutschen Bund.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Originally a duchy, later a kingdom in northern Germany, which developed out of the state known as the Electorate of Brandenburg.</p>
@@ -10523,8 +10508,7 @@
             <placeName type="alternative" xml:lang="de">Königliche Giesserey zu Woolwich</placeName>
             <placeName type="main" xml:lang="en">Royal Brass Foundry Woolwich</placeName>
             <placeName type="full" xml:lang="en">Royal Brass Foundry Woolwich / London</placeName>
-            <placeName type="alternative" xml:lang="en">Königliche Stückgiesserei</placeName>
-            <placeName type="alternative" xml:lang="en">Königliche Giesserey zu Woolwich</placeName>
+            <placeName type="alternative" xml:lang="en">Royal Foundry</placeName>
             <location>
               <geo>51.4928 0.0691</geo>
               <settlement xml:lang="de">London</settlement>
@@ -10543,7 +10527,7 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Britische Kanonengiesserei, gegründet 1717.</p>
-              <p>Der erste Direktor der Giesserei war der Schaffhauser <ref target="../names/gfa-actors-7373">Andreas Schalch</ref>. Die Stückgiesserei war als Anlage ein Teil des Royal Arsenals.</p>
+              <p>Der erste Direktor der Giesserei war der Schaffhauser <ref target="../names/gfa-actors-7373">Andreas Schalch</ref>. Die Stückgiesserei war als Anlage ein Teil des <ref target="gfa-places-1890">Royal Arsenals</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>The British cannon foundry, founded in 1717.</p>
@@ -10556,7 +10540,6 @@
             <placeName type="alternative" xml:lang="de">Bibliotheken Schaffhausen</placeName>
             <placeName type="main" xml:lang="en">City Library Schaffhausen</placeName>
             <placeName type="full" xml:lang="en">City Library Schaffhausen / Schaffhausen (SH)</placeName>
-            <placeName type="alternative" xml:lang="en">Bibliotheken Schaffhausen</placeName>
             <location>
               <geo>47.69537 8.63718</geo>
               <settlement xml:lang="de">Schaffhausen</settlement>
@@ -10612,7 +10595,6 @@
             <placeName type="alternative" xml:lang="de">Fitya</placeName>
             <placeName type="main" xml:lang="en">Fittya</placeName>
             <placeName type="full" xml:lang="en">Fittya / Botkyrka</placeName>
-            <placeName type="alternative" xml:lang="en">Fittya</placeName>
             <placeName type="alternative" xml:lang="en">Fitya</placeName>
             <location>
               <geo>59.24868 17.85991</geo>
@@ -10639,7 +10621,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Historische Ortschaft an der Landstrasse zu Stockholm.</p>
+              <p>Historische Ortschaft an der Landstrasse zu <ref target="gfa-places-142">Stockholm</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An historical town on the road to Stockholm.</p>
@@ -10695,7 +10677,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Stadt südwestlich von Stockholm in der historischen Provinz <ref target="gfa-places-1511">Södermanland</ref>.</p>
+              <p>Stadt südwestlich von <ref target="gfa-places-142">Stockholm</ref> in der historischen Provinz <ref target="gfa-places-1511">Södermanland</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Stadt südwestlich von Stockholm in der historischen Provinz <ref target="gfa-places-1511">Södermanland</ref>.</p>
@@ -10728,7 +10710,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Königliches Sommerschloss an der Küste nördlich von Kopenhagen.</p>
+              <p>Königliches Sommerschloss an der Küste nördlich von <ref target="gfa-places-427">Kopenhagen</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A royal summer residence on the coast to the north of Copenhagen.</p>
@@ -10785,7 +10767,6 @@
             <placeName type="alternative" xml:lang="de">Sund</placeName>
             <placeName type="main" xml:lang="en">Øresund</placeName>
             <placeName type="full" xml:lang="en">Øresund</placeName>
-            <placeName type="alternative" xml:lang="en">Øresund</placeName>
             <placeName type="alternative" xml:lang="en">Sund</placeName>
             <location>
               <geo>55.79975 12.74753</geo>
@@ -10823,7 +10804,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Meerenge zwischen <ref target="gfa-places-1498">Seeland</ref> (Dänemark) und <ref target="gfa-places-1505">Schonen</ref> (Schweden) sowie Durchgangspassage zwischen der Nordsee und der Ostsee.</p>
+              <p>Meerenge zwischen <ref target="gfa-places-1498">Seeland</ref> (Dänemark) und <ref target="gfa-places-1505">Schonen</ref> (Schweden) sowie Durchgangspassage zwischen der <ref target="gfa-places-2021">Nordsee</ref> und der <ref target="gfa-places-2040">Ostsee</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A strait between <ref target="gfa-places-1498">Seeland</ref> (Dänemark) and <ref target="gfa-places-1505">Schonen</ref> (Schweden) and also a passage from the North Sea to the Baltic Sea.</p>
@@ -10835,7 +10816,6 @@
             <placeName type="alternative" xml:lang="de">Castell</placeName>
             <placeName type="main" xml:lang="en">Landskrona Citadel</placeName>
             <placeName type="full" xml:lang="en">Landskrona Citadel / Landskrona</placeName>
-            <placeName type="alternative" xml:lang="en">Castell</placeName>
             <location>
               <geo>55.87301 12.82289</geo>
               <settlement xml:lang="de">Landskrona</settlement>
@@ -10859,7 +10839,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Zitadelle in Landskrona, erbaut 1549–1560.</p>
+              <p>Zitadelle in <ref target="gfa-places-1502">Landskrona</ref>, erbaut 1549–1560.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A citadel in Landskrona, built between 1549 and 1560.</p>
@@ -10871,7 +10851,6 @@
             <placeName type="alternative" xml:lang="de">Liljeholm-Brücke</placeName>
             <placeName type="main" xml:lang="en">Liljeholmsbron</placeName>
             <placeName type="full" xml:lang="en">Liljeholmsbron / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Liljeholm-Brücke</placeName>
             <location>
               <geo>59.31333 18.03214</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -10926,7 +10905,7 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Stadtteil westlich von <ref target="gfa-places-1516">Södermalm</ref>.</p>
-              <p>Hornstull war ehemals ein Aussenbezirk der Stadt mit typischem Gewerbe wie Ziegeleien und Tabakfabriken.</p>
+              <p>Hornstull war ehemals ein Aussenbezirk der Stadt mit typischem Gewerbe wie <ref target="../keywords/gfa-keywords-9633">Ziegeleien</ref> und <ref target="../keywords/gfa-keywords-9072">Tabakfabriken</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An area to the west of <ref target="gfa-places-1516">Södermalm</ref>.</p>
@@ -10957,7 +10936,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Öffentlicher Platz in Stockholm.</p>
+              <p>Öffentlicher Platz in <ref target="gfa-places-142">Stockholm</ref>.</p>
               <p>Bis 1805 war der Platz bekannt unter den Namen Malmtorget und Norrmalmstorget.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -10971,7 +10950,7 @@
             <placeName type="alternative" xml:lang="de">Ritterholms-Brüke</placeName>
             <placeName type="main" xml:lang="en">Riddarholmsbron</placeName>
             <placeName type="full" xml:lang="en">Riddarholmsbron / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Ritterholms-Brüke</placeName>
+            <placeName type="alternative" xml:lang="en">Ritterholm Bridge</placeName>
             <location>
               <geo>59.32527 18.06536</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -12260,7 +12239,6 @@
             <placeName type="alternative" xml:lang="de">Dower</placeName>
             <placeName type="main" xml:lang="en">Dover</placeName>
             <placeName type="full" xml:lang="en">Dover</placeName>
-            <placeName type="alternative" xml:lang="en">Dower</placeName>
             <location>
               <geo>51.12598 1.31257</geo>
               <settlement xml:lang="de">Dover</settlement>
@@ -12330,7 +12308,11 @@
               <country xml:lang="en">United Kingdom</country>
             </location>
             <idno type="gfa-places-id">1609</idno>
-            <note type="sources">Smith, Barry/Skelton, Paul: Paris Hotel. In: Dover Kent Archives ([Dover Kent Archives](http://www.dover-kent.com/Paris-Hotel.html), Stand 23.5.2022).</note>
+            <note type="sources">
+              <listBibl>
+                <bibl>Smith, Barry/Skelton, Paul: Paris Hotel. In: Dover Kent Archives (<ref target="http://www.dover-kent.com/Paris-Hotel.html">Dover Kent Archives</ref>, Stand 23.5.2022).</bibl>
+              </listBibl>
+            </note>
             <note type="description" xml:lang="de">
               <p>Gaststätte in Dover, bestand gesichert 1804–1854.</p>
             </note>
@@ -12678,6 +12660,16 @@
               <country xml:lang="en">United Kingdom</country>
             </location>
             <idno type="gfa-places-id">1617</idno>
+            <listBibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133187"/>
+                <title xml:lang="de">The White Bear Inn in Piccadilly (Aquarell von Thomas Hosmer Shepherd, 1851)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_258-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_258-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_258-0001" type="thumb"/>
+              </bibl>
+            </listBibl>
             <note type="sources">
               <listBibl>
                 <bibl>Templeton, Hannah: The Mozarts in London: Exploring the Family’s Professional, Social and Intellectual Networks in 1764-1765. Doctoral Dissertation, King’s College London, 2016.</bibl>
@@ -12931,8 +12923,8 @@
               </bibl>
               <bibl type="image">
                 <ptr type="anton-image" target="https://archives.georgfischer.com/objects/129123"/>
-                <title xml:lang="de">Freiburger Münster (Gemälde von Domenico Quaglio dem Jüngeren, 1821)</title>
-                <title xml:lang="en">Freiburg Minster (painting by Domenico Quaglio the Younger, 1821)</title>
+                <title xml:lang="de">Freiburger Münster (Gemälde von Domenico Quaglio dem Jüngeren, um 1830)</title>
+                <title xml:lang="en">Freiburg Minster (painting by Domenico Quaglio the Younger, c. 1830)</title>
                 <ptr target="https://archives.georgfischer.com/media/gfd_2_46-0001" type="original"/>
                 <ptr target="https://archives.georgfischer.com/media/web/gfd_2_46-0001" type="web"/>
                 <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_46-0001" type="thumb"/>
@@ -13013,7 +13005,7 @@
             <placeName type="alternative" xml:lang="de">Gand</placeName>
             <placeName type="main" xml:lang="en">Ghent</placeName>
             <placeName type="full" xml:lang="en">Ghent</placeName>
-            <placeName type="alternative" xml:lang="en">Ghent</placeName>
+            <placeName type="alternative" xml:lang="en">Gent</placeName>
             <placeName type="alternative" xml:lang="en">Gand</placeName>
             <location>
               <geo>51.05 3.71667</geo>
@@ -13272,6 +13264,7 @@
             <placeName type="full" xml:lang="de">Piccadilly / London</placeName>
             <placeName type="main" xml:lang="en">Piccadilly</placeName>
             <placeName type="full" xml:lang="en">Piccadilly / London</placeName>
+            <placeName type="alternative" xml:lang="en">Picadilly</placeName>
             <location>
               <geo>51.50832 -0.13965</geo>
               <settlement xml:lang="de">London</settlement>
@@ -13383,8 +13376,8 @@
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1632">
-            <placeName type="main" xml:lang="de">Smithʼs Bank</placeName>
-            <placeName type="full" xml:lang="de">Smithʼs Bank / London</placeName>
+            <placeName type="main" xml:lang="de">Smiths Bank</placeName>
+            <placeName type="full" xml:lang="de">Smiths Bank / London</placeName>
             <placeName type="alternative" xml:lang="de">Paynes &amp; Smith</placeName>
             <placeName type="alternative" xml:lang="de">Smith, Payne &amp; Smiths</placeName>
             <placeName type="alternative" xml:lang="de">Samuel Smith &amp; Co.</placeName>
@@ -13416,12 +13409,13 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>Union of London and Smiths Bank. In: Grace's Guide To British Industrial History (<ref target="https://gracesguide.co.uk/Union_of_London_and_Smiths_Bank">Grace's Guide</ref>, Stand 13.6.2022).</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>Union of London and Smiths Bank. In: Grace's Guide To British Industrial History (<ref target="https://gracesguide.co.uk/Union_of_London_and_Smiths_Bank">Grace's Guide</ref>, Stand 13.6.2022).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-7583">Smithʼs Bank</ref>.</p>
+              <p>Standort der Bank.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7583">Smiths Bank</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -13517,7 +13511,6 @@
             <placeName type="alternative" xml:lang="de">Königliche Münze</placeName>
             <placeName type="main" xml:lang="en">Royal Mint</placeName>
             <placeName type="full" xml:lang="en">Royal Mint / London</placeName>
-            <placeName type="alternative" xml:lang="en">Königliche Münze</placeName>
             <location>
               <geo>51.509247172022 -0.072402203560316</geo>
               <settlement xml:lang="de">London</settlement>
@@ -13566,7 +13559,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-7582">Royal Mint</ref>.</p>
+              <p>Standort der Münzprägeanstalt.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7582">Royal Mint</ref>.</p>
               <p>Hinweis zur Karte: Die Lokalisierung auf der Karte entspricht dem Standort des Ortes aus der Zeit Johann Conrad Fischers. Die Royal Mint befindet sich heute an einem anderen Ort.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -14129,8 +14123,8 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>George Waller and Son. In: Grace's Guide To British Industrial History (<ref target="https://gracesguide.co.uk/George_Waller_and_Son">Grace's Guide</ref>, Stand 6.6.2022).</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>George Waller and Son. In: Grace's Guide To British Industrial History (<ref target="https://gracesguide.co.uk/George_Waller_and_Son">Grace's Guide</ref>, Stand 6.6.2022).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
@@ -14458,7 +14452,6 @@
             <placeName type="alternative" xml:lang="de">Grube zu Borrowdale</placeName>
             <placeName type="main" xml:lang="en">Borrowdale Mine</placeName>
             <placeName type="full" xml:lang="en">Borrowdale Mine</placeName>
-            <placeName type="alternative" xml:lang="en">Grube zu Borrowdale</placeName>
             <location>
               <geo>54.53333 -3.16667</geo>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -14844,8 +14837,8 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>Leverian Museum. In: The British Museum (<ref target="https://www.britishmuseum.org/collection/term/BIOG125515">British Museum</ref>, Stand 7.6.2022).</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>Leverian Museum. In: The British Museum (<ref target="https://www.britishmuseum.org/collection/term/BIOG125515">British Museum</ref>, Stand 7.6.2022).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
@@ -15243,6 +15236,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Cockspur_Street"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133188"/>
+                <title xml:lang="de">Cockspur Street in London (Illustration von Edward Walford, 1873)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_259-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_259-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_259-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -15532,7 +15533,6 @@
             <placeName type="alternative" xml:lang="de">Münze</placeName>
             <placeName type="main" xml:lang="en">Karlsruhe State Mint</placeName>
             <placeName type="full" xml:lang="en">Karlsruhe State Mint / Karlsruhe</placeName>
-            <placeName type="alternative" xml:lang="en">Münze</placeName>
             <location>
               <geo>49.012194 8.395219</geo>
               <settlement xml:lang="de">Karlsruhe</settlement>
@@ -15562,8 +15562,8 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>Gilber, René: Staatliche Münze Karlsruhe. In: Stadtlexikon Karlsruhe, 2015 (<ref target="https://stadtlexikon.karlsruhe.de/index.php/De:Lexikon:ins-1106">Stadtlexikon Karlsruhe</ref>, Stand 8.2.2022).</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>Gilber, René: Staatliche Münze Karlsruhe. In: Stadtlexikon Karlsruhe, 2015 (<ref target="https://stadtlexikon.karlsruhe.de/index.php/De:Lexikon:ins-1106">Stadtlexikon Karlsruhe</ref>, Stand 8.2.2022).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
@@ -15788,7 +15788,7 @@
             <placeName type="main" xml:lang="en">Huntsman's Ironworks</placeName>
             <placeName type="full" xml:lang="en">Huntsman's Ironworks / Sheffield</placeName>
             <location>
-              <geo>53.385959777268 -1.4641768526809</geo>
+              <geo>53.385749345261 -1.4637941594156</geo>
               <settlement xml:lang="de">Sheffield</settlement>
               <settlement xml:lang="en">Sheffield</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -15803,7 +15803,7 @@
             <note type="description" xml:lang="de">
               <p>Hammerschmiede in <ref target="gfa-places-1265">Sheffield</ref>.</p>
               <p>Inhaber des Unternehmens war unter anderem <ref target="../names/gfa-actors-7540">Francis Huntsman</ref>.</p>
-              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
+              <p>Das Gebäude trug auch den Namen «Wicker Tilt Building».</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An ironworks in <ref target="gfa-places-1265">Sheffield</ref>.</p>
@@ -15817,7 +15817,7 @@
             <placeName type="alternative" xml:lang="de">Brocken</placeName>
             <placeName type="main" xml:lang="en">Blocksberg</placeName>
             <placeName type="full" xml:lang="en">Blocksberg</placeName>
-            <placeName type="alternative" xml:lang="en">Brocken</placeName>
+            <placeName type="alternative" xml:lang="en">The Brocken</placeName>
             <location>
               <geo>51.79908 10.61565</geo>
               <country xml:lang="de">Deutschland</country>
@@ -15970,6 +15970,14 @@
               </bibl>
               <bibl>
                 <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803354531"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133189"/>
+                <title xml:lang="de">Ansicht von Fleurier im Kanton Neuenburg (Illustration aus dem Buch «Album», um 1870)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_260-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_260-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_260-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -16130,9 +16138,10 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Um 1795 errichtete Fabrikstätte der Firma <ref target="../names/gfa-actors-7571">Boulton &amp; Watt</ref> in <ref target="gfa-places-1693">Soho</ref>, Birmingham.</p>
+              <p>Um 1795 errichtete Fabrikstätte der Firma Boulton &amp; Watt in <ref target="gfa-places-1693">Soho</ref>, Birmingham.</p>
               <p>Diese Fabrikanlage wurde eingerichtet, um alle Arbeitsschritte in der Herstellung von Dampfmaschinen an einem Ort zu bewältigen. Dazu gehörten insbesondere der Guss und die Ausbohrung der Zylinder, die bis dahin von William Wilkinson geliefert wurden. Der Zusammenbruch von dessen Unternehmung und das Auslaufen von <ref target="../names/gfa-actors-7523">James Watts</ref> Patent um 1800 bewirkten, dass <ref target="../names/gfa-actors-7534">Matthew Boulton</ref> und James Watt ihr Dampfmaschinengeschäft anpassten: Statt nur wie bis anhin die Lizenz und die vitalen Einzelteile zu verkaufen, wurde nun die ganze Dampfmaschine «am Band» produziert. Der industrielle Maschinenbau war geboren</p>
               <p>Die Soho Foundry beherbergte Werkstätten zum Drehen und Bohren der Ventile und Kolben, eine <ref target="../keywords/gfa-keywords-55">Giesserei</ref> und eine Bohrmaschine zur Verfertigung der Zylinder, <ref target="../keywords/gfa-keywords-2755">Modellschreinereien</ref>, Trockenhallen für die Gussformen und weiteres. Alle Maschinen wurden dampfbetrieben und die gesamte Anlage wurde mit Gas beleuchtet.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7571">Boulton &amp; Watt</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -16416,9 +16425,9 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Vom britischen Architekten <ref target="../names/gfa-actors-7459">Joseph Paxton</ref> für die erste <ref target="../keywords/gfa-keywords-8436">Weltausstellung</ref> 1851 in London im viktorianischen Baustil gebautes Ausstellungsgebäude.</p>
-              <p>Der Crystal Palace bestand aus einer Eisenkonstruktion und grossflächigen Glasfenstern. Erst die technischen Neuerungen der Industriellen Revolution und die Fortschritte in der Eisenproduktion ermöglichten den vollständigen Verzicht auf tragendes Mauerwerk. Der Palast war ein Symbol des Fortschritts und diente später als Vorlage für zahlreiche Nachfolgebauten. Auch Johann Conrad Fischer war von diesem Gebäude begeistert und erstellte eine interessante Zeichnung, um die Dimensionen des Palasts mit der Stadt Schaffhausen zu vergleichen.</p>
-              <p>Der Crystal Palace wurde ursprünglich im <ref target="gfa-places-1698">Hyde Park</ref> errichtet und nach dem Ende der Weltausstellung nach Sydenham in den Londoner Stadtbezirk Lewisham, das heutige Stadtviertel Crystal Palace, versetzt. Er brannte am 30. November 1936 nach einer Explosion vollständig nieder. Lediglich zwei vom Feuer verformte Türme blieben stehen, wurden aber während des Zweiten Weltkriegs entfernt.</p>
+              <p>Vom britischen Architekten <ref target="../names/gfa-actors-7459">Joseph Paxton</ref> für die erste <ref target="../keywords/gfa-keywords-8436">Weltausstellung</ref> 1851 in <ref target="gfa-places-89">London</ref> im viktorianischen Baustil gebautes Ausstellungsgebäude.</p>
+              <p>Der Crystal Palace bestand aus einer Eisenkonstruktion und grossflächigen Glasfenstern. Erst die technischen Neuerungen der Industriellen Revolution und die Fortschritte in der Eisenproduktion ermöglichten den vollständigen Verzicht auf tragendes Mauerwerk. Der Palast war ein Symbol des Fortschritts und diente später als Vorlage für zahlreiche Nachfolgebauten. Auch <ref target="../names/gfa-actors-35">Johann Conrad Fischer</ref> war von diesem Gebäude begeistert und erstellte eine interessante Zeichnung, um die Dimensionen des Palasts mit der <ref target="gfa-places-131">Stadt Schaffhausen</ref> zu vergleichen.</p>
+              <p>Der Crystal Palace wurde ursprünglich im <ref target="gfa-places-1698">Hyde Park</ref> errichtet und nach dem Ende der Weltausstellung nach <ref target="https://archives.georgfischer.com/places/2171">Sydenham</ref> in den Londoner Stadtbezirk Lewisham, das heutige Stadtviertel Crystal Palace, versetzt. Er brannte am 30. November 1936 nach einer Explosion vollständig nieder. Lediglich zwei vom Feuer verformte Türme blieben stehen, wurden aber während des Zweiten Weltkriegs entfernt.</p>
               <p>Hinweis zur Karte: Die Lokalisierung auf der Karte entspricht dem Standort des Ortes aus der Zeit Johann Conrad Fischers. Die Bezeichnung Crystal Palace wird heute für das Stadtviertel verwendet.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -16429,9 +16438,9 @@
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1702">
-            <placeName type="main" xml:lang="de">Robinsons and Russell</placeName>
-            <placeName type="full" xml:lang="de">Robinsons and Russell / London</placeName>
-            <placeName type="alternative" xml:lang="de">Robinson and Russell</placeName>
+            <placeName type="main" xml:lang="de">Robinsons &amp; Russell</placeName>
+            <placeName type="full" xml:lang="de">Robinsons &amp; Russell / London</placeName>
+            <placeName type="alternative" xml:lang="de">Robinson &amp; Russell</placeName>
             <placeName type="main" xml:lang="en">Robinson's and Russell</placeName>
             <placeName type="full" xml:lang="en">Robinson's and Russell / London</placeName>
             <placeName type="alternative" xml:lang="en">Robinson and Russell</placeName>
@@ -16454,7 +16463,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-7569">Robinsons and Russell</ref></p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7569">Robinsons &amp; Russell</ref></p>
             </note>
             <note type="description" xml:lang="en">
               <p>Organization: <ref target="../names/gfa-actors-7569">Robinson's and Russell</ref></p>
@@ -16510,8 +16520,8 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Wissenschaftliche Einrichtung in London.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7575">Royal Institution of Great Britain</ref>.</p>
+              <p>Standort der Institution.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7575">Royal Institution of Great Britain</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Scientific institution in London.</p>
@@ -16533,14 +16543,15 @@
             <idno type="gfa-places-id">1704</idno>
             <note type="sources">
               <listBibl>
-                <bibl>The London Gazette: The appointed organ for all announcements of the Executive. 1/6. London 1856, S. 863 (<ref target="http://opacplus.bsb-muenchen.de/title/7671396/ft/bsb10506178?page=317">Bayerische Staatsbibliothek</ref>, Stand 6.2.2023).</bibl>
-                <bibl>Sebag-Montefiore, Ruth: From Poland to Paddington: The early history of the Spielmann family, 1828–1948. In: Jewish Historical Society of England 32 (1990), S. 237–257 (<ref target="https://www.jstor.org/stable/29779887">JSTOR</ref>, Stand 6.2.2022).</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>Sebag-Montefiore, Ruth: From Poland to Paddington: The early history of the Spielmann family, 1828–1948. In: Jewish Historical Society of England 32 (1990), S. 237–257 (<ref target="https://www.jstor.org/stable/29779887">JSTOR</ref>, Stand 6.2.2022).</bibl>
+                <bibl>The London Gazette: The appointed organ for all announcements of the Executive. 1/6. London 1856, S. 863 (<ref target="http://opacplus.bsb-muenchen.de/title/7671396/ft/bsb10506178?page=317">Bayerische Staatsbibliothek</ref>, Stand 6.2.2023).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-7581">Adam Spielmann &amp; Co.</ref></p>
-              <p>Das Unternehmen wurde 1843 von Adam Spielmann (1812–1869) in Liverpool gegründet. Der erste Standort des damals noch als Wechselstube bezeichneten Geschäfts befand sich an der South Castle Street in <ref target="gfa-places-1745">Liverpool</ref>. 1845 zog Spielmann nach London und eröffnete sein Geschäft an der Lombard Street, Hausnummer 10. Der Standort wechselte über die Jahre nach Lombard Street 79, Camden Cottages und zuletzt nach Mecklenburgh Square, Bloomsbury.</p>
+              <p>Standort der Bank.</p>
+              <p>Der erste Standort des damals noch als Wechselstube bezeichneten Geschäfts befand sich an der South Castle Street in <ref target="gfa-places-1745">Liverpool</ref>. 1845 zog Spielmann nach <ref target="gfa-places-89">London</ref> und eröffnete sein Geschäft an der <ref target="gfa-places-1644">Lombard Street</ref>, Hausnummer 10. Der Standort wechselte über die Jahre nach Lombard Street 79, Camden Cottages und zuletzt nach Mecklenburgh Square, Bloomsbury.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7581">Adam Spielmann &amp; Co.</ref></p>
             </note>
             <note type="description" xml:lang="en">
               <p>Organization: <ref target="../names/gfa-actors-7581">Adam Spielmann &amp; Co.</ref></p>
@@ -16800,12 +16811,10 @@
           <place type="S" xml:id="gfa-places-1715">
             <placeName type="main" xml:lang="de">Hipgraveʼs Gun Hotel</placeName>
             <placeName type="full" xml:lang="de">Hipgraveʼs Gun Hotel / Dover</placeName>
-            <placeName type="alternative" xml:lang="de">Gun and Victoria</placeName>
-            <placeName type="alternative" xml:lang="de">Gun und Victoria</placeName>
+            <placeName type="alternative" xml:lang="de">Gun and Victoria Hotel</placeName>
             <placeName type="main" xml:lang="en">Hipgraveʼs Gun Hotel</placeName>
             <placeName type="full" xml:lang="en">Hipgraveʼs Gun Hotel / Dover</placeName>
             <placeName type="alternative" xml:lang="en">Gun and Victoria</placeName>
-            <placeName type="alternative" xml:lang="en">Gun und Victoria</placeName>
             <location>
               <geo>51.117190736221 1.3084877435634</geo>
               <settlement xml:lang="de">Dover</settlement>
@@ -16826,8 +16835,8 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>Gun Hotel. In: Dover Kent Archives (<ref target="http://www.dover-kent.com/Gun-Hotel.html">Dover Kent Archives</ref>, Stand 14.6.2022).</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>Gun Hotel. In: Dover Kent Archives (<ref target="http://www.dover-kent.com/Gun-Hotel.html">Dover Kent Archives</ref>, Stand 14.6.2022).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
@@ -16915,7 +16924,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-7612">William Fairbairn and Sons</ref>.</p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7612">William Fairbairn &amp; Sons</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -16924,9 +16934,8 @@
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1719">
-            <placeName type="main" xml:lang="de">Rodgers and Sons</placeName>
-            <placeName type="full" xml:lang="de">Rodgers and Sons / Sheffield</placeName>
-            <placeName type="alternative" xml:lang="de">Rodgers &amp; Son</placeName>
+            <placeName type="main" xml:lang="de">Rodgers &amp; Sons</placeName>
+            <placeName type="full" xml:lang="de">Rodgers &amp; Sons / Sheffield</placeName>
             <placeName type="main" xml:lang="en">Rodgers and Sons</placeName>
             <placeName type="full" xml:lang="en">Rodgers and Sons / Sheffield</placeName>
             <placeName type="alternative" xml:lang="en">Rodgers &amp; Son</placeName>
@@ -16945,7 +16954,9 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-7536">Rodgers and Sons</ref>.</p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7536">Rodgers &amp; Sons</ref>.</p>
+              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Organization: <ref target="../names/gfa-actors-7536">Rodgers and Sons</ref>.</p>
@@ -16957,7 +16968,7 @@
             <placeName type="main" xml:lang="en">Johnson, Cammell and Co. </placeName>
             <placeName type="full" xml:lang="en">Johnson, Cammell and Co. / Sheffield</placeName>
             <location>
-              <geo>53.38946 -1.45703</geo>
+              <geo>53.391454486435 -1.4510147476453</geo>
               <settlement xml:lang="de">Sheffield</settlement>
               <settlement xml:lang="en">Sheffield</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -16980,8 +16991,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-7537">Johnson, Cammell and Co.</ref></p>
-              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7537">Johnson, Cammell and Co.</ref></p>
             </note>
             <note type="description" xml:lang="en">
               <p>Organization: <ref target="../names/gfa-actors-7537">Johnson, Cammell and Co.</ref>.</p>
@@ -16989,14 +17000,14 @@
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1721">
-            <placeName type="main" xml:lang="de">Thomas Turton and Sons</placeName>
-            <placeName type="full" xml:lang="de">Thomas Turton and Sons / Sheffield</placeName>
+            <placeName type="main" xml:lang="de">Thomas Turton and Sons (Sheaf Works)</placeName>
+            <placeName type="full" xml:lang="de">Thomas Turton and Sons (Sheaf Works) / Sheffield</placeName>
             <placeName type="alternative" xml:lang="de">Thomas Turton &amp; Sons of Sheaf Works</placeName>
             <placeName type="main" xml:lang="en">Thomas Turton and Sons</placeName>
             <placeName type="full" xml:lang="en">Thomas Turton and Sons / Sheffield</placeName>
             <placeName type="alternative" xml:lang="en">Thomas Turton &amp; Sons of Sheaf Works</placeName>
             <location>
-              <geo>53.387902390855 -1.4720463162033</geo>
+              <geo>53.386808256612 -1.4564054197367</geo>
               <settlement xml:lang="de">Sheffield</settlement>
               <settlement xml:lang="en">Sheffield</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -17005,14 +17016,12 @@
             <idno type="gfa-places-id">1721</idno>
             <note type="sources">
               <listBibl>
-                <bibl>Sheaf Works. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/Sheaf_Works">Grace's Guide</ref>, Stand 8.6.2022).</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischer and his Diary of Industrial England 1814–1851. London 1966, S. 66f.</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Englisches Stahlunternehmen, das eine Giesserei in <ref target="gfa-places-1714">Bow Spring</ref> und Walzwerke in den sogenannten Sheaf Works besass.</p>
-              <p>Die Sheaf Works wurden in den frühen 1820er-Jahren von William Greaves erbaut und beherbergten zuerst das Unternehmen William Greaves &amp; Sons, welches sich mit der Herstellung von Besteck beschäftigte. Später wurde die Werkanlage vom Unternehmen Eyre, Wood &amp; Co., und ab 1858 vom von Thomas Joseph gegründeten Unternehmen <ref target="../names/gfa-actors-7542">Thomas Turton and Sons</ref> genutzt.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7542">Thomas Turton and Sons</ref>.</p>
+              <p>Standort der Federn- und Walzfabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7542">Thomas Turton and Sons</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An English steel company that owned a foundry in <ref target="gfa-places-1714">Bow Spring</ref> and rolling mills in the so-called Sheaf Works.</p>
@@ -17028,7 +17037,7 @@
             <placeName type="full" xml:lang="en">Maschinenfabrik Karlsruhe / Karlsruhe</placeName>
             <placeName type="alternative" xml:lang="en">Maschinenbau-Gesellschaft Karlsruhe</placeName>
             <location>
-              <geo>49.004439675585 8.4027363971155</geo>
+              <geo>49.003268567188 8.398956087035</geo>
               <settlement xml:lang="de">Karlsruhe</settlement>
               <settlement xml:lang="en">Karlsruhe</settlement>
               <country xml:lang="de">Deutschland</country>
@@ -17060,9 +17069,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Auf mechanische Apparaturen spezialisierte deutsche Maschinenfabrik.</p>
-              <p>Im Jahr 1836 übernahmen die beiden Mechaniker <ref target="../names/gfa-actors-7547">Emil Kessler</ref> und Theodor Martiensen die mechanische Werkstätte ihres ehemaligen Lehrers Jakob Friedrich Messmer und benannten sie in Maschinenfabrik Emil Kessler &amp; Theodor Martiensen um. Das Unternehmen, das mechanische und physikalische Instrumente und Apparaturen sowie industrielle und landwirtschaftliche Maschinen produzierte, war in dieser frühen Phase der Industrialisierung so gut ausgelastet, dass die beiden Firmengründer schon ein Jahr später eine neue Fabrikanlage erbauen liessen.</p>
-              <p>Ab 1841 spezialisierte sich das Unternehmen auf den Bau von Lokomotiven, was zu dieser Zeit in Deutschland noch ein Novum war. 1842 schied Martiensen aus der Firma aus, die Kessler daraufhin in Maschinenfabrik Emil Kessler, Carlsruhe umbenannte. Das Unternehmen entwickelte sich in den folgenden Jahren zum wichtigsten Lieferanten der badischen Eisenbahndirektion. 1848 wandelte Kessler seine Firma aus finanziellen, politischen und konzeptionellen Gründen in die Aktiengesellschaft Maschinenfabrik Karlsruhe um, der er als Direktor bis zu ihrer Liquidation 1851 vorstand.</p>
+              <p>Standort der Maschinenfabrik.</p>
+              <p>Siehe Organisation: <ref target="https://archives.georgfischer.com/actors/8336">Maschinenbau-Gesellschaft Karlsruhe</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A German machine shop that specialised in mechanical apparatus.</p>
@@ -17101,15 +17109,15 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>Loggie, Val: Picturing Soho: Images of Matthew Boulton's Manufactory. In: Shena Mason (Hrsg.): Matthew Boulton: Selling what all the world desires. New Haven/London 2009, S. 23-30.</bibl>
                 <bibl>Henderson, William O.: Johann Conrad Fischer and his Diary of Industrial England 1814-1851. London 1966, S. 68.</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischers Reisen durch die Industriegebiete Englands 1814–1851. In: Tradition - Zeitschrift für Firmengeschichte und Unternehmensbiographie 1964, S. 128f.</bibl>
+                <bibl>Loggie, Val: Picturing Soho: Images of Matthew Boulton's Manufactory. In: Shena Mason (Hrsg.): Matthew Boulton: Selling what all the world desires. New Haven/London 2009, S. 23-30.</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Fabrikanlage bei Birmingham, erbaut von <ref target="../names/gfa-actors-7534">Matthew Boulton</ref> und John Fothergril zwischen 1762 und 1765. </p>
+              <p>Fabrikanlage bei Birmingham, erbaut von <ref target="../names/gfa-actors-7534">Matthew Boulton</ref> und John Fothergill zwischen 1762 und 1765. </p>
               <p>Die Anlage wurde vom Architekten William Wyatt entworfen. In der Anlage wurden ursprünglich «Birmingham Toys», also Flitter und billige Schmuckstücke wie Schnallen, Knöpfe oder Uhrketten produziert. Später wurden hier auch Watts Dampfmaschinen hergestellt. Fischer besuchte die Soho Manufactory am 27. und 28. August 1814.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7571">Boulton &amp; Watt</ref>.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7571">Boulton &amp; Watt</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -17129,6 +17137,14 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Heathfield_Hall"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133190"/>
+                <title xml:lang="de">James Watts Wohnhaus Heathfield Hall in Birmingham (Illustration aus «Old and New Birmingham», 1880)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_261-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_261-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_261-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -17508,7 +17524,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Weiler in Östergötland, Schweden.</p>
+              <p>Weiler in <ref target="gfa-places-1477">Östergötland</ref>, Schweden.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A village in Ostgothland, Sweden.</p>
@@ -17522,9 +17538,6 @@
             <placeName type="alternative" xml:lang="de">Stallbron</placeName>
             <placeName type="main" xml:lang="en">Gamla Norrbro</placeName>
             <placeName type="full" xml:lang="en">Gamla Norrbro / Stockholm</placeName>
-            <placeName type="alternative" xml:lang="en">Alte Nordbrücke</placeName>
-            <placeName type="alternative" xml:lang="en">die Brüke, bei welcher die Münze steht</placeName>
-            <placeName type="alternative" xml:lang="en">Stallbron</placeName>
             <location>
               <geo>59.32696 18.0683</geo>
               <settlement xml:lang="de">Stockholm</settlement>
@@ -17631,7 +17644,6 @@
             <placeName type="alternative" xml:lang="de">Quincaillerie</placeName>
             <placeName type="main" xml:lang="en">Quincaillerie</placeName>
             <placeName type="full" xml:lang="en">Quincaillerie / Birmingham</placeName>
-            <placeName type="alternative" xml:lang="en">Quincaillerie</placeName>
             <location>
               <geo>52.48152 -1.89983</geo>
               <settlement xml:lang="de">Birmingham</settlement>
@@ -17689,7 +17701,6 @@
             <placeName type="alternative" xml:lang="de">Carricaturladen</placeName>
             <placeName type="main" xml:lang="en">Caricature shop</placeName>
             <placeName type="full" xml:lang="en">Caricature shop / Birmingham</placeName>
-            <placeName type="alternative" xml:lang="en">Carricaturladen</placeName>
             <location>
               <geo>52.48172 -1.89983</geo>
               <settlement xml:lang="de">Birmingham</settlement>
@@ -18201,7 +18212,7 @@
             </location>
             <idno type="gfa-places-id">1753</idno>
             <note type="description" xml:lang="de">
-              <p>Weiler in Östergötland, Schweden.</p>
+              <p>Weiler in <ref target="gfa-places-1477">Östergötland</ref>, Schweden.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -18228,14 +18239,14 @@
             <note type="sources">
               <listBibl>
                 <bibl>Gibbons Family. In: Oxford Dictionary of National Biography.</bibl>
-                <bibl>Level New Furnaces. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/Level_New_Furnaces">Grace's Guide</ref>, Stand 2.3.2023).</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischers Reisen durch die Industriegebiete Englands 1814–1851. In: Tradition - Zeitschrift für Firmengeschichte und Unternehmensbiographie 1964, S. 129f.</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischer and his Diary of Industrial England 1814–1851. London 1966, S. 69.</bibl>
+                <bibl>Level New Furnaces. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/Level_New_Furnaces">Grace's Guide</ref>, Stand 2.3.2023).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Eisenwerk in der Nähe von <ref target="gfa-places-1751">Dudley</ref>.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7889">Level Ironworks</ref>.</p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7889">Level Ironworks</ref>.</p>
             </note>
           </place>
           <place type="A" xml:id="gfa-places-1755">
@@ -18276,6 +18287,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Black_Country"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133191"/>
+                <title xml:lang="de">Black Country (Illustration aus «Griffiths' Guide to the iron trade of Great Britain», 1873)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_262-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_262-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_262-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Region in den West Midlands zwischen <ref target="gfa-places-20">Birmingham</ref> und <ref target="gfa-places-1765">Wolverhampton</ref>.</p>
@@ -18294,8 +18313,8 @@
             <idno type="gfa-places-id">1756</idno>
             <note type="sources">
               <listBibl>
-                <bibl>Morton, G. R./Smith, W. A.: The Bradley lronworks of John Wilkinson. In: Journal of the Iron and Steel Instituts (1966), S. 661–679.</bibl>
                 <bibl>Bradley Works. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/Bradley_Works">Grace's Guide</ref>, Stand 2.4.2023).</bibl>
+                <bibl>Morton, G. R./Smith, W. A.: The Bradley lronworks of John Wilkinson. In: Journal of the Iron and Steel Instituts (1966), S. 661–679.</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
@@ -18484,8 +18503,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Keramikmanufaktur von <ref target="../names/gfa-actors-7567">Josiah Wedgwood</ref>, eröffnet 1769.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7566">Wedgwood</ref>.</p>
+              <p>Standort der Porzellan- und Keramikmanufaktur.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7566">Wedgwood</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -18850,7 +18869,7 @@
             <placeName type="alternative" xml:lang="de">Kulla Feuer</placeName>
             <placeName type="main" xml:lang="en">Kullen Lighthouse</placeName>
             <placeName type="full" xml:lang="en">Kullen Lighthouse</placeName>
-            <placeName type="alternative" xml:lang="en">Kulla Feuer</placeName>
+            <placeName type="alternative" xml:lang="en">Kullens Fyr</placeName>
             <location>
               <geo>56.30101 12.45151</geo>
               <country xml:lang="de">Schweden</country>
@@ -18885,7 +18904,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Leuchtturm im Kattegat in der Provinz Skåne, Schweden.</p>
+              <p>Leuchtturm im <ref target="gfa-places-1489">Kattegat</ref> in der Provinz Skåne, Schweden.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A lighthouse in the Kattegat in the province of Scania, Sweden.</p>
@@ -18921,8 +18940,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Sitz des nationalen Postamts von Frankreich, des Établissement général des Messageries, in der Rue Notre-Dame-des-Victoires.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-8255">Messageries Nationales</ref></p>
+              <p>Standort des Unternehmens in der Rue Notre-Dame-des-Victoires.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8255">Messageries Nationales</ref></p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1771">
@@ -19060,8 +19079,8 @@
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1775">
-            <placeName type="main" xml:lang="de">Bouverie et Antrobus</placeName>
-            <placeName type="full" xml:lang="de">Bouverie et Antrobus / London</placeName>
+            <placeName type="main" xml:lang="de">Bouverie &amp; Antrobus</placeName>
+            <placeName type="full" xml:lang="de">Bouverie &amp; Antrobus / London</placeName>
             <location>
               <geo>51.507164059586 -0.12401549569775</geo>
               <settlement xml:lang="de">London</settlement>
@@ -19075,8 +19094,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Sitz der Bankfirma Bouverie et Antrobus.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7688">Bouverie et Antrobus</ref>.</p>
+              <p>Standort der Bank.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7688">Bouverie &amp; Antrobus</ref>.</p>
             </note>
           </place>
           <place type="R" xml:id="gfa-places-1776">
@@ -19111,6 +19130,7 @@
             <note type="description" xml:lang="de">
               <p>Strasse im Londoner Stadtteil <ref target="gfa-places-1630">Piccadilly</ref>.</p>
               <p>Der ehemalige Strassenverlauf der Vine Street wurde teilweise durch die Regent Street überbaut.</p>
+              <p>Laut dem <hi rend="italic">Post Office Annual Directory</hi> von London befand sich der Bleistifthersteller <ref target="../names/gfa-actors-7687">J. Middleton &amp; Co.</ref> 1814 an der Vine Street.</p>
             </note>
           </place>
           <place type="R" xml:id="gfa-places-1778">
@@ -19163,6 +19183,14 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(sv)" target="https://sv.wikipedia.org/wiki/Dannemora_gruvor"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133192"/>
+                <title xml:lang="de">Bergwerk Dannemora (Gemälde von Axel Jungstedt, 1890)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_263-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_263-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_263-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -19258,16 +19286,16 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>Phillips Wood &amp; Lee Cotton Twist Mill, Chapel Street Salford. In: Architects of Greater Manchester 1800–1940 (<ref target="https://manchestervictorianarchitects.org.uk/buildings/phillips-wood-lee-cotton-twist-mill-chapel-street-salford">Onlineressource</ref>, Stand 16.3.2023).</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischers Reisen durch die Industriegebiete Englands 1814–1851. In: Tradition - Zeitschrift für Firmengeschichte und Unternehmensbiographie 1964, S. 114–116.</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischer and his Diary of Industrial England 1814–1851. London 1966, S. 57f.</bibl>
+                <bibl>Phillips Wood &amp; Lee Cotton Twist Mill, Chapel Street Salford. In: Architects of Greater Manchester 1800–1940 (<ref target="https://manchestervictorianarchitects.org.uk/buildings/phillips-wood-lee-cotton-twist-mill-chapel-street-salford">Onlineressource</ref>, Stand 16.3.2023).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Ehemalige Baumwollspinnerei an der Chapel Street in <ref target="gfa-places-1940">Salford</ref> nahe <ref target="gfa-places-471">Manchester</ref>, erbaut 1799–1801.</p>
-              <p>Das Gebäude war eine der frühesten Stahlskelettkonstruktionen Englands und erhielt im Jahr 1805 durch <ref target="../names/gfa-actors-7574">William Murdoch</ref> eine <ref target="../keywords/gfa-keywords-8533">Gasbeleuchtungsinstallation</ref>.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7929">Philips &amp; Lee</ref>.</p>
-              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
+              <p>Standort der Spinnerei in der Chapel Street.</p>
+              <p>Das Gebäude wurde zwischen 1799 und 1801 als eine der frühesten Stahlskelettkonstruktionen Englands erbaut und erhielt im Jahr 1805 durch <ref target="../names/gfa-actors-7574">William Murdoch</ref> eine <ref target="../keywords/gfa-keywords-8533">Gasbeleuchtungsinstallation</ref>.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7929">Philips &amp; Lee</ref>.</p>
+              <p>Hinweis zur Karte: Die genauen Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1783">
@@ -19696,8 +19724,8 @@
             <note type="sources">
               <listBibl>
                 <bibl>Bean Ing Mills. In: Yorkshire Industrial Heritage (<ref target="https://yorkshire.u08.eu/leeds/63389/">Yorkshire Industrial Hertiage</ref>, Stand 10.5.2022).</bibl>
-                <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
                 <bibl>Bradford, Eveleigh: Benjamin Gott (1762–1840) - Merchant, Industrialist, Patron of the Arts. In: The Thoresby Society - The Historical Society for Leeds and District 2015 (<ref target="https://www.thoresby.org.uk/content/people/gott.php">Thoresby Society</ref>, Stand 16.3.2023).</bibl>
+                <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischers Reisen durch die Industriegebiete Englands 1814–1851. In: Tradition - Zeitschrift für Firmengeschichte und Unternehmensbiographie 1964, S. 116–120.</bibl>
               </listBibl>
             </note>
@@ -19733,7 +19761,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Stahlwerk des Unternehmens <ref target="../names/gfa-actors-7706">Walker &amp; Booth</ref> in Masbrough. Das Werk befand sich von 1748 bis 1829 an diesem Standort.</p>
+              <p>Standort des Stahlwerks von 1748 bis 1829.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7706">Walker &amp; Booth</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1798">
@@ -19762,10 +19791,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Eisenwerke der Brüder <ref target="../names/gfa-actors-7706">Walker</ref> und ihrer Nachkommen in und um Rotherham.</p>
-              <p>Ab den 1750er-Jahren expandierten die Brüder ihr Eisenunternehmen auf dem Holmes Estate, einem Gebiet westlich von Masbrough, und im Süden angrenzend an den 1727 errichteten Holmes Cut. Der Holmes Cut war ein Kanal von Jordan bis Eastwood, der die vielen Wassermühlen am <ref target="gfa-places-1668">Don</ref> um <ref target="gfa-places-1786">Rotherham</ref> umging und so schiffbar machte. Für diesen Standort sind ab 1598 eine mit <ref target="../keywords/gfa-keywords-2998">Wasserkraft</ref> betriebene Schneidemühle (slitting mill) sowie zwei <ref target="../keywords/gfa-keywords-288">Hochöfen</ref> belegt. Ab 1770 waren drei Hochöfen in Betrieb.</p>
-              <p>In den letzten Jahrzehnten des 18. Jahrhunderts und zu Johann Conrad Fischers Besuch im Jahr 1814 waren die «über alle Vorstellung grossen Werke» der Walkers hauptsächlich konzentriert auf diesen ab den 1850er-Jahren unter dem Namen Holmes Works bekannten Standort. Der frühere Standort in Masbrough wurde zum Hauptstandort der <ref target="../keywords/gfa-keywords-9502">Stahlproduktion</ref> (<ref target="gfa-places-1797">Stahlwerk von Walker &amp; Booth</ref>).</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7707">Walker (Familie)</ref>.</p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Familie: <ref target="../names/gfa-actors-7707">Walker</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1799">
@@ -19794,8 +19821,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>In White House befand sich die <ref target="../keywords/gfa-keywords-8892">Feilenmanufaktur</ref> der Familie Bramall.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7708">Thomas Bramall and Sons</ref>.</p>
+              <p>Standort der Feilenmanufaktur.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7708">Thomas Bramall &amp; Sons</ref>.</p>
             </note>
           </place>
           <place type="L" xml:id="gfa-places-1800">
@@ -19874,6 +19901,7 @@
             <placeName type="main" xml:lang="de">Wohnung von Fischer und Rinck in London, 1814</placeName>
             <placeName type="full" xml:lang="de">Wohnung von Fischer und Rinck in London, 1814 / London</placeName>
             <location>
+              <geo>51.513410717355 -0.089752162341468</geo>
               <settlement xml:lang="de">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
@@ -19882,6 +19910,7 @@
             <note type="description" xml:lang="de">
               <p>Die Wohnung von Johann Conrad Fischer und <ref target="../names/gfa-actors-7484">Georg Karl Rinck von Wildenberg</ref> während ihres Aufenthalts in <ref target="gfa-places-89">London</ref> im Jahr 1814.</p>
               <p>Die Adresse ist nicht bekannt.</p>
+              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1804">
@@ -19920,8 +19949,8 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>The evolution of the Attercliffe Works in the later 18th Century. In: Materalising Sheffield Re-presenting the Past (<ref target="https://www.dhi.ac.uk/huntsman/history_stage9.html">Onlineressource</ref>, Stand 6.10.2022).</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>The evolution of the Attercliffe Works in the later 18th Century. In: Materalising Sheffield Re-presenting the Past (<ref target="https://www.dhi.ac.uk/huntsman/history_stage9.html">Onlineressource</ref>, Stand 6.10.2022).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
@@ -20089,8 +20118,8 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Porzellanmanufaktur von Christophe Dihl und Antoine Guérhard in der Rue du Temple, <ref target="gfa-places-118">Paris</ref>.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7712">Dihl et Guérhard</ref>.</p>
+              <p>Standort der Fabrik in der Rue du Temple.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7712">Dihl &amp; Guérhard</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1810">
@@ -20811,6 +20840,7 @@
             <note type="description" xml:lang="de">
               <p>Im 13. Jahrhundert erbaute Burg.</p>
               <p>Das Château de Montbéliard diente bis Ende des 14. Jahrhunderts als Residenz der Grafen von Montbéliard und danach den Herzögen von <ref target="https://archives.georgfischer.com/places/2077">Württemberg</ref>.</p>
+              <p>Das Schloss beherbergte eine Zeit lang die Uhrenfabrik <ref target="../names/gfa-actors-8293">Vincenti &amp; Cie</ref>.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1826">
@@ -21103,7 +21133,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-8136">Apothecaries Hall</ref>.</p>
+              <p>Standort des Gebäudes.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8136">Apothecaries Hall</ref>.</p>
             </note>
           </place>
           
@@ -21285,7 +21316,7 @@
             <placeName type="alternative" xml:lang="de">Sephrenes</placeName>
             <placeName type="main" xml:lang="en">Pyramid of Khafre</placeName>
             <placeName type="full" xml:lang="en">Pyramid of Khafre / Giza</placeName>
-            <placeName type="alternative" xml:lang="en">Sephrenes</placeName>
+            <placeName type="alternative" xml:lang="en">pyramid of Chephren</placeName>
             <location>
               <geo>29.97601 31.13096</geo>
               <settlement xml:lang="de">Gizeh</settlement>
@@ -21330,8 +21361,8 @@
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1849">
-            <placeName type="main" xml:lang="de">Druckhaus Jacob Perkins &amp; Co</placeName>
-            <placeName type="full" xml:lang="de">Druckhaus Jacob Perkins &amp; Co / London</placeName>
+            <placeName type="main" xml:lang="de">Druckhaus Jacob Perkins &amp; Co.</placeName>
+            <placeName type="full" xml:lang="de">Druckhaus Jacob Perkins &amp; Co. / London</placeName>
             <location>
               <geo>51.514098 -0.107252</geo>
               <settlement xml:lang="de">London</settlement>
@@ -21345,8 +21376,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Standort des Druckunternehmens von <ref target="../names/gfa-actors-7753">Jacob Perkins</ref> von 1820 bis 1904.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7920">Perkins, Bacon &amp; Co.</ref></p>
+              <p>Standort der Druckerei von 1820 bis 1904.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7920">Perkins, Bacon &amp; Co.</ref></p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1850">
@@ -21481,8 +21512,8 @@
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1855">
-            <placeName type="main" xml:lang="de">Moilliet, Smith and Pearson</placeName>
-            <placeName type="full" xml:lang="de">Moilliet, Smith and Pearson / Birmingham</placeName>
+            <placeName type="main" xml:lang="de">Moilliet, Smith &amp; Pearson</placeName>
+            <placeName type="full" xml:lang="de">Moilliet, Smith &amp; Pearson / Birmingham</placeName>
             <placeName type="alternative" xml:lang="de">Wooley, Moilliet and Gordon</placeName>
             <placeName type="alternative" xml:lang="de">Moilliet, Smith and Pearson</placeName>
             <placeName type="alternative" xml:lang="de">John Lewis Moilliet and Son</placeName>
@@ -21495,7 +21526,8 @@
             </location>
             <idno type="gfa-places-id">1855</idno>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-8294">Moilliet, Smith and Pearson</ref>.</p>
+              <p>Standort der Bank.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8294">Moilliet, Smith &amp; Pearson</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -21526,7 +21558,7 @@
             <idno type="gfa-places-id">1857</idno>
             <note type="description" xml:lang="de">
               <p>Magazin für diverse Eisen- und Stahlprodukte.</p>
-              <p>Hier wurden unter anderem Zieheisen, Stahldraht und weitere Produkte gelagert, die in der Drahtzieherei in einer nahe gelegenen <ref target="gfa-places-2093">Fabrik</ref> hergestellt wurden.</p>
+              <p>Hier wurden unter anderem <ref target="../keywords/gfa-keywords-9655">Zieheisen</ref>, <ref target="../keywords/gfa-keywords-8994">Stahldraht</ref> und weitere Produkte gelagert, die in der <ref target="../keywords/gfa-keywords-8973">Drahtzieherei</ref> in einer nahe gelegenen <ref target="gfa-places-2093">Fabrik</ref> hergestellt wurden.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -21648,7 +21680,7 @@
             <placeName type="main" xml:lang="de">Adcocks Stanz-, Vergold- und Juwelier-Fabrike</placeName>
             <placeName type="full" xml:lang="de">Adcocks Stanz-, Vergold- und Juwelier-Fabrike / Birmingham</placeName>
             <location>
-              <geo>52.48232 -1.89983</geo>
+              <geo>52.48351 -1.9165</geo>
               <settlement xml:lang="de">Birmingham</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
@@ -21733,6 +21765,14 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Tahiti"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133181"/>
+                <title xml:lang="de">Tahitianische Kriegsgaleeren in der Matavai-Bucht in Tahiti (Ölgemälde von William Hodges, 1776)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_255-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_255-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_255-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -21831,10 +21871,10 @@
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1871">
-            <placeName type="main" xml:lang="de">Sharp, Hill and Co</placeName>
-            <placeName type="full" xml:lang="de">Sharp, Hill and Co / Manchester</placeName>
+            <placeName type="main" xml:lang="de">Globe Works</placeName>
+            <placeName type="full" xml:lang="de">Globe Works / Manchester</placeName>
             <location>
-              <geo>53.48115 -2.23743</geo>
+              <geo>53.4779544 -2.240845</geo>
               <settlement xml:lang="de">Manchester</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
@@ -21843,14 +21883,14 @@
             <note type="sources">
               <listBibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-                <bibl>Sharp, Hill and Co. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/Sharp,_Hill_and_Co">Grace's Guide</ref>, Stand 29.11.2022).</bibl>
+                <bibl>Globe Works. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/Globe_Works">Grace's Guide</ref>, Stand 6.7.2023).</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischers Reisen durch die Industriegebiete Englands 1814–1851. In: Tradition - Zeitschrift für Firmengeschichte und Unternehmensbiographie 1964, S. 122.</bibl>
+                <bibl>Sharp, Hill and Co. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/Sharp,_Hill_and_Co">Grace's Guide</ref>, Stand 29.11.2022).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Textilmaschinenfabrik.</p>
-              <p>In der Sharp, Hill and Co wurden neben Textilien auch <ref target="../keywords/gfa-keywords-9357">Webkämme</ref> hergestellt. Einer der Partner des Unternehmens war <ref target="../names/gfa-actors-8031">James Hill</ref>.</p>
-              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
+              <p>Standort der Fabrik Sharp, Hill and Co bis zum grossen Brand am 17. Juli 1825.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8319">Sharp, Hill and Co</ref>.</p>
             </note>
           </place>
           <place type="H" xml:id="gfa-places-1872">
@@ -21943,8 +21983,10 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Eine aus Eisen- und Messinggiessereien sowie <ref target="../keywords/gfa-keywords-8651">Dampfmaschinen-</ref> und Dampfkesselproduktionsstätten bestehende Fabrikanlage.</p>
-              <p>Besitzer des Unternehmens waren <ref target="../names/gfa-actors-7921">Richard Ormrod</ref> und seine Söhne.</p>
+              <p>Standort der Fabrikanlage.</p>
+              <p>Die Fabrikanlage bestand aus Eisen- und Messinggiessereien sowie <ref target="../keywords/gfa-keywords-8651">Dampfmaschinen-</ref> und Dampfkesselproduktionsstätten.</p>
+              <p>Besitzer der Fabrikanlage waren <ref target="../names/gfa-actors-7921">Richard Ormrod</ref> und seine Söhne.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8331">Richard Ormerod &amp; Sons</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -21975,6 +22017,7 @@
             <placeName type="main" xml:lang="de">Galerie de l’architecture royale de France</placeName>
             <placeName type="full" xml:lang="de">Galerie de l’architecture royale de France / Paris</placeName>
             <location>
+              <geo>48.862698806151 2.3373778643183</geo>
               <settlement xml:lang="de">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
@@ -21984,6 +22027,10 @@
               <listBibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
               </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Möglicherweise handelte es sich hier um eine Ausstellung im <ref target="gfa-places-1594">Palais Royal</ref>.</p>
+              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
           <place type="A" xml:id="gfa-places-1881">
@@ -22262,8 +22309,8 @@
             <note type="sources">
               <listBibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-                <bibl>Howie, Will/Chrimes, Mike: Thames Tunnel to Channel Tunnel: 150 years of civil engineering. London 1987.</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischer and his Diary of Industrial England 1814–1851. London 1966, S. 29–31.</bibl>
+                <bibl>Howie, Will/Chrimes, Mike: Thames Tunnel to Channel Tunnel: 150 years of civil engineering. London 1987.</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
@@ -22359,6 +22406,7 @@
             <note type="description" xml:lang="de">
               <p>Ehemaliger militärischer Komplex im Süden von <ref target="gfa-places-89">London</ref>, bestehend aus Rüstungs- und Munitionsfabriken, Waffendepots, Artillerieschulen etc.</p>
               <p>Die Anfänge des Arsenals stammen aus dem 17. Jahrhundert. 1994 wurde der militärische Betrieb eingestellt.</p>
+              <p>Bestandteil der Anlage war unter anderem auch die Kanonengiesserei <ref target="gfa-places-1567">Royal Brass Foundry Woolwich</ref>, in welcher der Schaffhauser <ref target="../names/gfa-actors-7373">Andreas Schalch</ref> als Direktor tätig war.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1891">
@@ -22398,7 +22446,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Von 1741 bis 1939 existierende Militärakademie der British Army zur Ausbildung von Offizieren für die Royal Artillery und die Royal Engineers.</p>
+              <p>Standort der Akademie.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8321">Royal Military Academy Woolwich</ref></p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1892">
@@ -22424,7 +22473,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Büro des <ref target="../names/gfa-actors-7755">Board of Ordnance</ref> zwischen 1806 und 1855.</p>
+              <p>Standort der Behörde zwischen 1806 und 1855.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7755">Board of Ordnance</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1893">
@@ -22724,6 +22774,7 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Die Rotunde, erbaut durch John Nash um 1820, diente bis 2001 als Museum der Royal Artillery.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8321">Royal Military Academy Woolwich</ref>.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1904">
@@ -23245,8 +23296,8 @@
             </location>
             <idno type="gfa-places-id">1931</idno>
             <note type="description" xml:lang="de">
-              <p>Uhrenfabrik im <ref target="gfa-places-1825">Schloss von Montbéliard</ref>.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-8293">Vincenti &amp; Cie</ref>.</p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8293">Vincenti &amp; Cie</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1932">
@@ -23274,8 +23325,7 @@
             <placeName type="alternative" xml:lang="de">Mines ParisTech</placeName>
             <placeName type="main" xml:lang="en">Paris School of Mines</placeName>
             <placeName type="full" xml:lang="en">Paris School of Mines / Paris</placeName>
-            <placeName type="alternative" xml:lang="en">École nationale supérieure des mines de Paris</placeName>
-            <placeName type="alternative" xml:lang="en">Mines Paris</placeName>
+            <placeName type="alternative" xml:lang="en">École des mines de Paris</placeName>
             <placeName type="alternative" xml:lang="en">Mines ParisTech</placeName>
             <location>
               <geo>48.84571 2.33932</geo>
@@ -23328,7 +23378,7 @@
             <note type="description" xml:lang="de">
               <p>Französische Ingenieurshochschule.</p>
               <p>Im Jahre 1794 wurde innerhalb der Institution ein wissenschaftliches Versuchslabor, das Laboratoire des Essais, gegründet. Es handelte sich um ein Labor zur Analyse mineralogischer Proben, dessen Nutzung der Verwaltung vorbehalten war und der Genehmigung durch die Mitglieder des Bergbaurats unterlag. Anfang der 1840er-Jahre verfiel das Versuchslabor und die Analysen wurden 1843 eingestellt.</p>
-              <p><ref target="../names/gfa-actors-7509">Jean Robert Bréant</ref> und <ref target="../names/gfa-actors-7900">Jean-François Léonor Mérimée</ref> waren als vérificateurs généraux im Laboratoire tätig. Johann Conrad Fischer besuchte sie öfters während seiner Aufenthalte in Paris.</p>
+              <p>Während seiner Auslandaufenthalte besuchte Johann Conrad Fischer zahlreiche renommierte Institutionen und warf oftmals einen Blick hinter die Kulissen. Dies war auch der Fall, als er der École des Mines einen Besuch abstattete und das Labor besichtigen durfte.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>French engineering college.</p>
@@ -23474,6 +23524,7 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>1648 bei der Niederdorfpforte errichtete Mühle. Aus dieser ging 1805 die <ref target="../names/gfa-actors-1081">Maschinenfabrik Escher Wyss</ref> hervor.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-1081">Escher Wyss AG</ref>.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1940">
@@ -23945,6 +23996,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Lake_Geneva"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133165"/>
+                <title xml:lang="de">Panorama der Stadt Lausanne und des Genfersees (Aquatinta von Carrard und Sperli, um 1830)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_252-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_252-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_252-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -24100,6 +24159,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Cape_of_Good_Hope"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133166"/>
+                <title xml:lang="de">Kap der Guten Hoffnung (Druck, Künstler unbekannt, um 1735–1805)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_253-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_253-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_253-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -24107,7 +24174,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Kap in Südafrika.</p>
+              <p>Kap in <ref target="https://archives.georgfischer.com/places/144">Südafrika</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Cape in South Africa.</p>
@@ -24231,8 +24298,8 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>Georg Fischer AG: Hundertfünfzig Jahre Georg Fischer Werke 1802–1952. Schaffhausen 1952, S. 35–43.</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>Georg Fischer AG: Hundertfünfzig Jahre Georg Fischer Werke 1802–1952. Schaffhausen 1952, S. 35–43.</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
@@ -24402,6 +24469,7 @@
           <place type="S" xml:id="gfa-places-1977">
             <placeName type="main" xml:lang="de">Marshall Mills</placeName>
             <placeName type="full" xml:lang="de">Marshall Mills / Leeds</placeName>
+            <placeName type="alternative" xml:lang="de">Marshall's Mill</placeName>
             <location>
               <geo>53.789305295455 -1.5521097584716</geo>
               <settlement xml:lang="de">Leeds</settlement>
@@ -24415,7 +24483,8 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-8093">Marshall Mills</ref>.</p>
+              <p>Standort der Flachsspinnerei.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8093">Marshall Mills</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -24526,7 +24595,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-8097">Ebenezer Rhodes &amp; Company</ref>.</p>
+              <p>Standort der Werkstatt.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8097">Ebenezer Rhodes &amp; Co</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -24584,7 +24654,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Gaswerk der Stadt <ref target="gfa-places-1265">Sheffield</ref>, von 1818 bis 1949 in Betrieb.</p>
+              <p>Standort des Gaswerks.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8322">Sheffield and District Gas Company</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -24604,8 +24675,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Fabrik, die sich unter anderem mit der Herstellung von Gussstahlwalzen, Bratspulen, <ref target="../keywords/gfa-keywords-2887">Drehbänken</ref> und -maschinen beschäftigte.</p>
-              <p>Das Unternehmen wurde vom Fabrikgründer <ref target="../names/gfa-actors-7809">Samuel Darwin</ref> und seinem Sohn geführt.</p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8323">Darwin, Samuel &amp; Son</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -24766,7 +24837,7 @@
             <placeName type="alternative" xml:lang="de">Südpazifik</placeName>
             <placeName type="main" xml:lang="en">South Seas</placeName>
             <placeName type="full" xml:lang="en">South Seas</placeName>
-            <placeName type="alternative" xml:lang="en">Südpazifik</placeName>
+            <placeName type="alternative" xml:lang="en">South Pacific</placeName>
             <location>
               <geo>-45 -130</geo>
             </location>
@@ -24838,7 +24909,6 @@
             <placeName type="alternative" xml:lang="de">Register-Office für Patentbegehren</placeName>
             <placeName type="main" xml:lang="en">Patent Bill Office</placeName>
             <placeName type="full" xml:lang="en">Patent Bill Office / London</placeName>
-            <placeName type="alternative" xml:lang="en">Register-Office für Patentbegehren</placeName>
             <location>
               <geo>51.516442645455 -0.1144902739158</geo>
               <settlement xml:lang="de">London</settlement>
@@ -24880,8 +24950,6 @@
             <placeName type="alternative" xml:lang="de">La Manche</placeName>
             <placeName type="main" xml:lang="en">English Channel</placeName>
             <placeName type="full" xml:lang="en">English Channel</placeName>
-            <placeName type="alternative" xml:lang="en">Kanal</placeName>
-            <placeName type="alternative" xml:lang="en">English Channel</placeName>
             <placeName type="alternative" xml:lang="en">La Manche</placeName>
             <location>
               <geo>50 -1</geo>
@@ -25036,7 +25104,8 @@
           <place type="S" xml:id="gfa-places-2012">
             <placeName type="main" xml:lang="de">Huey Teocalli</placeName>
             <placeName type="full" xml:lang="de">Huey Teocalli / Mexiko-Stadt</placeName>
-            <placeName type="alternative" xml:lang="de">Teocalli Tempel, Templo Mayor</placeName>
+            <placeName type="alternative" xml:lang="de">Teocalli Tempel</placeName>
+            <placeName type="alternative" xml:lang="de">Templo Mayor</placeName>
             <location>
               <geo>19.435 -99.1314</geo>
               <settlement xml:lang="de">Mexiko-Stadt</settlement>
@@ -25275,7 +25344,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Nebenmeer des Atlantischen Ozeans zwischen Grossbritannien, Niederlanden, Deutschland, Dänemark und Norwegen.</p>
+              <p>Nebenmeer des <ref target="gfa-places-2156">Atlantischen Ozeans</ref> zwischen <ref target="gfa-places-402">Grossbritannien</ref>, <ref target="gfa-places-105">Niederlanden</ref>, <ref target="gfa-places-35">Deutschland</ref>, <ref target="gfa-places-32">Dänemark</ref> und <ref target="gfa-places-109">Norwegen</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A sea bordering the Atlantic Ocean, located between Great Britain, the Netherlands, Germany, Denmark and Norway.</p>
@@ -25492,8 +25561,8 @@
             </location>
             <idno type="gfa-places-id">2028</idno>
             <note type="description" xml:lang="de">
-              <p>Dampfmaschinenfabrik von <ref target="../names/gfa-actors-7507">Philip Taylor</ref> und <ref target="../names/gfa-actors-7758">John Martineau</ref>.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7803">Taylor &amp; Martineau</ref>.</p>
+              <p>Standort der Dampfmaschinenfabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7803">Taylor &amp; Martineau</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -25830,7 +25899,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Binnenmeer in Europa.</p>
+              <p>Binnenmeer in <ref target="gfa-places-42">Europa</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An inland sea in Europe.</p>
@@ -25840,7 +25909,8 @@
           <place type="A" xml:id="gfa-places-2043">
             <placeName type="main" xml:lang="de">Persien</placeName>
             <placeName type="full" xml:lang="de">Persien</placeName>
-            <placeName type="alternative" xml:lang="de">Persisches Reich, Perserreich</placeName>
+            <placeName type="alternative" xml:lang="de">Persisches Reich</placeName>
+            <placeName type="alternative" xml:lang="de">Perserreich</placeName>
             <location>
               <geo>29.934444 52.891389</geo>
             </location>
@@ -25929,14 +25999,13 @@
             <idno type="gfa-places-id">2047</idno>
             <note type="sources">
               <listBibl>
-                <bibl>James Attwood. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/James_Attwood">Grace's Guide</ref>, Stand 7.3.2023).</bibl>
                 <bibl>Corngreaves Iron Works. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/Corngreaves_Iron_Works">Grace's Guide</ref>, Stand 7.3.2023).</bibl>
+                <bibl>James Attwood. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/James_Attwood">Grace's Guide</ref>, Stand 7.3.2023).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Um 1810 als erstes in <ref target="gfa-places-20">Birmingham</ref> und Umgebung errichtetes Eisenwerk von George Attwood</p>
-              <p>Im Jahr 1771 eröffnete George Attwood das Stahlwerk Corngreaves Steel Works. Bis 1810 besass er neben dem Eisenwerk Corngreaves Iron Works mehrere Mühlen dem Fluss Stour entlang. Nach seinem Tod im Jahr 1817 übernahmen seine Söhne Matthias und James die Leitung des Unternehmens. Ab 1843 wurden die Anlagen unter dem Namen «New British Iron Company» bekannt.</p>
-              <p><ref target="../names/gfa-actors-7742">Thomas Attwood</ref> war einer der Söhne von Matthias Attwood (1746–1836) und somit Enkel des Fabrikgründers George Attwood.</p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8324">Corngreaves Iron and Steel Works</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -26037,8 +26106,8 @@
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2055">
-            <placeName type="main" xml:lang="de">Leeds Museums and Galleries</placeName>
-            <placeName type="full" xml:lang="de">Leeds Museums and Galleries / Leeds</placeName>
+            <placeName type="main" xml:lang="de">Northern Exhibition</placeName>
+            <placeName type="full" xml:lang="de">Northern Exhibition / Leeds</placeName>
             <location>
               <geo>53.79781972557 -1.5472085140585</geo>
               <settlement xml:lang="de">Leeds</settlement>
@@ -26058,9 +26127,9 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Museum; heute ein Verbund von Museen, kulturhistorischen Institutionen und einer Kunstgalerie.</p>
-              <p>Johann Conrad Fischer besuchte 1825 in Begleitung von <ref target="../names/gfa-actors-7842">Henry Gott</ref> die damalige Northern Exhibition, in welcher Gemälde englischer Künstler aus den Jahren 1823 bis 1825 ausgestellt waren.</p>
-              <p>Hinweis zur Karte: Die Lokalisierung auf der Karte entspricht dem Standort des Ortes aus der Zeit Johann Conrad Fischers. Das Museum befindet sich heute an einem anderen Ort.</p>
+              <p>Standort des Museums, in welchem sich die sogenannte Northern Exhibition befand.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8329">Leeds Museums and Galleries</ref></p>
+              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet. Die Lokalisierung auf der Karte entspricht dem Standort des Ortes aus der Zeit Johann Conrad Fischers. Das Museum befindet sich heute an einem anderen Ort.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-2056">
@@ -26110,8 +26179,10 @@
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2057">
-            <placeName type="main" xml:lang="de">Usine métallurgique des Forges</placeName>
-            <placeName type="full" xml:lang="de">Usine métallurgique des Forges / Audincourt</placeName>
+            <placeName type="main" xml:lang="de">Forges d'Audincourt</placeName>
+            <placeName type="full" xml:lang="de">Forges d'Audincourt / Audincourt</placeName>
+            <placeName type="alternative" xml:lang="de">Usine métallurgique des Forges</placeName>
+            <placeName type="alternative" xml:lang="de">Compagnie des Forges d'Audincourt</placeName>
             <location>
               <geo>47.48583129415 6.8311387425711</geo>
               <settlement xml:lang="de">Audincourt</settlement>
@@ -26121,12 +26192,13 @@
             <idno type="gfa-places-id">2057</idno>
             <note type="sources">
               <listBibl>
+                <bibl>Fagniez, André: Francois-Pierre Gast. In: Geneanet (<ref target="https://gw.geneanet.org/afag?n=gast&amp;oc=&amp;p=francois+pierre">Geneanet</ref>, Stand 17.10.2022).</bibl>
                 <bibl>Pays De Montbéliard Agglomération.</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Metallschmiedewerk am Fluss <ref target="gfa-places-1823">Doubs</ref>.</p>
-              <p>Eigentümer waren <ref target="../names/gfa-actors-8133">Jean-Georges Humann</ref> und <ref target="../names/gfa-actors-8134">Florent Saglio</ref>.</p>
+              <p>Standort der Metallschmiedewerke der Firma Saglio, Humann &amp; Gast am Fluss <ref target="gfa-places-1823">Doubs</ref>.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7711">Saglio, Humann &amp; Gast</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -26521,7 +26593,7 @@
             </location>
             <idno type="gfa-places-id">2079</idno>
             <note type="description" xml:lang="de">
-              <p>Wohnadresse des Textilfabrikanten und Fabrikbesitzers <ref target="../names/gfa-actors-7607">George August Lee</ref> in Manchester.</p>
+              <p>Wohnadresse des Textilfabrikanten und Fabrikbesitzers <ref target="../names/gfa-actors-7607">George August Lee</ref> in <ref target="gfa-places-471">Manchester</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -26630,7 +26702,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Vorgänger des heutigen Naturhistorischen Museums in Wien.</p>
+              <p>Vorgänger des heutigen Naturhistorischen Museums in <ref target="gfa-places-247">Wien</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2086">
@@ -26666,12 +26738,13 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Zwei Tempel in Ägypten, errichtet unter Ramses II. im 13. Jahrhundert v. Chr.</p>
+              <p>Zwei Tempel in <ref target="gfa-places-3">Ägypten</ref>, errichtet unter Ramses II. im 13. Jahrhundert v. Chr.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2087">
-            <placeName type="main" xml:lang="de">Imperial Gas Light and Coke Co</placeName>
-            <placeName type="full" xml:lang="de">Imperial Gas Light and Coke Co / London</placeName>
+            <placeName type="main" xml:lang="de">Imperial Gas Light &amp; Coke Co</placeName>
+            <placeName type="full" xml:lang="de">Imperial Gas Light &amp; Coke Co / London</placeName>
+            <placeName type="alternative" xml:lang="de">Gas Light &amp; Coke Company</placeName>
             <location>
               <geo>51.4952 -0.1301</geo>
               <settlement xml:lang="de">London</settlement>
@@ -26696,7 +26769,8 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-8099">Imperial Gas Light and Coke Co</ref>.</p>
+              <p>Standort des Unternehmens.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8099">Imperial Gas Light &amp; Coke Co</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -26711,7 +26785,7 @@
             </location>
             <idno type="gfa-places-id">2088</idno>
             <note type="description" xml:lang="de">
-              <p>Wohnadresse von <ref target="../names/gfa-actors-7932">François Prélat</ref> in Paris.</p>
+              <p>Wohnadresse von <ref target="../names/gfa-actors-7932">François Prélat</ref> in <ref target="gfa-places-118">Paris</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -26761,7 +26835,7 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Geschäft in <ref target="gfa-places-20">Birmingham</ref>.</p>
-              <p>Angeblich das Geschäfts des Erfinders des schmiedbaren Eisens.</p>
+              <p>Angeblich das Geschäfts des Erfinders des <ref target="../keywords/gfa-keywords-56">schmiedbaren Eisens</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -26782,7 +26856,7 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Stahl- und Eisenfabrik in <ref target="gfa-places-20">Birmingham</ref>.</p>
-              <p>Laut Johann Conrad Fischers Tagebuch von 1825 beherbergte die Fabrik eine <ref target="../keywords/gfa-keywords-8973">Drahtzieherei</ref> und diverse Werkstätten für Schmiede, Feiler und Dreher. Es wurden <ref target="../keywords/gfa-keywords-3621">Walzen</ref> für <ref target="../keywords/gfa-keywords-9326">Münzen</ref>, Stanzen, <ref target="../keywords/gfa-keywords-9643">Drehstühle</ref> und allerlei Maschinen von verarbeitetem Eisen und Stahl gemacht (S. 82).</p>
+              <p>Laut Johann Conrad Fischers Tagebuch von 1825 beherbergte die Fabrik eine <ref target="../keywords/gfa-keywords-8973">Drahtzieherei</ref> und diverse Werkstätten für <ref target="../keywords/gfa-keywords-9439">Schmiede</ref>, <ref target="../keywords/gfa-keywords-9110">Feiler</ref> und Dreher. Es wurden <ref target="../keywords/gfa-keywords-3621">Walzen</ref> für <ref target="../keywords/gfa-keywords-9326">Münzen</ref>, Stanzen, <ref target="../keywords/gfa-keywords-9643">Drehstühle</ref> und allerlei Maschinen von verarbeitetem Eisen und Stahl gemacht (S. 82).</p>
               <p>Die Produkte wurden in einem nahe gelegenen <ref target="gfa-places-1857">Magazin</ref> gelagert.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
@@ -26846,13 +26920,14 @@
             </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl>Sanderson Brothers and Co. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/Sanderson_Brothers_and_Co">Grace's Guide</ref>, Stand 12.2.2022).</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischers Reisen durch die Industriegebiete Englands 1814–1851. In: Tradition - Zeitschrift für Firmengeschichte und Unternehmensbiographie 1964, S. 125f.</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischer and his Diary of Industrial England 1814–1851. London 1966, S. 65.</bibl>
+                <bibl>Sanderson Brothers and Co. In: Grace's Guide To British Industrial History (<ref target="https://www.gracesguide.co.uk/Sanderson_Brothers_and_Co">Grace's Guide</ref>, Stand 12.2.2022).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-7587">Sanderson &amp; Comp</ref>.</p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7587">Sanderson &amp; Co</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Organization: <ref target="../names/gfa-actors-7587">Sanderson &amp; Comp</ref>.</p>
@@ -26875,8 +26950,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p><ref target="../keywords/gfa-keywords-9519">Gussstahlfabrik</ref> der Firma <ref target="../names/gfa-actors-7866">Pickslay &amp; Green</ref> in <ref target="gfa-places-1265">Sheffield</ref>.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7866">Pickslay &amp; Green</ref>.</p>
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7866">Pickslay &amp; Green</ref>.</p>
             </note>
           </place>
           <place type="R" xml:id="gfa-places-2098">
@@ -27049,7 +27124,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Theater am Londoner Haymarket, 1720 von John Potter gegründet.</p>
+              <p>Theater am <ref target="gfa-places-2103">Londoner Haymarket</ref>, 1720 von John Potter gegründet.</p>
             </note>
           </place>
           <place type="R" xml:id="gfa-places-2103">
@@ -27096,7 +27171,7 @@
             <idno type="gfa-places-id">2104</idno>
             <note type="description" xml:lang="de">
               <p>Johann Conrad Fischers Unterkunft in <ref target="gfa-places-89">London</ref> bei seinem Aufenthalt von 1827.</p>
-              <p>Wir wissen, dass die Unterkunft zwei <ref target="../keywords/gfa-keywords-8445">englische Meilen</ref> von der Haymarket entfernt war, wobei der Weg dorthin durch die <ref target="gfa-places-2098">Paternoster Row</ref> führte. Fischers Unterkunft befand sich wohl irgendwo in der City of London beziehungsweise einer Bemerkung auf Seite 127 gemäss möglicherweise auch in <ref target="gfa-places-1648">Southwark</ref>.</p>
+              <p>Wir wissen, dass die Unterkunft zwei <ref target="../keywords/gfa-keywords-8445">englische Meilen</ref> von der <ref target="gfa-places-2103">Haymarket</ref> entfernt war, wobei der Weg dorthin durch die <ref target="gfa-places-2098">Paternoster Row</ref> führte. Fischers Unterkunft befand sich wohl irgendwo in der City of London beziehungsweise einer Bemerkung auf Seite 127 gemäss möglicherweise auch in <ref target="gfa-places-1648">Southwark</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2105">
@@ -27116,8 +27191,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p><ref target="../keywords/gfa-keywords-9414">Sägemühle</ref> von <ref target="../names/gfa-actors-7771">Marc Isambard Brunel</ref> sowie James und William Farthing in <ref target="gfa-places-2031">Battersea</ref>.</p>
-              <p>Die Sägemühle brannte 1814 nieder und wurde von den Brüdern Hollingsworth 1821 wieder aufgebaut. 1828 kaufte sie John and James Watson and Co auf.</p>
+              <p>Standort der Sägemühle.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8330">Brunelʼs Sawmills</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -27134,15 +27209,15 @@
             <idno type="gfa-places-id">2106</idno>
             <note type="sources">
               <listBibl>
-                <bibl>New Patents, Granted in December. In: The British Press,10.1.1825, S. 1.</bibl>
-                <bibl>Register of the Arts and Sciences. Band 3. London 1826, S. 16, 38, 53 (<ref target="https://archive.org/details/s1id13655140">Internet Archive</ref>, Stand 9.3.2023).</bibl>
                 <bibl>Greenwood, Christopher/Greenwood, John: Map of London; made from an actual survey in the years 1824, 1825, &amp; 1826. London 1830 (<ref target="https://id.lib.harvard.edu/curiosity/scanned-maps/44-990102029440203941">Harvard Map Collection</ref>, Stand 9.3.2023).</bibl>
                 <bibl>Henderson, W. O.: J. C. Fischers Besuche in London zwischen 1794 und 1851. In: Sonderdruck aus Tradition - Zeitschrift für Firmengeschichte und Unternehmensbiographie 1967, S. 361–363.</bibl>
+                <bibl>New Patents, Granted in December. In: The British Press,10.1.1825, S. 1.</bibl>
+                <bibl>Register of the Arts and Sciences. Band 3. London 1826, S. 16, 38, 53 (<ref target="https://archive.org/details/s1id13655140">Internet Archive</ref>, Stand 9.3.2023).</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p><ref target="../keywords/gfa-keywords-9519">Gussstahl</ref>- und Eisenfabrik in London nahe der <ref target="gfa-places-2107">Vauxhall Bridge</ref>.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-8111">Thompson &amp; Johnson</ref>.</p>
+              <p>Standort der Fabrikanlage des Unternehmens Thompson &amp; Johnson nahe der <ref target="gfa-places-2107">Vauxhall Bridge</ref>.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8111">Thompson &amp; Johnson</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -27303,6 +27378,7 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Strasse in <ref target="gfa-places-89">London</ref>, die von King’s Cross im Norden bis Holborn im Süden verläuft.</p>
+              <p>In Gray's Inn Road befand sich unter anderem auch die <ref target="gfa-places-2095">Dampfmaschinenfabrik von Jacob Perkins</ref>.</p>
             </note>
           </place>
           
@@ -27348,7 +27424,7 @@
             <placeName type="main" xml:lang="de">Schweizer Vertretung (Botschaft)</placeName>
             <placeName type="full" xml:lang="de">Schweizer Vertretung (Botschaft) / Paris</placeName>
             <location>
-              <geo>48.8555595 2.3589778</geo>
+              <geo>48.883255411292 2.3278283608734</geo>
               <settlement xml:lang="de">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
@@ -27411,8 +27487,36 @@
           
           
           
-          
-          
+          <place type="S" xml:id="gfa-places-2141">
+            <placeName type="main" xml:lang="de">Kirche St Mary and All Saints (Chesterfield)</placeName>
+            <placeName type="full" xml:lang="de">Kirche St Mary and All Saints (Chesterfield) / Chesterfield</placeName>
+            <location>
+              <geo>53.2361 -1.4241</geo>
+              <settlement xml:lang="de">Chesterfield</settlement>
+              <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
+              <country xml:lang="en">United Kingdom</country>
+            </location>
+            <idno type="gfa-places-id">2141</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Church_of_St_Mary_and_All_Saints,_Chesterfield"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/St_Mary_and_All_Saints_(Chesterfield)"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133185"/>
+                <title xml:lang="de">Kirche St Mary and All Saints in Chesterfield mit ihrem gekrümmten Kirchturm (Illustration in «Gentleman's Magazine», 1793)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_256-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_256-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_256-0001" type="thumb"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Kirche in Chesterfield bekannt für ihren krummen Kirchturm (Crooked Spire).</p>
+            </note>
+          </place>
           
           
           
@@ -27474,7 +27578,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Klassizistisches Triumphtor in Berlin.</p>
+              <p>Klassizistisches Triumphtor in <ref target="gfa-places-16">Berlin</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A triumphal arch in Berlin built in the neo-classical style.</p>
@@ -27487,7 +27591,6 @@
             <placeName type="alternative" xml:lang="de">Custom House</placeName>
             <placeName type="main" xml:lang="en">Custom House</placeName>
             <placeName type="full" xml:lang="en">Custom House / Dover</placeName>
-            <placeName type="alternative" xml:lang="en">Custom House</placeName>
             <location>
               <geo>51.117190736221 1.3084877435634</geo>
               <settlement xml:lang="de">Dover</settlement>
@@ -27503,7 +27606,6 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Zollhaus von <ref target="gfa-places-1608">Dover</ref>, welches 1807 erbaut und bis 1922 genutzt wurde.</p>
-              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Customs House of <ref target="gfa-places-1608">Dover</ref>, which was built in 1807 and used until 1922.</p>
@@ -27565,7 +27667,8 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-7446">Deutsche Schule Stockholm</ref>.</p>
+              <p>Standort der Schule.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7446">Deutsche Schule Stockholm</ref>.</p>
               <p>Hinweis zur Karte: Die Lokalisierung auf der Karte entspricht dem Standort des Ortes aus der Zeit Johann Conrad Fischers. Die Deutsche Schule Stockholm befindet sich heute an einem anderen Ort.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -27692,7 +27795,7 @@
             <idno type="gfa-places-id">2159</idno>
             <note type="description" xml:lang="de">
               <p>Eisenwerk, in welchem <ref target="../keywords/gfa-keywords-3621">Walzen</ref> gegossen werden, um die Sturzbleche vor dem <ref target="../keywords/gfa-keywords-8641">Verzinnen</ref> zu glätten.</p>
-              <p>Das Stahlwalzeneisenwerk ist sechs Meilen von der an der Ausfallstrasse Wicker gelegenen Fabrik <ref target="gfa-places-1982">Ebenezer Rhodes &amp; Company</ref> entfernt.</p>
+              <p>Das Stahlwalzeneisenwerk ist sechs Meilen von der an der Ausfallstrasse <ref target="gfa-places-1983">Wicker</ref> gelegenen Fabrik <ref target="gfa-places-1982">Ebenezer Rhodes &amp; Company</ref> entfernt.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
@@ -27725,6 +27828,7 @@
             <placeName type="full" xml:lang="de">Ryvingen Fyr</placeName>
             <placeName type="main" xml:lang="en">Ryvingen Lighthouse</placeName>
             <placeName type="full" xml:lang="en">Ryvingen Lighthouse</placeName>
+            <placeName type="alternative" xml:lang="en">Ryvingen Fyr</placeName>
             <location>
               <geo>57.969767004763 7.4920916763568</geo>
               <country xml:lang="de">Norwegen</country>
@@ -27746,7 +27850,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Südlichster Leuchtturm Norwegens am Übergang von <ref target="gfa-places-1490">Skagerrak</ref> zur Nordsee.</p>
+              <p>Südlichster Leuchtturm <ref target="gfa-places-109">Norwegens</ref> am Übergang von <ref target="gfa-places-1490">Skagerrak</ref> zur <ref target="gfa-places-2021">Nordsee</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>The most southern lighthouse in Norway, at the point where the Skagerrak meets the North Sea.</p>
@@ -27757,6 +27861,7 @@
             <placeName type="full" xml:lang="de">Skagen Fyr</placeName>
             <placeName type="main" xml:lang="en">Skagen Lighthouse</placeName>
             <placeName type="full" xml:lang="en">Skagen Lighthouse</placeName>
+            <placeName type="alternative" xml:lang="en">Skagen Fyr</placeName>
             <location>
               <geo>57.735426494535 10.630410927763</geo>
               <country xml:lang="de">Dänemark</country>
@@ -27775,15 +27880,15 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Leuchtturm an der Nordostküste Dänemarks, zwischen <ref target="gfa-places-1489">Kattegat</ref> und <ref target="gfa-places-1490">Skagerrak</ref>.</p>
+              <p>Leuchtturm an der Nordostküste <ref target="gfa-places-32">Dänemarks</ref>, zwischen <ref target="gfa-places-1489">Kattegat</ref> und <ref target="gfa-places-1490">Skagerrak</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A lighthouse on the northeast coast of Denmark, between <ref target="gfa-places-1489">Kattegat</ref> und <ref target="gfa-places-1490">Skagerrak</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2163">
-            <placeName type="main" xml:lang="de">Manufaktur Holtzapffell und Deyerlein</placeName>
-            <placeName type="full" xml:lang="de">Manufaktur Holtzapffell und Deyerlein / London</placeName>
+            <placeName type="main" xml:lang="de">Manufaktur Holtzapffel &amp; Deyerlein</placeName>
+            <placeName type="full" xml:lang="de">Manufaktur Holtzapffel &amp; Deyerlein / London</placeName>
             <location>
               <geo>51.507458661789 -0.12965133033622</geo>
               <settlement xml:lang="de">London</settlement>
@@ -27797,14 +27902,14 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Manufaktur der Drehstuhl- und Werkzeughersteller Holtzapffell und Deyerlein.</p>
-              <p>Das <hi rend="italic">Post Office Annual Directory</hi> von 1814 bestätigt Fischers Addressangabe: «Holtzapffell &amp; Deyerlein, Tool &amp; Engine Manuf. 10, Cockspur-st».</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7563">Holtzapffell und Deyerlein</ref></p>
+              <p>Manufaktur der Drehstuhl- und Werkzeughersteller Holtzapffel und Deyerlein.</p>
+              <p>Das <hi rend="italic">Post Office Annual Directory</hi> von 1814 bestätigt Fischers Adressangabe: «Holtzapffel &amp; Deyerlein, Tool &amp; Engine Manuf. 10, Cockspur-st».</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7563">Holtzapffel &amp; Deyerlein</ref></p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2164">
-            <placeName type="main" xml:lang="de">Brookman et Langdon</placeName>
-            <placeName type="full" xml:lang="de">Brookman et Langdon / London</placeName>
+            <placeName type="main" xml:lang="de">Brookman &amp; Langdon</placeName>
+            <placeName type="full" xml:lang="de">Brookman &amp; Langdon / London</placeName>
             <location>
               <geo>51.517464065189 -0.12862469395541</geo>
               <settlement xml:lang="de">London</settlement>
@@ -27818,8 +27923,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p><ref target="../keywords/gfa-keywords-8848">Bleistiftfabrik</ref> der Firma Brookman et Langdon.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7686">Brookman et Langdon</ref>.</p>
+              <p><ref target="../keywords/gfa-keywords-8848">Bleistiftfabrik</ref> der Firma Brookman &amp; Langdon.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7686">Brookman &amp; Langdon</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2165">
@@ -27853,6 +27958,7 @@
             <placeName type="main" xml:lang="de">Bankgeschäft Belon</placeName>
             <placeName type="full" xml:lang="de">Bankgeschäft Belon / Paris</placeName>
             <location>
+              <geo>48.87059966691 2.3327399183941</geo>
               <settlement xml:lang="de">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
@@ -27865,6 +27971,7 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Bankadresse des schweizerisch-französischen Bankiers  <ref target="../names/gfa-actors-7776">Jean Louis Belon</ref>.</p>
+              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2167">
@@ -27953,7 +28060,8 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Sammlung: <ref target="../keywords/gfa-keywords-8394">Kabinett der Königlich Schwedischen Akademie der Wissenschaften</ref></p>
+              <p>Standort des Kabinetts.</p>
+              <p>Siehe Sammlung: <ref target="../keywords/gfa-keywords-8394">Kabinett der Königlich Schwedischen Akademie der Wissenschaften</ref></p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -28071,8 +28179,9 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Organisation: <ref target="../names/gfa-actors-7435">Königliche Patriotische Gesellschaft</ref>.</p>
-              <p>Sammlung: <ref target="../keywords/gfa-keywords-8393">Modellkammer der Schwedischen Patriotischen Gesellschaft</ref>.</p>
+              <p>Standort der Gesellschaft.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7435">Königliche Patriotische Gesellschaft</ref>.</p>
+              <p>Siehe Sammlung: <ref target="../keywords/gfa-keywords-8393">Modellkammer der Schwedischen Patriotischen Gesellschaft</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
             <note type="description" xml:lang="en">
@@ -28085,12 +28194,14 @@
             <placeName type="main" xml:lang="de">Priestleys Wohnsitz</placeName>
             <placeName type="full" xml:lang="de">Priestleys Wohnsitz</placeName>
             <location>
+              <geo>52.4940145 -2.0178715</geo>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
             <idno type="gfa-places-id">2182</idno>
             <note type="description" xml:lang="de">
               <p>Wohnhaus des <ref target="../names/gfa-actors-7604">Joseph Priestley Juniors</ref>. Befand sich zwischen <ref target="gfa-places-1751">Dudley</ref> und <ref target="gfa-places-20">Birmingham</ref>.</p>
+              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
           </place>
           
@@ -28141,7 +28252,7 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Geschäft der Eisenwarenhändler- und Instrumentenbauerfamilie Fenn an der <ref target="gfa-places-1615">Newgate Street</ref>.</p>
-              <p>Organisation: <ref target="../names/gfa-actors-7546">Fenn</ref>.</p>
+              <p>Siehe Familie: <ref target="../names/gfa-actors-7546">Fenn</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Store of the Fenn family of ironmongers and instrument makers on <ref target="gfa-places-1615">Newgate Street</ref>.</p>
@@ -28197,10 +28308,192 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Pass in den Vogesen auf 772 Metern übr Meer.</p>
-              <p>Der Col de Sainte-Marie ist die Grenze zwischen dem Elsass und Lothringen und war im somit im 19./20. Jahrhundert zeitweise Grenzpass zwischen Frankreich und Deutschland.</p>
+              <p>Pass in den Vogesen auf 772 Metern über Meer.</p>
+              <p>Der Col de Sainte-Marie ist die Grenze zwischen dem Elsass und Lothringen. Der Pass war im 19./20. Jahrhundert zeitweise Grenzpass zwischen Frankreich und Deutschland.</p>
             </note>
           </place>
+          <place type="S" xml:id="gfa-places-2223">
+            <placeName type="main" xml:lang="de">Roebuck Coaching Inn</placeName>
+            <placeName type="full" xml:lang="de">Roebuck Coaching Inn / Newcastle-under-Lyme</placeName>
+            <location>
+              <geo>53.010905 -2.22738</geo>
+              <settlement xml:lang="de">Newcastle-under-Lyme</settlement>
+              <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
+              <country xml:lang="en">United Kingdom</country>
+            </location>
+            <idno type="gfa-places-id">2223</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>Staffordshire Past Track: Roebuck, High Street, Newcastle-under-Lyme (<ref target="https://www.search.staffspasttrack.org.uk/Details.aspx?ResourceID=4285&amp;SearchType=2&amp;ThemeID=186">Staffordshire Past Track</ref>, Stand 28.6.2023).</bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Einer der ältesten Gasthöfe in Newcastle.</p>
+              <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="gfa-places-2224">
+            <placeName type="main" xml:lang="de">Brown, Cobb &amp; Co.</placeName>
+            <placeName type="full" xml:lang="de">Brown, Cobb &amp; Co. / London</placeName>
+            <placeName type="alternative" xml:lang="de">Brown &amp; Siordet</placeName>
+            <placeName type="alternative" xml:lang="de">Brown, Cobb et Co.</placeName>
+            <location>
+              <geo>51.5125998 -0.0874324</geo>
+              <settlement xml:lang="de">London</settlement>
+              <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
+              <country xml:lang="en">United Kingdom</country>
+            </location>
+            <idno type="gfa-places-id">2224</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>Henderson, William O.: Johann Conrad Fischer and his Diary of Industrial England 1814–1851. London 1966, S. 97f.</bibl>
+                <bibl>The Post Office Annual Directory, 15. Ed., London 1814 (<ref target="https://hdl.handle.net/2027/njp.32101041607647">Hathi Trust Digital Library</ref>, Stand 21.2.2023).</bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Standort der Bank in der Lombard Street.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-7790">Brown, Cobb &amp; Co.</ref></p>
+            </note>
+          </place>
+          
+          <place type="S" xml:id="gfa-places-2226">
+            <placeName type="main" xml:lang="de">Société Manufacturière d’Armes</placeName>
+            <placeName type="full" xml:lang="de">Société Manufacturière d’Armes / St. Étienne</placeName>
+            <placeName type="alternative" xml:lang="de">Manufacture d’armes de Saint-Étienne</placeName>
+            <placeName type="alternative" xml:lang="de">Société Manufacturière d’Armes et de Cycles</placeName>
+            <location>
+              <geo>45.4503 4.38464</geo>
+              <settlement xml:lang="de">St. Étienne</settlement>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="gfa-places-id">2226</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q3287029"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/lccn-n2008039221/"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n2008039221"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/131576804/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Manufacturi%C3%A8re_d%E2%80%99Armes"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-(fr)" target="https://fr.wikipedia.org/wiki/Manufacture_d%27armes_de_Saint-%C3%89tienne"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Standort der Fabrik.</p>
+              <p>Siehe Organisation: <ref target="../names/gfa-actors-8292">Société Manufacturière d’Armes</ref>.</p>
+            </note>
+          </place>
+          
+          
+          
+          
+          <place type="A" xml:id="gfa-places-2231">
+            <placeName type="main" xml:lang="de">City of London</placeName>
+            <placeName type="full" xml:lang="de">City of London / London</placeName>
+            <placeName type="alternative" xml:lang="de">Square Mile</placeName>
+            <location>
+              <geo>51.513331 -0.088947</geo>
+              <settlement xml:lang="de">London</settlement>
+              <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
+              <country xml:lang="en">United Kingdom</country>
+            </location>
+            <idno type="gfa-places-id">2231</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q23311"/>
+              </bibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2643741"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/City-of-London"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/lccn-nr2003001327/"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/nr2003001327"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/168414687/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/7844609-0"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/City_of_London"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/City_of_London"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Historischer Kern von London und separater Distrikt.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="gfa-places-2232">
+            <placeName type="main" xml:lang="de">Manchester Royal Infirmary</placeName>
+            <placeName type="full" xml:lang="de">Manchester Royal Infirmary / Manchester</placeName>
+            <placeName type="alternative" xml:lang="de">MRI</placeName>
+            <location>
+              <geo>53.46244 -2.22771</geo>
+              <settlement xml:lang="de">Manchester</settlement>
+              <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
+              <country xml:lang="en">United Kingdom</country>
+            </location>
+            <idno type="gfa-places-id">2232</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6289433"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q3285348"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/lccn-n2012181183/"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n2012181183"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/232701128/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Manchester_Royal_Infirmary"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133179"/>
+                <title xml:lang="de">Ansicht des Krankenhauses Manchester Royal Infirmary (Kupferstich von James Hey Davies nach Samuel Austin, um 1784–1834)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_254-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_254-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_254-0001" type="thumb"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>Plan von Manchester und Saalford in England. Prag 1810. (<ref target="http://digitool.is.cuni.cz/R/-?func=dbin-jump-full&amp;object_id=1115932&amp;silo_library=GEN01">Univerzita Karlova</ref>, Stand 8.8.2023).</bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Grosses Lehrkrankenhaus des britischen National Health Service in Manchester.</p>
+              <p>Das Krankenhaus wurde 1752 von Charles White (1728–1813) gegründet und ist heute [2023] ein wichtiges regionales und nationales medizinisches Zentrum. Es ist das grösste Krankenhaus innerhalb des Manchester University NHS Foundation Trust und dient als Hauptlehrkrankenhaus für die School of Medical Sciences der Universität Manchester.</p>
+              <p>Der erste Standort befand sich an der Garden Street, in der Nähe der Withy Grove. Als sich Johann Conrad Fischer 1825 in Manchester befand, wurde bereuts ein neues Krankenhaus in Lever's Row gebaut.</p>
+              <p>Hinweis zur Karte: Die Lokalisierung auf der Karte entspricht dem Standort des Ortes aus der Zeit Johann Conrad Fischers. Die Manchester Royal Infirmary befindet sich heute an einem anderen Ort.</p>
+            </note>
+          </place>
+          
+          
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -28248,7 +28541,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-06-06T13:54:36+02:00">teiHeader was automatically produced from the database 2023-06-06T13:54:36+02:00</change>
+      <change when="2023-09-28T16:01:24+02:00">teiHeader was automatically produced from the database 2023-09-28T16:01:24+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
