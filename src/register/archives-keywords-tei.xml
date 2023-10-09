@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-09-28 16:01:24 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-10-09 11:08:38 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2023-09-28T16:01:24+02:00">teiHeader was automatically produced from the database 2023-09-28T16:01:24+02:00</change>
+      <change when="2023-10-09T11:08:38+02:00">teiHeader was automatically produced from the database 2023-10-09T11:08:38+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -906,7 +906,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133227"/>
-              <title xml:lang="de">Vorherd mit Schlackenkübel, 1932 (Fotografie)</title>
+              <title xml:lang="de">Vorherd mit Schlackenkübeln (Fotograf unbekannt, 1932)</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_255-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_255-0001" type="web"/>
@@ -1104,7 +1104,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133183"/>
               <title xml:lang="de">Gelehrter in seinem Kabinett, umgeben von chemischen und pharmazeutischen Apparaten (Gemälde von Mattheus van Helmont, um 1670–1680)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Scholar in his cabinet, surrounded by chemical and pharmaceutical apparatus (painting by Mattheus van Helmont, c. 1670–1680)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_244-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_244-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_244-0001" type="thumb"/>
@@ -2078,7 +2078,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133151"/>
               <title xml:lang="de">Schrottlager im Schaffhauser Stadtquartier Birch (Fotograf unbekannt, 1947)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Scrap metal warehouse in the Birch district of Schaffhausen (photographer unknown, 1947)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_221-0002" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_221-0002" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_221-0002" type="thumb"/>
@@ -3145,7 +3145,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133200"/>
               <title xml:lang="de">New Stock Exchange in London (Illustration im Buch «The Microcosm of London» von 1810)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">New Stock Exchange in London (illustration in the book "The Microcosm of London" from 1810)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_250-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_250-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_250-0001" type="thumb"/>
@@ -5311,7 +5311,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133150"/>
               <title xml:lang="de">Titelblatt einer Ausgabe der «Elementa Matheseos Universae» von Wolff (Druck von Libraria rengeriana in Halle, um 1742)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page of an edition of Wolff's "Elementa Matheseos Universae" (printed by Libraria rengeriana in Halle, c. 1742)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_220-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_220-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_220-0001" type="thumb"/>
@@ -5353,6 +5353,14 @@
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Achromatic_telescope"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133231"/>
+              <title xml:lang="de">Achromatisches Teleskop von Dollond mit Kurbel von Hooke, um 1675–1699 hergestellt (Fotografie von Med, 2016)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_258-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_258-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_258-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -7339,7 +7347,7 @@
           <label xml:lang="en">Theophron by Campe</label>
           <note type="description" xml:lang="en">
             <p>A book of advice for young people published by the German writer and Enlightenment figure <ref target="../names/gfa-actors-7611">Joachim Heinrich Campe</ref> in 1783. </p>
-            <p>Campe, Joachim Heinrich: Theophron oder Der erfahrene Ratgeber für die unerfahrene Jugend. Hamburg 1783</p>
+            <p>Campe, Joachim Heinrich: Theophron oder Der erfahrene Ratgeber für die unerfahrene Jugend. Hamburg 1783. In: Münchner DigitalisierungsZentrum - Digitale Bibliothek (<ref target="https://www.digitale-sammlungen.de/de/view/bsb11323628?page=5">Onlineressource</ref>, Stand 20.3.2023).</p>
           </note>
         </item>
         <item xml:id="gfa-keywords-8489">
@@ -7430,6 +7438,7 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-8493">
+          <objectType xml:lang="de">Masseinheit, Währung</objectType>
           <label xml:lang="de">Klafter</label>
           <note type="description" xml:lang="de">
             <p>Historisches Längen-, Raum- und Flächenmass. Entsprach 6 <ref target="gfa-keywords-8449">Fuss</ref>, also etwa 1,80 Meter.</p>
@@ -7439,6 +7448,7 @@
           <note type="description" xml:lang="en">
             <p>In German, an historical measure of length, area and volume. It was equivalent to six <ref target="gfa-keywords-8449">feet</ref> or about 1.80 metres.</p>
             <p>As a measure of length, the Klafter derives from the span of the outstretched arms of a grown man. It is still used as a measure of volume for firewood (cord).</p>
+            <p>Also known as fathom.</p>
           </note>
           <listBibl>
             <bibl>
@@ -10125,6 +10135,16 @@
             <p>Das Werk gründete auf Beschreibungen und Briefen von jesuitischen Missionaren im Kaiserreich und etablierte sich für das 18. Jahrhundert als europäisches Standardwerk zu <ref target="../places/gfa-places-29">China</ref>.</p>
             <p>Du Halde, Jean-Baptiste: Description géographique, historique, chronologique, politique et physique de l’empire de la Chine et de la Tartarie chinoise. P.G. Lemercier, Paris 1735.</p>
           </note>
+          <listBibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133234"/>
+              <title xml:lang="de">Titelblatt des 4. Bands der «Description de la Chine et de la Tartarie chinoise» von Du Halde, 1736</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_261-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_261-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_261-0001" type="thumb"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="gfa-keywords-8603">
           <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
@@ -12784,7 +12804,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133225"/>
               <title xml:lang="de">Britische Raketenschiffe feuern Congreve’sche Raketen ab (Aquarell, Künstler unbekannt, 1814)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">British rocket ships firing Congreve rockets (watercolour, artist unknown, 1814)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_253-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_253-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_253-0001" type="thumb"/>
@@ -15657,7 +15677,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133199"/>
               <title xml:lang="de">Peter der Grosse mit einer blauen Moiré-Schärpe (Gemälde von Paul Delaroche, 1838)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Peter the Great with a blue moiré sash (painting by Paul Delaroche, 1838)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_249-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_249-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_249-0001" type="thumb"/>
@@ -16384,6 +16404,14 @@
             </bibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Trigger_(firearms)"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133230"/>
+              <title xml:lang="de">Kanonenschloss einer 6-Pfund-Kanone mit Abzugsseil, um 1800 (Hersteller unbekannt)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_257-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_257-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_257-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -17646,7 +17674,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133178"/>
               <title xml:lang="de">DS Stadt Schaffhausen, erstes schweizerisches Bodenseedampfschiff (Zeichnung von Erich Hofmann, um 1851–1900)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">DS Stadt Schaffhausen, first Swiss Lake Constance steamship (drawing by Erich Hofmann, c. 1851–1900)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_241-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_241-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_241-0001" type="thumb"/>
@@ -17779,7 +17807,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133146"/>
               <title xml:lang="de">Newcomens Atmosphärische Dampfmaschine (Stich nach Henry Beighton, 1717)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Newcomen's Atmospheric Steam Engine (engraving after Henry Beighton, 1717)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_219-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_219-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_219-0001" type="thumb"/>
@@ -20612,7 +20640,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133180"/>
               <title xml:lang="de">Innenansicht einer Glasfabrik mit Arbeitern (kolorierte Lithographie von P. Bineteau, 1848)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Interior view of a glass factory with workers (coloured lithograph by P. Bineteau, 1848)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_242-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_242-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_242-0001" type="thumb"/>
@@ -20659,7 +20687,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133184"/>
               <title xml:lang="de">Darstellung der slowakischen Region Liptov am Bahnhof von Žilina (Glasmalerei von Robert Dubravec, 1955)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Representation of the Slovak region of Liptov at the Žilina railway station (stained glass by Robert Dubravec, 1955)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_245-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_245-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_245-0001" type="thumb"/>
@@ -25639,7 +25667,13 @@
         <item xml:id="gfa-keywords-9449">
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de">Seebad</label>
+          <note type="description" xml:lang="de">
+            <p>Bade- oder Kurort am Meer.</p>
+          </note>
           <label xml:lang="en">seaside resort</label>
+          <note type="description" xml:lang="en">
+            <p>Bathing or spa resort by the sea.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -25660,6 +25694,14 @@
             </bibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Seaside_resort"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133237"/>
+              <title xml:lang="de">Geschäftiges Treiben am Strand (Karikatur aus der Serie «Bird's-eye view of modern society» von Richard Doyle, 1864)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_264-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_264-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_264-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -25826,7 +25868,13 @@
         <item xml:id="gfa-keywords-9457">
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de">Sense</label>
+          <note type="description" xml:lang="de">
+            <p>Werkzeug zum Mähen.</p>
+          </note>
           <label xml:lang="en">scythe</label>
+          <note type="description" xml:lang="en">
+            <p>Mowing tool.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -26870,6 +26918,14 @@
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Taffeta"/>
             </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133236"/>
+              <title xml:lang="de">Madame de Pompadour in einer Robe aus Seidentaft (Gemälde von François Boucher, 1756)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_263-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_263-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_263-0001" type="thumb"/>
+            </bibl>
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9554">
@@ -26944,7 +27000,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133171"/>
               <title xml:lang="de">Tee und Schmelzbrötchen (Gemälde von Albert Anker, 1873)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Tea and Melting Rolls (painting by Albert Anker, 1873)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_235-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_235-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_235-0001" type="thumb"/>
@@ -26967,7 +27023,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133172"/>
               <title xml:lang="de">Teeservice (Gemälde von Jean-Étienne Liotard, um 1783)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Tea service (painting by Jean-Étienne Liotard, c. 1783)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_236-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_236-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_236-0001" type="thumb"/>
@@ -27191,7 +27247,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133173"/>
               <title xml:lang="de">Palmenhaus in Frankfurt am Main (Photochrom, um 1890)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Palm House in Frankfurt am Main (photochrome, c. 1890)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_237-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_237-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_237-0001" type="thumb"/>
@@ -28704,7 +28760,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133213"/>
               <title xml:lang="de">Schillibeers Pferde-Omnibus (Künstler unbekannt, 1902)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Schillibeer's horse omnibus (artist unknown, 1902)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_252-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_252-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_252-0001" type="thumb"/>
@@ -30271,6 +30327,16 @@
               <item>Register of the Arts and Sciences. 4 Bände. London 1824-1827 (<ref target="https://archive.org/details/b30871335">Archive.org</ref>, Stand 3.3.2023).</item>
             </list>
           </note>
+          <listBibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133233"/>
+              <title xml:lang="de">Titelblatt einer Ausgabe der Zeitschrift «Register of the Arts and Sciences», 1826</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_260-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_260-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_260-0001" type="thumb"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="gfa-keywords-9799">
           <objectType xml:lang="de">anderes/diverses</objectType>
@@ -30439,6 +30505,16 @@
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
             </listBibl>
           </note>
+          <listBibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133232"/>
+              <title xml:lang="de">«A descriptive catalogue of the exhibition, entitled Ancient and Modern Mexico» (Titelblatt des Ausstellungskatalogs von William Bullock, 1824)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_259-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_259-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_259-0001" type="thumb"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="gfa-keywords-9805">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
@@ -30719,7 +30795,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133174"/>
               <title xml:lang="de">Die Feierlichkeiten in East Bergholt anlässlich des in Paris geschlossenen Friedens von 1814 zwischen Frankreich und den alliierten Mächten (Gemälde von John Constable, um 1824)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">The celebrations at East Bergholt on the occasion of the peace of 1814 concluded in Paris between France and the Allied Powers (painting by John Constable, c. 1824)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_238-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_238-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_238-0001" type="thumb"/>
@@ -30759,7 +30835,13 @@
         <item xml:id="gfa-keywords-9833">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
           <label xml:lang="de">Fabeln von Äsop</label>
+          <note type="description" xml:lang="de">
+            <p>Sammlung von Fabeln aus dem antiken Griechenland, dem Erzähler Aesop zugeschrieben.</p>
+          </note>
           <label xml:lang="en">Aesop's Fables</label>
+          <note type="description" xml:lang="en">
+            <p>Collection of fables from ancient Greece, attributed to the storyteller Aesop.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q865902"/>
@@ -30778,6 +30860,14 @@
             </bibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Aesop%27s_Fables"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133235"/>
+              <title xml:lang="de">Illustration aus einem Kinderbuch mit Äsops Fabeln (Zeichnung von Walter Crane, 1887)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_262-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_262-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_262-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -31200,7 +31290,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133167"/>
               <title xml:lang="de">Kopien Nr. 4 und Nr. 20 des Internationalen Kilogrammprototyps von 1890 (Fotografie des National Institutes of Standards and Technology)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Copies No. 4 and No. 20 of the International Kilogram Prototype of 1890 (photograph of the National Institute of Standards and Technology)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_232-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_232-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_232-0001" type="thumb"/>
@@ -31236,7 +31326,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133177"/>
               <title xml:lang="de">Daniel O'Connell, bedeutendster Unterstützer der katholischen Emanzipation, bei einem Monster Meeting 1843 in Clifden (Gemälde von Joseph Patrick Haverty, 1843)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Daniel O'Connell, most prominent supporter of Catholic Emancipation, at a Monster Meeting in Clifden in 1843 (Painting by Joseph Patrick Haverty, 1843)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_240-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_240-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_240-0001" type="thumb"/>
@@ -31275,7 +31365,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133176"/>
               <title xml:lang="de">Bergahorn (Illustration in Brockhaus and Efron Encyclopedic Dictionary, um 1890)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Sycamore maple (illustration in Brockhaus and Efron Encyclopedic Dictionary, c. 1890)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_239-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_239-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_239-0001" type="thumb"/>
@@ -31315,7 +31405,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133182"/>
               <title xml:lang="de">Labor-Rührstab aus mundgeblasenem, geschmolzenem Glas, hergestellt von Phoenix Glassworks um 1750–1900</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Laboratory stirring rod of mouth-blown fused glass, made by Phoenix Glassworks c. 1750–1900</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_243-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_243-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_243-0001" type="thumb"/>
@@ -31327,11 +31417,11 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de">Der Freischütz</label>
           <note type="description" xml:lang="de">
-            <p>Romantische Oper in drei Akten von Carl Maria von Weber; uraufgeführt am 18. Juni 1821 im Königlichen Schauspielhaus in Berlin.</p>
+            <p>Romantische Oper in drei Akten von Carl Maria von Weber (1786–1826); uraufgeführt am 18. Juni 1821 im Königlichen Schauspielhaus in Berlin.</p>
           </note>
           <label xml:lang="en">Der Freischütz</label>
           <note type="description" xml:lang="en">
-            <p>Romantic opera in three acts by Carl Maria von Weber; premiered on 18 June 1821 at the Königliches Schauspielhaus in Berlin.</p>
+            <p>Romantic opera in three acts by Carl Maria von Weber (1786–1826); premiered on 18 June 1821 at the Königliches Schauspielhaus in Berlin.</p>
           </note>
           <listBibl>
             <bibl>
@@ -31355,7 +31445,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133195"/>
               <title xml:lang="de">Amelie Dub in der Rolle von Annchen in «Der Freischütz» (Gemälde von Gustav Adolf Barthel, um 1800–1850)</title>
-              <title xml:lang="en">Amelie Dub in der Rolle von Annchen in «Der Freischütz» (Gemälde von Gustav Adolf Barthel, um 1800–1850)</title>
+              <title xml:lang="en">Amelie Dub in the role of Annchen in "Der Freischütz" (painting by Gustav Adolf Barthel, c. 1800-1850)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_247-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_247-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_247-0001" type="thumb"/>
@@ -31415,7 +31505,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133226"/>
-              <title xml:lang="de">Ein Treffen der englischen Gewerkschaften mit Beispiel einer sonntäglichen "Wahlbeteiligung", 1834 (Lithografie zweier Karikaturen von Robert Seymour)</title>
+              <title xml:lang="de">Ein Treffen der englischen Gewerkschaften mit Beispiel einer sonntäglichen «Wahlbeteiligung» (Lithografie zweier Karikaturen von Robert Seymour, 1834)</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_254-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_254-0001" type="web"/>
