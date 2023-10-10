@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-10-09 11:08:23 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-10-10 15:46:38 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -22451,7 +22451,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-10-09T11:08:30+02:00">teiHeader was automatically produced from the database 2023-10-09T11:08:30+02:00</change>
+      <change when="2023-10-10T15:46:45+02:00">teiHeader was automatically produced from the database 2023-10-10T15:46:45+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

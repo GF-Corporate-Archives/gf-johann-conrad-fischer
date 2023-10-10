@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-10-09 11:08:30 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-10-10 15:46:45 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -22164,6 +22164,16 @@
               <country xml:lang="en">United Kingdom</country>
             </location>
             <idno type="gfa-places-id">1842</idno>
+            <listBibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133251"/>
+                <title xml:lang="de">Ansicht der gegenüber dem Armenhaus in der Crown Street stehenden Häuser (Aquarell von Thomas Hosmer Shepherd, 1854)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_279-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_279-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_279-0001" type="thumb"/>
+              </bibl>
+            </listBibl>
             <note type="description" xml:lang="de">
               <p>Strasse im Stadtteil <ref target="gfa-places-1843">Westminster</ref>.</p>
               <p>In der Crown Street befand sich das <ref target="gfa-places-1614">Alien Office</ref>, in welchem sich Johann Conrad Fischer bei seinen Ankünften in England jeweils registrieren lassen musste.</p>
@@ -27978,6 +27988,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Bad_S%C3%A4ckingen"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133254"/>
+                <title xml:lang="de">Blick auf Bad Säckingen mit der 1699 gebauten Holzbrücke im Vordergrund (Fotografie von PantaRhei, 2016)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_282-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_282-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_282-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -30762,7 +30780,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-10-09T11:08:38+02:00">teiHeader was automatically produced from the database 2023-10-09T11:08:38+02:00</change>
+      <change when="2023-10-10T15:46:53+02:00">teiHeader was automatically produced from the database 2023-10-10T15:46:53+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
