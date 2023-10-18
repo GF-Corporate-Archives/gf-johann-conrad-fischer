@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <highlights>
     <highlight>
+        <text>“What struck my attention during this cursory inspection was the amount of people offering soda water, ginger beer and bear lard for sale.”</text>
+        <text>London, 10 June 1825</text>
+        <link>1825/13</link>
+        <img>01_gfd_2_69-0001_start_4_3</img>
+    </highlight>
+    <highlight>
         <text>“Once, in our country and elsewhere, innocent witches were burned to death for flying for their own amusement on their broomsticks through the air to Bloksberg on Walpurgis night and, now, the aeronauts soar, unmolested, over land and sea.”</text>
         <text>Sheffield, 6 July 1851</text>
         <link>1851/28</link>
@@ -17,6 +23,12 @@
         <text>Berlin, 1793</text>
         <link>1794/5</link>
         <img>04_gfd_3_12-0001_start_4_3</img>
+    </highlight>
+    <highlight>
+        <text>“As my way home led me straight past Haymarket and it was theatre time, I went in.”</text>
+        <text>London, 11 October 1827</text>
+        <link>1825-1827/17</link>
+        <img>05_gfd_2_218-0001</img>
     </highlight>
     <highlight>
         <text>“The glass palace, with its thousand glories, will disappear again from the Earth, leaving no trace of its existence, yet only to make way, once again, for something new.”</text>
@@ -41,6 +53,18 @@
         <text>London, 23 June 1851</text>
         <link>1851/15</link>
         <img>09_gfd_3_38-0001</img>
+    </highlight>
+    <highlight>
+        <text>“I climbed to the top of the memorial column on Place Vendôme erected by Napoleon in honour of the great army cast from the metal of captured cannons.”</text>
+        <text>Paris, 15 August 1814</text>
+        <link>1814/6</link>
+        <img>10_gfd_3_136-0001</img>
+    </highlight>
+    <highlight>
+        <text>“It was still too early to see the gas lights of Pall-Mall. So, we returned home, where Mr. S. joined us for tea, in the English manner, until ten o’clock in the evening.”</text>
+        <text>London, 25 August 1814</text>
+        <link>1814/14</link>
+        <img>11_gfd_2_119-0001</img>
     </highlight>
     <highlight>
         <text>“The speed of the journey by rail hardly allows for the observation of any objects outside it.”</text>
