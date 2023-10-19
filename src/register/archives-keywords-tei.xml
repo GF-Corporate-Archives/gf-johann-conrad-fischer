@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-10-17 10:48:32 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-10-19 12:05:31 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2023-10-17T10:48:32+02:00">teiHeader was automatically produced from the database 2023-10-17T10:48:32+02:00</change>
+      <change when="2023-10-19T12:05:31+02:00">teiHeader was automatically produced from the database 2023-10-19T12:05:31+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -8403,13 +8403,13 @@
           <label xml:lang="de" type="sort">perkussionsschloss</label>
           <note type="description" xml:lang="de">
             <p>Zündsystem von Feuerwaffen im 19. Jahrhundert, bei dem der Schuss durch den Schlag des gespannten Hahns auf ein Anzündhütchen ausgelöst wird.</p>
-            <p>Das Perkussionsschloss war eine bedeutende Neuerung gegenüber dem bis dahin verwendeten <ref target="gfa-keywords-8874">Steinschloss</ref>. Einer der ersten Entwickler dieses Prinzips war <ref target="https://archives.georgfischer.com/actors/7489">Jean Lepage</ref> in Paris um 1807–1810.</p>
+            <p>Das Perkussionsschloss war eine bedeutende Neuerung gegenüber dem bis dahin verwendeten <ref target="gfa-keywords-8874">Steinschloss</ref>. Einer der ersten Entwickler dieses Prinzips war <ref target="../names/gfa-actors-7489">Jean Lepage</ref> in Paris um 1807–1810.</p>
           </note>
           <label xml:lang="en" type="main">percussion lock</label>
           <label xml:lang="en" type="sort">percussion lock</label>
           <note type="description" xml:lang="en">
             <p>An ignition device for firearms in the 19th century, in which a hammer is released, which then strikes the percussion cap to fire the shot.</p>
-            <p>The percussion lock was an important innovation over the <ref target="gfa-keywords-8874">flintlock</ref> used until then. The percussion lock principle was developed by <ref target="https://archives.georgfischer.com/actors/7489">Jean Lepage</ref> in Paris in 1807–1810.</p>
+            <p>The percussion lock was an important innovation over the <ref target="gfa-keywords-8874">flintlock</ref> used until then. The percussion lock principle was developed by <ref target="../names/gfa-actors-7489">Jean Lepage</ref> in Paris in 1807–1810.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -8492,13 +8492,13 @@
           <label xml:lang="de" type="sort">waterframe</label>
           <note type="description" xml:lang="de">
             <p>Erste Spinnmaschine mit von Menschenkraft unabhängigem Antrieb durch ein Wasserrad. Im Jahre 1769 erfunden und zum Patent angemeldet.</p>
-            <p>Als Erfinder dieser Flügelspinnmaschine gilt <ref target="https://archives.georgfischer.com/actors/7535">Richard Arkwright</ref>. Es ist jedoch bekannt, dass auch andere bei den zahlreichen Erfindungen Arkwrights mitgewirkt haben. So wird als Miterfinder der Waterframe auch John Kay genannt.</p>
+            <p>Als Erfinder dieser Flügelspinnmaschine gilt <ref target="../names/gfa-actors-7535">Richard Arkwright</ref>. Es ist jedoch bekannt, dass auch andere bei den zahlreichen Erfindungen Arkwrights mitgewirkt haben. So wird als Miterfinder der Waterframe auch John Kay genannt.</p>
           </note>
           <label xml:lang="en" type="main">water frame</label>
           <label xml:lang="en" type="sort">water frame</label>
           <note type="description" xml:lang="en">
             <p>The first spinning frame driven by a water wheel rather than human power. It was invented and registered for patent in 1769.</p>
-            <p><ref target="https://archives.georgfischer.com/actors/7535">Richard Arkwright</ref> is considered to be the inventor of the water frame. However, it is known that other people were involved in Arkwright’s many inventions. John Kay is also mentioned as having had a hand in the invention of the water frame.</p>
+            <p><ref target="../names/gfa-actors-7535">Richard Arkwright</ref> is considered to be the inventor of the water frame. However, it is known that other people were involved in Arkwright’s many inventions. John Kay is also mentioned as having had a hand in the invention of the water frame.</p>
           </note>
           <listBibl>
             <bibl>
@@ -8636,12 +8636,12 @@
           <label xml:lang="de" type="main">Grabmal des Pilâtre de Rozier</label>
           <label xml:lang="de" type="sort">grabmal des pilâtre de rozier</label>
           <note type="description" xml:lang="de">
-            <p>Steinernes, 1788 errichtetes Grabmal für <ref target="https://archives.georgfischer.com/actors/7496">Pilâtre de Rozier</ref> und Pierre-Ange Romain am Ort des Absturzes ihres Heissluftballons 1785 in <ref target="../places/gfa-places-1767">Wimille</ref>.</p>
+            <p>Steinernes, 1788 errichtetes Grabmal für <ref target="../names/gfa-actors-7496">Pilâtre de Rozier</ref> und Pierre-Ange Romain am Ort des Absturzes ihres Heissluftballons 1785 in <ref target="../places/gfa-places-1767">Wimille</ref>.</p>
           </note>
           <label xml:lang="en" type="main">gravestone of Pilâtre de Rozier</label>
           <label xml:lang="en" type="sort">gravestone of pilâtre de rozier</label>
           <note type="description" xml:lang="en">
-            <p>A tombstone erected in 1788 for <ref target="https://archives.georgfischer.com/actors/7496">Pilâtre de Rozier</ref> and Pierre-Ange Romain where their hot-air balloon crashed in <ref target="../places/gfa-places-1767">Wimille</ref> in 1785.</p>
+            <p>A tombstone erected in 1788 for <ref target="../names/gfa-actors-7496">Pilâtre de Rozier</ref> and Pierre-Ange Romain where their hot-air balloon crashed in <ref target="../places/gfa-places-1767">Wimille</ref> in 1785.</p>
           </note>
           <listBibl>
             <bibl type="image">
@@ -8660,13 +8660,13 @@
           <label xml:lang="de" type="sort">zapfanlage</label>
           <note type="description" xml:lang="de">
             <p>Handbetriebene Pumpe in englischen Pubs, um Bier vom Fass zu zapfen.</p>
-            <p>Das in Grossbritannien bis heute gängige Modell geht auf die Erfindung von 1797 von <ref target="https://archives.georgfischer.com/actors/7517">Joseph Bramah</ref> zurück. Johann Conrad Fischer wird diesem Modell auf seiner Reise 1814 wohl begegnet sein. Auch Getränkepumpe genannt.</p>
+            <p>Das in Grossbritannien bis heute gängige Modell geht auf die Erfindung von 1797 von <ref target="../names/gfa-actors-7517">Joseph Bramah</ref> zurück. Johann Conrad Fischer wird diesem Modell auf seiner Reise 1814 wohl begegnet sein. Auch Getränkepumpe genannt.</p>
           </note>
           <label xml:lang="en" type="main">beer engine</label>
           <label xml:lang="en" type="sort">beer engine</label>
           <note type="description" xml:lang="en">
             <p>A hand-operated pump used in British pubs to tap beer.</p>
-            <p>The model still widely in use in Great Britain today is based on an invention by <ref target="https://archives.georgfischer.com/actors/7517">Joseph Bramah</ref> in 1797. Johann Conrad Fischer probably saw such a device on his journey in 1814. He called the engine a ‘beer pump’.</p>
+            <p>The model still widely in use in Great Britain today is based on an invention by <ref target="../names/gfa-actors-7517">Joseph Bramah</ref> in 1797. Johann Conrad Fischer probably saw such a device on his journey in 1814. He called the engine a ‘beer pump’.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -8933,14 +8933,14 @@
           <label xml:lang="de" type="sort">gasbeleuchtung</label>
           <note type="description" xml:lang="de">
             <p>Methode zur Lichterzeugung durch die Verbrennung von <ref target="gfa-keywords-8635">Stadtgas</ref> beziehungsweise Leuchtgas.</p>
-            <p>Die Pioniere der Anwendung von Gaslicht in England waren <ref target="https://archives.georgfischer.com/actors/7574">William Murdoch</ref> für Fabriken und Friedrich Albrecht Winzer für die Strassenbeleuchtung (<ref target="../places/gfa-places-1672">Pall Mall</ref>, 1807/1808). Das Gas wurde durch <ref target="gfa-keywords-8549">Kohlevergasung</ref> hergestellt.</p>
+            <p>Die Pioniere der Anwendung von Gaslicht in England waren <ref target="../names/gfa-actors-7574">William Murdoch</ref> für Fabriken und Friedrich Albrecht Winzer für die Strassenbeleuchtung (<ref target="../places/gfa-places-1672">Pall Mall</ref>, 1807/1808). Das Gas wurde durch <ref target="gfa-keywords-8549">Kohlevergasung</ref> hergestellt.</p>
             <p>Auch Gaslicht oder Ölgasbeleuchtung genannt.</p>
           </note>
           <label xml:lang="en" type="main">gas lighting</label>
           <label xml:lang="en" type="sort">gas lighting</label>
           <note type="description" xml:lang="en">
             <p>A method of producing light by the combustion of <ref target="gfa-keywords-8635">town gas</ref> or coal gas.</p>
-            <p>The pioneers in the use of gas lighting in England were <ref target="https://archives.georgfischer.com/actors/7574">William Murdoch</ref> for factories and Friedrich Albrecht Winzer for street lighting (<ref target="../places/gfa-places-1672">Pall Mall</ref>, 1807-08). The gas was produced by <ref target="gfa-keywords-8549">coal gasification</ref>.</p>
+            <p>The pioneers in the use of gas lighting in England were <ref target="../names/gfa-actors-7574">William Murdoch</ref> for factories and Friedrich Albrecht Winzer for street lighting (<ref target="../places/gfa-places-1672">Pall Mall</ref>, 1807-08). The gas was produced by <ref target="gfa-keywords-8549">coal gasification</ref>.</p>
             <p>Also called gas lamp or oil gas lighting.</p>
           </note>
           <note type="sources">
@@ -9269,14 +9269,14 @@
           <label xml:lang="de" type="sort">kopiermaschine</label>
           <note type="description" xml:lang="de">
             <p>Maschine zur mechanischen Reproduktion von Schriftgut.</p>
-            <p><ref target="https://archives.georgfischer.com/actors/7523">James Watt</ref> patentierte um 1780 eine Kopierwalze zur Reproduktion von Schriftgut. Dabei wurde ein mit besonderer Tinte beschriebenes Blatt mit einem weiteren Blatt bedeckt und durch zwei Walzen getrieben.</p>
+            <p><ref target="../names/gfa-actors-7523">James Watt</ref> patentierte um 1780 eine Kopierwalze zur Reproduktion von Schriftgut. Dabei wurde ein mit besonderer Tinte beschriebenes Blatt mit einem weiteren Blatt bedeckt und durch zwei Walzen getrieben.</p>
             <p>Auch Copirmaschine genannt.</p>
           </note>
           <label xml:lang="en" type="main">copying machine</label>
           <label xml:lang="en" type="sort">copying machine</label>
           <note type="description" xml:lang="en">
             <p>A machine for the mechanical reproduction of written documents.</p>
-            <p><ref target="https://archives.georgfischer.com/actors/7523">James Watt</ref> patented a document copier in 1780 to reproduce written documents. The copier worked by covering a sheet that used a special ink with a second sheet and putting them through two rollers.</p>
+            <p><ref target="../names/gfa-actors-7523">James Watt</ref> patented a document copier in 1780 to reproduce written documents. The copier worked by covering a sheet that used a special ink with a second sheet and putting them through two rollers.</p>
             <p>Known as a copier or copying machine.</p>
           </note>
           <note type="sources">
@@ -9555,13 +9555,13 @@
           <label xml:lang="de" type="sort">refining</label>
           <note type="description" xml:lang="de">
             <p>Prozess in der Eisenverarbeitung, in welchem mittels eines offenen Ofens (<ref target="gfa-keywords-9400">Refining Furnace</ref>) das, aus dem Hochofen kommende, <ref target="gfa-keywords-9011">Roheisen</ref> (Pig Iron) geschmolzen wird, um das Silicium durch Schlacken aus dem Eisen zu trennen.</p>
-            <p>Es handelt sich im Grunde um eine Unterart des <ref target="gfa-keywords-8537">Frischens</ref>. Der Prozess, den Johann Conrad Fischer in den Gibbon <ref target="https://archives.georgfischer.com/actors/7889">Ironworks</ref> beobachtete, ist eigentlich ein vorbereitender Schritt dazu.</p>
+            <p>Es handelt sich im Grunde um eine Unterart des <ref target="gfa-keywords-8537">Frischens</ref>. Der Prozess, den Johann Conrad Fischer in den Gibbon <ref target="../names/gfa-actors-7889">Ironworks</ref> beobachtete, ist eigentlich ein vorbereitender Schritt dazu.</p>
           </note>
           <label xml:lang="en" type="main">refining</label>
           <label xml:lang="en" type="sort">refining</label>
           <note type="description" xml:lang="en">
             <p>A process in iron-working in which <ref target="gfa-keywords-9011">pig iron</ref> reduced in a blast furnace is smelted in a <ref target="gfa-keywords-9400">refining furnace</ref> in order to separate the silicon slag from the iron.</p>
-            <p>Refining is basically a form of <ref target="gfa-keywords-8537">fining</ref>. The process which Johann Conrad Fischer observed in the Gibbon <ref target="https://archives.georgfischer.com/actors/7889">ironworks</ref> is actually a preparatory step.</p>
+            <p>Refining is basically a form of <ref target="gfa-keywords-8537">fining</ref>. The process which Johann Conrad Fischer observed in the Gibbon <ref target="../names/gfa-actors-7889">ironworks</ref> is actually a preparatory step.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -9694,14 +9694,14 @@
           <label xml:lang="de" type="sort">platin</label>
           <note type="description" xml:lang="de">
             <p>Chemisches Element (Pt) und Metall, dessen Erforschung und Verarbeitung in Europa erst im 18. Jahrhundert begann.</p>
-            <p>Zu Johann Conrad Fischers Zeiten war Platin ein vergleichsweise junges und unbekanntes <ref target="gfa-keywords-4347">Metall</ref>. Antonio de Ulloa war ihm auf seinen Reisen in Südamerika begegnet und veröffentlichte 1748 einen Bericht darüber. Einer breiten Gelehrtenschaft wurde das Metall bekannt durch einen Bericht von William Brownrigg in den Transactions of the <ref target="https://archives.georgfischer.com/actors/7699">Royal Society</ref>. Wegen der hohen Schmelztemperatur von Platin begann seine gewerbliche Verwertung erst gegen Ende des 18. Jahrhunderts.</p>
+            <p>Zu Johann Conrad Fischers Zeiten war Platin ein vergleichsweise junges und unbekanntes <ref target="gfa-keywords-4347">Metall</ref>. Antonio de Ulloa war ihm auf seinen Reisen in Südamerika begegnet und veröffentlichte 1748 einen Bericht darüber. Einer breiten Gelehrtenschaft wurde das Metall bekannt durch einen Bericht von William Brownrigg in den Transactions of the <ref target="../names/gfa-actors-7699">Royal Society</ref>. Wegen der hohen Schmelztemperatur von Platin begann seine gewerbliche Verwertung erst gegen Ende des 18. Jahrhunderts.</p>
             <p>Auch Platina genannt.</p>
           </note>
           <label xml:lang="en" type="main">platinum</label>
           <label xml:lang="en" type="sort">platinum</label>
           <note type="description" xml:lang="en">
             <p>A chemical element (Pt) and metal, which began to be studied and worked in Europe only in the 18th century.</p>
-            <p>At the time of Johann Conrad Fischer, platinum was a relatively new and uninvestigated <ref target="gfa-keywords-4347">metal</ref>. Antonio de Ulloa had encountered it on his travels in South America and in 1748 pulished a report on the metal. It became known to a wider scholarly public through a report by William Brownrigg in the Transactions of the <ref target="https://archives.georgfischer.com/actors/7699">Royal Society</ref>. Owing to its high melting point, the commercial exploitation of platinum only began towards the end of the 18th century.</p>
+            <p>At the time of Johann Conrad Fischer, platinum was a relatively new and uninvestigated <ref target="gfa-keywords-4347">metal</ref>. Antonio de Ulloa had encountered it on his travels in South America and in 1748 pulished a report on the metal. It became known to a wider scholarly public through a report by William Brownrigg in the Transactions of the <ref target="../names/gfa-actors-7699">Royal Society</ref>. Owing to its high melting point, the commercial exploitation of platinum only began towards the end of the 18th century.</p>
           </note>
           <note type="sources">
             <listBibl>

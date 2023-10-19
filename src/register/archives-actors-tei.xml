@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-10-17 10:48:17 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-10-19 12:05:17 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -11082,6 +11082,12 @@
             <persName type="full" xml:lang="en">Boone</persName>
             <persName type="main" xml:lang="en">Boone</persName>
             <persName type="sort" xml:lang="en">boone</persName>
+            <note type="description" xml:lang="de">
+              <p>Ein Bekannter Johann Conrad Fischers und <ref target="gfa-actors-7499">Joseph Plantas</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>An acquaintance of Johann Conrad Fischer and <ref target="gfa-actors-7499">Joseph Planta</ref>.</p>
+            </note>
           </person>
           <person xml:id="gfa-actors-7685">
             <persName type="full" xml:lang="de">Müller, Johann Georg (1759–1819)</persName>
@@ -23343,7 +23349,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-10-17T10:48:24+02:00">teiHeader was automatically produced from the database 2023-10-17T10:48:24+02:00</change>
+      <change when="2023-10-19T12:05:23+02:00">teiHeader was automatically produced from the database 2023-10-19T12:05:23+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
