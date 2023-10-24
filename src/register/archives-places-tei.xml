@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-10-19 12:05:23 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-10-24 14:52:50 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1128,6 +1128,14 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/England"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133257"/>
+                <title xml:lang="de">Rustikal-romantischer Blick auf die Industrielandschaft Manchesters (Gemälde von William Wyld, 1852)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_283-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_283-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_283-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -15648,6 +15656,7 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Kuriositätenkabinett von Sir Ashton Lever of Alkrington; 1775 eröffnet und 1806 geschlossen.</p>
+              <p>Johann Conrad Fischer besuchte das Museum während seines ersten Aufenthaltes in London 1794/1795.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A cabinet of curiosities belonging to Sir Ashton Lever of Alkrington; opened in 1775 and closed in 1806.</p>
@@ -32000,6 +32009,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/City_of_London"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133258"/>
+                <title xml:lang="de">Queen Victoria besucht die City of London (handkolorierte Litographie von William Lake, 1837)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_284-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_284-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_284-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Historischer Kern von London und separater Distrikt.</p>
@@ -32120,7 +32137,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-10-19T12:05:31+02:00">teiHeader was automatically produced from the database 2023-10-19T12:05:31+02:00</change>
+      <change when="2023-10-24T14:52:58+02:00">teiHeader was automatically produced from the database 2023-10-24T14:52:58+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
