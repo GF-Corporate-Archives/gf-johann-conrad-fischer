@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-11-06 10:15:26 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-11-22 09:15:32 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -710,6 +710,14 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Belgium"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133981"/>
+                <title xml:lang="de">Antwerpens Stadtburg Steen bei Tagesanbruch (Gemälde von Peter Paul Rubens, um 1636)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_285-0002" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_285-0002" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_285-0002" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -1902,6 +1910,14 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Europe"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133982"/>
+                <title xml:lang="de">Karte von Europa (handkolorierter Kupferstich von John Wallis, um 1815–1830)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_286-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_286-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_286-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -42058,6 +42074,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Alien_Office"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134021"/>
+                <title xml:lang="de">Satirische Darstellung der Deportation des Barons Ferdinand de Geramb (handkolorierter Kupferstich von Charles Williams, 1812)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_287-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_287-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_287-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -42159,11 +42183,11 @@
               </bibl>
               <bibl type="image">
                 <ptr type="anton-image" target="https://archives.georgfischer.com/objects/129185"/>
-                <title xml:lang="de">The Strand (Stereofotografie von H. C. White Co., um 1901)</title>
+                <title xml:lang="de">The Strand von der Ecke der Villiers Street (Aquarell von George Scharf, 1824)</title>
                 <title xml:lang="en">The Strand (stereophotograph by H. C. White Co., c. 1901)</title>
-                <ptr target="https://archives.georgfischer.com/media/gfd_2_95-0001" type="original"/>
-                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_95-0001" type="web"/>
-                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_95-0001" type="thumb"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_95-0002" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_95-0002" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_95-0002" type="thumb"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/6640323"/>
@@ -51808,6 +51832,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Apothecaries%27_Hall,_London"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134023"/>
+                <title xml:lang="de">Apothecaries Hall von der Pilgrim Street gesehen (handkolorierter Kupferstich von John James Hinchliff, um 1850)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_289-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_289-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_289-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -53266,6 +53298,14 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Anglesey"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134022"/>
+                <title xml:lang="de">Karte von Anglesey und Caernarfon (handgezeichnet von Christopher Saxton, 1578)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_288-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_288-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_288-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -63757,6 +63797,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Belgian_railway_line_37"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134024"/>
+                <title xml:lang="de">Gedenkmünze zur Eröffnung der Eisenbahnstrecke Belgien-Rheinland am 15. Oktober 1843</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_290-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_290-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_290-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Am 15. Oktober 1843 eröffnete, 54 Kilometer lange Bahnstrecke zwischen <ref target="https://archives.georgfischer.com/places/1311">Liège</ref> und <ref target="https://archives.georgfischer.com/places/1">Aachen</ref>.</p>
@@ -65059,6 +65107,31 @@
             </location>
             <idno type="gfa-places-id">2238</idno>
           </place>
+          <place type="A" xml:id="gfa-places-2239">
+            <placeName type="main" xml:lang="de">Red Deer</placeName>
+            <placeName type="full" xml:lang="de">Red Deer</placeName>
+            <placeName type="sort" xml:lang="de">red deer</placeName>
+            <location>
+              <settlement xml:lang="de">Red Deer</settlement>
+              <country xml:lang="de">Kanada</country>
+              <country xml:lang="en">Canada</country>
+            </location>
+            <idno type="gfa-places-id">2239</idno>
+          </place>
+          <place type="H" xml:id="gfa-places-2240">
+            <placeName type="main" xml:lang="de">Kessel im Mühlental</placeName>
+            <placeName type="full" xml:lang="de">Kessel im Mühlental / Schaffhausen</placeName>
+            <placeName type="sort" xml:lang="de">kessel im muehlental</placeName>
+            <location>
+              <settlement xml:lang="de">Schaffhausen</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="gfa-places-id">2240</idno>
+            <note type="description" xml:lang="de">
+              <p>Von einem heute nicht mehr existierendem Bach erzeugter Tobel mit Kessel im <ref target="https://archives.georgfischer.com/places/97">Mühlental</ref>.</p>
+            </note>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -65106,7 +65179,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-11-06T10:15:35+01:00">teiHeader was automatically produced from the database 2023-11-06T10:15:35+01:00</change>
+      <change when="2023-11-22T09:15:39+01:00">teiHeader was automatically produced from the database 2023-11-22T09:15:39+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
