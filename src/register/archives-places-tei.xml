@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-11-22 09:15:32 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-01 17:21:45 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -608,6 +608,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Bedford"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134080"/>
+                <title xml:lang="de">Bedford mit Blick aufs Krankenhaus (Lithografie nach J. Sunman Austin, 1850)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_291-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_291-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_291-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -1074,6 +1082,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Lake_Constance"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134087"/>
+                <title xml:lang="de">Gewitterstimmung am Bodensee bei Arbon (kolorierte Aquatinta von Johann Ludwig Bleuler, 1836)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_293-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_293-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_293-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -1127,6 +1143,14 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Brazil"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134088"/>
+                <title xml:lang="de">Ausrufung der Unabhängigkeit Brasiliens durch Peter I. am 7. September 1822 (Gemälde von Pedro Américo, 1888)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_294-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_294-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_294-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -65179,7 +65203,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-11-22T09:15:39+01:00">teiHeader was automatically produced from the database 2023-11-22T09:15:39+01:00</change>
+      <change when="2023-12-01T17:21:53+01:00">teiHeader was automatically produced from the database 2023-12-01T17:21:53+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

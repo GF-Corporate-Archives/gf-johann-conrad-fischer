@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-11-22 09:15:40 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-01 17:21:54 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2023-11-22T09:15:40+01:00">teiHeader was automatically produced from the database 2023-11-22T09:15:40+01:00</change>
+      <change when="2023-12-01T17:21:54+01:00">teiHeader was automatically produced from the database 2023-12-01T17:21:54+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -2039,6 +2039,8 @@
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>Schlacke. In: Brockhaus' Kleines Konversations-Lexikon, fünfte Auflage, Band 2. Leipzig 1911, S. 635. (<ref target="http://www.zeno.org/nid/20001538330">Zeno.org</ref>, 1.12.2023).</bibl>
+              <bibl>Schlacke. In: Pierer's Universal-Lexikon, Band 15. Altenburg 1862, S. 204. (<ref target="http://www.zeno.org/nid/2001084807X">Zeno.org</ref>, 1.12.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -2437,6 +2439,7 @@
           </note>
           <note type="sources">
             <listBibl>
+              <bibl>Chemie. In: Brockhaus' Kleines Konversations-Lexikon, fünfte Auflage, Band 1. Leipzig 1911, S. 329f. (<ref target="http://www.zeno.org/nid/20001008862">Zeno.org</ref>, 1.12.2023).</bibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
             </listBibl>
           </note>
@@ -2610,9 +2613,29 @@
           </note>
           <note type="sources">
             <listBibl>
-              <bibl>Brockhaus’ Kleines Konversations-Lexikon, 5. Auflage, Band 1. Leipzig 1911, S. 52. (<ref target="http://www.zeno.org/nid/2000090001X">Zeno.org</ref>, Stand 3.5.2023).</bibl>
+              <bibl>Aluminium. In: Brockhaus’ Kleines Konversations-Lexikon, 5. Auflage, Band 1. Leipzig 1911, S. 52. (<ref target="http://www.zeno.org/nid/2000090001X">Zeno.org</ref>, Stand 3.5.2023).</bibl>
             </listBibl>
           </note>
+          <listBibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q663"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/science/aluminum"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85003956"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4001573-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Aluminium"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Aluminium"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="gfa-keywords-657">
           <label xml:lang="de" type="main">Redaktion</label>
@@ -2942,7 +2965,7 @@
           <label xml:lang="de" type="main">Brand/Feuer</label>
           <label xml:lang="de" type="sort">brand/feuer</label>
           <note type="description" xml:lang="de">
-            <p>Sichtbare Erscheinung einer Verbrennung bei der Wärme und Licht abgegeben wird.</p>
+            <p>Sichtbare Erscheinung einer Verbrennung, bei der Wärme und Licht abgegeben wird.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">fire</label>
@@ -3693,6 +3716,11 @@
           <note type="description" xml:lang="en">
             <p>Machines for transferring fluids.</p>
           </note>
+          <note type="sources">
+            <listBibl>
+              <bibl>Pumpe. In: Pierer's Universal-Lexikon, Band 13. Altenburg 1861, S. 692f. (<ref target="http://www.zeno.org/nid/20010696989">Zeno.org</ref>, 1.12.2023).</bibl>
+            </listBibl>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Pumpe"/>
@@ -3948,10 +3976,10 @@
         </item>
         <item xml:id="gfa-keywords-2762">
           <objectType xml:lang="de">Sammlung, Kunstwerk</objectType>
-          <label xml:lang="de" type="main">Porträt</label>
-          <label xml:lang="de" type="sort">portraet</label>
+          <label xml:lang="de" type="main">Portrait</label>
+          <label xml:lang="de" type="sort">portrait</label>
           <note type="description" xml:lang="de">
-            <p>Auch Portrait genannt.</p>
+            <p>Auch Porträt genannt.</p>
           </note>
           <objectType xml:lang="en">Collection, Artwork</objectType>
           <label xml:lang="en" type="main">portrait</label>
@@ -3995,7 +4023,7 @@
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-              <bibl>Magnetismus. In: Brockhaus' Kleines Konversations-Lexikon, fünfte Auflage, Band 2. Leipzig 1911., S. 107. (<ref target="http://www.zeno.org/nid/20001324969">Zeno.org</ref>, Stand 20.10.2023).</bibl>
+              <bibl>Magnetismus. In: Brockhaus’ Kleines Konversations-Lexikon, fünfte Auflage, Band 2. Leipzig 1911, S. 107. (<ref target="http://www.zeno.org/nid/20001324969">Zeno.org</ref>, Stand 20.10.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -4953,11 +4981,14 @@
           <label xml:lang="de" type="main">Maschinenhaus</label>
           <label xml:lang="de" type="sort">maschinenhaus</label>
           <note type="description" xml:lang="de">
-            <p>Auch Engine House genant.</p>
+            <p>Auch Engine House genannt.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">powerhouse</label>
           <label xml:lang="en" type="sort">powerhouse</label>
+          <note type="description" xml:lang="en">
+            <p>Also called an engine house.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Maschinenhaus"/>
@@ -5908,8 +5939,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-3357">
+          <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Fremdarbeiter</label>
           <label xml:lang="de" type="sort">fremdarbeiter</label>
+          <note type="description" xml:lang="de">
+            <p>Auch Gastarbeiter oder Migranten genannt.</p>
+          </note>
+          <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">migrant worker</label>
           <label xml:lang="en" type="sort">migrant worker</label>
         </item>
@@ -6476,14 +6512,14 @@
           <label xml:lang="de" type="main">Generator</label>
           <label xml:lang="de" type="sort">generator</label>
           <note type="description" xml:lang="de">
-            <p>Apparat zur Erzeugung von Dampf; später auch von Gas oder elektrischen Stroms.</p>
+            <p>Apparat zur Erzeugung von Gas, Dampf oder elektrischem Strom.</p>
             <p>Spezielle Generatoren sind beispielsweise <ref target="https://archives.georgfischer.com/keywords/9061">Gasapparate</ref>, <ref target="https://archives.georgfischer.com/keywords/8788">Eisbildner</ref> und elektrische Generatoren.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">generator</label>
           <label xml:lang="en" type="sort">generator</label>
           <note type="description" xml:lang="en">
-            <p>Apparatus for generating steam; later also gas or electricity.</p>
+            <p>Apparatus for generating power from steam and gas, or in the form of electrical currents.</p>
             <p>Special generators are, for example, <ref target="https://archives.georgfischer.com/keywords/9061">gas apparatus</ref>, <ref target="https://archives.georgfischer.com/keywords/8788">ice formers</ref> and electric generators.</p>
           </note>
           <note type="sources">Quelle: Generator. In: Meyers Großes Konversations-Lexikon, Band 7. Leipzig 1907, S. 558. ([Zeno.org]( http://www.zeno.org/nid/20006668836), Stand 20.10.2023).</note>
@@ -9336,25 +9372,6 @@
           <label xml:lang="en" type="main">book acquisition</label>
           <label xml:lang="en" type="sort">book acquisition</label>
         </item>
-        <item xml:id="gfa-keywords-7828">
-          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
-          <label xml:lang="de" type="main">Eisenhütten</label>
-          <label xml:lang="de" type="sort">eisenhuetten</label>
-          <note type="description" xml:lang="de">
-            <p>Gewerbliche Anlage für die Gewinnung von <ref target="https://archives.georgfischer.com/keywords/8672">Eisen</ref> aus <ref target="https://archives.georgfischer.com/keywords/316">Eisenerz</ref> in einem <ref target="https://archives.georgfischer.com/keywords/288">Hochofen</ref>.</p>
-          </note>
-          <objectType xml:lang="en">Method, Process, Technology</objectType>
-          <label xml:lang="en" type="main">ironworks</label>
-          <label xml:lang="en" type="sort">ironworks</label>
-          <note type="description" xml:lang="en">
-            <p>A commercial facility in which <ref target="https://archives.georgfischer.com/keywords/8672">iron</ref> is extracted from <ref target="https://archives.georgfischer.com/keywords/316">iron ore</ref> in a <ref target="https://archives.georgfischer.com/keywords/288">blast furnace</ref>.</p>
-          </note>
-          <note type="sources">
-            <listBibl>
-              <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-            </listBibl>
-          </note>
-        </item>
         <item xml:id="gfa-keywords-7843">
           <label xml:lang="de" type="main">Nachlass</label>
           <label xml:lang="de" type="sort">nachlass</label>
@@ -10299,7 +10316,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134018"/>
-              <title xml:lang="de">Titelblatt von Norbergs Inventar von Polhems mechanischem Alphabet, 1779</title>
+              <title xml:lang="de">Titelblatt des Inventars von Polhems mechanischem Alphabet, publiziert von Jonas Norberg im Jahr 1779</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_287-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_287-0001" type="web"/>
@@ -10583,6 +10600,11 @@
           <label xml:lang="en" type="sort">geometrical foot</label>
           <note type="description" xml:lang="en">
             <p>The geometric foot measured five feet or about 1.6 meters.</p>
+          </note>
+          <note type="sources">
+            <listBibl>
+              <bibl>Schritt. In: Pierer's Universal-Lexikon, Band 15. Altenburg 1862, S. 436. (<ref target="http://www.zeno.org/nid/20010870598">Zeno.org</ref>, 1.12.2023).</bibl>
+            </listBibl>
           </note>
           <listBibl>
             <bibl>
@@ -11430,7 +11452,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133967"/>
-              <title xml:lang="de">Titelblatt von «Vier und zwanzig Bücher allgemeiner Geschichten besonders der europäischen Menschheit» von Johannes von Müller</title>
+              <title xml:lang="de">Titelblatt von «Vier und zwanzig Bücher allgemeiner Geschichten besonders der europäischen Menschheit» von Johannes von Müller, 1831</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_268-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_268-0001" type="web"/>
@@ -12762,7 +12784,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133969"/>
-              <title xml:lang="de">Frontseite der «Morning Chronicle» vom 26.06.1851</title>
+              <title xml:lang="de">Frontseite der Londoner Zeitung «The Morning Chronicle» vom 26. Juni 1851</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_269-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_269-0001" type="web"/>
@@ -13649,7 +13671,7 @@
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133973"/>
-              <title xml:lang="de">Titelblatt von «Theophron» von Joachim Heinrich Campe,1828</title>
+              <title xml:lang="de">Titelblatt von «Theophron oder der erfahrne Rathgeber für die unerfahrne Jugend» von Joachim Heinrich Campe, 1828</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_270-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_270-0001" type="web"/>
@@ -13699,7 +13721,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134068"/>
-              <title xml:lang="de">Erste Seite des Hohelied Salomons aus der King-James-Bibel, 1611</title>
+              <title xml:lang="de">Erste Seite des Hohelied Salomos aus der King-James-Bibel, 1611</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_299-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_299-0001" type="web"/>
@@ -14128,7 +14150,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134069"/>
-              <title xml:lang="de">Titelblatt einer Auswahlausgabe aus Lord Chesterfields Briefen an seinen Sohn, ca. 1897</title>
+              <title xml:lang="de">Titelblatt einer Ausgabe von ausgewählten Briefen Lord Chesterfields an seinen Sohn, ca. 1897</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_300-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_300-0001" type="web"/>
@@ -14774,16 +14796,24 @@
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Shakespeare%27s_Jest_Book"/>
             </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134077"/>
+              <title xml:lang="de">Titelblatt von «Shakespeare’s Jest Book», 1814</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_301-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_301-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_301-0001" type="thumb"/>
+            </bibl>
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-8529">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
           <label xml:lang="de" type="main">Spiegel</label>
           <label xml:lang="de" type="sort">spiegel</label>
           <note type="description" xml:lang="de">
             <p>Flacher Körper mit glatter Oberfläche zur Erzeugung von Spiegelbildern. Aus Metall oder Glas.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">mirror</label>
           <label xml:lang="en" type="sort">mirror</label>
           <note type="description" xml:lang="en">
@@ -18195,9 +18225,9 @@
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133994"/>
               <title xml:lang="de">Ansicht einer Gussform für ein Geschützrohr aus Darteins «Traité pour la fabrication des bouches à feu», 1805</title>
               <title xml:lang="en"/>
-              <ptr target="https://archives.georgfischer.com/media/gfd_3_274-0002" type="original"/>
-              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_274-0002" type="web"/>
-              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_274-0002" type="thumb"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_274-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_274-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_274-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -19030,6 +19060,14 @@
             </bibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/French_campaign_in_Egypt_and_Syria"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134110"/>
+              <title xml:lang="de">Bonaparte vor der Sphinx (Gemälde von Jean-Léon Gérôme, 1886)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_307-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_307-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_307-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -21341,7 +21379,7 @@
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-              <bibl>Pyramide. In: Brockhaus Bilder-Conversations-Lexikon, Band 3. Leipzig 1839., S. 599f. (<ref target="http://www.zeno.org/nid/2000085672X">Zeno.org</ref>, Stand 23.10.2023).</bibl>
+              <bibl>Pyramide. In: Brockhaus Bilder-Conversations-Lexikon, Band 3. Leipzig 1839, S. 599f. (<ref target="http://www.zeno.org/nid/2000085672X">Zeno.org</ref>, Stand 23.10.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -22596,7 +22634,7 @@
           <label xml:lang="en" type="sort">ball furnace</label>
           <note type="description" xml:lang="en">
             <p>Furnace used for <ref target="https://archives.georgfischer.com/keywords/8537">refining</ref> iron; similar in construction to a <ref target="https://archives.georgfischer.com/keywords/9387">puddling furnace</ref>, but smaller.</p>
-            <p>This furnace most probably got its name thanks to a process for refining invented by Henry Cort (<ref target="https://archives.georgfischer.com/keywords/8538">puddling</ref>), in which the pig iron was stirred in an oxidised atmosphere until it had a pasty consistency and was formed into balls before being <ref target="https://archives.georgfischer.com/keywords/3621">rolled</ref>.</p>
+            <p>This furnace most probably got its name thanks to a process for refining the invention of which is attributed to Henry Cort (<ref target="https://archives.georgfischer.com/keywords/8538">puddling</ref>), and in which the pig iron is stirred in an oxidised atmosphere until it has a pasty consistency and is formed into balls before being <ref target="https://archives.georgfischer.com/keywords/3621">rolled</ref>.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -22760,6 +22798,14 @@
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Bear%27s_grease"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134082"/>
+              <title xml:lang="de">Diverse Etiketten von Apothekengläsern mit Bärenfett, um 1800–1850</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_304-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_304-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_304-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -23307,7 +23353,7 @@
           <label xml:lang="en" type="sort">bloomery</label>
           <note type="description" xml:lang="en">
             <p>Shaft furnace for the obtaining of <ref target="https://archives.georgfischer.com/keywords/8672">iron</ref> from <ref target="https://archives.georgfischer.com/keywords/316">iron ore</ref>. Earliest form of a <ref target="https://archives.georgfischer.com/keywords/2908">smelting furnace</ref>.</p>
-            <p>In a bloomery, a porous mass of iron and <ref target="https://archives.georgfischer.com/keywords/336">slag</ref> is produced, which is called bloom iron. The mixture of slag and iron in the bloom, called sponge iron, is usually solidified and further processed into <ref target="https://archives.georgfischer.com/keywords/9012">wrought iron</ref>. <ref target="https://archives.georgfischer.com/keywords/288">Blast furnaces</ref>, in which <ref target="https://archives.georgfischer.com/keywords/9011">pig iron</ref> is produced, have largely replaced the bloomeries.</p>
+            <p>In bloomery furnaces, a porous mass of iron and <ref target="https://archives.georgfischer.com/keywords/336">slag</ref> is produced, which is called bloom iron. The mixture of slag and iron in the bloom, called sponge iron, is usually solidified and further processed into <ref target="https://archives.georgfischer.com/keywords/9012">wrought iron</ref>. <ref target="https://archives.georgfischer.com/keywords/288">Blast furnaces</ref>, in which <ref target="https://archives.georgfischer.com/keywords/9011">pig iron</ref> is produced, have largely replaced the bloomeries.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -24940,12 +24986,14 @@
           <label xml:lang="de" type="sort">cicerone</label>
           <note type="description" xml:lang="de">
             <p>Bezeichnung eines Fremdenführers, der den Besuchern Informationen über Sehenswürdigkeiten gibt.</p>
+            <p>Die Bezeichnung wurde vermutlich von dem römischen Politiker und Philosophen <ref target="https://archives.georgfischer.com/actors/7576">Marcus Tullius Cicero</ref> abgeleitet, der durch seine Eloquenz berühmt geworden ist.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">cicerone</label>
           <label xml:lang="en" type="sort">cicerone</label>
           <note type="description" xml:lang="en">
             <p>A term designating a tourist guide who provides visitors with information about the sights.</p>
+            <p>The term was probably derived from the Roman politician and philosopher <ref target="https://archives.georgfischer.com/actors/7576">Marcus Tullius Cicero</ref>, who became famous for his eloquence.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -24961,6 +25009,14 @@
             </bibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Cicerone"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134083"/>
+              <title xml:lang="de">Cicero, barfuss und in Toga gekleidet, spricht zur Menschenmenge (Radierung mit Kupferstich, um 1692–1727)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_305-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_305-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_305-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -25294,6 +25350,14 @@
             </bibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Daguerreotype"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134113"/>
+              <title xml:lang="de">Boulevard du Temple (Daguerreotypie von Louis Daguerre, 1838)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_310-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_310-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_310-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -26446,13 +26510,18 @@
           <label xml:lang="de" type="sort">eisenwerk</label>
           <note type="description" xml:lang="de">
             <p>Standort und Anlagen zur Erzeugung von <ref target="https://archives.georgfischer.com/keywords/9011">Roheisen</ref> und <ref target="https://archives.georgfischer.com/keywords/613">Stahl</ref> aus <ref target="https://archives.georgfischer.com/keywords/316">Eisenerz</ref> und <ref target="https://archives.georgfischer.com/keywords/8551">Koks</ref>.</p>
-            <p>Auch Eisenfabrik genannt.</p>
+            <p>Auch Eisenfabrik oder Eisenhütte genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">iron works</label>
           <label xml:lang="en" type="sort">iron works</label>
           <note type="description" xml:lang="en">
             <p>A facility for the production of <ref target="https://archives.georgfischer.com/keywords/9011">pig iron</ref> and <ref target="https://archives.georgfischer.com/keywords/613">steel</ref> from <ref target="https://archives.georgfischer.com/keywords/316">iron ore</ref> and <ref target="https://archives.georgfischer.com/keywords/8551">coke</ref>.</p>
+          </note>
+          <note type="sources">
+            <listBibl>
+              <bibl>Eisenhütte. In: Lueger, Otto: Lexikon der gesamten Technik und ihrer Hilfswissenschaften, Bd. 3 Stuttgart, Leipzig 1906, S. 366. (<ref target="http://www.zeno.org/nid/20006006639">Zeno.org</ref>, 1.12.2023).</bibl>
+            </listBibl>
           </note>
           <listBibl>
             <bibl>
@@ -26581,11 +26650,12 @@
         </item>
         <item xml:id="gfa-keywords-9012">
           <objectType xml:lang="de">anderes/diverses</objectType>
-          <label xml:lang="de" type="main">Schmiedeisen</label>
-          <label xml:lang="de" type="sort">schmiedeisen</label>
+          <label xml:lang="de" type="main">Schmiedeeisen</label>
+          <label xml:lang="de" type="sort">schmiedeeisen</label>
           <note type="description" xml:lang="de">
             <p>Eisenlegierung mit sehr niedrigem Kohlenstoffgehalt. Zäh, verformbar, dehnbar, korrosionsbeständig und lässt sich leicht schmieden.</p>
-            <p>Schmiedeisen hat im Gegensatz zu Gusseisen mit 2,1 bis 4 Prozent einen vielfach kleineren Kohlenstoffgehalt (weniger als 0,08%). Es ist eine halb geschmolzene Eisenmasse mit faserigen Schlackeneinschlüssen (bis zu 2% des Gewichts), die ihr eine holzartige Maserung verleihen.</p>
+            <p>Schmiedeeisen hat im Gegensatz zu Gusseisen mit 2,1 bis 4 Prozent einen vielfach kleineren Kohlenstoffgehalt (weniger als 0,08%). Es ist eine halb geschmolzene Eisenmasse mit faserigen Schlackeneinschlüssen (bis zu 2% des Gewichts), die ihr eine holzartige Maserung verleihen.</p>
+            <p>Auch Schmiedeisen genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">wrought iron</label>
@@ -26992,13 +27062,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9048">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
           <label xml:lang="de" type="main">Flachmeissel</label>
           <label xml:lang="de" type="sort">flachmeissel</label>
           <note type="description" xml:lang="de">
             <p>Eine Art von <ref target="https://archives.georgfischer.com/keywords/8664">Meissel</ref>.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">flat chisel</label>
           <label xml:lang="en" type="sort">flat chisel</label>
           <note type="description" xml:lang="en">
@@ -27255,13 +27325,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9061">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
           <label xml:lang="de" type="main">Gasapparat</label>
           <label xml:lang="de" type="sort">gasapparat</label>
           <note type="description" xml:lang="de">
             <p>Maschine oder Einrichtung zur Bereitung von Gas, im frühen 19. Jahrhundert insbesondere von <ref target="https://archives.georgfischer.com/keywords/8635">Leuchtgas</ref> aus Kohle.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">gas apparatus</label>
           <label xml:lang="en" type="sort">gas apparatus</label>
           <note type="description" xml:lang="en">
@@ -27344,7 +27414,7 @@
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-              <bibl>Wechsler. In: Pierer's Universal-Lexikon, Band 18. Altenburg 1864, S. 957–959. (<ref target="http://www.zeno.org/nid/20011264055">Zeno.org</ref>, 27.10.2023).</bibl>
+              <bibl>Wechsler. In: Pierer’s Universal-Lexikon, Band 18. Altenburg 1864, S. 957–959. (<ref target="http://www.zeno.org/nid/20011264055">Zeno.org</ref>, 27.10.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -27613,14 +27683,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9074">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
           <label xml:lang="de" type="main">Feder (Maschinenbauteil)</label>
           <label xml:lang="de" type="sort">feder (maschinenbauteil)</label>
           <note type="description" xml:lang="de">
             <p>Elastisches Bauteil zum Abfangen oder Abgeben von Kräften.</p>
             <p>Industriezweige, die zu Johann Conrad Fischers Zeiten Metallfedern in grossen Mengen verbauten, waren der Kutschenbau und die Uhrenindustrie.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">spring (machine component)</label>
           <label xml:lang="en" type="sort">spring (machine component)</label>
           <note type="description" xml:lang="en">
@@ -28016,7 +28086,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134007"/>
-              <title xml:lang="de">Illustration zu Fieldings' «The History of the Adventures of Joseph Andrews», 1792</title>
+              <title xml:lang="de">Illustration zu Fieldings’ «The History of the Adventures of Joseph Andrews», 1792</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_276-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_276-0001" type="web"/>
@@ -28049,6 +28119,14 @@
             </bibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Banknote#Material"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134114"/>
+              <title xml:lang="de">Banknotenpresse von Bramah (Druck von Mutlow und Russell nach J. Farey, 1812)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_311-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_311-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_311-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -28250,7 +28328,7 @@
           <label xml:lang="de" type="main">Hammerschmied</label>
           <label xml:lang="de" type="sort">hammerschmied</label>
           <note type="description" xml:lang="de">
-            <p>Berufsbezeichnung für jemanden der heisses Eisen mit einem Hammer bearbeitet; Arbeiter in einem <ref target="https://archives.georgfischer.com/keywords/9166">Hammerwerk</ref>.</p>
+            <p>Berufsbezeichnung für jemanden, der heisses Eisen mit einem Hammer bearbeitet; Arbeiter in einem <ref target="https://archives.georgfischer.com/keywords/9166">Hammerwerk</ref>.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">hammersmith</label>
@@ -35708,19 +35786,6 @@
             </listBibl>
           </note>
         </item>
-        <item xml:id="gfa-keywords-9498">
-          <objectType xml:lang="de">anderes/diverses</objectType>
-          <label xml:lang="de" type="main">Stahlmagazin</label>
-          <label xml:lang="de" type="sort">stahlmagazin</label>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
-          <label xml:lang="en" type="main">steel depot</label>
-          <label xml:lang="en" type="sort">steel depot</label>
-          <note type="sources">
-            <listBibl>
-              <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-            </listBibl>
-          </note>
-        </item>
         <item xml:id="gfa-keywords-9502">
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Stahlproduktion</label>
@@ -35891,6 +35956,17 @@
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
             </listBibl>
           </note>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Stahlerzeugung"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q482090"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4116592-5"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="gfa-keywords-9523">
           <objectType xml:lang="de">anderes/diverses</objectType>
@@ -36290,6 +36366,14 @@
             </bibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Standard_diving_dress"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134111"/>
+              <title xml:lang="de">Taucher in Helmtaucherausrüstung (Illustration, 1873)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_308-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_308-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_308-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -37226,6 +37310,9 @@
           <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Windofen</label>
           <label xml:lang="de" type="sort">windofen</label>
+          <note type="description" xml:lang="de">
+            <p>Auch Zugofen.</p>
+          </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">air-kiln</label>
           <label xml:lang="en" type="sort">air-kiln</label>
@@ -37234,6 +37321,11 @@
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
             </listBibl>
           </note>
+          <listBibl>
+            <bibl>
+              <ptr type="dwds" target="https://www.dwds.de/wb/dwb/zugofen"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="gfa-keywords-9625">
           <objectType xml:lang="de">anderes/diverses</objectType>
@@ -37606,24 +37698,6 @@
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
             </listBibl>
           </note>
-        </item>
-        <item xml:id="gfa-keywords-9642">
-          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
-          <label xml:lang="de" type="main">Zugofen</label>
-          <label xml:lang="de" type="sort">zugofen</label>
-          <objectType xml:lang="en">Method, Process, Technology</objectType>
-          <label xml:lang="en" type="main">draft furnace</label>
-          <label xml:lang="en" type="sort">draft furnace</label>
-          <note type="sources">
-            <listBibl>
-              <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-            </listBibl>
-          </note>
-          <listBibl>
-            <bibl>
-              <ptr type="dwds" target="https://www.dwds.de/wb/dwb/zugofen"/>
-            </bibl>
-          </listBibl>
         </item>
         <item xml:id="gfa-keywords-9643">
           <objectType xml:lang="de">anderes/diverses</objectType>
@@ -38107,7 +38181,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134009"/>
-              <title xml:lang="de">Frontseite der «Times» vom 04.12.1788</title>
+              <title xml:lang="de">Frontseite der «Times» vom 4. Dezember 1788</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_278-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_278-0001" type="web"/>
@@ -38138,7 +38212,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134010"/>
-              <title xml:lang="de">Frontseite von «Galignani's Messenger» vom 27.04.1815</title>
+              <title xml:lang="de">Frontseite von «Galignani’s Messenger» vom 27. April 1815</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_279-0002" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_279-0002" type="web"/>
@@ -38359,7 +38433,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134011"/>
-              <title xml:lang="de">«Mass of tusks, teeth and bones» auf einer Illustration aus Bucklands «Reliquiæ Diluvianæ», 1823</title>
+              <title xml:lang="de">«Mass of tusks, teeth and bones» aus Bucklands «Reliquiæ Diluvianæ», 1823</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_280-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_280-0001" type="web"/>
@@ -38468,6 +38542,16 @@
             <p>Administration de la Diligence, du Chemin de fer, de la Malle-poste: La Diligence. journal des voyageurs. littérature, moeurs, théâtres, modes, itinéraires, voyages, industrie. Paris, 1845–1850 (<ref target="https://catalogue.bnf.fr/ark:/12148/cb327574209">Bibliothèque Nationale de France</ref>, Stand 3.4.2023).</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
+          <listBibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134084"/>
+              <title xml:lang="de">Frontseite der Zeitschrift «La Diligence», Erstausgabe aus dem Jahr 1845</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_306-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_306-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_306-0001" type="thumb"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="gfa-keywords-9688">
           <objectType xml:lang="de">anderes/diverses</objectType>
@@ -38716,7 +38800,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134012"/>
-              <title xml:lang="de">Titelblatt von Hermes' «Sophiens Reise von Memel nach Sachsen», 1776</title>
+              <title xml:lang="de">Titelblatt von Hermes’ «Sophiens Reise von Memel nach Sachsen», 1776</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_281-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_281-0001" type="web"/>
@@ -39344,11 +39428,11 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134015"/>
-              <title xml:lang="de">Titelblatt einer Ausgabe von «Bradshaw’s Railway Guide» von 1850</title>
+              <title xml:lang="de">Karte und Bildlegende aus «Bradshaw’s Railway Companion» von 1841 mit dem Eisenbahnnetz in England und Wales</title>
               <title xml:lang="en"/>
-              <ptr target="https://archives.georgfischer.com/media/gfd_3_284-0002" type="original"/>
-              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_284-0002" type="web"/>
-              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_284-0002" type="thumb"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_284-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_284-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_284-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -39786,6 +39870,14 @@
             </bibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Seven_Years%27_War"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134081"/>
+              <title xml:lang="de">Schlacht von Zorndorf im Siebenjährigen Krieg (Gemälde von Alexander Kotzebue, 1852)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_303-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_303-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_303-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -41226,6 +41318,14 @@
             <bibl>
               <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q110560666"/>
             </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134078"/>
+              <title xml:lang="de">Frontseite der «Hurterischen Zeitung», später «Allgemeiner Schweizerischer Korrespondent», vom 22. August 1767</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_302-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_302-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_302-0001" type="thumb"/>
+            </bibl>
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9806">
@@ -41274,7 +41374,7 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134016"/>
-              <title xml:lang="de">Seite aus der Donaueschinger Nibelungenhandschrift mit Majuskel, aus der 1. Hälfte des 13. Jahrhunderts</title>
+              <title xml:lang="de">Seite mit Majuskel aus der Donaueschinger Nibelungenhandschrift aus der 1. Hälfte des 13. Jahrhunderts</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_285-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_285-0001" type="web"/>
@@ -41404,7 +41504,7 @@
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134014"/>
-              <title xml:lang="de">Titelblatt von Jars' «Metallurgischen Reisen», 1777</title>
+              <title xml:lang="de">Titelblatt von Jars’ «Metallurgischen Reisen», 1777</title>
               <title xml:lang="en"/>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_283-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_283-0001" type="web"/>
@@ -41426,6 +41526,14 @@
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(sv)" target="https://sv.wikipedia.org/wiki/Eric_Thomas_Svedenstjerna"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134079"/>
+              <title xml:lang="de">Titelblatt der «Reise» von Svedenstjerna, 1811</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_74-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_74-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_74-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -41590,6 +41698,14 @@
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Armstrong_effect"/>
+            </bibl>
+            <bibl type="image">
+              <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134112"/>
+              <title xml:lang="de">Armstrongs Hydroelektrische Maschine (Illustration, ca. 1886)</title>
+              <title xml:lang="en"/>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_309-0001" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_309-0001" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_309-0001" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
