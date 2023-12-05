@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-12-04 09:50:13 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-05 17:03:52 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -652,11 +652,11 @@
               </bibl>
               <bibl type="image">
                 <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133981"/>
-                <title xml:lang="de">Antwerpens Stadtburg Steen bei Tagesanbruch (Gemälde von Peter Paul Rubens, um 1636)</title>
+                <title xml:lang="de">Flämische Sprichwörter (Gemälde von Pieter Bruegel dem Älteren, 1559)</title>
                 <title xml:lang="en"/>
-                <ptr target="https://archives.georgfischer.com/media/gfd_2_285-0002" type="original"/>
-                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_285-0002" type="web"/>
-                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_285-0002" type="thumb"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_285-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_285-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_285-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -1140,6 +1140,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Denmark"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134115"/>
+                <title xml:lang="de">Königreich Dänemark (Karte von John Cary, 1801)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_295-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_295-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_295-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -1376,6 +1384,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Finland"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134116"/>
+                <title xml:lang="de">Morgenstimmung auf einer finnischen Insel (Gemälde von Hjalmar Munsterhjelm, 1884)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_296-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_296-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_296-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -1495,6 +1511,14 @@
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/France"/>
               </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134117"/>
+                <title xml:lang="de">«Die Freiheit führt das Volk» in der Julirevolution von 1830 (Gemälde von Eugène Delacroix, 1830)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_297-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_297-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_297-0001" type="thumb"/>
+              </bibl>
             </listBibl>
             <note type="sources">
               <listBibl>
@@ -1555,6 +1579,14 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Grisons"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134118"/>
+                <title xml:lang="de">Blick auf die Gebirgsgruppe Silvretta aus Klosters im Kanton Graubünden (Chromolithografie von J. G. Bach, 1870)</title>
+                <title xml:lang="en"/>
+                <ptr target="https://archives.georgfischer.com/media/gfd_2_298-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_2_298-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_2_298-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -5566,7 +5598,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Deutsche Gemeinde am Rhein, zwischen Rafz und Neuhausen gelegen.</p>
+              <p>Deutsche Gemeinde am Rhein zwischen Rafz und Neuhausen.</p>
             </note>
           </place>
           
@@ -16757,7 +16789,7 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Kuriositätenkabinett von Sir Ashton Lever of Alkrington; 1775 eröffnet und 1806 geschlossen.</p>
-              <p>Johann Conrad Fischer besuchte das Museum während seines ersten Aufenthaltes in London 1794/1795.</p>
+              <p>Johann Conrad Fischer besuchte das Museum während seines ersten Aufenthalts in London 1794/1795.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A cabinet of curiosities belonging to Sir Ashton Lever of Alkrington; opened in 1775 and closed in 1806.</p>
@@ -26107,7 +26139,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Von 1806 bis 1871 ein souveräner Staat, der bis 1813 Mitglied des Rheinbunds und von 1815 bis 1866 Mitglied des Deutschen Bunds war.</p>
+              <p>Von 1806 bis 1871 bestehender souveräner Staat, der bis 1813 Mitglied des Rheinbunds und von 1815 bis 1866 Mitglied des Deutschen Bunds war.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1900">
@@ -26489,6 +26521,7 @@
             <placeName type="main" xml:lang="de">Brügge</placeName>
             <placeName type="full" xml:lang="de">Brügge</placeName>
             <placeName type="sort" xml:lang="de">bruegge</placeName>
+            <placeName type="alternative" xml:lang="de">Bruges</placeName>
             <location>
               <geo>51.20892 3.22424</geo>
               <settlement xml:lang="de">Brügge</settlement>
@@ -27070,7 +27103,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Französische Stadt im Département Seine-Maritime in der Region Normandie.</p>
+              <p>Französische Hafenstadt in der Normandie.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1927">
@@ -27807,7 +27840,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Stadt zwischen <ref target="gfa-places-1">Aachen</ref> und <ref target="gfa-places-1935">Düren</ref>.</p>
+              <p>Deutsche Stadt zwischen <ref target="gfa-places-1">Aachen</ref> und <ref target="gfa-places-1935">Düren</ref>.</p>
             </note>
           </place>
           <place type="R" xml:id="gfa-places-1948">
@@ -28120,7 +28153,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Küstenstadt in Kent.</p>
+              <p>Englische Küstenstadt in Kent.</p>
             </note>
           </place>
           <place type="H" xml:id="gfa-places-1959">
@@ -28699,7 +28732,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Französisches Schloss, welches rund 60 Kilometer südlich von <ref target="gfa-places-118">Paris</ref> liegt.</p>
+              <p>Französisches Schloss rund 60 Kilometer südlich von <ref target="gfa-places-118">Paris</ref>.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1971">
@@ -28745,7 +28778,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Baden-Württembergische Gemeinde im Landkreis Waldshut.</p>
+              <p>Gemeinde in Baden-Württemberg.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1973">
@@ -30206,7 +30239,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Ehemalige, sich in einem Bau des 16. Jahrhunderts befindende Münzanstalt des Königreichs Bayern.</p>
+              <p>Seit 1806 Münzanstalt des Königreichs Bayern, in einem Bau aus dem 16. Jahrhundert. Später bis ins Jahr 1986 Bayerisches Hauptmünzamt.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2015">
@@ -30298,7 +30331,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Ort im Département Seine-et-Marne.</p>
+              <p>Französische Gemeinde 70 Kilometer südöstlich von Paris.</p>
             </note>
           </place>
           <place type="A" xml:id="gfa-places-2017">
@@ -33937,8 +33970,8 @@
             </note>
           </place>
           <place type="R" xml:id="gfa-places-2120">
-            <placeName type="main" xml:lang="de">Rue des vieux Augustins</placeName>
-            <placeName type="full" xml:lang="de">Rue des vieux Augustins / Paris</placeName>
+            <placeName type="main" xml:lang="de">Rue des Vieux Augustins</placeName>
+            <placeName type="full" xml:lang="de">Rue des Vieux Augustins / Paris</placeName>
             <placeName type="sort" xml:lang="de">rue des vieux augustins</placeName>
             <location>
               <geo>48.865094800532 2.3419647098156</geo>
@@ -33953,7 +33986,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Ehemalige Strasse in <ref target="gfa-places-118">Paris</ref> in der Nähe des Place des Victoires.</p>
+              <p>Ehemalige Strasse in <ref target="gfa-places-118">Paris</ref> in der Nähe der Place des Victoires.</p>
             </note>
           </place>
           <place type="R" xml:id="gfa-places-2122">
@@ -34019,7 +34052,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Hutgeschäft des Pariser Hutmachers Biget.</p>
+              <p>Hutgeschäft des Pariser Hutmachers <ref target="../names/gfa-actors-8256">Biget</ref>.</p>
               <p>Sébastien Bottins <hi rend="italic">Almanach du Commerce</hi> des Jahres 1842 nennt als Adresse «Rue Rivoli 32».</p>
             </note>
           </place>
@@ -34040,7 +34073,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Geschäftsaddresse des Bankiers Auguste Dassier an der Rue Bergère 7.</p>
+              <p>Geschäftsadresse des Bankiers Auguste Dassier an der Rue Bergère 7.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2125">
@@ -35991,7 +36024,32 @@
               <p>Siehe Organisation: <ref target="../names/gfa-actors-8302">Bank of England</ref>.</p>
             </note>
           </place>
-          
+          <place type="R" xml:id="gfa-places-2200">
+            <placeName type="main" xml:lang="de">Leadenhall Street</placeName>
+            <placeName type="full" xml:lang="de">Leadenhall Street / London</placeName>
+            <placeName type="sort" xml:lang="de">leadenhall street</placeName>
+            <location>
+              <geo>51.513472 -0.080833</geo>
+              <settlement xml:lang="de">London</settlement>
+              <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
+              <country xml:lang="en">United Kingdom</country>
+            </location>
+            <idno type="gfa-places-id">2200</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Leadenhall_Street"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q866797"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Leadenhall_Street"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Von Ost nach West verlaufende Strasse im Ostteil der City of London</p>
+            </note>
+          </place>
           <place type="S" xml:id="gfa-places-2201">
             <placeName type="main" xml:lang="de">Eisenwarengeschäft Fenn</placeName>
             <placeName type="full" xml:lang="de">Eisenwarengeschäft Fenn / London</placeName>
@@ -36051,8 +36109,8 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Nobelhotel in <ref target="gfa-places-1745">Liverpool</ref>, welches 1826 vom Hotelier James Radley gegründet wurde.</p>
-              <p>Johann Conrad Fischer logierte im Adelphi während seines Aufenthalts in Liverpool von 1846.</p>
+              <p>Nobelhotel in <ref target="gfa-places-1745">Liverpool</ref>, das 1826 vom Hotelier James Radley gegründet wurde.</p>
+              <p>Johann Conrad Fischer logierte im Adelphi während seines Aufenthalts in Liverpool im Jahr 1846.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2203">
@@ -36155,7 +36213,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Haltestelle auf der Bahnstrecke zwischen <ref target="gfa-places-1745">Liverpool</ref> und <ref target="gfa-places-471">Manchester</ref>.</p>
+              <p>Haltestelle an der Bahnstrecke zwischen <ref target="gfa-places-1745">Liverpool</ref> und <ref target="gfa-places-471">Manchester</ref>.</p>
             </note>
           </place>
           <place type="R" xml:id="gfa-places-2207">
@@ -36234,7 +36292,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Gebirgskette im Norden des <ref target="https://archives.georgfischer.com/places/1370">Libanon</ref>.</p>
+              <p>Gebirgskette im Norden <ref target="https://archives.georgfischer.com/places/1370">Libanons</ref>.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-2210">
@@ -36460,7 +36518,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Bucht in Nordirland.</p>
+              <p>Bucht in Nordirland, in der die Great Britain auf Grund lief.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2218">
@@ -36515,7 +36573,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Geschäftsaddresse der <ref target="../names/gfa-actors-8090">Familie Gott</ref> in Leeds in den 1840er-Jahren.</p>
+              <p>Geschäftsadresse der <ref target="../names/gfa-actors-8090">Familie Gott</ref> in Leeds in den 1840er-Jahren.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2221">
@@ -36763,7 +36821,7 @@
             </location>
             <idno type="gfa-places-id">2228</idno>
             <note type="description" xml:lang="de">
-              <p>Gasthaus in Ostende.</p>
+              <p>Gasthaus in <ref target="gfa-places-1625">Ostende</ref>.</p>
               <p>Johann Conrad Fischer übernachtete am 17. Oktober 1846 in diesem Hotel.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
@@ -36820,7 +36878,7 @@
             </location>
             <idno type="gfa-places-id">2230</idno>
             <note type="description" xml:lang="de">
-              <p>Hotel in Paris in der Rue des vieux Augustins.</p>
+              <p>Hotel in Paris in der Rue des Vieux Augustins.</p>
               <p>Johann Conrad Fischer übernachtete im Juli 1845 dort.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
@@ -37052,7 +37110,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-12-04T09:50:21+01:00">teiHeader was automatically produced from the database 2023-12-04T09:50:21+01:00</change>
+      <change when="2023-12-05T17:04:00+01:00">teiHeader was automatically produced from the database 2023-12-05T17:04:00+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
