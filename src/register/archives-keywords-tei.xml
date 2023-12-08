@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-12-05 17:04:00 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-08 20:01:06 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2023-12-05T17:04:00+01:00">teiHeader was automatically produced from the database 2023-12-05T17:04:00+01:00</change>
+      <change when="2023-12-08T20:01:06+01:00">teiHeader was automatically produced from the database 2023-12-08T20:01:06+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -1983,6 +1983,9 @@
           <objectType xml:lang="en">Collection, Artwork</objectType>
           <label xml:lang="en" type="main">portrait</label>
           <label xml:lang="en" type="sort">portrait</label>
+          <note type="description" xml:lang="en">
+            <p>Also called a likeness.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -2552,13 +2555,22 @@
           <label xml:lang="de" type="main">Maschinenhaus</label>
           <label xml:lang="de" type="sort">maschinenhaus</label>
           <note type="description" xml:lang="de">
+            <p>Gebäude, in dem Betriebsmaschinen einer industriellen Anlage aufgestellt sind.</p>
+            <p>Als Maschinenhaus bezeichnet man auch das Gebäude zur Unterbringung von <ref target="https://archives.georgfischer.com/keywords/2522">Lokomotiven</ref>.</p>
             <p>Auch Engine House genannt.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">powerhouse</label>
           <label xml:lang="en" type="sort">powerhouse</label>
           <note type="description" xml:lang="en">
+            <p>A building in which the operating machines of an industrial plant are installed.</p>
+            <p>An powerhouse is also the name given to the building used to house <ref target="https://archives.georgfischer.com/keywords/2522">locomotives</ref>.</p>
             <p>Also called an engine house.</p>
+          </note>
+          <note type="sources">
+            <listBibl>
+              <bibl>Maschinenhaus. In: Meyers Großes Konversations-Lexikon, Band 13. Leipzig 1908, S. 385 (<ref target="http://www.zeno.org/nid/20007058810">Zeno.org</ref>, Stand 8.12.2023).</bibl>
+            </listBibl>
           </note>
           <listBibl>
             <bibl>
@@ -3171,6 +3183,9 @@
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">tapping</label>
           <label xml:lang="en" type="sort">tapping</label>
+          <note type="description" xml:lang="en">
+            <p>Process of draining off molten metal from a smelter.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Abstich. In: Meyers Grosses Konversations-Lexikon, Band 1. Leipzig 1905, S. 57 (<ref target="http://www.zeno.org/nid/20006188281">Zeno.org</ref>, Stand 25.2.2023).</bibl>
@@ -4866,13 +4881,15 @@
           <note type="description" xml:lang="de">
             <p>Sammlung von circa achtzig Stück Miniaturgeräten aus Holz, die verschiedene mechanische Bewegungsabläufe illustrierten.</p>
             <p>Christopher Polhem legte die Sammlung mechanischer Modelle für das von ihm um 1697 auf <ref target="../places/gfa-places-1528">Kungsholmen</ref> in Stockholm gegründete Laboratorium Mechanicum an. Nach dem Tode Polhems um 1751 wurde die Sammlung in die <ref target="gfa-keywords-8400">Königliche Modellkammer</ref> überführt. Von 1754 bis 1802 war sie im alten Königshaus auf <ref target="../places/gfa-places-1538">Riddarholmen</ref> ausgestellt. Ein Teil befindet sich heute [2022] im Technischen Museum, ein weiterer im Nordischen Museum in Stockholm.</p>
+            <p>Norberg, Jonas: Inventarium öfver de machiner och modeller, som finnas vid Kongl.Modell-kammaren i Stockholm, belägen uti gamla kongshuset på K. Riddarholmen, Stockholm: Anders J. Nordström, 1779.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">Polhelm’s Mechanical Alphabet</label>
-          <label xml:lang="en" type="sort">polhelm’s mechanical alphabet</label>
+          <label xml:lang="en" type="main">Mechanical Alphabet by Polhem</label>
+          <label xml:lang="en" type="sort">mechanical alphabet by polhem</label>
           <note type="description" xml:lang="en">
             <p>A collection of about eighty wooden miniature models that illustrate various mechanical principles of motion conversion.</p>
             <p>Christopher Polhem created the collection of mechanical models for his Laboratorium Mechanicum, which he established in <ref target="../places/gfa-places-1528">Kungsholmen</ref> in Stockholm in 1697. After Polhelm’s death in 1751, the collection was transferred to the <ref target="gfa-keywords-8400">Royal Model Chamber</ref>. It was displayed in the old royal palace on <ref target="../places/gfa-places-1538">Riddarholmen</ref> from 1754 to 1802. Part of the collection is now [2022] in the Technical Museum, and another part in the Nordic Museum in Stockholm.</p>
+            <p>Norberg, Jonas: Inventarium öfver de machiner och modeller, som finnas vid Kongl.Modell-kammaren i Stockholm, belägen uti gamla kongshuset på K. Riddarholmen, Stockholm: Anders J. Nordström, 1779.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -5767,8 +5784,8 @@
             <p>Euler, Leonhard: Vollständige Anleitung zur Algebra von Hrn. Leonhard Euler. Erster Theil. Von den Rechnungs-Arten, Verhältnissen und Proportionen. St. Petersburg: Kaiserliche Akademie der Wissenschaften, 1770.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">Euler’s Elements of Algebra</label>
-          <label xml:lang="en" type="sort">euler’s elements of algebra</label>
+          <label xml:lang="en" type="main">Elements of Algebra by Euler</label>
+          <label xml:lang="en" type="sort">elements of algebra by euler</label>
           <note type="description" xml:lang="en">
             <p>A textbook written in 1765 by the Swiss mathematician <ref target="../names/gfa-actors-5432">Leonhard Euler</ref>.</p>
             <p>Johann Conrad Fischer took Euler’s textbook, <hi rend="italic">Complete Introduction to Algebra</hi>, with him on his travels.</p>
@@ -5809,8 +5826,8 @@
             <p>Wolff, Christian: Die Anfangs-Gründe aller mathematischen Wissenschafften. Erster-fünfter Theil. Frankfurt 1737–1738.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">Wolff’s Elements of all Mathematical Sciences</label>
-          <label xml:lang="en" type="sort">wolff’s elements of all mathematical sciences</label>
+          <label xml:lang="en" type="main">Elements of all Mathematical Sciences by Wolff</label>
+          <label xml:lang="en" type="sort">elements of all mathematical sciences by wolff</label>
           <note type="description" xml:lang="en">
             <p>A textbook written in 1710 by the German mathematician <ref target="../names/gfa-actors-7378">Christian Wolff</ref>.</p>
             <p>This four-volume work treats fields such as arithmetic, astronomy, hydraulics and algebra and is considered to be Christian Wolff’s magnum opus. Johann Conrad Fischer read the book, <hi rend="italic">Elements of all Mathematical Sciences</hi>, during his apprenticeship, possibly in the abridged edition of 1772.</p>
@@ -5850,8 +5867,8 @@
             <p>Jablonski, Johann Theodor: Allgemeines Lexicon der Künste und Wissenschaften; oder kurtze Beschreibung des Reichs der Natur, der Himmel und himmlischen Körper, der Lufft, der Erden, samt denen bekannten Gewächsen, der Thiere, Steine und Ertze, des Meeres und der darinn lebenden Geschöpffe; ingleichen aller menschlichen Handlungen, Staats-, Rechts-, Kriegs-, Policey-, Hausshaltungs- und Gelehrten Geschäffte, Handthierungen und Gewerbe, samt der Erklärung der darinn vorkommenden Kunst-Wörter und Redens-Arten, mit Übersetzungen der Lateinischen und Französischen Benennungen, wo solche vorhanden; in gehöriger Ordnung verfasset und mit Fleiss zusammen getragen von einem Mitglied der Königl. Preuss. Societaet der Wissenschaften. Leipzig 1721.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">Jablonsky’s Lexicon of Arts and Sciences</label>
-          <label xml:lang="en" type="sort">jablonsky’s lexicon of arts and sciences</label>
+          <label xml:lang="en" type="main">Lexicon of Arts and Sciences by Jablonsky</label>
+          <label xml:lang="en" type="sort">lexicon of arts and sciences by jablonsky</label>
           <note type="description" xml:lang="en">
             <p>A lexicon authored by the German lexicographer <ref target="../names/gfa-actors-7380">Johann Theodor Jablonski</ref>.</p>
             <p>The reference work, <hi rend="italic">General Lexicon of Arts and Sciences</hi>, was first published in 1721. New editions with additional material appeared in 1748 and 1767.</p>
@@ -5890,8 +5907,8 @@
             <p>Tenner, Johann Gottlob: Anleitung, vermittelst der dephlogistisirten Salzsäure zu jeder Jahreszeit vollkommen weiss, geschwind, sicher und wohlfeil zu bleichen: nebst einer kurzen Anweisung, wie man dieses Mittel beym gewöhnlichen Waschen, beym Cattundrucken, in der Färberey, beym Papiermachen und beym Bleichen des Wachses mit Nutzen anwenden könne von D. Johann Gottlob Tenner. Mit 11 Kupfertafeln. Dritte vermehrte und verbesserte Auflage. Leipzig 1800.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">Tenner’s Instructions for bleaching</label>
-          <label xml:lang="en" type="sort">tenner’s instructions for bleaching</label>
+          <label xml:lang="en" type="main">Instructions for bleaching by Tenner</label>
+          <label xml:lang="en" type="sort">instructions for bleaching by tenner</label>
           <note type="description" xml:lang="en">
             <p>These instructions for rapid bleaching with chlorine were written in 1793 by the German physicist <ref target="../names/gfa-actors-7385">Johann Gottlob Tenner</ref>.</p>
             <p>Tenner, Johann Gottlob: Anleitung, vermittelst der dephlogistisirten Salzsäure zu jeder Jahreszeit vollkommen weiss, geschwind, sicher und wohlfeil zu bleichen: nebst einer kurzen Anweisung, wie man dieses Mittel beym gewöhnlichen Waschen, beym Cattundrucken, in der Färberey, beym Papiermachen und beym Bleichen des Wachses mit Nutzen anwenden könne von D. Johann Gottlob Tenner. Mit 11 Kupfertafeln. Dritte vermehrte und verbesserte Auflage. Leipzig 1800.</p>
@@ -5920,8 +5937,8 @@
             <p>Teuber, Johann Martin: Johann Martin Teubers, Mechanici, auch Kunst- und Silber-Drechslers in Regenspurg Vollständiger Unterricht von der gemeinen und höhern Dreh-Kunst, worinnen nicht nur was von beyden zu wissen nöthig, deutlich beschrieben, sondern auch alle dahin gehörige Wercke, Kunst-Machinen, und Instrumenta, samt 40 Kunst-Stücken in XXXI Kupffer-Taffeln vor Augen geleget werden: Ein Werck, dergleichen bis dato noch keines zum Vorschein gekommen, auf besonderes Verlangen hoher Liebhaber von dem Autore selbst verfasset, und nebst einem Anhang von der Laquier-Kunst, und darzu dienlichen 5. trefflichen Fürneissen ans Licht gestellet. Regensburg 1769.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">Teuber’s Complete Instruction</label>
-          <label xml:lang="en" type="sort">teuber’s complete instruction</label>
+          <label xml:lang="en" type="main">Complete Instruction by Teuber</label>
+          <label xml:lang="en" type="sort">complete instruction by teuber</label>
           <note type="description" xml:lang="en">
             <p>This book on the art of wood turning was written in 1740 by the German wood turner <ref target="../names/gfa-actors-7390">Johann Martin Teuber</ref>.</p>
             <p>In addition to instructions, Teuber’s Complete Instruction on Simple and Higher Wood Turning also contains descriptions of machines and instruments along with 31 copper plates of artistic wooden pieces.</p>
@@ -6016,8 +6033,8 @@
             <p>von Müller, Johannes: Vier und zwanzig Bücher Allgemeiner Geschichten besonders der Europäischen Menschheit. 2 Bände. J. G. Cotta’sche Buchhandlung. Stuttgart und Tübingen 1831–1832.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">Müller’s Universal History of People in Europe</label>
-          <label xml:lang="en" type="sort">mueller’s universal history of people in europe</label>
+          <label xml:lang="en" type="main">Universal History of People in Europe by Müller</label>
+          <label xml:lang="en" type="sort">universal history of people in europe by mueller</label>
           <note type="description" xml:lang="en">
             <p>A universal history of people in Europe by <ref target="../names/gfa-actors-7500">Johannes von Müller</ref>, first published posthumously in 1810.</p>
             <p>von Müller, Johannes: Vier und zwanzig Bücher Allgemeiner Geschichten besonders der Europäischen Menschheit. 2 Bände. J. G. Cotta’sche Buchhandlung. Stuttgart und Tübingen 1831–1832.</p>
@@ -6297,8 +6314,8 @@
             <p>Isaac Newton: The Method of Fluxions and Infinte Series; with its Application to the Geometry of Curve-Lines By the Inventor Sir Isaac Newton [...] Translated from the Author’s Latin not yet made publick. To which is subjoin’d a Perpetual Comment upon the whole Work, consisting of Annotations, Illustrations and Supplements, in order to make this Treatise a compleat Institution for the use of Lerners by John Colson [...]. London 1736.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">Method of Fluxions by Newton</label>
-          <label xml:lang="en" type="sort">method of fluxions by newton</label>
+          <label xml:lang="en" type="main">The Method of Fluxions by Newton</label>
+          <label xml:lang="en" type="sort">the method of fluxions by newton</label>
           <note type="description" xml:lang="en">
             <p>The book that <ref target="../names/gfa-actors-3060">Isaac Newton</ref> wrote on differential calculus.</p>
             <p>The book was completed in 1671 but only published posthumously in 1736. Its Latin title is <hi rend="italic">De Methodis Serierum et Fluxionum</hi>. Newton developed the method at the time when the University of Cambridge, where he taught, was closed during the Great Plague of London. He decided, however, not to publish his findings. <ref target="../names/gfa-actors-7460">Gottfried Leibniz</ref> developed his variant of <ref target="gfa-keywords-8440">calculus</ref> independently of Newton around 1673, in other words, seven years after Newton had developed the basis for differential calculus. Leibniz published his discovery of differential calculus in 1684, nine years before Newton. The question of priority is still a matter of scientific dspute.</p>
@@ -8200,8 +8217,8 @@
             <p>von Knigge, A. Freyherr: Ueber den Umgang mit Menschen. In zwey Theilen. Hannover, in der Schmidtschen Buchhandlung 1788.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">Über den Umgang mit Menschen von Knigge</label>
-          <label xml:lang="en" type="sort">ueber den umgang mit menschen von knigge</label>
+          <label xml:lang="en" type="main">Über den Umgang mit Menschen by Knigge</label>
+          <label xml:lang="en" type="sort">ueber den umgang mit menschen by knigge</label>
           <note type="description" xml:lang="en">
             <p>A book published by the German writer <ref target="../names/gfa-actors-7610">Adolph Freiherr Knigge</ref> in 1788. It is a collection of rules of behaviour that were greatly influenced by the ideals of the Enlightenment.</p>
             <p>von Knigge, A. Freyherr: Ueber den Umgang mit Menschen. In zwey Theilen. Hannover, in der Schmidtschen Buchhandlung 1788.</p>
@@ -8243,6 +8260,11 @@
           <note type="description" xml:lang="en">
             <p>A book of advice for young people published by the German writer and Enlightenment figure <ref target="../names/gfa-actors-7611">Joachim Heinrich Campe</ref> in 1783. </p>
             <p>Campe, Joachim Heinrich: Theophron oder Der erfahrene Ratgeber für die unerfahrene Jugend. Hamburg 1783. In: Münchner DigitalisierungsZentrum - Digitale Bibliothek (<ref target="https://www.digitale-sammlungen.de/de/view/bsb11323628?page=5">Onlineressource</ref>, Stand 20.3.2023).</p>
+          </note>
+          <note type="sources">
+            <listBibl>
+              <bibl>Campe, Joachim Heinrich: Theophron oder der erfahrne Rathgeber für die unerfahrne Jugend. Braunschweig 1828.</bibl>
+            </listBibl>
           </note>
           <listBibl>
             <bibl type="image">
@@ -10655,14 +10677,14 @@
           <label xml:lang="de" type="sort">flint</label>
           <note type="description" xml:lang="de">
             <p>Feuerstein oder Silex, Kieselgestein aus Siliciumdioxid.</p>
-            <p><ref target="../names/gfa-actors-7566">Wedgwood</ref> bezog Feuerstein für die Porzellanproduktion aus den Kalkgruben in North Kent bei <ref target="../places/gfa-places-1640">Gravesend</ref>.</p>
+            <p><ref target="../names/gfa-actors-7566">Wedgwood</ref> bezog Feuerstein für die Porzellanproduktion aus den Kalkgruben in North Kent bei <ref target="https://archives.georgfischer.com/places/1640">Gravesend</ref>.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">flint</label>
           <label xml:lang="en" type="sort">flint</label>
           <note type="description" xml:lang="en">
             <p>Also known as flintstone, a form of quartz, silicon dioxide.</p>
-            <p><ref target="../names/gfa-actors-7566">Wedgwood</ref> sourced flint for porcelain production from the North Kent limestone quarries at <ref target="../places/gfa-places-1640">Gravesend</ref>.</p>
+            <p><ref target="../names/gfa-actors-7566">Wedgwood</ref> sourced flint for porcelain production from the North Kent limestone quarries at <ref target="https://archives.georgfischer.com/places/1640">Gravesend</ref>.</p>
           </note>
           <listBibl>
             <bibl>
@@ -11060,13 +11082,13 @@
           <label xml:lang="de" type="main">Schwedisch-Britischer Krieg</label>
           <label xml:lang="de" type="sort">schwedisch-britischer krieg</label>
           <note type="description" xml:lang="de">
-            <p>Durch <ref target="../places/gfa-places-48">Frankreich</ref> erzwungener Krieg zwischen Grossbritannien und <ref target="../places/gfa-places-133">Schweden</ref> zwischen 1810 und 1812.</p>
+            <p>Durch <ref target="https://archives.georgfischer.com/places/48">Frankreich</ref> erzwungener Krieg zwischen Grossbritannien und <ref target="https://archives.georgfischer.com/places/133">Schweden</ref> zwischen 1810 und 1812.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Anglo-Swedish War</label>
           <label xml:lang="en" type="sort">anglo-swedish war</label>
           <note type="description" xml:lang="en">
-            <p>A war between Britain and Sweden from 1810 to 1812, which was forced upon <ref target="../places/gfa-places-133">Sweden</ref> by <ref target="../places/gfa-places-48">France</ref>.</p>
+            <p>A war between Britain and Sweden from 1810 to 1812, which was forced upon <ref target="https://archives.georgfischer.com/places/133">Sweden</ref> by <ref target="https://archives.georgfischer.com/places/48">France</ref>.</p>
           </note>
           <listBibl>
             <bibl>
@@ -11333,7 +11355,7 @@
           <label xml:lang="de" type="sort">description de la chine et de la tartarie chinoise von du halde</label>
           <note type="description" xml:lang="de">
             <p>Vom französischen Jesuiten Jean-Baptiste Du Halde veröffentlichtes Werk zur Beschreibung von China und Zentralasien.</p>
-            <p>Das Werk gründete auf Beschreibungen und Briefen von jesuitischen Missionaren im Kaiserreich und etablierte sich für das 18. Jahrhundert als europäisches Standardwerk zu <ref target="../places/gfa-places-29">China</ref>.</p>
+            <p>Das Werk gründete auf Beschreibungen und Briefen von jesuitischen Missionaren im Kaiserreich und etablierte sich für das 18. Jahrhundert als europäisches Standardwerk zu <ref target="https://archives.georgfischer.com/places/29">China</ref>.</p>
             <p>Du Halde, Jean-Baptiste: Description géographique, historique, chronologique, politique et physique de l’empire de la Chine et de la Tartarie chinoise. P.G. Lemercier, Paris 1735.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
@@ -11341,7 +11363,7 @@
           <label xml:lang="en" type="sort">description de la chine et de la tartarie chinoise by du halde</label>
           <note type="description" xml:lang="en">
             <p>Vom französischen Jesuiten Jean-Baptiste Du Halde veröffentlichtes Werk zur Beschreibung von China und Zentralasien.</p>
-            <p>Das Werk gründete auf Beschreibungen und Briefen von jesuitischen Missionaren im Kaiserreich und etablierte sich für das 18. Jahrhundert als europäisches Standardwerk zu <ref target="../places/gfa-places-29">China</ref>.</p>
+            <p>Das Werk gründete auf Beschreibungen und Briefen von jesuitischen Missionaren im Kaiserreich und etablierte sich für das 18. Jahrhundert als europäisches Standardwerk zu <ref target="https://archives.georgfischer.com/places/29">China</ref>.</p>
             <p>Du Halde, Jean-Baptiste: Description géographique, historique, chronologique, politique et physique de l’empire de la Chine et de la Tartarie chinoise. P.G. Lemercier, Paris 1735.</p>
           </note>
           <listBibl>
@@ -11532,13 +11554,13 @@
           <label xml:lang="de" type="main">Ludditenaufstände</label>
           <label xml:lang="de" type="sort">ludditenaufstaende</label>
           <note type="description" xml:lang="de">
-            <p>Von <ref target="../places/gfa-places-1807">Nottingham</ref> ausgehender Aufstand der englischen Textilarbeiter zwischen 1811 und 1813 gegen die aufkommenden Textilmaschinen.</p>
+            <p>Von <ref target="https://archives.georgfischer.com/places/1807">Nottingham</ref> ausgehender Aufstand der englischen Textilarbeiter zwischen 1811 und 1813 gegen die aufkommenden Textilmaschinen.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Luddite movement</label>
           <label xml:lang="en" type="sort">luddite movement</label>
           <note type="description" xml:lang="en">
-            <p>A movement of English textile workers starting in <ref target="../places/gfa-places-1807">Nottingham</ref> between 1811 and 1813 which violently opposed the spread of textile machinery.</p>
+            <p>A movement of English textile workers starting in <ref target="https://archives.georgfischer.com/places/1807">Nottingham</ref> between 1811 and 1813 which violently opposed the spread of textile machinery.</p>
           </note>
           <listBibl>
             <bibl>
@@ -11564,7 +11586,7 @@
           <label xml:lang="de" type="sort">kattundruck</label>
           <note type="description" xml:lang="de">
             <p>Verfahren zum Drucken von Mustern auf weissem Baumwollgewebe (Kattun).</p>
-            <p>Das Produkt war nach seinem Ursprungsgebiet in <ref target="../places/gfa-places-67">Indien</ref> als Kaliko oder Indienne bekannt. In England wurde der Kattundruck mit Walzen ab 1785 angewandt. Dabei gravierte man das Muster statt auf Platten auf Kupferwalzen. Der <ref target="gfa-keywords-8822">Baumwollstoff</ref> lief durch die Walzen, wodurch mehr Baumwollstoff in derselben Zeit bedruckt werden konnte als mit einer Kupferplatte.</p>
+            <p>Das Produkt war nach seinem Ursprungsgebiet in <ref target="https://archives.georgfischer.com/places/67">Indien</ref> als Kaliko oder Indienne bekannt. In England wurde der Kattundruck mit Walzen ab 1785 angewandt. Dabei gravierte man das Muster statt auf Platten auf Kupferwalzen. Der <ref target="gfa-keywords-8822">Baumwollstoff</ref> lief durch die Walzen, wodurch mehr Baumwollstoff in derselben Zeit bedruckt werden konnte als mit einer Kupferplatte.</p>
             <p>Auch Cattundruck genannt.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
@@ -11572,7 +11594,7 @@
           <label xml:lang="en" type="sort">calico printing</label>
           <note type="description" xml:lang="en">
             <p>A process for printing patterns on white cotton fabrics.</p>
-            <p>The name calico or indienne derived from the place of origin in <ref target="../places/gfa-places-67">India</ref>. English manufacturers began printing calico with rollers in 1785. The pattern was engraved on copper rollers rather than plates. The <ref target="gfa-keywords-8822">cotton fabric</ref> passed through the rollers, allowing the printing of more cotton in the same time than was possible with a copper plate.</p>
+            <p>The name calico or indienne derived from the place of origin in <ref target="https://archives.georgfischer.com/places/67">India</ref>. English manufacturers began printing calico with rollers in 1785. The pattern was engraved on copper rollers rather than plates. The <ref target="gfa-keywords-8822">cotton fabric</ref> passed through the rollers, allowing the printing of more cotton in the same time than was possible with a copper plate.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -11631,15 +11653,15 @@
         </item>
         <item xml:id="gfa-keywords-8612">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de" type="main">Application of Gas from Coal von William Murdoch</label>
-          <label xml:lang="de" type="sort">application of gas from coal von william murdoch</label>
+          <label xml:lang="de" type="main">Application of Gas from Coal von Murdoch</label>
+          <label xml:lang="de" type="sort">application of gas from coal von murdoch</label>
           <note type="description" xml:lang="de">
             <p>Artikel von <ref target="../names/gfa-actors-7574">William Murdoch</ref> in den <hi rend="italic">Transactions of the Royal Society</hi>, über die Verwendung von Kohlegas zur Beleuchtung.</p>
             <p>Murdoch, William/Banks, Joseph: X. An account of the application of the gas from coal to economical purpose. In: Philosophical Transactions of the Royal Society of London, Band 98 (Dezember 1808), S. 124–132 (<ref target="https://royalsocietypublishing.org/doi/epdf/10.1098/rstl.1808.0011">Royalsocietypublishing</ref>, Stand 17.5.2023).</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">An account of the application of the gas from coal by William Murdoch</label>
-          <label xml:lang="en" type="sort">an account of the application of the gas from coal by william murdoch</label>
+          <label xml:lang="en" type="main">Application of Gas from Coal by Murdoch</label>
+          <label xml:lang="en" type="sort">application of gas from coal by murdoch</label>
           <note type="description" xml:lang="en">
             <p>An article by <ref target="../names/gfa-actors-7574">William Murdoch</ref> which appeared in the <hi rend="italic">Transactions of the Royal Society</hi>, on the use of coal gas for lighting.</p>
             <p>Murdoch, William/Banks, Joseph: X. An account of the application of the gas from coal to economical purpose. In: Philosophical Transactions of the Royal Society of London, Band 98 (Dezember 1808), S. 124–132 (<ref target="https://royalsocietypublishing.org/doi/epdf/10.1098/rstl.1808.0011">Royalsocietypublishing</ref>, Stand 17.5.2023).</p>
@@ -11684,14 +11706,14 @@
           <label xml:lang="de" type="sort">manchester/fustian</label>
           <note type="description" xml:lang="de">
             <p>Kordgewebe aus Baumwolle.</p>
-            <p>Typisches Gewebe aus <ref target="../places/gfa-places-471">Manchester</ref>, bei dem die Schussfäden aufgeschnitten werden, damit sie einen samtähnlichen Flor bilden.</p>
+            <p>Typisches Gewebe aus <ref target="https://archives.georgfischer.com/places/471">Manchester</ref>, bei dem die Schussfäden aufgeschnitten werden, damit sie einen samtähnlichen Flor bilden.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">manchester fustian</label>
           <label xml:lang="en" type="sort">manchester fustian</label>
           <note type="description" xml:lang="en">
             <p>A corduroy fabric woven from cotton.</p>
-            <p>Typically, this fabric came from <ref target="../places/gfa-places-471">Manchester</ref>. The weft threads were cut in order to create a velvet-like pile.</p>
+            <p>Typically, this fabric came from <ref target="https://archives.georgfischer.com/places/471">Manchester</ref>. The weft threads were cut in order to create a velvet-like pile.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -11878,7 +11900,7 @@
           <label xml:lang="de" type="sort">salamanca (lokomotive)</label>
           <note type="description" xml:lang="de">
             <p>Erste kommerziell erfolgreiche Dampflokomotive und erste Zahnradlokomotive.</p>
-            <p>Die Salamanca wurde durch John Blenkinsop entwickelt und 1812 durch <ref target="../names/gfa-actors-7700">Matthew Murray</ref> gebaut. Sie befuhr die Eisenbahnstrecke Middleton (West Yorkshire) und <ref target="../places/gfa-places-1760">Leeds</ref>.</p>
+            <p>Die Salamanca wurde durch John Blenkinsop entwickelt und 1812 durch <ref target="../names/gfa-actors-7700">Matthew Murray</ref> gebaut. Sie befuhr die Eisenbahnstrecke Middleton (West Yorkshire) und <ref target="https://archives.georgfischer.com/places/1760">Leeds</ref>.</p>
             <p>Johann Conrad Fischer fuhr am 3. September 1814 auf ihr (oder der Schwesterlokomotive Prince Regent) in Leeds ein.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
@@ -11886,7 +11908,7 @@
           <label xml:lang="en" type="sort">salamanca</label>
           <note type="description" xml:lang="en">
             <p>The first commercially successful steam locomotive and the first cog wheel locomotive.</p>
-            <p>The Salamanca was developed by John Blenkinsop and constructed by <ref target="../names/gfa-actors-7700">Matthew Murray</ref> in 1812. It travelled the railway line between Middleton (West Yorkshire) and <ref target="../places/gfa-places-1760">Leeds</ref>.</p>
+            <p>The Salamanca was developed by John Blenkinsop and constructed by <ref target="../names/gfa-actors-7700">Matthew Murray</ref> in 1812. It travelled the railway line between Middleton (West Yorkshire) and <ref target="https://archives.georgfischer.com/places/1760">Leeds</ref>.</p>
             <p>Johann Conrad Fischer travelled to Leeds on the Salamanca (or its sister locomotive Prince Regent) on 3 September 1814.</p>
           </note>
           <note type="sources">
@@ -12300,7 +12322,7 @@
           <label xml:lang="en" type="main">town gas</label>
           <label xml:lang="en" type="sort">town gas</label>
           <note type="description" xml:lang="en">
-            <p>Gas obtained in the 19th century from <ref target="gfa-keywords-8549">coal gasification</ref> for lighting, the main component being hydrogen.</p>
+            <p>Gas used in the 19th century for lighting and obtained through <ref target="gfa-keywords-8549">coal gasification</ref> , the main component being hydrogen.</p>
             <p>Also known as coal or illuminating gas.</p>
           </note>
           <listBibl>
@@ -13541,14 +13563,14 @@
           <label xml:lang="de" type="main">Ägyptenfeldzug</label>
           <label xml:lang="de" type="sort">aegyptenfeldzug</label>
           <note type="description" xml:lang="de">
-            <p>Militärische Expedition Napoleons nach <ref target="../places/gfa-places-3">Ägypten</ref> zwischen 1798 und 1801.</p>
+            <p>Militärische Expedition Napoleons nach <ref target="https://archives.georgfischer.com/places/3">Ägypten</ref> zwischen 1798 und 1801.</p>
             <p>Der Feldzug war begleitet von einer Expertengruppe, der «Commission des sciences et des arts», deren Wirken Erhebliches zur Erforschung Ägyptens und der ausgelösten Begeisterung über das Land im 19. Jahrhundert beitrug.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Egyptian Campaign</label>
           <label xml:lang="en" type="sort">egyptian campaign</label>
           <note type="description" xml:lang="en">
-            <p>Napoleon’s military expedition to <ref target="../places/gfa-places-3">Egypt</ref> between 1798 and 1801.</p>
+            <p>Napoleon’s military expedition to <ref target="https://archives.georgfischer.com/places/3">Egypt</ref> between 1798 and 1801.</p>
             <p>The military expedition was accompanied by a large group of experts, the Commission des sciences et des arts, whose work contributed significantly to the study of Egypt and triggered enthusiasm about the country in the 19th century.</p>
           </note>
           <listBibl>
@@ -14023,14 +14045,14 @@
           <label xml:lang="de" type="sort">oelgas</label>
           <note type="description" xml:lang="de">
             <p>Leuchtgas, das durch die Spaltung von Mineralölen bei höheren Temperaturen erzeugt wird.</p>
-            <p>Typischerweise wurde Ölgas aus Petroleumrückständen, <ref target="https://archives.georgfischer.com/keywords/8589">Steinkohleteeröl</ref>, Walöl und Paraffinöl hergestellt. Ein Pionier in der Ölgasherstellung war <ref target="../names/gfa-actors-7507">Philip Taylor</ref>, der 1824 ein Patent für sein Verfahren erhielt. Doch in den 1830er-Jahren verlor das Ölgas gegenüber dem billigeren Kohlegas an Bedeutung.</p>
+            <p>Typischerweise wurde Ölgas aus Petroleumrückständen, Steinkohleteeröl, Walöl und Paraffinöl hergestellt. Ein Pionier in der Ölgasherstellung war <ref target="../names/gfa-actors-7507">Philip Taylor</ref>, der 1824 ein Patent für sein Verfahren erhielt. Doch in den 1830er-Jahren verlor das Ölgas gegenüber dem billigeren Kohlegas an Bedeutung.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">fuel (or illuminating) gas</label>
           <label xml:lang="en" type="sort">fuel (or illuminating) gas</label>
           <note type="description" xml:lang="en">
             <p>An illuminating gas that is generated by the cleavage of mineral oils at high temperatures.</p>
-            <p>Illuminating gas was usually obtained from petroleum residues, <ref target="https://archives.georgfischer.com/keywords/8589">coal tar oil</ref>, whale oil and paraffin oil. One of the pioneers in the production of illuminating gas was <ref target="../names/gfa-actors-7507">Philip Taylor</ref>, who was granted a patent for his process in 1824. However, illuminating gas lost its importance in the 1830s with the appearance of coal gas, which was cheaper.</p>
+            <p>Illuminating gas was usually obtained from petroleum residues, coal tar oil, whale oil and paraffin oil. One of the pioneers in the production of illuminating gas was <ref target="../names/gfa-actors-7507">Philip Taylor</ref>, who was granted a patent for his process in 1824. However, illuminating gas lost its importance in the 1830s with the appearance of coal gas, which was cheaper.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -16559,9 +16581,12 @@
           <label xml:lang="de" type="main">Amphitheater</label>
           <label xml:lang="de" type="sort">amphitheater</label>
           <note type="description" xml:lang="de">
-            <p>Auch Freilichttheater genannt.</p>
+            <p>Ein kreisförmig geschlossenes Freilichttheater.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <note type="description" xml:lang="en">
+            <p>A circular open-air theatre.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -16599,6 +16624,9 @@
             <p>Ursprünglich in Amerika heimische Obstpflanze.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <note type="description" xml:lang="en">
+            <p>A fruiting plant originally native to South America.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -17934,6 +17962,12 @@
             <p>Auch Bohrschmand oder Bohrschlamm genannt.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">drilling fluid</label>
+          <label xml:lang="en" type="sort">drilling fluid</label>
+          <note type="description" xml:lang="en">
+            <p>A fluid that is pumped into a drill hole during drilling.</p>
+            <p>Also known as drilling mud.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -18837,6 +18871,11 @@
           <label xml:lang="de" type="main">Braunkohle</label>
           <label xml:lang="de" type="sort">braunkohle</label>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">brown coal</label>
+          <label xml:lang="en" type="sort">brown coal</label>
+          <note type="description" xml:lang="en">
+            <p>Also called lignite.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -18998,9 +19037,15 @@
           <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Brennerei (Textilverarbeitung)</label>
           <label xml:lang="de" type="sort">brennerei (textilverarbeitung)</label>
+          <note type="description" xml:lang="de">
+            <p>Veredelungsmethode in der Textilindustrie, bei der die abstehenden Fasern eines Stoffes mithilfe einer offenen Flamme oder eines heissen Eisens weggebrannt werden.</p>
+          </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">singeing (textiles)</label>
           <label xml:lang="en" type="sort">singeing (textiles)</label>
+          <note type="description" xml:lang="en">
+            <p>Refining process in the textile industry: an open flame or a hot iron burn off a fabric’s protruding fibres.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -19440,14 +19485,14 @@
           <label xml:lang="de" type="sort">cicerone</label>
           <note type="description" xml:lang="de">
             <p>Bezeichnung eines Fremdenführers, der den Besuchern Informationen über Sehenswürdigkeiten gibt.</p>
-            <p>Die Bezeichnung wurde vermutlich von dem römischen Politiker und Philosophen <ref target="../names/gfa-actors-7576">Marcus Tullius Cicero</ref> abgeleitet, der durch seine Eloquenz berühmt geworden ist.</p>
+            <p>Die Bezeichnung wurde vermutlich von dem römischen Politiker und Philosophen <ref target="../names/gfa-actors-7576">Marcus Tullius Cicero</ref> abgeleitet, der für seine Eloquenz berühmt war.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">cicerone</label>
           <label xml:lang="en" type="sort">cicerone</label>
           <note type="description" xml:lang="en">
             <p>A term designating a tourist guide who provides visitors with information about the sights.</p>
-            <p>The term was probably derived from the Roman politician and philosopher <ref target="../names/gfa-actors-7576">Marcus Tullius Cicero</ref>, who became famous for his eloquence.</p>
+            <p>The term was probably derived from the Roman politician and philosopher <ref target="../names/gfa-actors-7576">Marcus Tullius Cicero</ref>, who was famous for his eloquence.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -19781,6 +19826,11 @@
             <p>Erstes kommerziell erfolgreiches fotografisches Verfahren, welches 1839 von <ref target="../names/gfa-actors-7806">Louis Jacques Mandé Daguerre</ref> erfunden wurde.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
+          <label xml:lang="en" type="main">Daguerrotype</label>
+          <label xml:lang="en" type="sort">daguerrotype</label>
+          <note type="description" xml:lang="en">
+            <p>First commercially viable photographic method, invented by <ref target="../names/gfa-actors-7806">Louis Jacques Mandé Daguerre</ref> in 1839.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -20580,10 +20630,16 @@
           <label xml:lang="de" type="main">Drummondsches Licht</label>
           <label xml:lang="de" type="sort">drummondsches licht</label>
           <note type="description" xml:lang="de">
-            <p>Licht aus weiss glühendem <ref target="gfa-keywords-9199">Kalkstein</ref>, welches von <ref target="../names/gfa-actors-7822">Thomas Drummond</ref> erfunden wurde.</p>
+            <p>Licht aus weiss glühendem <ref target="gfa-keywords-9198">Calciumoxid</ref>, welches von <ref target="../names/gfa-actors-7822">Thomas Drummond</ref> erfunden wurde.</p>
             <p>Auch Drummond’sches Licht oder Kalklicht genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">Drummond light</label>
+          <label xml:lang="en" type="sort">drummond light</label>
+          <note type="description" xml:lang="en">
+            <p>Light emitted by a cylinder of <ref target="gfa-keywords-9198">quicklime</ref> heated to a high temperature, invented by <ref target="../names/gfa-actors-7822">Thomas Drummond</ref>.</p>
+            <p>Also known as limelight.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -21003,6 +21059,11 @@
             <p>Bezeichnung für Roheisenbarren.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">pig iron</label>
+          <label xml:lang="en" type="sort">pig iron</label>
+          <note type="description" xml:lang="en">
+            <p>Raw iron bars.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -21249,6 +21310,11 @@
             <p>Werkzeug, um Erdlöcher auszuheben.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
+          <label xml:lang="en" type="main">rock drill</label>
+          <label xml:lang="en" type="sort">rock drill</label>
+          <note type="description" xml:lang="en">
+            <p>Tool for drilling down into the earth.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -21471,6 +21537,8 @@
           <label xml:lang="de" type="main">Feilenschmiede</label>
           <label xml:lang="de" type="sort">feilenschmiede</label>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">file smithy</label>
+          <label xml:lang="en" type="sort">file smithy</label>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -21862,13 +21930,13 @@
           <label xml:lang="en" type="main">money changer</label>
           <label xml:lang="en" type="sort">money changer</label>
           <note type="description" xml:lang="en">
-            <p>Profession designation of a merchant engaged in the money exchange business.</p>
+            <p>Professional designation of a merchant engaged in the money exchange business.</p>
             <p>The money changer exchanges foreign means of payment into local or national money for a fee. Today, bureaux de change have replaced the businesses of individual money changers.</p>
           </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-              <bibl>Wechsler. In: Pierer’s Universal-Lexikon, Band 18. Altenburg 1864, S. 957–959. (<ref target="http://www.zeno.org/nid/20011264055">Zeno.org</ref>, 27.10.2023).</bibl>
+              <bibl>Wechsler. In: Pierer’s Universal-Lexikon, Band 18. Altenburg 1864, S. 957–959 (<ref target="http://www.zeno.org/nid/20011264055">Zeno.org</ref>, Stand 27.10.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -22488,15 +22556,15 @@
         </item>
         <item xml:id="gfa-keywords-9089">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de" type="main">The History of Tom Jones, a Foundling von Henry Fielding</label>
-          <label xml:lang="de" type="sort">the history of tom jones, a foundling von henry fielding</label>
+          <label xml:lang="de" type="main">The History of Tom Jones von Fielding</label>
+          <label xml:lang="de" type="sort">the history of tom jones von fielding</label>
           <note type="description" xml:lang="de">
             <p>Bildungs- und Schelmenroman von Henry Fielding.</p>
             <p>Fielding, Henry: The History of Tom Jones, a Foundling. London 1749.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">The History of Tom Jones, a Foundling by Henry Fielding</label>
-          <label xml:lang="en" type="sort">the history of tom jones, a foundling by henry fielding</label>
+          <label xml:lang="en" type="main">The History of Tom Jones by Fielding</label>
+          <label xml:lang="en" type="sort">the history of tom jones by fielding</label>
           <note type="description" xml:lang="en">
             <p>A picaresque novel by Henry Fielding.</p>
             <p>Fielding, Henry: The History of Tom Jones, a Foundling. London 1749.</p>
@@ -22521,15 +22589,15 @@
         </item>
         <item xml:id="gfa-keywords-9090">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de" type="main">The History of the Adventures of Joseph Andrews von Henry Fielding</label>
-          <label xml:lang="de" type="sort">the history of the adventures of joseph andrews von henry fielding</label>
+          <label xml:lang="de" type="main">The Adventures of Joseph Andrews von Fielding</label>
+          <label xml:lang="de" type="sort">the adventures of joseph andrews von fielding</label>
           <note type="description" xml:lang="de">
             <p>Erster Roman von Henry Fielding.</p>
             <p>Fielding, Henry: The History of the Adventures of Joseph Andrews and of his Friend Mr. Abraham Adams. London 1742.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">The History of the Adventures of Joseph Andrews by Henry Fielding</label>
-          <label xml:lang="en" type="sort">the history of the adventures of joseph andrews by henry fielding</label>
+          <label xml:lang="en" type="main">The Adventures of Joseph Andrews by Fielding</label>
+          <label xml:lang="en" type="sort">the adventures of joseph andrews by fielding</label>
           <note type="description" xml:lang="en">
             <p>The first novel published by Henry Fielding.</p>
             <p>Fielding, Henry: The History of the Adventures of Joseph Andrews and of his Friend Mr. Abraham Adams. London 1742.</p>
@@ -22794,7 +22862,7 @@
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-              <bibl>Hammerwerk. In: Pierer's Universal-Lexikon, Band 7. Altenburg 1859, S. 916. (<ref target=" http://www.zeno.org/nid/20010073485">Zeno.org</ref>, 27.10.2023).</bibl>
+              <bibl>Hammerwerk. In: Pierer's Universal-Lexikon, Band 7. Altenburg 1859, S. 916 (<ref target=" http://www.zeno.org/nid/20010073485">Zeno.org</ref>, Stand 27.10.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -23404,9 +23472,9 @@
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-              <bibl>Glaskunstindustrie. In: Meyers Großes Konversations-Lexikon, Band 8. Leipzig 1907, S. 1–5. (<ref target="http://www.zeno.org/nid/20006687547">Zeno.org</ref>, Stand 6.11.2023).</bibl>
+              <bibl>Glaskunstindustrie. In: Meyers Großes Konversations-Lexikon, Band 8. Leipzig 1907, S. 1–5 (<ref target="http://www.zeno.org/nid/20006687547">Zeno.org</ref>, Stand 6.11.2023).</bibl>
               <bibl>Glasmacher. In: Adelung, Grammatisch-kritisches Wörterbuch der Hochdeutschen Mundart, Band 2. Leipzig 1796, S. 697f. (<ref target="http://www.zeno.org/nid/2000019610X">Zeno.org</ref>, Stand 27.10.2023).</bibl>
-              <bibl>Hyalurgie. In: Meyers Großes Konversations-Lexikon, Band 9. Leipzig 1907, S. 685. (<ref target=" http://www.zeno.org/nid/20006801838">Zeno.org</ref>, Stand 27.10.2023).</bibl>
+              <bibl>Hyalurgie. In: Meyers Großes Konversations-Lexikon, Band 9. Leipzig 1907, S. 685 (<ref target=" http://www.zeno.org/nid/20006801838">Zeno.org</ref>, Stand 27.10.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -23639,7 +23707,7 @@
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-              <bibl>Glocke. In: Lueger, Otto: Lexikon der gesamten Technik und ihrer Hilfswissenschaften, Bd. 4 Stuttgart, Leipzig 1906., S. 574. (<ref target="http://www.zeno.org/nid/2000603344X">Zeno.org</ref>, 27.10.2023).</bibl>
+              <bibl>Glocke. In: Lueger, Otto: Lexikon der gesamten Technik und ihrer Hilfswissenschaften, Bd. 4 Stuttgart, Leipzig 1906, S. 574 (<ref target="http://www.zeno.org/nid/2000603344X">Zeno.org</ref>, Stand 27.10.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -23677,6 +23745,11 @@
             <p>Industrieofen zum <ref target="gfa-keywords-3040">Glühen</ref> von Metallen.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">annealing furnace</label>
+          <label xml:lang="en" type="sort">annealing furnace</label>
+          <note type="description" xml:lang="en">
+            <p>Industrial furnace for <ref target="gfa-keywords-3040">annealing</ref> metals.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -23700,7 +23773,7 @@
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
-              <bibl>Goldfirniß. In: Pierer's Universal-Lexikon, Band 7. Altenburg 1859, S. 452. (<ref target=" http://www.zeno.org/nid/20010022961">Zeno.org</ref>, 27.10.2023).</bibl>
+              <bibl>Goldfirniß. In: Pierer's Universal-Lexikon, Band 7. Altenburg 1859, S. 452 (<ref target=" http://www.zeno.org/nid/20010022961">Zeno.org</ref>, Stand 27.10.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -24629,9 +24702,14 @@
           <label xml:lang="de" type="sort">infusorien</label>
           <note type="description" xml:lang="de">
             <p>Kleine, sich im Aufguss von pflanzlichem Material entwickelnde Tierchen.</p>
-            <p>Auch infusorische Räderthiere genannt.</p>
+            <p>Auch Aufgusstierchen genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">infusoria</label>
+          <label xml:lang="en" type="sort">infusoria</label>
+          <note type="description" xml:lang="en">
+            <p>Microorganisms that develop in water containing plant material.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -25355,6 +25433,11 @@
             <p>Handwerkliche Produktion von Holzkohle durch <ref target="gfa-keywords-8905">Holzverkohlung</ref> in Gruben und Meilern.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">charcoal-burning</label>
+          <label xml:lang="en" type="sort">charcoal-burning</label>
+          <note type="description" xml:lang="en">
+            <p>Small-scale production of charcoal by <ref target="gfa-keywords-8905">carbonising</ref> wood in pits and wood piles.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -25386,6 +25469,11 @@
             <p>Ofen für die <ref target="gfa-keywords-9732">Koksherstellung/Verkokung</ref> in einer Kokerei.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">coking oven</label>
+          <label xml:lang="en" type="sort">coking oven</label>
+          <note type="description" xml:lang="en">
+            <p>Oven for baking coal to produce <ref target="gfa-keywords-9732">coke</ref> in a coking plant.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -25396,9 +25484,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Tabakdispenser</label>
           <label xml:lang="de" type="sort">tabakdispenser</label>
+          <note type="description" xml:lang="de">
+            <p>Maschine zur automatischen Herausgabe von <ref target="gfa-keywords-9072">Tabak</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">tobacco dispenser</label>
           <label xml:lang="en" type="sort">tobacco dispenser</label>
+          <note type="description" xml:lang="en">
+            <p>A machine for the automatic dispensation of <ref target="gfa-keywords-9072">tobacco</ref>.</p>
+          </note>
         </item>
         <item xml:id="gfa-keywords-9234">
           <objectType xml:lang="de">anderes/diverses</objectType>
@@ -25573,9 +25667,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Streckwerk</label>
           <label xml:lang="de" type="sort">streckwerk</label>
+          <note type="description" xml:lang="de">
+            <p>Werk für das <ref target="gfa-keywords-9098">Verstrecken</ref> von <ref target="gfa-keywords-4347">Metall</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">stretching work</label>
           <label xml:lang="en" type="sort">stretching work</label>
+          <note type="description" xml:lang="en">
+            <p>A work for the <ref target="gfa-keywords-9098">stretching</ref> of <ref target="gfa-keywords-4347">metals</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -25698,6 +25798,8 @@
           <label xml:lang="de" type="main">Konzession</label>
           <label xml:lang="de" type="sort">konzession</label>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">concession</label>
+          <label xml:lang="en" type="sort">concession</label>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -25815,9 +25917,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Kupfergeld</label>
           <label xml:lang="de" type="sort">kupfergeld</label>
+          <note type="description" xml:lang="de">
+            <p>Aus <ref target="gfa-keywords-8643">Kupfer</ref> geschlagenes <ref target="gfa-keywords-9326">Münzgeld</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">copper coins</label>
           <label xml:lang="en" type="sort">copper coins</label>
+          <note type="description" xml:lang="en">
+            <p><ref target="gfa-keywords-9326">Coinage</ref> made of <ref target="gfa-keywords-8643">copper</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -25833,6 +25941,12 @@
             <p>Auch Kupferkies genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">chalcopyrite</label>
+          <label xml:lang="en" type="sort">chalcopyrite</label>
+          <note type="description" xml:lang="en">
+            <p>Mineral belonging to the class of sulphides and sulphosalts.</p>
+            <p>Also known as copper pyrites.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -26333,9 +26447,17 @@
           <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Malerei</label>
           <label xml:lang="de" type="sort">malerei</label>
+          <note type="description" xml:lang="de">
+            <p>Die Kunst, ein Bild mit Farbe auf eine feste Grundlage aufzutragen.</p>
+            <p>Die Malerei ist eine der ältesten künstlerischen Ausdrucksweisen des Menschen.</p>
+          </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">painting</label>
           <label xml:lang="en" type="sort">painting</label>
+          <note type="description" xml:lang="en">
+            <p>The art of painting a picture on a firm surface.</p>
+            <p>Painting is one of humanity’s oldest artistic form of expression.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -27297,6 +27419,10 @@
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">dissolving views</label>
           <label xml:lang="en" type="sort">dissolving views</label>
+          <note type="description" xml:lang="en">
+            <p>Projected images that gradually transition from one image to the next.</p>
+            <p>Most dissolving views in the 19th century were painted, but these were gradually replaced by hand-coloured <ref target="gfa-keywords-18">photographs</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -27630,9 +27756,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Hydromechanische Patent-Presse</label>
           <label xml:lang="de" type="sort">hydromechanische patent-presse</label>
+          <note type="description" xml:lang="de">
+            <p>Eine Art von <ref target="gfa-keywords-9380">hydraulischer Presse</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">hydraulic press</label>
           <label xml:lang="en" type="sort">hydraulic press</label>
+          <note type="description" xml:lang="en">
+            <p>A kind of <ref target="gfa-keywords-9380">hydraulic press</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -27721,6 +27853,8 @@
           <label xml:lang="de" type="main">Physiker</label>
           <label xml:lang="de" type="sort">physiker</label>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">physicist</label>
+          <label xml:lang="en" type="sort">physicist</label>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -28376,12 +28510,19 @@
           <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Rauchverbrennungsofen</label>
           <label xml:lang="de" type="sort">rauchverbrennungsofen</label>
+          <note type="description" xml:lang="de">
+            <p><ref target="gfa-keywords-90">Ofentyp</ref>, bei dem kalte Luft dem Rauchkanal zugeführt wird, um den im Rauch sich befindenden Restbrennstoff zu verbrennen.</p>
+          </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">smoke incinerator</label>
           <label xml:lang="en" type="sort">smoke incinerator</label>
+          <note type="description" xml:lang="en">
+            <p><ref target="gfa-keywords-90">Furnace</ref> type that feeds cold air to the smoke channel to burn the residual fuel left in the smoke.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>Matthaey, Carl Ludwig: Der Ofenbaumeister und Feuermechanist, oder die Kunst, die Wirkung des Feuers zu vermehren. Weimar 1841, S. 199f.</bibl>
             </listBibl>
           </note>
         </item>
@@ -28438,9 +28579,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Religion</label>
           <label xml:lang="de" type="sort">religion</label>
+          <note type="description" xml:lang="de">
+            <p>Glaube an als existent vorausgesetzte überirdische, heilige, göttliche Mächte, dessen Lehre (Festlegungen, Dogmen etc.) und seine Ausübung.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">religion</label>
           <label xml:lang="en" type="sort">religion</label>
+          <note type="description" xml:lang="en">
+            <p>The belief in supernatural, sacred, divine powers that are presupposed to exist, and its associate teaching (doctrines, etc.) and practice.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -28683,9 +28830,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Säbelklinge</label>
           <label xml:lang="de" type="sort">saebelklinge</label>
+          <note type="description" xml:lang="de">
+            <p>Gekrümmtes und einseitig geschliffenes Schwert.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">sabre blade</label>
           <label xml:lang="en" type="sort">sabre blade</label>
+          <note type="description" xml:lang="en">
+            <p>A sword with a curved, single-edged blade.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -29521,13 +29674,14 @@
           <label xml:lang="de" type="sort">silbernitrat</label>
           <note type="description" xml:lang="de">
             <p>Ein Salz der Salpetersäure.</p>
-            <p>Auch Salpetersaures Silber genannt.</p>
+            <p>Auch salpetersaures Silber genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">silver nitrate</label>
           <label xml:lang="en" type="sort">silver nitrate</label>
           <note type="description" xml:lang="en">
             <p>A salt of nitric acid.</p>
+            <p>Also called nitric acid silver.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -30089,6 +30243,8 @@
           <label xml:lang="de" type="main">Rotbrüchiger Stahl</label>
           <label xml:lang="de" type="sort">rotbruechiger stahl</label>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">red-short steel</label>
+          <label xml:lang="en" type="sort">red-short steel</label>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30200,9 +30356,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Stahlproduktion</label>
           <label xml:lang="de" type="sort">stahlproduktion</label>
+          <note type="description" xml:lang="de">
+            <p>Die Produktion von <ref target="gfa-keywords-613">Stahl</ref> aus <ref target="gfa-keywords-8672">Eisen</ref>, <ref target="gfa-keywords-9227">Kohlenstoff</ref> und Legierungsmitteln.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">steel manufacturing</label>
           <label xml:lang="en" type="sort">steel manufacturing</label>
+          <note type="description" xml:lang="en">
+            <p>The making of <ref target="gfa-keywords-613">steel</ref> from <ref target="gfa-keywords-8672">iron</ref>, <ref target="gfa-keywords-9227">carbon</ref> and other alloying elements.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30228,6 +30390,8 @@
           <label xml:lang="de" type="main">Stahlwaren</label>
           <label xml:lang="de" type="sort">stahlwaren</label>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">steel wares</label>
+          <label xml:lang="en" type="sort">steel wares</label>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30347,9 +30511,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Gussstahlfabrik</label>
           <label xml:lang="de" type="sort">gussstahlfabrik</label>
+          <note type="description" xml:lang="de">
+            <p>Fabrik für die Produktion von <ref target="gfa-keywords-8482">Gussstahl</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">cast steel manufactory</label>
           <label xml:lang="en" type="sort">cast steel manufactory</label>
+          <note type="description" xml:lang="en">
+            <p>Factory for the production of <ref target="gfa-keywords-8482">cast steel</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30455,9 +30625,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Tierhaltung</label>
           <label xml:lang="de" type="sort">tierhaltung</label>
+          <note type="description" xml:lang="de">
+            <p>Die Haltung von Nutztieren für die wirtschaftliche Nutzung ihrer Naturprodukte oder ihrer Arbeitskraft.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">animal husbandry</label>
           <label xml:lang="en" type="sort">animal husbandry</label>
+          <note type="description" xml:lang="en">
+            <p>The rearing of animals for the profitable use of their products or their labour power.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30510,9 +30686,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Steigbügel</label>
           <label xml:lang="de" type="sort">steigbuegel</label>
+          <note type="description" xml:lang="de">
+            <p>Fussstütze für einen Reiter.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">stirrup</label>
           <label xml:lang="en" type="sort">stirrup</label>
+          <note type="description" xml:lang="en">
+            <p>The foot support for a horse rider.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30540,9 +30722,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Stickerei</label>
           <label xml:lang="de" type="sort">stickerei</label>
+          <note type="description" xml:lang="de">
+            <p>Kunst, mit Nadel und Faden auf einem Gewebe ein Bild zu erzeugen.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">embroidery</label>
           <label xml:lang="en" type="sort">embroidery</label>
+          <note type="description" xml:lang="en">
+            <p>The art of decorating cloth using a needle and thread.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30716,6 +30904,8 @@
           <label xml:lang="de" type="main">Taucher</label>
           <label xml:lang="de" type="sort">taucher</label>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">diver</label>
+          <label xml:lang="en" type="sort">diver</label>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30748,6 +30938,12 @@
             <p>Das typische Helmtauchgerät des 19. Jahrhunderts wurde von Augustus Siebe (1788–1872) entwickelt und produziert.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">diving helmet</label>
+          <label xml:lang="en" type="sort">diving helmet</label>
+          <note type="description" xml:lang="en">
+            <p>Diving equipment consisting of a diving suit and a metal helmet with hoses attached to it for the supply of air and removal of exhaled gas.</p>
+            <p>The diving helmet typically used in the 19th century was developed and produced by Augustus Siebe (1788–1872).</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30829,9 +31025,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Teeservice</label>
           <label xml:lang="de" type="sort">teeservice</label>
+          <note type="description" xml:lang="de">
+            <p>Sammlung von Geschirr – meist aus Keramik – für die Zubereitung und den Konsum von <ref target="gfa-keywords-9558">Tee</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">tea service</label>
           <label xml:lang="en" type="sort">tea service</label>
+          <note type="description" xml:lang="en">
+            <p>Collection of (ceramic) tableware for the traditional preparation and consumption of <ref target="gfa-keywords-9558">tea</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30855,9 +31057,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Teer</label>
           <label xml:lang="de" type="sort">teer</label>
+          <note type="description" xml:lang="de">
+            <p>Dunkle, dickflüssige Substanz, die bei der <ref target="gfa-keywords-8905">Pyrolyse</ref> von <ref target="gfa-keywords-544">Holz</ref>, <ref target="gfa-keywords-2570">Kohle</ref>, Öl und anderen organischen Stoffen anfällt.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">tar</label>
           <label xml:lang="en" type="sort">tar</label>
+          <note type="description" xml:lang="en">
+            <p>Dark, thick substance that is obtained via <ref target="gfa-keywords-8905">pyrolysis</ref> of <ref target="gfa-keywords-544">wood</ref>, <ref target="gfa-keywords-2570">coal</ref>, petroleum and other organic materials.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30952,6 +31160,8 @@
           <label xml:lang="de" type="main">Times Illustrated</label>
           <label xml:lang="de" type="sort">times illustrated</label>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
+          <label xml:lang="en" type="main">Times Illustrated</label>
+          <label xml:lang="en" type="sort">times illustrated</label>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30962,9 +31172,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Töpferei</label>
           <label xml:lang="de" type="sort">toepferei</label>
+          <note type="description" xml:lang="de">
+            <p>Die Kunst der Erzeugung von <ref target="gfa-keywords-9575">Waren aus Ton</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">pottery</label>
           <label xml:lang="en" type="sort">pottery</label>
+          <note type="description" xml:lang="en">
+            <p>The craft of making <ref target="gfa-keywords-9575">pottery</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30992,12 +31208,19 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Töpferware</label>
           <label xml:lang="de" type="sort">toepferware</label>
+          <note type="description" xml:lang="de">
+            <p>Produkt aus gebranntem Ton.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">pottery</label>
           <label xml:lang="en" type="sort">pottery</label>
+          <note type="description" xml:lang="en">
+            <p>Manufacturing goods made from fired clay.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>Töpferware. In: Brockhaus’ Kleines Konversations-Lexikon, fünfte Auflage, Band 2. Leipzig 1911, S. 849 (<ref target="http://www.zeno.org/nid/20001625047">Zeno.org</ref>, Stand 10.11.2023).</bibl>
             </listBibl>
           </note>
         </item>
@@ -31005,9 +31228,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Traube</label>
           <label xml:lang="de" type="sort">traube</label>
+          <note type="description" xml:lang="de">
+            <p>Fruchtstand der Weinreben.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">grape</label>
           <label xml:lang="en" type="sort">grape</label>
+          <note type="description" xml:lang="en">
+            <p>The fruit of grapevine.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31035,9 +31264,17 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Traubenzucker</label>
           <label xml:lang="de" type="sort">traubenzucker</label>
+          <note type="description" xml:lang="de">
+            <p>Eine Bezeichnung für Glukose.</p>
+            <p>Der Name wurde 1838 von Jean Baptiste Dumas geprägt und entspringt der ursprünglichen Gewinnung von Traubenzucker aus <ref target="gfa-keywords-9577">Weintrauben</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">glucose</label>
           <label xml:lang="en" type="sort">glucose</label>
+          <note type="description" xml:lang="en">
+            <p>Also called grape sugar.</p>
+            <p>The term “grape sugar” was coined by Jean Baptiste Dumas in 1838 and refers to the original extraction of grape sugar from <ref target="gfa-keywords-9577">grapes</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31146,9 +31383,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Trockenkammer</label>
           <label xml:lang="de" type="sort">trockenkammer</label>
+          <note type="description" xml:lang="de">
+            <p>Kammer für das Trocknen von <ref target="gfa-keywords-9575">Keramik</ref> und Gussformen, aber auch von anderen Fabrikaten wie <ref target="gfa-keywords-5503">Papier</ref> oder Stoffe.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">drying kiln</label>
           <label xml:lang="en" type="sort">drying kiln</label>
+          <note type="description" xml:lang="en">
+            <p>A chamber for drying <ref target="gfa-keywords-9575">pottery</ref> and casting moulds, but also other manufactures such as <ref target="gfa-keywords-5503">paper</ref> and fabrics.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31217,9 +31460,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Uhrenfeder</label>
           <label xml:lang="de" type="sort">uhrenfeder</label>
+          <note type="description" xml:lang="de">
+            <p>Die Antriebsfeder in einem Uhrwerk, besteht aus <ref target="gfa-keywords-8467">Federstahl</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">watch spring</label>
           <label xml:lang="en" type="sort">watch spring</label>
+          <note type="description" xml:lang="en">
+            <p>The mainspring of a watch mechanism. It is usually made of <ref target="gfa-keywords-8467">spring steel</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31235,9 +31484,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Uhrmacherei</label>
           <label xml:lang="de" type="sort">uhrmacherei</label>
+          <note type="description" xml:lang="de">
+            <p>Die Kunst, <ref target="gfa-keywords-9590">Uhren</ref> und Uhrwerke zu konstruieren.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">watch-making</label>
           <label xml:lang="en" type="sort">watch-making</label>
+          <note type="description" xml:lang="en">
+            <p>The art of assembling <ref target="gfa-keywords-9590">watches</ref> and clockworks.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31263,13 +31518,13 @@
           <label xml:lang="de" type="main">Umschmelzherd</label>
           <label xml:lang="de" type="sort">umschmelzherd</label>
           <note type="description" xml:lang="de">
-            <p>Ofen zum industriellen Umschmelzen von eisenhaltigen Produkten.</p>
+            <p><ref target="gfa-keywords-90">Ofen</ref> zum industriellen Umschmelzen von <ref target="gfa-keywords-8672">eisenhaltigen</ref> Produkten.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">remelting furnace</label>
           <label xml:lang="en" type="sort">remelting furnace</label>
           <note type="description" xml:lang="en">
-            <p>Furnace for the industrial remelting of iron-containing products.</p>
+            <p><ref target="gfa-keywords-90">Furnace</ref> for the industrial remelting of <ref target="gfa-keywords-8672">iron</ref>-containing products.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -31421,12 +31676,19 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Waffenfabrik</label>
           <label xml:lang="de" type="sort">waffenfabrik</label>
+          <note type="description" xml:lang="de">
+            <p>Fabrik zur Herstellung von <ref target="gfa-keywords-3945">Waffen</ref>, insbesondere Schusswaffen.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">weapons factory</label>
           <label xml:lang="en" type="sort">weapons factory</label>
+          <note type="description" xml:lang="en">
+            <p>A factory for the production of <ref target="gfa-keywords-3945">arms</ref>, especially firearms.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>Waffenfabrik. In: Karl Ernst Georges: Kleines deutsch-lateinisches Handwörterbuch. Hannover und Leipzig 1910 (Nachdruck Darmstadt 1999), Sp. 2623 (<ref target="http://www.zeno.org/nid/20002149761">Zeno.org</ref>, Stand 10.11.2023).</bibl>
             </listBibl>
           </note>
         </item>
@@ -31467,9 +31729,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Eiserner Wasserregulator</label>
           <label xml:lang="de" type="sort">eiserner wasserregulator</label>
+          <note type="description" xml:lang="de">
+            <p>Element einer Windmaschine.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">iron water regulator</label>
           <label xml:lang="en" type="sort">iron water regulator</label>
+          <note type="description" xml:lang="en">
+            <p>A component of a wind machine.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31485,6 +31753,12 @@
             <p>Auch Wattscher Centrifugal-Regulator genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">centrifugal regulator</label>
+          <label xml:lang="en" type="sort">centrifugal regulator</label>
+          <note type="description" xml:lang="en">
+            <p>A mechanical governor invented by <ref target="../names/gfa-actors-7523">James Watt</ref> to control the speed of a <ref target="gfa-keywords-8651">steam engine</ref>.</p>
+            <p>Also known as a fly-ball governor.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31506,9 +31780,15 @@
           <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Weber</label>
           <label xml:lang="de" type="sort">weber</label>
+          <note type="description" xml:lang="de">
+            <p>Der handwerkliche Beruf des <ref target="gfa-keywords-9614">Webens</ref>.</p>
+          </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">weaver</label>
           <label xml:lang="en" type="sort">weaver</label>
+          <note type="description" xml:lang="en">
+            <p>The artisanal occupation of <ref target="gfa-keywords-9614">weaving</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31533,12 +31813,18 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9614">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Weberei</label>
           <label xml:lang="de" type="sort">weberei</label>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <note type="description" xml:lang="de">
+            <p>Die Kunst der Herstellung von Stoffen durch Verweben von Kett- und Schussfäden.</p>
+          </note>
+          <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">weaving</label>
           <label xml:lang="en" type="sort">weaving</label>
+          <note type="description" xml:lang="en">
+            <p>The art of producing textiles by interlacing threads in a right angle.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31609,6 +31895,11 @@
             <p>Anbaufläche für Weinreben.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">vineyard</label>
+          <label xml:lang="en" type="sort">vineyard</label>
+          <note type="description" xml:lang="en">
+            <p>Parcel of land used for the cultivation of vines.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31640,6 +31931,8 @@
           <label xml:lang="de" type="main">Weltverbesserer</label>
           <label xml:lang="de" type="sort">weltverbesserer</label>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">philanthropist</label>
+          <label xml:lang="en" type="sort">philanthropist</label>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31650,9 +31943,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Werkzeugmacher</label>
           <label xml:lang="de" type="sort">werkzeugmacher</label>
+          <note type="description" xml:lang="de">
+            <p>Ausbildungsberuf für die Herstellung und Wartung von Werkzeugen aus <ref target="gfa-keywords-4347">Metall</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">toolmaker</label>
           <label xml:lang="en" type="sort">toolmaker</label>
+          <note type="description" xml:lang="en">
+            <p>Designation for the skilled trade in the production and maintenance of <ref target="gfa-keywords-4347">metal</ref> tools.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31711,11 +32010,15 @@
           <label xml:lang="de" type="main">Windofen</label>
           <label xml:lang="de" type="sort">windofen</label>
           <note type="description" xml:lang="de">
+            <p><ref target="gfa-keywords-90">Ofen</ref> mit Luftzuführung ohne <ref target="gfa-keywords-9731">Blasebälge</ref>.</p>
             <p>Auch Zugofen.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">air-kiln</label>
           <label xml:lang="en" type="sort">air-kiln</label>
+          <note type="description" xml:lang="en">
+            <p><ref target="gfa-keywords-90">Furnace</ref> type, where air supply is provided without <ref target="gfa-keywords-9731">bellows</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -31994,9 +32297,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Zigarre</label>
           <label xml:lang="de" type="sort">zigarre</label>
+          <note type="description" xml:lang="de">
+            <p>Rauchmittel aus gerollten Tabakblättern.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">cigar</label>
           <label xml:lang="en" type="sort">cigar</label>
+          <note type="description" xml:lang="en">
+            <p>Roll of tobacco wrapped in leaf tobacco.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -32076,12 +32385,19 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Zinnherd</label>
           <label xml:lang="de" type="sort">zinnherd</label>
+          <note type="description" xml:lang="de">
+            <p>Herd für das Bereithalten schmelzflüssigen <ref target="gfa-keywords-8706">Zinns</ref> für <ref target="gfa-keywords-8641">Verzinnungsprozesse</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">tin pot</label>
           <label xml:lang="en" type="sort">tin pot</label>
+          <note type="description" xml:lang="en">
+            <p>A type of hearth keeping ready a bath of molten <ref target="gfa-keywords-8706">tin</ref> for use in the <ref target="gfa-keywords-8641">tinning-process</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>Weissblech. In: Brockhaus’ Kleines Konversations-Lexikon, 5. Auflage, Band 2. Leipzig 1911, S. 966 (<ref target="http://www.zeno.org/nid/20001675230">Zeno.org</ref>, Stand 14.10.2023).</bibl>
             </listBibl>
           </note>
         </item>
@@ -32093,6 +32409,11 @@
             <p>Eine gewerbliche Einrichtung zum Sieden sowie zur Fabrikation von Zucker.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">sugar refinery</label>
+          <label xml:lang="en" type="sort">sugar refinery</label>
+          <note type="description" xml:lang="en">
+            <p>A commercial facility for the screening and refining of sugar.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -32103,9 +32424,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Drehstuhl</label>
           <label xml:lang="de" type="sort">drehstuhl</label>
+          <note type="description" xml:lang="de">
+            <p>Historische Bezeichnung für eine <ref target="gfa-keywords-2887">Drehbank</ref>, insbesondere in der <ref target="gfa-keywords-9593">Uhrenindustrie</ref>.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">lathe</label>
           <label xml:lang="en" type="sort">lathe</label>
+          <note type="description" xml:lang="en">
+            <p>Historical term for a <ref target="gfa-keywords-2887">lathe</ref>, mostly used in the context of the <ref target="gfa-keywords-9593">watchmaking</ref> industry.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -32121,8 +32448,8 @@
             <p>Die Zeitschrift wurde 1811 in «Paris, Wien und London», dann 1812 in «Paris und Wien» und schliesslich 1814 in «London, Paris und Wien» umbenannt. Ab 1815 wurde sie nicht mehr publiziert.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">London &amp; Paris</label>
-          <label xml:lang="en" type="sort">london &amp; paris</label>
+          <label xml:lang="en" type="main">Journal London &amp; Paris</label>
+          <label xml:lang="en" type="sort">journal london &amp; paris</label>
           <note type="description" xml:lang="en">
             <p>An English-French entertainment journal.</p>
             <p>The journal was renamed ‘Paris, Vienna and London’ in 1811, ‘Paris and Vienna’ in 1812 and finally ‘London, Paris and Vienna’ in 1814. It ceased publication in 1815.</p>
@@ -32280,16 +32607,16 @@
         </item>
         <item xml:id="gfa-keywords-9650">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de" type="main">London Journal for Arts and Sciences von William Newton</label>
-          <label xml:lang="de" type="sort">london journal for arts and sciences von william newton</label>
+          <label xml:lang="de" type="main">London Journal for Arts and Sciences von Newton</label>
+          <label xml:lang="de" type="sort">london journal for arts and sciences von newton</label>
           <note type="description" xml:lang="de">
             <p>Englische Fachzeitschrift. Berichtete zwischen 1821 und 1866 von neuen Erfindungen in der Wissenschaft und Philosophie.</p>
             <p>Die Zeitschrift wurde von William Newton (1786–1861) und ab 1855 vom Unternehmen Newton and Son veröffentlicht</p>
             <p>Unter anderem auch <hi rend="italic">London journal of arts, sciences, and manufactures, and repertory of patent inventions</hi> und <hi rend="italic">Newton’s London journal of arts and sciences</hi> genannt.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">London Journal for Arts and Sciences by William Newton</label>
-          <label xml:lang="en" type="sort">london journal for arts and sciences by william newton</label>
+          <label xml:lang="en" type="main">London Journal for Arts and Sciences by Newton</label>
+          <label xml:lang="en" type="sort">london journal for arts and sciences by newton</label>
           <note type="description" xml:lang="en">
             <p>An English periodical which reported on new inventions in science and natural philosophy between 1821 and 1866.</p>
             <p>The journal was published by William Newton (1786–1861) and, as of 1855, by the company Newton and Son.</p>
@@ -32622,15 +32949,15 @@
         </item>
         <item xml:id="gfa-keywords-9667">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de" type="main">Abenteuer und Fahrten des frommen Helden Aeneas von Johann Aloys Blumauer</label>
-          <label xml:lang="de" type="sort">abenteuer und fahrten des frommen helden aeneas von johann aloys blumauer</label>
+          <label xml:lang="de" type="main">Abenteuer des frommen Helden Aeneas von Blumauer</label>
+          <label xml:lang="de" type="sort">abenteuer des frommen helden aeneas von blumauer</label>
           <note type="description" xml:lang="de">
             <p>Vom österreichischen Schriftsteller <ref target="../names/gfa-actors-7784">Johann Aloys Blumauer</ref> veröffentlichtes Epos von Vergil.</p>
             <p>Auch <hi rend="italic">Blumauer’s travestirte Aeneide</hi> genannt.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
-          <label xml:lang="en" type="main">Abenteuer und Fahrten des frommen Helden Aeneas by Johann Aloys Blumauer</label>
-          <label xml:lang="en" type="sort">abenteuer und fahrten des frommen helden aeneas by johann aloys blumauer</label>
+          <label xml:lang="en" type="main">Abenteuer des frommen Helden Aeneas by Blumauer</label>
+          <label xml:lang="en" type="sort">abenteuer des frommen helden aeneas by blumauer</label>
           <note type="description" xml:lang="en">
             <p>A travesty of Vergil’s epic by the Austrian writer <ref target="../names/gfa-actors-7784">Johann Aloys Blumauer</ref>.</p>
             <p>Also known as <hi rend="italic">Blumauer’s travestirte Aeneide</hi>.</p>
@@ -32885,9 +33212,14 @@
           <label xml:lang="de" type="main">Affentheater</label>
           <label xml:lang="de" type="sort">affentheater</label>
           <note type="description" xml:lang="de">
-            <p>Historische Theaterform mit verkleideten Affen und Hunden.</p>
+            <p>Historische Theaterform mit als Menschen verkleideten Affen und Hunden.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">monkey theatre</label>
+          <label xml:lang="en" type="sort">monkey theatre</label>
+          <note type="description" xml:lang="en">
+            <p>An early modern form of entertainment involving monkeys and dogs dressed up as humans.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Affentheater"/>
@@ -32907,6 +33239,11 @@
             <p>Fischer bezeichnete seine Erfindung als <ref target="gfa-keywords-9707">Gegossenes Stabeisen</ref>. Damit war nicht das Giessen von <ref target="gfa-keywords-8509">Stabeisen</ref> gemeint, sondern der Formguss aus geschmolzenem Stabeisen.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <note type="description" xml:lang="en">
+            <p>Process for manufacturing workpieces by pouring molten steel into dies and then leaving it to cool.</p>
+            <p>Johann Conrad Fischer began applying the method in 1845 and travelled to England to publicize it that same year.</p>
+            <p>Fischer called his invention <ref target="gfa-keywords-9707">cast bar iron</ref>. What this term actually meant was not the actual casting of <ref target="gfa-keywords-8509">bar iron</ref>, but rather the castings made of molten bar iron.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Gnade, Rudolf/Schib, Karl: Johann Conrad Fischer 1773–1854. Aus der Schriftenreihe zum hundertfünfzigjährigen Bestehen der Georg Fischer Werke. Schaffhausen 1954, S. 59–66.</bibl>
@@ -32938,10 +33275,16 @@
           <label xml:lang="de" type="main">La Diligence</label>
           <label xml:lang="de" type="sort">la diligence</label>
           <note type="description" xml:lang="de">
-            <p>Französische Postkutschenzeitschrift, welche zwischen 1845 und 1850 allmonatlich herausgegeben wurde.</p>
-            <p>Administration de la Diligence, du Chemin de fer, de la Malle-poste: La Diligence. journal des voyageurs. littérature, moeurs, théâtres, modes, itinéraires, voyages, industrie. Paris, 1845–1850 (<ref target="https://catalogue.bnf.fr/ark:/12148/cb327574209">Bibliothèque Nationale de France</ref>, Stand 3.4.2023).</p>
+            <p>Französische Postkutschenzeitschrift, die zwischen 1845 und 1850 allmonatlich herausgegeben wurde.</p>
+            <p>Administration de la Diligence, du Chemin de fer, de la Malle-poste: La Diligence. Journal des voyageurs. Littérature, moeurs, théâtres, modes, itinéraires, voyages, industrie. Paris, 1845–1850 (<ref target="https://catalogue.bnf.fr/ark:/12148/cb327574209">Bibliothèque Nationale de France</ref>, Stand 3.4.2023).</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
+          <label xml:lang="en" type="main">La Diligence</label>
+          <label xml:lang="en" type="sort">la diligence</label>
+          <note type="description" xml:lang="en">
+            <p>French magazine for distribution in stage-coaches, published monthly between 1845 and 1850.</p>
+            <p>Administration de la Diligence, du Chemin de fer, de la Malle-poste: La Diligence. Journal des voyageurs. Littérature, moeurs, théâtres, modes, itinéraires, voyages, industrie. Paris, 1845–1850 (<ref target="https://catalogue.bnf.fr/ark:/12148/cb327574209">Bibliothèque Nationale de France</ref>, as per 3.4.2023).</p>
+          </note>
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134084"/>
@@ -32962,6 +33305,11 @@
             <p>Auch Castorhut genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">castor hat</label>
+          <label xml:lang="en" type="sort">castor hat</label>
+          <note type="description" xml:lang="en">
+            <p>A felt hat made of beaver fur.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Kastorhut"/>
@@ -32983,6 +33331,12 @@
             <p>Auch Abzugsblech genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">lock plate</label>
+          <label xml:lang="en" type="sort">lock plate</label>
+          <note type="description" xml:lang="en">
+            <p>Iron plate onto which all the elements comprising the lock of a firearm (above all the <ref target="gfa-keywords-9691">cock</ref>) are mounted.</p>
+            <p>Also called a trigger plate.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Schloss_(Waffe)"/>
@@ -33003,6 +33357,11 @@
             <p>Element des Schlosses einer Feuerwaffe, welches durch eine Feder gespannt und durch den Abzug ausgelöst wird, um durch seinen Schlag die Treibladung zu aktivieren.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">cock</label>
+          <label xml:lang="en" type="sort">cock</label>
+          <note type="description" xml:lang="en">
+            <p>Part of a firearm lock that is tensioned by a spring and then released by the trigger, delivering the shock that activates the charge.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Schloss_(Waffe)"/>
@@ -33025,6 +33384,13 @@
             <p>Siehe Standort: <ref target="../places/gfa-places-2126">Place de la Concorde</ref>.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
+          <label xml:lang="en" type="main">Obelisk of Luxor</label>
+          <label xml:lang="en" type="sort">obelisk of luxor</label>
+          <note type="description" xml:lang="en">
+            <p>Egyptian obelisk from the 13th century B.C.</p>
+            <p><ref target="../names/gfa-actors-7734">Ali Pasha</ref> gifted the obelisk to <ref target="../names/gfa-actors-8258">Charles X</ref>, though it was shipped to Paris and erected under <ref target="../names/gfa-actors-7478">Louis-Philippe I</ref>. The obelisk was originally part of the temple complex of Luxor, but has stood on the <ref target="../places/gfa-places-2126">Place de la Concorde</ref> in Paris since 1836.</p>
+            <p>See place: <ref target="../places/gfa-places-2126">Place de la Concorde</ref></p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Obelisk_von_Luxor"/>
@@ -33058,6 +33424,12 @@
             <p>Auch Rhum genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">rum</label>
+          <label xml:lang="en" type="sort">rum</label>
+          <note type="description" xml:lang="en">
+            <p>Liquor made from distilled sugarcane molasses.</p>
+            <p>Also called rhum.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Rum"/>
@@ -33141,6 +33513,11 @@
             <p>Gescheiterte, antiklerikale Umsturzversuche der konservativen Regierung <ref target="../places/gfa-places-91">Luzerns</ref> mithilfe von Freischaren aus liberalen Kantonen im Dezember 1844 und März 1845.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Irregular uprisings</label>
+          <label xml:lang="en" type="sort">irregular uprisings</label>
+          <note type="description" xml:lang="en">
+            <p>Failed attempts to topple the conservative government of <ref target="../places/gfa-places-91">Lucerne</ref> undertaken by anti-clerical radicals supported by irregulars from the liberal cantons in December 1844 and March 1845.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Freischarenzüge"/>
@@ -33163,13 +33540,19 @@
         </item>
         <item xml:id="gfa-keywords-9701">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de" type="main">«Sophiens Reise von Memel nach Sachsen» von Johann Timotheus Hermes</label>
-          <label xml:lang="de" type="sort">«sophiens reise von memel nach sachsen» von johann timotheus hermes</label>
+          <label xml:lang="de" type="main">Sophiens Reise von Hermes</label>
+          <label xml:lang="de" type="sort">sophiens reise von hermes</label>
           <note type="description" xml:lang="de">
             <p>Reiseroman des Johann Timotheus Hermes und einer der meistgelesenen deutschen Romane des 18. Jahrhunderts.</p>
             <p>Hermes, Johann Timotheus: Sophiens Reise von Memel nach Sachsen. 5. Band. Leipzig 1769–1773.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
+          <label xml:lang="en" type="main">Sophiens Reise by Hermes</label>
+          <label xml:lang="en" type="sort">sophiens reise by hermes</label>
+          <note type="description" xml:lang="en">
+            <p>Travel novel by Johann Timotheus Hermes that became one of the most widely read German novels of the 18th century.</p>
+            <p>Johann Timotheus Hermes, Sophiens Reise von Memel nach Sachsen, 5th vol. Leipzig 1769–1773.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Johann_Timotheus_Hermes"/>
@@ -33249,6 +33632,11 @@
             <p><ref target="gfa-keywords-169">Eisenbahn</ref>, die durch die Druckdifferenz in einem angeschlossenen Röhrensystem angetrieben wurde.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">atmospheric railway</label>
+          <label xml:lang="en" type="sort">atmospheric railway</label>
+          <note type="description" xml:lang="en">
+            <p><ref target="gfa-keywords-169">Railway</ref> driven by the difference in pressure inside a tube system to which each train was connected.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Atmosphärische_Eisenbahn"/>
@@ -33275,14 +33663,23 @@
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">blast</label>
           <label xml:lang="en" type="sort">blast</label>
+          <note type="description" xml:lang="en">
+            <p>Technical term for the air injected into blast furnaces for the extraction of pig iron or the cupola furnaces used in iron foundries.</p>
+            <p>A distinction is drawn between hot and cold blast.</p>
+          </note>
         </item>
         <item xml:id="gfa-keywords-9707">
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Gegossenes Stabeisen</label>
           <label xml:lang="de" type="sort">gegossenes stabeisen</label>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
-          <note type="description" xml:lang="en">
+          <note type="description" xml:lang="de">
             <p>Johann Conrad Fischers Bezeichnung für seine durch <ref target="gfa-keywords-9686">Stahlformguss</ref> erzeugten Werkstücke.</p>
+          </note>
+          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">cast bar iron</label>
+          <label xml:lang="en" type="sort">cast bar iron</label>
+          <note type="description" xml:lang="en">
+            <p>Johann Conrad Fischer’s term for workpieces made of <ref target="gfa-keywords-9686">cast steel</ref>.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -33319,6 +33716,11 @@
             <p>Eisenstück zum Schutz der Hufe von Huftieren.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">horseshoe</label>
+          <label xml:lang="en" type="sort">horseshoe</label>
+          <note type="description" xml:lang="en">
+            <p>Piece of bent iron used to protect the hooves of hooved animals.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Hufeisen"/>
@@ -33349,6 +33751,11 @@
             <p>Auch Heberöhrenapparat oder Calder-Apparat (nach dem Hüttenwerk Calder) genannt.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">hot-blast process</label>
+          <label xml:lang="en" type="sort">hot-blast process</label>
+          <note type="description" xml:lang="en">
+            <p>A system for <ref target="gfa-keywords-9712">pre-heating</ref> the blast for <ref target="gfa-keywords-288">blast furnaces</ref> developed by James Beaumont Neilson.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Von Herder, Siegmund August Wolfgang: Erläuterungen der vorzüglichsten Apparate zur Erwärmung der Gebläseluft. Freiberg 1840.</bibl>
@@ -33364,6 +33771,12 @@
             <p>Diese Verbesserung der Hüttentechnik wurde erstmals in den 1820er-Jahren in England von James Beaumont Neilson entwickelt.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">hot blast stove</label>
+          <label xml:lang="en" type="sort">hot blast stove</label>
+          <note type="description" xml:lang="en">
+            <p>A stove for pre-heating the blast for <ref target="gfa-keywords-288">blast furnaces</ref>.</p>
+            <p>This major improvement in ironmaking was developed in Scotland by James Beaumont Neilson in the 1820s.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Winderhitzer"/>
@@ -33440,6 +33853,10 @@
           <objectType xml:lang="en">Collection, Artwork</objectType>
           <label xml:lang="en" type="main">Equestrian statue of the Duke of Wellington</label>
           <label xml:lang="en" type="sort">equestrian statue of the duke of wellington</label>
+          <note type="description" xml:lang="en">
+            <p>A bronze statue by <ref target="../names/gfa-actors-8264">Francis Leggatt Chantrey</ref> of 1844.</p>
+            <p>The statue stands at <ref target="../places/gfa-places-2150">Bank Junction</ref> in London.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Equestrian_statue_of_the_Duke_of_Wellington,_City_of_London"/>
@@ -33454,6 +33871,11 @@
             <p>Durch natürliche oder künstliche Alterung entstandene Oberflächenschicht, z. B. bei <ref target="gfa-keywords-8643">Kupfer</ref> (Kupferpatinierung).</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">patina</label>
+          <label xml:lang="en" type="sort">patina</label>
+          <note type="description" xml:lang="en">
+            <p>Thin surface layer, e.g. on <ref target="gfa-keywords-8643">copper</ref>, that comes about as a result of natural or artificial ageing.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Patina"/>
@@ -33477,9 +33899,15 @@
           <label xml:lang="de" type="main">Reichsgeld</label>
           <label xml:lang="de" type="sort">reichsgeld</label>
           <note type="description" xml:lang="de">
+            <p>Fischers Bezeichnung für die Gulden und Kreuzer, die zu seiner Zeit gesetzlich anerkannte Zahlungsmittel in Deutschland und Teilen der Schweiz waren.</p>
             <p>Auch Reichsvaluta genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">Reichsgeld</label>
+          <label xml:lang="en" type="sort">reichsgeld</label>
+          <note type="description" xml:lang="en">
+            <p>Fischer’s term for the gulden and kreuzer that were legal tender in Germany and parts of Switzerland at the time.</p>
+          </note>
         </item>
         <item xml:id="gfa-keywords-9723">
           <objectType xml:lang="de">Masseinheit, Währung</objectType>
@@ -33489,6 +33917,12 @@
             <p>Historisches Wegmass, entspricht 4 bis 5 Kilometern.</p>
           </note>
           <objectType xml:lang="en">Unit of Measurement, Currency</objectType>
+          <label xml:lang="en" type="main">“wegstunde”</label>
+          <label xml:lang="en" type="sort">“wegstunde”</label>
+          <note type="description" xml:lang="en">
+            <p>Historical unit of distance equivalent to 4–5 kilometres.</p>
+            <p>The German term “wegstunde” refers to a distance covered by foot in one hour.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Wegstunde"/>
@@ -33515,6 +33949,11 @@
             <p>Maschine zum Rösten von Rohkaffeebohnen.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">coffee roaster</label>
+          <label xml:lang="en" type="sort">coffee roaster</label>
+          <note type="description" xml:lang="en">
+            <p>A machine for roasting raw coffee beans.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Kaffeeröster"/>
@@ -33535,6 +33974,11 @@
             <p>Durch Windkraft angetriebenes Mahlwerk.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">windmill</label>
+          <label xml:lang="en" type="sort">windmill</label>
+          <note type="description" xml:lang="en">
+            <p>A mill driven by wind power.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Windmühle"/>
@@ -33572,6 +34016,11 @@
             <p>Sedimentgestein aus feinem Material.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">marl</label>
+          <label xml:lang="en" type="sort">marl</label>
+          <note type="description" xml:lang="en">
+            <p>Sedimentary rock composed of fine earthy deposits.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Mergel"/>
@@ -33601,6 +34050,11 @@
             <p>Christliche Denomination, die auf John Wesley (1703–1791) zurückgeht.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">Methodists</label>
+          <label xml:lang="en" type="sort">methodists</label>
+          <note type="description" xml:lang="en">
+            <p>Christian denomination derived from the teachings of John Wesley (1703–1791).</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Methodistische_und_Wesleyanische_Kirchen"/>
@@ -33667,6 +34121,11 @@
             <p>Historisches Flächenmass, entsprach je nach Gebiet ungefähr 2000 bis 5000 Quadratmetern.</p>
           </note>
           <objectType xml:lang="en">Unit of Measurement, Currency</objectType>
+          <label xml:lang="en" type="main">acre</label>
+          <label xml:lang="en" type="sort">acre</label>
+          <note type="description" xml:lang="en">
+            <p>Historical unit of area, which depending upon region was the equivalent to anywhere between 2000 and 5000 square metres.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Morgen_(Einheit)"/>
@@ -33716,6 +34175,11 @@
             <p>Prozess der Erzeugung von <ref target="gfa-keywords-8551">Koks</ref> durch die Verbrennung von <ref target="gfa-keywords-2570">Kohle</ref> unter Luftabschluss.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">coking</label>
+          <label xml:lang="en" type="sort">coking</label>
+          <note type="description" xml:lang="en">
+            <p>Process by which <ref target="gfa-keywords-2570">coal</ref> is baked in a very hot, airless oven to produce <ref target="gfa-keywords-8551">coke</ref>.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Koks"/>
@@ -33745,6 +34209,11 @@
             <p>Traditionelle Arzneipflanze.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">marshmallow</label>
+          <label xml:lang="en" type="sort">marshmallow</label>
+          <note type="description" xml:lang="en">
+            <p>Plant traditionally used for medicinal purposes.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Echter_Eibisch"/>
@@ -33767,9 +34236,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Apotheker</label>
           <label xml:lang="de" type="sort">apotheker</label>
+          <note type="description" xml:lang="de">
+            <p>Fachperson für Arzneimittel.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">apothecary</label>
           <label xml:lang="en" type="sort">apothecary</label>
+          <note type="description" xml:lang="en">
+            <p>Healthcare professional specialising in pharmaceuticals.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Apotheker"/>
@@ -33799,6 +34274,11 @@
             <p>Aus Röhren bestehendes Blasinstrument.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">organ</label>
+          <label xml:lang="en" type="sort">organ</label>
+          <note type="description" xml:lang="en">
+            <p>Musical instrument that works by blowing air through pipes.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Orgel"/>
@@ -33819,9 +34299,14 @@
           <label xml:lang="de" type="main">Bradshaw’s Guide</label>
           <label xml:lang="de" type="sort">bradshaw’s guide</label>
           <note type="description" xml:lang="de">
-            <p>Englischer Reiseführer mit Fahrplänen von Zügen und <ref target="https://archives.georgfischer.com/keywords/9429">Schiffen</ref>, herausgegeben von 1839 bis 1961.</p>
+            <p>Englischer Reiseführer mit Fahrplänen von <ref target="gfa-keywords-169">Zügen</ref> und <ref target="gfa-keywords-8801">Dampfschiffen</ref>, herausgegeben von 1839 bis 1961.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
+          <label xml:lang="en" type="main">Bradshaw’s Guide</label>
+          <label xml:lang="en" type="sort">bradshaw’s guide</label>
+          <note type="description" xml:lang="en">
+            <p>British travel guide containing <ref target="gfa-keywords-169">train</ref> and <ref target="gfa-keywords-8801">steamer</ref> timetables, published between 1839 and 1961.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Bradshaw%27s_Guide"/>
@@ -33845,6 +34330,11 @@
             <p>Auch Brechstange genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">crowbar</label>
+          <label xml:lang="en" type="sort">crowbar</label>
+          <note type="description" xml:lang="en">
+            <p>Tool for lifting heavy weights made from <ref target="gfa-keywords-9012">wrought iron</ref>.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Brechstange"/>
@@ -33896,9 +34386,14 @@
           <label xml:lang="de" type="main">Leisten</label>
           <label xml:lang="de" type="sort">leisten</label>
           <note type="description" xml:lang="de">
-            <p>Formstück in Form eines Fusses, welches zur Herstellung von Schuhen verwendet wird.</p>
+            <p>Formstück in Form eines Fusses, das zur Herstellung von Schuhen verwendet wird.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">last</label>
+          <label xml:lang="en" type="sort">last</label>
+          <note type="description" xml:lang="en">
+            <p>Foot-shaped model used in shoemaking.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Leisten"/>
@@ -33922,6 +34417,11 @@
             <p>Bezeichnung für die regelmässige Bewegung der mechanisch betriebenen Hämmer (<ref target="gfa-keywords-8540">Aufwerfhammer</ref>, <ref target="gfa-keywords-9099">Streckhammer</ref> etc.).</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">hammer stroke</label>
+          <label xml:lang="en" type="sort">hammer stroke</label>
+          <note type="description" xml:lang="en">
+            <p>Term denoting the regular movement of a mechanically operated (steam) hammer (<ref target="gfa-keywords-8540">tilt hammer</ref>, <ref target="gfa-keywords-9099">stretching hammer</ref> etc.).</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Blumhof, Johann Georg Ludolph: Versuch einer Encyklopädie der Eisenhüttenkunde. 4 Band. Giessen 1816–1821, S. 634. Signatur der Eisenbibliothek: <ref target="https://swb2.bsz-bw.de/DB=2.364/PPNSET?PPN=1090674724&amp;PRS=HOL&amp;HILN=888&amp;INDEXSET=21">EM/Ea 175</ref>.</bibl>
@@ -34016,6 +34516,12 @@
             <p>Königin Victoria besuchte unter anderem <ref target="../places/gfa-places-1">Aachen</ref>, <ref target="../places/gfa-places-82">Köln</ref>, <ref target="https://archives.georgfischer.com/places/266">Bonn</ref>, Koblenz, <ref target="../places/gfa-places-2006">Mainz</ref>, <ref target="https://archives.georgfischer.com/places/153">Würzburg</ref>, Gotha und <ref target="../places/gfa-places-47">Frankfurt</ref>.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Queen Victoria's visit to the Rhineland</label>
+          <label xml:lang="en" type="sort">queen victoria's visit to the rhineland</label>
+          <note type="description" xml:lang="en">
+            <p>Queen Victoria visited Germany in August 1845.</p>
+            <p>Her ports of call included <ref target="../places/gfa-places-1">Aachen</ref>, <ref target="../places/gfa-places-82">Cologne</ref>, <ref target="https://archives.georgfischer.com/places/266">Bonn</ref>, Koblenz, <ref target="../places/gfa-places-2006">Mainz</ref>, <ref target="https://archives.georgfischer.com/places/153">Würzburg</ref>, Gotha and <ref target="../places/gfa-places-47">Frankfurt</ref>.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/List_of_foreign_visits_made_by_Queen_Victoria"/>
@@ -34030,6 +34536,11 @@
             <p>Unter Heinrich VIII. während der englischen Reformation von 1536 bis 1541 vollzogene Auflösung der <ref target="gfa-keywords-6532">Klöster</ref> des Reiches.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Henry VIII’s dissolution of the monasteries</label>
+          <label xml:lang="en" type="sort">henry viii’s dissolution of the monasteries</label>
+          <note type="description" xml:lang="en">
+            <p>Dissolution of the <ref target="gfa-keywords-6532">monasteries</ref> ordered by Henry VIII during the English Reformation between 1536 and 1541.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Auflösung_der_englischen_Klöster"/>
@@ -34061,6 +34572,11 @@
             <p>Historische Bezeichnung für die durch Berührung zweier verschiedener Körper entstehende Elektrizität.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">galvanism</label>
+          <label xml:lang="en" type="sort">galvanism</label>
+          <note type="description" xml:lang="en">
+            <p>Historical term for electricity generated by friction between two different bodies.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>«Galvanismus». In: Brockhaus’ Kleines Konversations-Lexikon, 5. Auflage, 1. Band, Leipzig 1911, S. 641.</bibl>
@@ -34121,6 +34637,12 @@
             <p>Nicolai, Friedrich: Beschreibung der königlichen Residenzstädte Berlin und Potsdam. Berlin 1769 (<ref target="https://www.digitale-sammlungen.de/de/view/bsb10013771">MDZ</ref>, Stand 24.1.2023).</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
+          <label xml:lang="en" type="main">Description of the royal seats of Berlin and Potsdam by Nicolai</label>
+          <label xml:lang="en" type="sort">description of the royal seats of berlin and potsdam by nicolai</label>
+          <note type="description" xml:lang="en">
+            <p>A travel guide to <ref target="../places/gfa-places-16">Berlin</ref> and <ref target="../places/gfa-places-664">Potsdam</ref> published by <ref target="../names/gfa-actors-7918">Friedrich Nicolai</ref> in 1769.</p>
+            <p>Friedrich Nicolai, Beschreibung der königlichen Residenzstädte Berlin und Potsdam. Berlin 1769 (<ref target="https://www.digitale-sammlungen.de/de/view/bsb10013771">MDZ</ref>, as per 24.1.2023).</p>
+          </note>
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134013"/>
@@ -34717,14 +35239,14 @@
           <label xml:lang="de" type="sort">juenteler votivbild von oening</label>
           <note type="description" xml:lang="de">
             <p>Gemälde aus der Frührenaissance, das die Kreuzigung Jesu Christi zeigt.</p>
-            <p>Es handelt sich um eine Ölharztempera-Arbeit auf Holz, die auch Jünteler Epitaph genannt wird. Der Name des Gemäldes ist auf seinen Stifter, Hans Oening, genannt Jünteler, zurückzuführen. Dieser soll das Bild 1449 dem <ref target="../places/gfa-places-1653">Kloster Rheinau</ref> gestiftet haben. Im Jahr 1857 gelangte es in den Besitz des Schaffhauser Zeichenlehrers <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref>. Kurz darauf kaufte der Historisch-Antiquarische Verein Schaffhausen die Passionstafel. 1918 ging sie mit der ganzen Sammlung des Vereins an das <ref target="https://archives.georgfischer.com/actors/1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
+            <p>Es handelt sich um eine Ölharztempera-Arbeit auf Holz, die auch Jünteler Epitaph genannt wird. Der Name des Gemäldes ist auf seinen Stifter, Hans Oening, genannt Jünteler, zurückzuführen. Dieser soll das Bild 1449 dem <ref target="../places/gfa-places-1653">Kloster Rheinau</ref> gestiftet haben. Im Jahr 1857 gelangte es in den Besitz des Schaffhauser Zeichenlehrers <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref>. Kurz darauf kaufte der Historisch-Antiquarische Verein Schaffhausen die Passionstafel. 1918 ging sie mit der ganzen Sammlung des Vereins an das <ref target="../names/gfa-actors-1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
           </note>
           <objectType xml:lang="en">Collection, Artwork</objectType>
           <label xml:lang="en" type="main">Jünteler Epitaph</label>
           <label xml:lang="en" type="sort">juenteler epitaph</label>
           <note type="description" xml:lang="en">
             <p>An early Renaissance painting showing the crucufixion.</p>
-            <p>It is an oil-resin tempera painting on wood, known as the Jünteler Epitaph or Votive Image.The name of the painting can be traced back to its donor, Hans Oening, who was known asJünteler. He is said to have donated the painting to <ref target="../places/gfa-places-1653">Rheinau Abbey</ref>. The painting came into the possession of the Schaffhausen drawing master <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref> in 1857 and was purchased shortly thereafter by the Historical Antiquarian Society of Schaffhausen. In 1918 it was transferred along with the Society’s entire collection to the <ref target="https://archives.georgfischer.com/actors/1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
+            <p>It is an oil-resin tempera painting on wood, known as the Jünteler Epitaph or Votive Image.The name of the painting can be traced back to its donor, Hans Oening, who was known asJünteler. He is said to have donated the painting to <ref target="../places/gfa-places-1653">Rheinau Abbey</ref>. The painting came into the possession of the Schaffhausen drawing master <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref> in 1857 and was purchased shortly thereafter by the Historical Antiquarian Society of Schaffhausen. In 1918 it was transferred along with the Society’s entire collection to the <ref target="../names/gfa-actors-1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -35736,6 +36258,11 @@
             <p>Eine am 26. Januar 1843 vorgenommene Sprengung der Kalkklippe <ref target="../places/gfa-places-2187">Round Down Cliff</ref> für den Bau der Eisenbahnstrecke von <ref target="../places/gfa-places-89">London</ref> nach <ref target="../places/gfa-places-1608">Dover</ref>.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Blasting of Round Down Cliff</label>
+          <label xml:lang="en" type="sort">blasting of round down cliff</label>
+          <note type="description" xml:lang="en">
+            <p>The chalk cliff face of <ref target="../places/gfa-places-2187">Round Down Cliff</ref> was blown up to make way for the <ref target="../places/gfa-places-89">London</ref> to <ref target="../places/gfa-places-1608">Dover</ref> railway on 26th January 1843.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Great Blast at the Dover Railway – Illustrated London News, No. 39. 28.1.1843, S. 55. In: Hathi Trust Digital Library (<ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015006972882&amp;view=1up&amp;seq=65">Hathi Trust</ref>, Stand 5.4.2023).</bibl>
@@ -35750,6 +36277,11 @@
             <p>Mittelalterliches Heldenepos.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
+          <label xml:lang="en" type="main">Song of the Nibelungs</label>
+          <label xml:lang="en" type="sort">song of the nibelungs</label>
+          <note type="description" xml:lang="en">
+            <p>Medieval heroic epic.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Nibelungenlied"/>
@@ -35824,6 +36356,13 @@
             <p>John Herschel war der Sohn von <ref target="../names/gfa-actors-7557">Wilhelm Herschel</ref>.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">Chrysotype</label>
+          <label xml:lang="en" type="sort">chrysotype</label>
+          <note type="description" xml:lang="en">
+            <p>A photographic method invented by John Herschel in 1842.</p>
+            <p>Herschel’s method entailed coating <ref target="gfa-keywords-9808">photographic paper</ref> with ammonium ferric citrate and then developing it with a chloroaurate solution to obtain an image.</p>
+            <p>John Herschel was the son of <ref target="../names/gfa-actors-7557">Wilhelm Herschel</ref>.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Chrysotypie"/>
@@ -35849,6 +36388,13 @@
             <p>John Herschel war der Sohn von <ref target="../names/gfa-actors-7557">Wilhelm Herschel</ref>.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">Cyanotype</label>
+          <label xml:lang="en" type="sort">cyanotype</label>
+          <note type="description" xml:lang="en">
+            <p>A photographic method invented by John Herschel in 1842 that entailed coating <ref target="gfa-keywords-9808">photographic paper</ref> with ammonium ferric citrate and potassium ferricyanide.</p>
+            <p>This is how blueprints are produced.</p>
+            <p>John Herschel was the son of <ref target="../names/gfa-actors-7557">Wilhelm Herschel</ref>.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Cyanotypie"/>
@@ -35875,6 +36421,11 @@
             <p>Fotografisches Verfahren, bei dem Kaliumdichromat als lichtempfindliche Substanz verwendet wurde.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">Chromotype</label>
+          <label xml:lang="en" type="sort">chromotype</label>
+          <note type="description" xml:lang="en">
+            <p>Photographic method that made use of potassium dichromate as light-sensitive substance.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Croucher, John H. (ed.): Plain Directions for Obtaining Photographic Pictures by the Calotype, Energiatype, and Other Processes on Paper. London T. &amp; R. Willats, 1847 (<ref target="https://wellcomecollection.org/works/jehzcsmn">Wellcome Collection</ref>, Stand 10.4.2023).</bibl>
@@ -35894,13 +36445,24 @@
         </item>
         <item xml:id="gfa-keywords-9812">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de" type="main">Metallurgische Reisen von Jars</label>
-          <label xml:lang="de" type="sort">metallurgische reisen von jars</label>
+          <label xml:lang="de" type="main">Voyages métallurgiques von Jars</label>
+          <label xml:lang="de" type="sort">voyages metallurgiques von jars</label>
           <note type="description" xml:lang="de">
             <p>Metallurgische Reisebeschreibung des französischen <ref target="gfa-keywords-9312">Metallurgen</ref> <ref target="../names/gfa-actors-7870">Gabriel Jars</ref>.</p>
-            <p>Jars, Gabriel: Metallurgische Reisen zur Untersuchung und Beobachtung der vornehmsten Eisen- Stahl- Blech- und Steinkohlen-Werke in Deutschland, Schweden, Norwegen, England und Schottland, vom Jahr 1757 bis 1769. Aus dem Französischen übersetzt und mit Anmerkungen begleitet von Carl Abraham Gerhard, 4. Band. Berlin 1777 (<ref target="https://www.digitale-sammlungen.de/view/bsb10705655">MDZ</ref>, Stand 10.4.2023).</p>
+            <p>Jars, Gabriel: Voyages métallurgiques ou Recherches et observations sur les mines et forges de fer, la fabrication de l'acier, celle du fer-blanc, &amp; plusieurs mines de charbon de terre, faites depuis l'année 1757 jusques &amp; compris 1769, en Allemagne, Suède, Norwège, Angleterre et Écosse. Tome 1. Lyon 1774 (<ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65467409">Gallica</ref>, Stand 8.12.2023).</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
+          <label xml:lang="en" type="main">Voyages métallurgiques by Jars</label>
+          <label xml:lang="en" type="sort">voyages metallurgiques by jars</label>
+          <note type="description" xml:lang="en">
+            <p>Travelogue of the French <ref target="gfa-keywords-9312">metallurgist</ref> <ref target="../names/gfa-actors-7870">Gabriel Jars</ref>.</p>
+            <p>Jars, Gabriel: Voyages métallurgiques ou Recherches et observations sur les mines et forges de fer, la fabrication de l'acier, celle du fer-blanc, &amp; plusieurs mines de charbon de terre, faites depuis l'année 1757 jusques &amp; compris 1769, en Allemagne, Suède, Norwège, Angleterre et Écosse. Volume 1. Lyon 1774 (<ref target="https://gallica.bnf.fr/ark:/12148/bpt6k65467409">Gallica</ref>, Stand 8.12.2023).</p>
+          </note>
+          <note type="sources">
+            <listBibl>
+              <bibl>Jars, Gabriel: Metallurgische Reisen zur Untersuchung und Beobachtung der vornehmsten Eisen- Stahl- Blech- und Steinkohlen-Werke in Deutschland, Schweden, Norwegen, England und Schottland, vom Jahr 1757 bis 1769. Aus dem Französischen übersetzt und mit Anmerkungen begleitet von Carl Abraham Gerhard, 4. Band. Berlin 1777 (<ref target="https://www.digitale-sammlungen.de/view/bsb10705655">MDZ</ref>, Stand 10.4.2023).</bibl>
+            </listBibl>
+          </note>
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134014"/>
@@ -35923,6 +36485,12 @@
             <p>Svedenstjerna, Eric Thomas: Reise durch einen Theil von England und Schottland in den Jahren 1802 und 1803. Marburg, Cassel 1811. Signatur der Eisenbibliothek: <ref target="https://swb2.bsz-bw.de/DB=2.364/PPNSET?PPN=1112141480&amp;PRS=HOL&amp;HILN=888&amp;INDEXSET=21">EM/C 127</ref>.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
+          <note type="description" xml:lang="en">
+            <p>Travelogues of the Swedish mineralogist <ref target="../names/gfa-actors-7955">Eric Thomas Svedenstierna</ref>.</p>
+            <p>Eric Thomas Svedenstjerna, Resa, igenom en del af England och Skottland, åren 1802 och 1803, Stockholm 1804.</p>
+            <p>There is a German edition of this work in the Iron Library:</p>
+            <p>Eric Thomas Svedenstjerna, Reise durch einen Theil von England und Schottland in den Jahren 1802 und 1803, Marburg, Cassel 1811. Iron Library shelf number: <ref target="https://swb2.bsz-bw.de/DB=2.364/PPNSET?PPN=1112141480&amp;PRS=HOL&amp;HILN=888&amp;INDEXSET=21">EM/C 127</ref>.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(sv)" target="https://sv.wikipedia.org/wiki/Eric_Thomas_Svedenstjerna"/>
@@ -35942,10 +36510,16 @@
           <label xml:lang="de" type="main">SS Great Britain</label>
           <label xml:lang="de" type="sort">ss great britain</label>
           <note type="description" xml:lang="de">
-            <p>Ehemaliges dampfbetriebenes Passagierschiff; erstes <ref target="https://archives.georgfischer.com/keywords/9429">Schiff</ref> aus <ref target="gfa-keywords-613">Stahl</ref> mit Propellerantrieb, erbaut 1845.</p>
-            <p>Erbauer der SS Great Britain war <ref target="https://archives.georgfischer.com/actors/7772">Isambard Kingdom Brunel</ref>. 1846 besuchte Johann Conrad Fischer das Stahlwerk <ref target="../places/gfa-places-2203">Mersey Steel &amp; Iron Works</ref>, in dem der <ref target="gfa-keywords-8644">Wellbaum</ref> (Antriebs-/Propellerwelle) der SS Great Britain geschmiedet worden war.</p>
+            <p>Ehemaliges <ref target="gfa-keywords-8801">dampfbetriebenes Passagierschiff</ref>; erstes Schiff aus <ref target="gfa-keywords-613">Stahl</ref> mit Propellerantrieb, erbaut 1845.</p>
+            <p>Erbauer der SS Great Britain war <ref target="https://archives.georgfischer.com/actors/7772">Isambard Kingdom Brunel</ref>. Während seines Aufenthaltes in <ref target="../places/gfa-places-1745">Liverpool</ref> im Jahr 1846 besuchte Johann Conrad Fischer das Stahlwerk <ref target="../places/gfa-places-2203">Mersey Steel &amp; Iron Works</ref>, in dem der <ref target="gfa-keywords-8644">Wellbaum</ref> (Antriebs-/Propellerwelle) der SS Great Britain geschmiedet worden war.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
+          <label xml:lang="en" type="main">SS Great Britain</label>
+          <label xml:lang="en" type="sort">ss great britain</label>
+          <note type="description" xml:lang="en">
+            <p>Former passenger <ref target="gfa-keywords-8801">steamship</ref>; first ship to be made of <ref target="gfa-keywords-613">steel</ref> and driven by screw propulsion, built in 1845.</p>
+            <p>The SS Great Britain was designed by <ref target="https://archives.georgfischer.com/actors/7772">Isambard Kingdom Brunel</ref>. Johann Conrad Fischer visited the <ref target="../places/gfa-places-2203">Mersey Steel &amp; Iron Works</ref> that had forged the ship’s <ref target="gfa-keywords-8644">drive shaft</ref> during his stay in <ref target="../places/gfa-places-1745">Liverpool</ref> in 1846.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Great_Britain"/>
@@ -35990,6 +36564,12 @@
             <p>Das Schiff konnte ein Jahr später wieder befreit werden.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Stranding of the SS Great Britain in Dundrum Bay</label>
+          <label xml:lang="en" type="sort">stranding of the ss great britain in dundrum bay</label>
+          <note type="description" xml:lang="en">
+            <p>The SS Great Britain ran aground on a sandbank in <ref target="../places/gfa-places-2217">Dundrum Bay</ref> on 22nd September 1846.</p>
+            <p>It took a whole year for it to be refloated.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/SS_Great_Britain"/>
@@ -36010,9 +36590,15 @@
           <label xml:lang="de" type="sort">kupfersulfat</label>
           <note type="description" xml:lang="de">
             <p>Kupfersalz der Schwefelsäure.</p>
-            <p>Auch Schwefelsaures Kupfer oder Kupfervitriol genannt.</p>
+            <p>Auch schwefelsaures Kupfer oder Kupfervitriol genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">copper sulphate</label>
+          <label xml:lang="en" type="sort">copper sulphate</label>
+          <note type="description" xml:lang="en">
+            <p>Copper salt of sulphuric acid.</p>
+            <p>Also known as cupric sulphate or blue vitriol.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Vitriol, blauer, cyprischer. In: Lueger, Otto: Lexikon der gesamten Technik und ihrer Hilfswissenschaften, Bd. 8 Stuttgart, Leipzig 1910., S. 798. (<ref target="http://www.zeno.org/nid/20006146155">Zeno.org</ref>, Stand 3.11.2023).</bibl>
@@ -36044,6 +36630,11 @@
             <p>Veraltete bergmännische Bezeichnung für Minerale mit einer bestimmten chemischen Zusammensetzung.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">iron pyrite</label>
+          <label xml:lang="en" type="sort">iron pyrite</label>
+          <note type="description" xml:lang="en">
+            <p>Archaic mining term for minerals of a certain chemical composition.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Schwefelkies"/>
@@ -36062,6 +36653,12 @@
             <p>Der auf Plinius den Älteren zurückgehende Name Ammonshorn (Ammonis Cornua) spielt auf das hornartige Aussehen der Schalen an.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">ammonite</label>
+          <label xml:lang="en" type="sort">ammonite</label>
+          <note type="description" xml:lang="en">
+            <p>Extinct group of marine molluscs with distinctive spiral shells.</p>
+            <p>The name dates back to Pliny the Elder, who called them “ammonis cornua” (lit. “horns of Ammon”), which was itself a reference to the horns of the Egyptian god Ammon.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Ammoniten"/>
@@ -36091,10 +36688,16 @@
           <label xml:lang="de" type="main">Hydroelektrische Maschine von Armstrong</label>
           <label xml:lang="de" type="sort">hydroelektrische maschine von armstrong</label>
           <note type="description" xml:lang="de">
-            <p>1843 entwickelter, elektrostatischer Generator für die Erzeugung elektrischer Spannung mithilfe von Dampfdüsen.</p>
+            <p>1843 entwickelter, elektrostatischer <ref target="gfa-keywords-3491">Generator</ref> für die Erzeugung elektrischer Spannung mithilfe von Dampfdüsen.</p>
             <p>Auch Hydroelektrischer Generator oder Dampfelektrisiermaschine genannt.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
+          <label xml:lang="en" type="main">Armstrong’s hydroelectric machine</label>
+          <label xml:lang="en" type="sort">armstrong’s hydroelectric machine</label>
+          <note type="description" xml:lang="en">
+            <p>Electrostatic <ref target="gfa-keywords-3491">generator</ref> for generating static electricity with the aid of steam jets developed in 1843.</p>
+            <p>Also called a hydroelectric generator.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Armstrong_effect"/>
@@ -36117,6 +36720,11 @@
             <p>Eine von <ref target="../names/gfa-actors-7914">David Napier</ref> erfundene, zylindrische <ref target="gfa-keywords-8813">Druckerpresse</ref>, die in einem Druckgang beide Papierseiten bedrucken konnte.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
+          <label xml:lang="en" type="main">Napier’s printing press</label>
+          <label xml:lang="en" type="sort">napier’s printing press</label>
+          <note type="description" xml:lang="en">
+            <p>A cylindrical <ref target="gfa-keywords-8813">printing press</ref> invented by <ref target="../names/gfa-actors-7914">David Napier</ref> with which both sides of the paper could be printed at the same time.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Model of «The Nay-peer» printing press, 1822. In: Science Museum Group Online Catalogue (Objektnummer 1980-1612) (<ref target="https://collection.sciencemuseumgroup.org.uk/objects/co37984/model-of-the-nay-peer-printing-press-1822-model-representation-printing-press">Science Museum Group</ref>, Stand 10.4.2023).</bibl>
@@ -36166,6 +36774,10 @@
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">electroplating</label>
           <label xml:lang="en" type="sort">electroplating</label>
+          <note type="description" xml:lang="en">
+            <p>Process that uses electric current for the metal plating of workpieces.</p>
+            <p>As of the 1840s, electroplating supplanted <ref target="gfa-keywords-8641">hot-dip tinning</ref> and fire gilding.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Galvanotechnik"/>
@@ -36201,6 +36813,10 @@
             <p>Beim <ref target="gfa-keywords-2759">Schmieden</ref> von heissem <ref target="gfa-keywords-8672">Eisen</ref> splittert der Glühspan ab.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <note type="description" xml:lang="en">
+            <p>Thin crust of black iron oxide that forms on <ref target="gfa-keywords-3040">annealed</ref> iron.</p>
+            <p>It splinters off the hot <ref target="gfa-keywords-8672">iron</ref> during <ref target="gfa-keywords-2759">forging</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Glühspan. In: Pierer’s Universal-Lexikon, Band 7. Altenburg 1859, S. 915 (<ref target="http://www.zeno.org/nid/20010018743">Zeno.org</ref>, Stand 12.4.2023).</bibl>
@@ -36215,6 +36831,11 @@
             <p>Frühes Projektionsgerät, das mit einer <ref target="gfa-keywords-9209">Kerze</ref> oder einem <ref target="gfa-keywords-8979">Kalklicht</ref> als Lichtquelle Bilder projizieren konnte.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
+          <label xml:lang="en" type="main">magic lantern</label>
+          <label xml:lang="en" type="sort">magic lantern</label>
+          <note type="description" xml:lang="en">
+            <p>An early projector for projecting images that used a <ref target="gfa-keywords-9209">candle</ref> or <ref target="gfa-keywords-8979">limelight</ref> as light source.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Laterna_magica"/>
@@ -36244,6 +36865,12 @@
             <p>Auch Oxygen-Hydrogen-Gas genannt.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">oxyhydrogen</label>
+          <label xml:lang="en" type="sort">oxyhydrogen</label>
+          <note type="description" xml:lang="en">
+            <p>Mixture of hydrogen and oxygen.</p>
+            <p>Also known as “knallgas”. This German term derives from the sound produced by exploding oxyhydrogen.</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Knallgas"/>
@@ -36509,8 +37136,8 @@
         </item>
         <item xml:id="gfa-keywords-9833">
           <objectType xml:lang="de">Buch, Manuskript, Publikation</objectType>
-          <label xml:lang="de" type="main">Fabeln von Äsop</label>
-          <label xml:lang="de" type="sort">fabeln von aesop</label>
+          <label xml:lang="de" type="main">Äsop’s Fabeln</label>
+          <label xml:lang="de" type="sort">aesop’s fabeln</label>
           <note type="description" xml:lang="de">
             <p>Sammlung von Fabeln aus dem antiken Griechenland, dem Erzähler Aesop zugeschrieben.</p>
           </note>
@@ -37008,6 +37635,9 @@
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
           <label xml:lang="en" type="main">travel journal 1845, figures p. 28</label>
           <label xml:lang="en" type="sort">travel journal 1845, figures p. 28</label>
+          <note type="description" xml:lang="en">
+            <p>Sketches of the timber underlays supporting the iron rails.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Notizen auf der Reise über Paris nach London, Leeds, Low, Moore, Sheffield, und zurück; im Sommer 1845. Schaffhausen: Ziegler, 1846.</bibl>
@@ -37037,6 +37667,9 @@
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
           <label xml:lang="en" type="main">travel journal 1845, figure p. 37</label>
           <label xml:lang="en" type="sort">travel journal 1845, figure p. 37</label>
+          <note type="description" xml:lang="en">
+            <p>Sketch of a bird’s-eye view of a shop doorway.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Notizen auf der Reise über Paris nach London, Leeds, Low, Moore, Sheffield, und zurück; im Sommer 1845. Schaffhausen: Ziegler, 1846.</bibl>
@@ -37066,6 +37699,9 @@
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
           <label xml:lang="en" type="main">travel journal 1845, figure p. 52</label>
           <label xml:lang="en" type="sort">travel journal 1845, figure p. 52</label>
+          <note type="description" xml:lang="en">
+            <p>Pictogram for a square foot.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Notizen auf der Reise über Paris nach London, Leeds, Low, Moore, Sheffield, und zurück; im Sommer 1845. Schaffhausen: Ziegler, 1846.</bibl>
@@ -37127,6 +37763,9 @@
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
           <label xml:lang="en" type="main">travel journal 1846, figure p. 27</label>
           <label xml:lang="en" type="sort">travel journal 1846, figure p. 27</label>
+          <note type="description" xml:lang="en">
+            <p>Sketch of a punch.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Notizen auf meiner Reise über Carlsruhe, Mannheim, Cöln, und Ostende nach London, Derby, Wingfield, Alfredton und Butterly Ironworks nach Sheffield, Liverpool, und zurück über Sheffield und London nach Schaffhausen; im Spätjahr 1846. Schaffhausen: Ziegler, 1847.</bibl>
@@ -37156,6 +37795,9 @@
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
           <label xml:lang="en" type="main">travel journal 1846, figure p. 51</label>
           <label xml:lang="en" type="sort">travel journal 1846, figure p. 51</label>
+          <note type="description" xml:lang="en">
+            <p>Sketch of a chain link with crossbar.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Notizen auf meiner Reise über Carlsruhe, Mannheim, Cöln, und Ostende nach London, Derby, Wingfield, Alfredton und Butterly Ironworks nach Sheffield, Liverpool, und zurück über Sheffield und London nach Schaffhausen; im Spätjahr 1846. Schaffhausen: Ziegler, 1847.</bibl>
@@ -37185,6 +37827,9 @@
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
           <label xml:lang="en" type="main">travel journal 1846, figure p. 53</label>
           <label xml:lang="en" type="sort">travel journal 1846, figure p. 53</label>
+          <note type="description" xml:lang="en">
+            <p>Sketch of an English crucible.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Notizen auf meiner Reise über Carlsruhe, Mannheim, Cöln, und Ostende nach London, Derby, Wingfield, Alfredton und Butterly Ironworks nach Sheffield, Liverpool, und zurück über Sheffield und London nach Schaffhausen; im Spätjahr 1846. Schaffhausen: Ziegler, 1847.</bibl>
@@ -37214,6 +37859,9 @@
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
           <label xml:lang="en" type="main">travel journal 1846, figures p. 60</label>
           <label xml:lang="en" type="sort">travel journal 1846, figures p. 60</label>
+          <note type="description" xml:lang="en">
+            <p>Sketches of flat springs.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Notizen auf meiner Reise über Carlsruhe, Mannheim, Cöln, und Ostende nach London, Derby, Wingfield, Alfredton und Butterly Ironworks nach Sheffield, Liverpool, und zurück über Sheffield und London nach Schaffhausen; im Spätjahr 1846. Schaffhausen: Ziegler, 1847.</bibl>
@@ -37243,6 +37891,9 @@
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
           <label xml:lang="en" type="main">travel journal 1846, figure p. 51/79 (erratum)</label>
           <label xml:lang="en" type="sort">travel journal 1846, figure p. 51/79 (erratum)</label>
+          <note type="description" xml:lang="en">
+            <p>Sketch of a chain link.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Notizen auf meiner Reise über Carlsruhe, Mannheim, Cöln, und Ostende nach London, Derby, Wingfield, Alfredton und Butterly Ironworks nach Sheffield, Liverpool, und zurück über Sheffield und London nach Schaffhausen; im Spätjahr 1846. Schaffhausen: Ziegler, 1847.</bibl>
@@ -37438,6 +38089,10 @@
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
           <label xml:lang="en" type="main">Mrs. Caudle’s Curtain Lectures</label>
           <label xml:lang="en" type="sort">mrs. caudle’s curtain lectures</label>
+          <note type="description" xml:lang="en">
+            <p>A series of humorous monologues by <ref target="../names/gfa-actors-8273">Mrs. Caudle</ref> published in the satirical weekly <ref target="gfa-keywords-8466">Punch</ref> from January to November 1845.</p>
+            <p>The author of Mrs. Caudle’s Curtain Lectures was the British dramatist Douglas William Jerrold (1803–1857). The series was such a success that there were plays and books and even a boardgame featuring Mr. and Mrs. Caudle in both Great Britain and the United States.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Julie L. Mellby: The Caudle History: A Droll Game. 2011. (<ref target="https://www.princeton.edu/~graphicarts/2011/11/the_caudle_history.html">Princeton University Library</ref>, Stand 14.8.2023).</bibl>
@@ -37526,6 +38181,12 @@
             <p>Die Zeichnung stammt vom Schaffhauser Künstler <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref>. Johann Conrad Fischer nahm diese zusammen mit zwei weiteren Zeichnungen seiner Stahlwerke mit auf seine Englandreise von 1846.</p>
           </note>
           <objectType xml:lang="en">Collection, Artwork</objectType>
+          <label xml:lang="en" type="main">The Inside of Fischer’s Steel &amp; Bar Iron Foundry by Johann Jakob Beck</label>
+          <label xml:lang="en" type="sort">the inside of fischer’s steel &amp; bar iron foundry by johann jakob beck</label>
+          <note type="description" xml:lang="en">
+            <p>Hand-coloured drawing of the inside of Johann Conrad Fischer’s foundry.</p>
+            <p>The drawing is the work of the Schaffhausen artist <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref>. Johann Conrad Fischer took this drawing with him on his trip to England in 1846, along with two others of his steelworks.</p>
+          </note>
           <listBibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133126"/>
@@ -37547,6 +38208,11 @@
             <p>Auch Drachme oder Quint genannt.</p>
           </note>
           <objectType xml:lang="en">Unit of Measurement, Currency</objectType>
+          <label xml:lang="en" type="main">drachm</label>
+          <label xml:lang="en" type="sort">drachm</label>
+          <note type="description" xml:lang="en">
+            <p>Unit of measurement equivalent to sixty <ref target="gfa-keywords-8613">grains</ref> (ca. 3 grams) used for medicinal preparations.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Apothekergewicht. In: Pierer’s Universal-Lexikon, Band 1. Altenburg 1857, S. 616 (<ref target="http://www.zeno.org/nid/20009388400">Zeno.org</ref>, Stand 31.8.2023).</bibl>
@@ -37581,6 +38247,12 @@
             <p>Der Kupferstich wurde vom Kupferstecher und Stichverleger <ref target="../names/gfa-actors-7898">Christian von Mechel</ref> veröffentlicht. Der Originaltitel des Bildes lautet: <hi rend="italic">Vue du Rhin a Lauffenbourg, l’une des quatre villes forestieres de l’Autriche anterieure, où ce fleuve se precipite entre un amas de roches</hi>.</p>
           </note>
           <objectType xml:lang="en">Collection, Artwork</objectType>
+          <label xml:lang="en" type="main">View of the Rhine at Laufenburg by Benjamin-Rodolphe Comte</label>
+          <label xml:lang="en" type="sort">view of the rhine at laufenburg by benjamin-rodolphe comte</label>
+          <note type="description" xml:lang="en">
+            <p><ref target="gfa-keywords-2837">Engraving</ref> of 1789 by Benjamin-Rodolphe Comte (1760–1851) after a drawing by Wilhelm Friedrich Gmelin (1760–1820) showing the <ref target="../places/gfa-places-272">Rhine</ref> at <ref target="../places/gfa-places-991">Laufenburg</ref>.</p>
+            <p>The engraving was published by the engraver and print publisher <ref target="../names/gfa-actors-7898">Christian von Mechel</ref>. The original title of the work was: <hi rend="italic">Vue du Rhin a Lauffenbourg, l’une des quatre villes forestieres de l’Autriche anterieure, où ce fleuve se precipite entre un amas de roches</hi>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Bruno Weber: Die Schweiz in ihren schönsten Ansichten. Zürich 1979, S. 34 (<ref target="https://www.e-rara.ch/i3f/v20/11174148/manifest">e-rara</ref>, Stand 5.9.2023).</bibl>

@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-12-05 17:03:46 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-08 20:00:51 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -500,8 +500,9 @@
               <p>Johann Conrad Fischer besuchte 1814 das Geschäft von <ref target="gfa-actors-7545">Peter Dollond</ref>, John Dollonds Sohn, in London.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>Pioneer telescope-maker.</p>
-              <p>Johann Conrad Fischer visited the workshop of <ref target="gfa-actors-7545">Peter Dollond</ref>, John Dollond’s son, in London.</p>
+              <p>British optician and pioneer of telescope making.</p>
+              <p>John Dollond founded a workshop in which he was engaged in the manufacture of optical and astronomical instruments. From 1752, he worked with his son <ref target="gfa-actors-7545">Peter Dollond</ref> on improving dioptric telescopes to reduce their chromatic aberration (the disruptive colour fringes). Inspired by the investigations of the Swedish physicist and mathematician Samuel Klingestierna (1698-1765) on the refraction of light, Dollond discovered the unequal refraction of coloured light rays in glass prisms of different refractive power. He concluded from this that achromatic lenses could show colour-pure images. Although Chester Moor Hall (1703-1771) had already come to this conclusion and invented the achromatic lens, Dollond was the first optician to commercially exploit the invention of the <ref target="../keywords/gfa-keywords-8431">achromatic telescope</ref>. In 1758 he was therefore awarded the Copley Medal by the <ref target="gfa-actors-7699">Royal Society</ref> and in the same year he received a patent for 14 years for the manufacture of achromatic lenses.</p>
+              <p>Johann Conrad Fischer visited the shop of <ref target="gfa-actors-7545">Peter Dollond</ref>, John Dollond's son, in London in 1814.</p>
             </note>
             <listBibl>
               <bibl>
@@ -4291,11 +4292,11 @@
             <death when="1806-09-11"/>
             <note type="description" xml:lang="de">
               <p>Rektor der Deutschen Schule in Stockholm.</p>
-              <p>Während seines Aufenthalts in Stockholm verkehrte Johann Conrad Fischer mit Johann Joachim Friedrich Plagemann. In seinem Tagebuch von 1794 beschreibt Fischer detailliert <ref target="../keywords/gfa-keywords-8397">Plagemanns Sammlung</ref> von mikroskopischen Objekten.</p>
+              <p>Während seines Aufenthalts in Stockholm verkehrte Johann Conrad Fischer mit Johann Joachim Friedrich Plagemann. In seinem Tagebuch von 1794 beschreibt Fischer detailliert <ref target="https://archives.georgfischer.com/keywords/8397">Plagemanns Sammlung</ref> von mikroskopischen Objekten.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Rector of the German School in Stockholm.</p>
-              <p>While staying in Stockholm, Johann Conrad Fischer became acquainted with Johann Joachim Friedrich Plagemann. In his 1794 Journal, Fischer describes in detail <ref target="../keywords/gfa-keywords-8397">Plagemannʼs collection</ref> of microscopic objects.</p>
+              <p>While staying in Stockholm, Johann Conrad Fischer became acquainted with Johann Joachim Friedrich Plagemann. In his 1794 Journal, Fischer describes in detail <ref target="https://archives.georgfischer.com/keywords/8397">Plagemannʼs collection</ref> of microscopic objects.</p>
             </note>
             <listBibl>
               <bibl>
@@ -5262,11 +5263,11 @@
             <death when="1873-01-09"/>
             <note type="description" xml:lang="de">
               <p>Französischer Staatspräsident (1848–1852), später Kaiser der Franzosen (1852–1870).</p>
-              <p>Auf seiner Reise nach London an die <ref target="../keywords/gfa-keywords-8436">Weltausstellung</ref> begegnete Johann Conrad Fischer mehrmals dem <ref target="gfa-actors-7449">Kantonsrat Friedrich Ferdinand Ammann</ref>. Dessen Vater, Hartmann Friedrich Ammann, hatte engen Kontakt zum damals im Exil auf Schloss Arenenberg (<ref target="../places/gfa-places-1117">Salenstein</ref> TG) wohnhaften Charles-Louis-Napoléon Bonaparte. Ammann der Ältere vermittelte Bonaparte sein Wissen über die <ref target="../keywords/gfa-keywords-8807">Artillerie</ref> auf dem Waffenplatz Thun, wo dieser auch das Offiziersbrevet der Schweizer Armee erwarb. Später gründeten die beiden Männer im <ref target="../places/gfa-places-984">Ermatinger</ref> «Hirschen» die Thurgauische Schützengesellschaft.</p>
+              <p>Auf seiner Reise nach London an die <ref target="../keywords/gfa-keywords-8436">Weltausstellung</ref> begegnete Johann Conrad Fischer mehrmals dem <ref target="gfa-actors-7449">Kantonsrat Friedrich Ferdinand Ammann</ref>. Dessen Vater, Hartmann Friedrich Ammann, hatte engen Kontakt zum damals im Exil auf Schloss Arenenberg (<ref target="https://archives.georgfischer.com/places/1117">Salenstein</ref> TG) wohnhaften Charles-Louis-Napoléon Bonaparte. Ammann der Ältere vermittelte Bonaparte sein Wissen über die <ref target="../keywords/gfa-keywords-8807">Artillerie</ref> auf dem Waffenplatz Thun, wo dieser auch das Offiziersbrevet der Schweizer Armee erwarb. Später gründeten die beiden Männer im <ref target="../places/gfa-places-984">Ermatinger</ref> «Hirschen» die Thurgauische Schützengesellschaft.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>President of France (1848–1852); later Emperor of France (1852–1870).</p>
-              <p>Johann Conrad Fischer met the cantonal councillor <ref target="gfa-actors-7449">Friedrich Ferdinand Ammann</ref> several times when he was in London for the <ref target="../keywords/gfa-keywords-8436">Great Exhibition</ref>. His father, Hartmann Friedrich Ammann, had been in close contact with Charles-Louis-Napoléon Bonaparte, then living in exile in Arenenberg Castle in <ref target="../places/gfa-places-1117">Salenstein</ref>, Canton of Thurgau. Ammann the elder instructed Bonaparte in the science of <ref target="../keywords/gfa-keywords-8807">artillery</ref> at the garrison in Thun, where Napoleon became an officer in the Swiss army. The two men later founded the Thurgau Rifle Association in the restaurant Hirschen in <ref target="../places/gfa-places-984">Ermatingen</ref>.</p>
+              <p>Johann Conrad Fischer met the cantonal councillor <ref target="gfa-actors-7449">Friedrich Ferdinand Ammann</ref> several times when he was in London for the <ref target="../keywords/gfa-keywords-8436">Great Exhibition</ref>. His father, Hartmann Friedrich Ammann, had been in close contact with Charles-Louis-Napoléon Bonaparte, then living in exile in Arenenberg Castle in <ref target="https://archives.georgfischer.com/places/1117">Salenstein</ref>, Canton of Thurgau. Ammann the elder instructed Bonaparte in the science of <ref target="../keywords/gfa-keywords-8807">artillery</ref> at the garrison in Thun, where Napoleon became an officer in the Swiss army. The two men later founded the Thurgau Rifle Association in the restaurant Hirschen in <ref target="../places/gfa-places-984">Ermatingen</ref>.</p>
             </note>
             <listBibl>
               <bibl type="image">
@@ -8002,11 +8003,11 @@
             <death when="1792-12-20"/>
             <note type="description" xml:lang="de">
               <p>Schwedischer Bergbauexperte, Mineraloge und Chemiker.</p>
-              <p>Sven Rinman hatte grossen Einfluss auf die Entwicklung des <ref target="../keywords/gfa-keywords-296">Bergbaus</ref> und der <ref target="../keywords/gfa-keywords-9502">Stahlproduktion</ref> in <ref target="../places/gfa-places-133">Schweden</ref>. Er ist vor allem durch das nach ihm benannte Pigment Rinmans Grün bekannt geworden, dessen Entstehung auch als Nachweisreaktion für <ref target="../keywords/gfa-keywords-9636">Zink</ref> gilt.</p>
+              <p>Sven Rinman hatte grossen Einfluss auf die Entwicklung des <ref target="https://archives.georgfischer.com/keywords/296">Bergbaus</ref> und der <ref target="../keywords/gfa-keywords-9502">Stahlproduktion</ref> in <ref target="../places/gfa-places-133">Schweden</ref>. Er ist vor allem durch das nach ihm benannte Pigment Rinmans Grün bekannt geworden, dessen Entstehung auch als Nachweisreaktion für <ref target="../keywords/gfa-keywords-9636">Zink</ref> gilt.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Swedish mining expert, mineralogist and chemist.</p>
-              <p>Sven Rinman had a major influence on the development of <ref target="../keywords/gfa-keywords-296">mining</ref> and <ref target="../keywords/gfa-keywords-9502">steel production</ref> in <ref target="../places/gfa-places-133">Sweden</ref>. He is known mainly for the pigment named after him, Rinman’s green, the presence of which serves to detect <ref target="../keywords/gfa-keywords-9636">zinc</ref>.</p>
+              <p>Sven Rinman had a major influence on the development of <ref target="https://archives.georgfischer.com/keywords/296">mining</ref> and <ref target="../keywords/gfa-keywords-9502">steel production</ref> in <ref target="../places/gfa-places-133">Sweden</ref>. He is known mainly for the pigment named after him, Rinman’s green, the presence of which serves to detect <ref target="../keywords/gfa-keywords-9636">zinc</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -8148,11 +8149,11 @@
             <death when="1868-02-29"/>
             <note type="description" xml:lang="de">
               <p>König des Königreichs Bayern aus dem Geschlecht der Wittelsbacher.</p>
-              <p>In die Regierungszeit von Ludwig I. fiel die Einrichtung zahlreicher Kunstsammlungen und klassizistischer Bauten. Die erste im Dezember 1835 eröffnete Eisenbahnlinie in <ref target="../places/gfa-places-35">Deutschland</ref> von <ref target="../places/gfa-places-1114">Nürnberg</ref> nach Fürth trägt seinen Namen. Die Hochzeit Ludwigs I. im Jahr 1810 mit Therese von Sachsen-Hildburghausen begründete das Oktoberfest.</p>
+              <p>In die Regierungszeit von Ludwig I. fiel die Einrichtung zahlreicher Kunstsammlungen und klassizistischer Bauten. Die erste im Dezember 1835 eröffnete Eisenbahnlinie in <ref target="../places/gfa-places-35">Deutschland</ref> von <ref target="https://archives.georgfischer.com/places/1114">Nürnberg</ref> nach Fürth trägt seinen Namen. Die Hochzeit Ludwigs I. im Jahr 1810 mit Therese von Sachsen-Hildburghausen begründete das Oktoberfest.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>King of the Kingdom of Bavaria, a member of the Wittelsbach family.</p>
-              <p>The reign of Ludwig I coincided with the creation of numerous art collections and the spread of neoclassical architecture. The first railway line in <ref target="../places/gfa-places-35">Germany</ref>, from <ref target="../places/gfa-places-1114">Nuremberg</ref> to Fürth, which opened in December 1835, bears his name. His marriage in 1810 to Therese von Sachsen-Hildburghausen marks the beginning of the Oktoberfest.</p>
+              <p>The reign of Ludwig I coincided with the creation of numerous art collections and the spread of neoclassical architecture. The first railway line in <ref target="../places/gfa-places-35">Germany</ref>, from <ref target="https://archives.georgfischer.com/places/1114">Nuremberg</ref> to Fürth, which opened in December 1835, bears his name. His marriage in 1810 to Therese von Sachsen-Hildburghausen marks the beginning of the Oktoberfest.</p>
             </note>
             <listBibl>
               <bibl>
@@ -8744,12 +8745,12 @@
             <death when="1809-08-18"/>
             <note type="description" xml:lang="de">
               <p>Englischer Ingenieur, Medailleur und Unternehmer der frühen Industriellen Revolution.</p>
-              <p>Matthew Boulton entwickelte und vertrieb zusammen mit <ref target="gfa-actors-7523">James Watt</ref> <ref target="../keywords/gfa-keywords-8651">Dampfmaschinen</ref> in der <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. Die beiden Herren gründeten ausserdem eine <ref target="../keywords/gfa-keywords-9329">Münzwerkstätte</ref>, die Soho Mint, und weitere Fabriken. Unter dem Einfluss der Gedanken Jean-Jacques Rousseaus führte Boulton in seinen Fabriken eine <ref target="../keywords/gfa-keywords-1138">Sozialversicherung</ref> für die Mitarbeiter ein.</p>
+              <p>Matthew Boulton entwickelte und vertrieb zusammen mit <ref target="gfa-actors-7523">James Watt</ref> <ref target="../keywords/gfa-keywords-8651">Dampfmaschinen</ref> in der <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. Die beiden Herren gründeten ausserdem eine <ref target="../keywords/gfa-keywords-9329">Münzwerkstätte</ref>, die Soho Mint, und weitere Fabriken. Unter dem Einfluss der Gedanken Jean-Jacques Rousseaus führte Boulton in seinen Fabriken eine <ref target="https://archives.georgfischer.com/keywords/1138">Sozialversicherung</ref> für die Mitarbeiter ein.</p>
               <p>Ab 1800 führten sein Sohn, <ref target="gfa-actors-7573">Matthew Robinson Boulton</ref>, und <ref target="gfa-actors-7572">James Watt Junior</ref>, als Geschäftsführer die Firma <ref target="gfa-actors-7571">Boulton &amp; Watt</ref> weiter.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>English engineer, medal- and coin-maker and entrepreneur of the early Industrial Revolution.</p>
-              <p>Matthew Boulton, together with <ref target="gfa-actors-7523">James Watt</ref>, developed and sold <ref target="../keywords/gfa-keywords-8651">steam engines</ref> manufactured at his <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. The two men also established a <ref target="../keywords/gfa-keywords-9329">mint facility</ref>, the Soho Mint, as well as other factories. Influenced by the thinking of Jean-Jacques Rousseau, Boulton set up a <ref target="../keywords/gfa-keywords-1138">social insurance</ref> plan for his factory employees.</p>
+              <p>Matthew Boulton, together with <ref target="gfa-actors-7523">James Watt</ref>, developed and sold <ref target="../keywords/gfa-keywords-8651">steam engines</ref> manufactured at his <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. The two men also established a <ref target="../keywords/gfa-keywords-9329">mint facility</ref>, the Soho Mint, as well as other factories. Influenced by the thinking of Jean-Jacques Rousseau, Boulton set up a <ref target="https://archives.georgfischer.com/keywords/1138">social insurance</ref> plan for his factory employees.</p>
               <p>In 1800, his son, <ref target="gfa-actors-7573">Matthew Robinson Boulton</ref>, and <ref target="gfa-actors-7572">James Watt Junior</ref>, took over as managers of the firm of <ref target="gfa-actors-7571">Boulton &amp; Watt</ref>.</p>
             </note>
             <listBibl>
@@ -12686,9 +12687,9 @@
             <note type="description" xml:lang="en">
               <p>An American engineer and inventor.</p>
               <p>Jacob Perkins pioneered the technique of <ref target="../keywords/gfa-keywords-2856">steel engraving (siderography)</ref> and was the inventor of the refrigerator, the <ref target="../keywords/gfa-keywords-9094">high pressure steam engine</ref> and the <ref target="../keywords/gfa-keywords-8772">engraving machine</ref>. Perkins owned, among others, a steam engine factory on Gray’s Inn Road, another such factory near Regent’s Park and a printing house on Fleet Street.</p>
-              <p>See location: <ref target="../places/gfa-places-2095">Perkins’ steam engine manufactory (Grayʼs Inn)</ref></p>
-              <p>See location: <ref target="../places/gfa-places-1850">Perkins’ steam engine manufactory (Regents Park)</ref></p>
-              <p>See location: <ref target="../places/gfa-places-1849">Jacob Perkins &amp; Co. printing house</ref></p>
+              <p>See location: <ref target="../places/gfa-places-2095">Perkins’ steam engine manufactory (Grayʼs Inn)</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-1850">Perkins’ steam engine manufactory (Regents Park)</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-1849">Jacob Perkins &amp; Co. printing house</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -14219,7 +14220,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>A photographer in <ref target="../places/gfa-places-89">London</ref>.</p>
-              <p>See place: <ref target="../places/gfa-places-2170">Croucher’s Photographic Studio</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2170">Croucher’s Photographic Studio</ref>.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -15639,6 +15640,7 @@
             <persName type="full" xml:lang="en">Herodot</persName>
             <persName type="main" xml:lang="en">Herodot</persName>
             <persName type="sort" xml:lang="en">herodot</persName>
+            <persName type="alternative" xml:lang="en">Herodotus</persName>
             <note type="description" xml:lang="de">
               <p>Griechischer Geschichtsschreiber, gilt als Begründer der Disziplin.</p>
               <p>Herodot lebte von circa 490/480 v. Chr. bis circa 430/420 v. Chr.</p>
@@ -19091,10 +19093,10 @@
             <birth when="1765"/>
             <death when="1825"/>
             <note type="description" xml:lang="de">
-              <p>Schwedischer Mineraloge, Direktor der Guss- und Stabeisenwerke sowie Oberster Hochofenmeister im Süder-Distrikt.</p>
+              <p>Schwedischer <ref target="../keywords/gfa-keywords-289">Mineraloge</ref>, Direktor der Guss- und Stabeisenwerke sowie Oberster Hochofenmeister im Süder-Distrikt.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>Swedish mineralogist, director of an iron foundry and bar iron works and Chief Ironmaster in the district of Süder, Sweden.</p>
+              <p>Swedish <ref target="../keywords/gfa-keywords-289">mineralogist</ref>, director of an iron foundry and bar iron works and Chief Ironmaster in the district of Süder, Sweden.</p>
             </note>
             <listBibl>
               <bibl>
@@ -20577,7 +20579,13 @@
             <persName type="full" xml:lang="en">P., E.</persName>
             <persName type="main" xml:lang="en">P., E.</persName>
             <persName type="sort" xml:lang="en">p., e.</persName>
-            <persName type="alternative" xml:lang="en">Herr E. P.</persName>
+            <persName type="alternative" xml:lang="en">Mr. E. P.</persName>
+            <note type="description" xml:lang="de">
+              <p>Ein Geschäftsfreund Johann Conrad Fischers aus [Basel] (https://archives.georgfischer.com/places/10).</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>A business acquaintance of Johann Conrad Fischer from <ref target="../places/gfa-places-10">Basel</ref>.</p>
+            </note>
           </person>
           <person xml:id="gfa-actors-8256">
             <persName type="full" xml:lang="de">Biget</persName>
@@ -20588,9 +20596,11 @@
             <persName type="sort" xml:lang="en">biget</persName>
             <note type="description" xml:lang="de">
               <p>Hutverkäufer an der <ref target="../places/gfa-places-2122">Rue Rivoli</ref> Nr. 56 in <ref target="../places/gfa-places-118">Paris</ref>.</p>
+              <p>Siehe Standort: <ref target="../places/gfa-places-2123">Bigets Hutladen</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Hat-maker at 56, <ref target="../places/gfa-places-2122">rue Rivoli</ref> in <ref target="../places/gfa-places-118">Paris</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2123">Biget's Hat Shop</ref>.</p>
             </note>
           </person>
           <person xml:id="gfa-actors-8257">
@@ -20662,10 +20672,9 @@
             <persName type="full" xml:lang="de">Karl X. (Frankreich) (1757–1836)</persName>
             <persName type="main" xml:lang="de">Karl X. (Frankreich)</persName>
             <persName type="sort" xml:lang="de">karl x. (frankreich)</persName>
-            <persName type="full" xml:lang="en">Karl X. (Frankreich) (1757–1836)</persName>
-            <persName type="main" xml:lang="en">Karl X. (Frankreich)</persName>
-            <persName type="sort" xml:lang="en">karl x. (frankreich)</persName>
-            <persName type="alternative" xml:lang="en">Charles X</persName>
+            <persName type="full" xml:lang="en">Charles X (France) (1757–1836)</persName>
+            <persName type="main" xml:lang="en">Charles X (France)</persName>
+            <persName type="sort" xml:lang="en">charles x (france)</persName>
             <birth when="1757-10-09"/>
             <death when="1836-11-06"/>
             <note type="description" xml:lang="de">
@@ -20841,7 +20850,7 @@
               <p>Johann Conrad Fischer wurde durch <ref target="gfa-actors-7525">Hans Caspar Escher</ref> an Herrn K. empfohlen.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>Owner of the largest ironworks in England, resident in <ref target="../places/gfa-places-89">London</ref>.</p>
+              <p>Owner of one of the largest ironworks in England, resident in <ref target="../places/gfa-places-89">London</ref>.</p>
               <p>Johann Conrad Fischer was commended to Mr. K. by <ref target="gfa-actors-7525">Hans Caspar Escher</ref>.</p>
             </note>
           </person>
@@ -20960,7 +20969,7 @@
               <bibl type="image">
                 <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134085"/>
                 <title xml:lang="de">Moses mit den Gesetzestafeln (Gemälde von Rembrandt van Rijn, 1659)</title>
-                <title xml:lang="en"/>
+                <title xml:lang="en">Moses smashing the Tablets of the Law (painting Rembrandt van Rijn, 1659)</title>
                 <ptr target="https://archives.georgfischer.com/media/gfd_1_247-0001" type="original"/>
                 <ptr target="https://archives.georgfischer.com/media/web/gfd_1_247-0001" type="web"/>
                 <ptr target="https://archives.georgfischer.com/media/thumb/gfd_1_247-0001" type="thumb"/>
@@ -21821,10 +21830,10 @@
             <persName type="main" xml:lang="en">Youle</persName>
             <persName type="sort" xml:lang="en">youle</persName>
             <note type="description" xml:lang="de">
-              <p>Optiker in Leadenhall Street, London.</p>
+              <p>Optiker in Leadenhall Street, <ref target="../places/gfa-places-89">London</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>Optician in Leadenhall Street, London.</p>
+              <p>Optician in Leadenhall Street, <ref target="../places/gfa-places-89">London</ref>.</p>
             </note>
           </person>
           <person xml:id="gfa-actors-8327">
@@ -21859,12 +21868,12 @@
             <birth when="1801-12-22"/>
             <death when="1885-06-07"/>
             <note type="description" xml:lang="de">
-              <p>Englischer Kohlehändler, Unternehmer und Fotograf, der dazu beitrug, die professionelle Fotografie im Vereinigten Königreich zu etablieren.</p>
-              <p>Richard Beard erwarb das Patent für das <ref target="../keywords/gfa-keywords-8934">Daguerreotypie</ref>-Verfahren in England und Wales, errichtete eine Kette von Fotostudios in London und verkaufte diverse Lizenzen. Sein erstes Fotostudio befand sich in der <ref target="gfa-actors-8341">Royal Polytechnic Institution</ref>.</p>
+              <p>Englischer Kohlehändler, Unternehmer und Fotograf, der dazu beitrug, die professionelle Fotografie im <ref target="../places/gfa-places-402">Vereinigten Königreich</ref> zu etablieren.</p>
+              <p>Richard Beard erwarb das Patent für das <ref target="../keywords/gfa-keywords-8934">Daguerreotypie</ref>-Verfahren in <ref target="../places/gfa-places-41">England</ref> und <ref target="../places/gfa-places-1945">Wales</ref>, errichtete eine Kette von Fotostudios in <ref target="../places/gfa-places-89">London</ref> und verkaufte diverse Lizenzen. Sein erstes Fotostudio befand sich in der <ref target="gfa-actors-8341">Royal Polytechnic Institution</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>British coal merchant, entrepreneur and photographer, who was instrumental in establishing professional photography in Great Britain.</p>
-              <p>Richard Beard acquired exclusive rights to the <ref target="../keywords/gfa-keywords-8934">Daguerrotype</ref> process for both England and Wales, founded a chain of photographic studios in London and sold various licences. His first photographic studio was at the <ref target="gfa-actors-8341">Royal Polytechnic Institution</ref>.</p>
+              <p>British coal merchant, entrepreneur and photographer, who was instrumental in establishing professional photography in <ref target="../places/gfa-places-402">Great Britain</ref>.</p>
+              <p>Richard Beard acquired exclusive rights to the <ref target="../keywords/gfa-keywords-8934">Daguerrotype</ref> process for both <ref target="../places/gfa-places-41">England</ref> and <ref target="../places/gfa-places-1945">Wales</ref>, founded a chain of photographic studios in <ref target="../places/gfa-places-89">London</ref> and sold various licences. His first photographic studio was at the <ref target="gfa-actors-8341">Royal Polytechnic Institution</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -21967,6 +21976,10 @@
               </listBibl>
             </note>
           </person>
+          
+          
+          
+          
           
           
           
@@ -22878,13 +22891,13 @@
             <note type="description" xml:lang="de">
               <p>1612 offiziell gegründete Bildungsstätte in Stockholm, in der auf Deutsch unterrichtet wird.</p>
               <p>Die Deutsche Schule Stockholm hat ihre Wurzeln in der Gründung der Deutschen Evangelischen Gemeinde im Jahr 1558. Das Recht, eine eigene Schule zu führen, wurde der Gemeinde erstmals 1612 durch einen königlichen Privilegienbrief bestätigt. Die Schule hatte unter der Trägerschaft der Evangelischen Gemeinde bis 1888 Bestand, danach führte die Gemeinde eine reine Sprachschule fort. Die heutige Institution ist 1953 unter der Trägerschaft eines Schulvereins entstanden.</p>
-              <p>Während seines Aufenthalts in Stockholm lernte Johann Conrad Fischer den <ref target="gfa-actors-7412">Rektor</ref> der Schule kennen, welcher ihm die <ref target="../keywords/gfa-keywords-8397">Sammlung</ref> der Schule zeigte.</p>
+              <p>Während seines Aufenthalts in Stockholm lernte Johann Conrad Fischer den <ref target="gfa-actors-7412">Rektor</ref> der Schule kennen, welcher ihm die <ref target="https://archives.georgfischer.com/keywords/8397">Sammlung</ref> der Schule zeigte.</p>
               <p>Siehe Standort: <ref target="../places/gfa-places-2155">Deutsche Schule</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An educational institution in Stockholm, officially founded in 1612; instruction is given in German.</p>
               <p>The roots of the German School Stockholm go back to the founding of the German Evangelical Community in 1558. The right to have its own school was first confirmed by royal charter in 1612. The school continued to operate under the auspices of the Evangelical Community until 1888, after which it operated purely as a language school. The current institution was created in 1953 under the sponsorship of a School Society.</p>
-              <p>During his stay in Stockholm, Johann Conrad Fischer made the acquaintance of the <ref target="gfa-actors-7412">Schoolʼs Rector</ref>, who showed him the <ref target="../keywords/gfa-keywords-8397">schoolʼs collection</ref>.</p>
+              <p>During his stay in Stockholm, Johann Conrad Fischer made the acquaintance of the <ref target="gfa-actors-7412">Schoolʼs Rector</ref>, who showed him the <ref target="https://archives.georgfischer.com/keywords/8397">schoolʼs collection</ref>.</p>
               <p>See location: <ref target="../places/gfa-places-2155">German School Stockholm</ref>.Place: <ref target="../places/gfa-places-2155">Deutsche Schule</ref>.</p>
             </note>
             <listBibl>
@@ -23866,7 +23879,7 @@
             <orgName type="alternative" xml:lang="en">Bramale :: Bramall</orgName>
             <note type="description" xml:lang="de">
               <p>Familienunternehmen, tätig in der Feilenfabrikation in <ref target="../places/gfa-places-1265">Sheffield</ref>.</p>
-              <p>Siehe Standort: <ref target="../places/gfa-places-2057">Feilenmanufaktur Bramall in White House</ref>.</p>
+              <p>Siehe Standort: <ref target="../places/gfa-places-1799">Feilenmanufaktur Bramall in White House</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A family-owned company, file-makers in <ref target="../places/gfa-places-1265">Sheffield</ref>.</p>
@@ -24030,7 +24043,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>A brassworks in <ref target="../places/gfa-places-1329">Augsburg</ref>.</p>
-              <p>See place: <ref target="../places/gfa-places-2173">Messingfabrik Beck &amp; Co.</ref></p>
+              <p>See location: <ref target="../places/gfa-places-2173">Messingfabrik Beck &amp; Co.</ref>.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -24055,7 +24068,7 @@
             <note type="description" xml:lang="en">
               <p>An anchor works and chain forge in <ref target="../places/gfa-places-1745">Liverpool</ref>.</p>
               <p>Betteley &amp; Roberts was known as Joseph Betteley Jun. &amp; Co. from 1853.</p>
-              <p>See place: <ref target="../places/gfa-places-2204">Ankerschmiede Betteley &amp; Roberts</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2204">Betteley &amp; Roberts Anchor Works</ref>.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -24086,7 +24099,7 @@
             <note type="description" xml:lang="en">
               <p>An ironworks near <ref target="../places/gfa-places-1907">Bradford</ref>, Yorkshire.</p>
               <p>The Low Moor Ironworks was founded by Richard Hird, Joseph Dawson and John Hardy in ca. 1790. The business remained in family hands until the late 19th century.</p>
-              <p>See place: <ref target="../places/gfa-places-2137">Low Moor Ironworks</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2137">Low Moor Ironworks</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -24117,7 +24130,7 @@
             <note type="description" xml:lang="en">
               <p>The bank belonging to <ref target="gfa-actors-7539">Timothy Yeats Brown</ref> in London.</p>
               <p>Timothy Yeats Brown did business under the name Brown, Cobb et Co. at 66 <ref target="../places/gfa-places-1644">Lombard Street</ref>, London, according to the Post Office Annual Directory for 1814. The abbreviation “Co.” possibly stands for Siordet. No trace can be found of “Brown et Siordet”, which is the name given by Johann Conrad Fischer. The name Siordet probably refers to the Genevan banker J. M. Siordet. The address 66 Lombard Street is also confirmed in a letter written by Johann Conrad Fischer to Yeats Brown, dated 15 October 1814.</p>
-              <p>See location: <ref target="../places/gfa-places-2224">Brown, Cobb &amp; Co.</ref></p>
+              <p>See location: <ref target="../places/gfa-places-2224">Brown, Cobb &amp; Co.</ref>.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -24147,7 +24160,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>An ironworks in <ref target="../places/gfa-places-1925">Derbyshire</ref>.</p>
-              <p>See place: <ref target="../places/gfa-places-2215">Butterley Works</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2215">Butterley Works</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -24222,7 +24235,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>The world’s oldest manufacturer of eau de Cologne in <ref target="../places/gfa-places-82">Cologne</ref>.</p>
-              <p>See place: <ref target="../places/gfa-places-2213">Farina-Haus</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2213">Farina-Haus</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -24294,7 +24307,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>Silk drapers on <ref target="../places/gfa-places-1612">Ludgate Hill</ref> in London.</p>
-              <p>See place: <ref target="../places/gfa-places-2139">Gloucester House</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2139">Gloucester House</ref>.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -24318,7 +24331,7 @@
             <note type="description" xml:lang="en">
               <p>Operator of the Mersey Ironworks, one of the largest in <ref target="../places/gfa-places-1745">Liverpool</ref>.</p>
               <p><ref target="gfa-actors-8340">William Joseph Horsefall</ref> is on record as Horsfall &amp; Co.’s principal proprietor in ca. 1850.</p>
-              <p>See place: <ref target="../places/gfa-places-2203">Mersey Ironworks</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2203">Mersey Ironworks</ref>.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -24553,7 +24566,7 @@
             <note type="description" xml:lang="en">
               <p>Opticians, instrument-makers and pioneers of photography in <ref target="../places/gfa-places-89">London</ref>.</p>
               <p>The business was a partnership run by the brothers Thomas &amp; Richard Willats (1818–1856).</p>
-              <p>See place: <ref target="../places/gfa-places-2169">Willats the Opticians</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2169">Willats the Opticians</ref>.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -24757,7 +24770,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>A London company that produced and supplied <ref target="../keywords/gfa-keywords-9220">coal gas</ref> and <ref target="../keywords/gfa-keywords-8551">coke</ref>.</p>
-              <p>See location: <ref target="../places/gfa-places-2087">Imperial Gas Light &amp; Coke Co.</ref></p>
+              <p>See location: <ref target="../places/gfa-places-2087">Imperial Gas Light &amp; Coke Co.</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -25216,7 +25229,7 @@
             <orgName type="full" xml:lang="en">London and Croydon Railway (1839–1846)</orgName>
             <orgName type="main" xml:lang="en">London and Croydon Railway</orgName>
             <orgName type="sort" xml:lang="en">london and croydon railway</orgName>
-            <orgName type="alternative" xml:lang="en">Atmosphärische Eisenbahngesellschaft Croydon-Brighton :: L &amp; CR</orgName>
+            <orgName type="alternative" xml:lang="en">Atmospheric Railway Company Croydon-Brighton :: L &amp; CR</orgName>
             <orgName type="abbreviation"/>
             <event type="start" when="1839">
               <p/>
@@ -25595,7 +25608,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>British central bank, founded in 1694.</p>
-              <p>See place: <ref target="../places/gfa-places-2199">Bank of England</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2199">Bank of England</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -25740,11 +25753,11 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Deutsche Verlagsbuchhandlung in <ref target="../places/gfa-places-1101">Tübingen</ref>.</p>
+              <p>Deutsche Verlagsbuchhandlung in <ref target="https://archives.georgfischer.com/places/1101">Tübingen</ref>.</p>
               <p>Im Jahr 1977 wurde die Buchhandlung von der Firma Ernst Klett (Verlag und Druckerei) erworben.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>A German publishing house in <ref target="../places/gfa-places-1101">Tübingen</ref>.</p>
+              <p>A German publishing house in <ref target="https://archives.georgfischer.com/places/1101">Tübingen</ref>.</p>
               <p>The firm was purchased in 1977 by the publisher and printer Ernst Klett.</p>
             </note>
             <listBibl>
@@ -25980,7 +25993,7 @@
             <note type="description" xml:lang="en">
               <p>Association of museums, cultural-historical institutions and an art gallery.</p>
               <p>Johann Conrad Fischer, accompanied by <ref target="gfa-actors-7842">Henry Gott</ref>, visited the then Northern Exhibition in 1825, in which paintings by English artists from 1823 to 1825 were exhibited.</p>
-              <p>See location: <ref target="../places/gfa-places-2055">Northern Exhibition</ref></p>
+              <p>See location: <ref target="../places/gfa-places-2055">Northern Exhibition</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -26044,7 +26057,7 @@
             <note type="description" xml:lang="en">
               <p>Company involved in the manufacture of steam boilers and <ref target="../keywords/gfa-keywords-8651">steam engines</ref>.</p>
               <p>The company was founded around 1815 by <ref target="gfa-actors-7921">Richard Ormerod</ref> in <ref target="../places/gfa-places-471">Manchester</ref> and bore his name. It later became known as “R. Ormerod and Son(s)”.</p>
-              <p>See location: <ref target="../places/gfa-places-1874">St. Georges Foundry</ref></p>
+              <p>See location: <ref target="../places/gfa-places-1874">St. Georges Foundry</ref>.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -26120,7 +26133,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>Formerly a public institute of technology in <ref target="../places/gfa-places-89">London</ref>.</p>
-              <p>See place: <ref target="../places/gfa-places-2140">Royal Polytechnic Institution</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2140">Royal Polytechnic Institution</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -26155,7 +26168,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-12-05T17:03:52+01:00">teiHeader was automatically produced from the database 2023-12-05T17:03:52+01:00</change>
+      <change when="2023-12-08T20:00:58+01:00">teiHeader was automatically produced from the database 2023-12-08T20:00:58+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

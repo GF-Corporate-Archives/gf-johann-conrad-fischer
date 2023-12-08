@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-12-05 17:03:52 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-08 20:00:58 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -610,6 +610,9 @@
             <placeName type="main" xml:lang="de">Belgien</placeName>
             <placeName type="full" xml:lang="de">Belgien</placeName>
             <placeName type="sort" xml:lang="de">belgien</placeName>
+            <placeName type="main" xml:lang="en">Belgium</placeName>
+            <placeName type="full" xml:lang="en">Belgium</placeName>
+            <placeName type="sort" xml:lang="en">belgium</placeName>
             <location>
               <geo>50.75 4.5</geo>
               <country xml:lang="de">Belgien</country>
@@ -860,6 +863,9 @@
             <placeName type="main" xml:lang="de">Bodensee</placeName>
             <placeName type="full" xml:lang="de">Bodensee</placeName>
             <placeName type="sort" xml:lang="de">bodensee</placeName>
+            <placeName type="main" xml:lang="en">Lake Constance</placeName>
+            <placeName type="full" xml:lang="en">Lake Constance</placeName>
+            <placeName type="sort" xml:lang="en">lake constance</placeName>
             <location>
               <geo>47.58333 9.46667</geo>
             </location>
@@ -1582,7 +1588,7 @@
               </bibl>
               <bibl type="image">
                 <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134118"/>
-                <title xml:lang="de">Blick auf die Gebirgsgruppe Silvretta aus Klosters im Kanton Graubünden (Chromolithografie von J. G. Bach, 1870)</title>
+                <title xml:lang="de">Blick von Klosters auf die Gebirgsgruppe Silvretta im Kanton Graubünden (Chromolithografie von J. G. Bach, 1870)</title>
                 <title xml:lang="en"/>
                 <ptr target="https://archives.georgfischer.com/media/gfd_2_298-0001" type="original"/>
                 <ptr target="https://archives.georgfischer.com/media/web/gfd_2_298-0001" type="web"/>
@@ -1989,6 +1995,9 @@
             <placeName type="main" xml:lang="de">Thurgau (Kanton)</placeName>
             <placeName type="full" xml:lang="de">Thurgau (Kanton) (TG)</placeName>
             <placeName type="sort" xml:lang="de">thurgau (kanton)</placeName>
+            <placeName type="main" xml:lang="en">Thurgau (Canton)</placeName>
+            <placeName type="full" xml:lang="en">Thurgau (Canton) (TG)</placeName>
+            <placeName type="sort" xml:lang="en">thurgau (canton)</placeName>
             <location>
               <geo>47.5562 9.07686</geo>
               <country xml:lang="de">Schweiz</country>
@@ -2301,9 +2310,13 @@
             <placeName type="main" xml:lang="de">Luzern</placeName>
             <placeName type="full" xml:lang="de">Luzern (LU)</placeName>
             <placeName type="sort" xml:lang="de">luzern</placeName>
+            <placeName type="main" xml:lang="en">Lucerne</placeName>
+            <placeName type="full" xml:lang="en">Lucerne (LU)</placeName>
+            <placeName type="sort" xml:lang="en">lucerne</placeName>
             <location>
               <geo>47.05048 8.30635</geo>
               <settlement xml:lang="de">Luzern</settlement>
+              <settlement xml:lang="en">Lucerne</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
             </location>
@@ -2925,6 +2938,9 @@
             <placeName type="main" xml:lang="de">Schwarzwald</placeName>
             <placeName type="full" xml:lang="de">Schwarzwald</placeName>
             <placeName type="sort" xml:lang="de">schwarzwald</placeName>
+            <placeName type="main" xml:lang="en">Black Forest</placeName>
+            <placeName type="full" xml:lang="en">Black Forest</placeName>
+            <placeName type="sort" xml:lang="en">black forest</placeName>
             <location>
               <geo>48 8.25</geo>
               <country xml:lang="de">Deutschland</country>
@@ -2970,6 +2986,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Mittelgebirge im Süden <ref target="gfa-places-35">Deutschlands</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Mountain range in southern <ref target="gfa-places-35">Germany</ref>.</p>
             </note>
           </place>
           <place type="A" xml:id="gfa-places-133">
@@ -3724,11 +3743,11 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Frühere Industriestadt und zweitgrösste Stadt im Kanton Zürich.</p>
-              <p>Im 19. Jahrhundert entwickelte sich Winterthur von einer industrialisierten Gewerbestadt zur Industriestadt, insbesondere Textil- und Maschinenindustrie. Die Fabriken der Giesserei <ref target="https://archives.georgfischer.com/actors/177">Sulzer</ref>, die <ref target="https://archives.georgfischer.com/actors/827">Schweizerische Lokomotiv- und Maschinenfabrik</ref> sowie die Fabrikgebäude von Rieter bildeten das grösste Industriegebiet der Schweiz.</p>
+              <p>Im 19. Jahrhundert entwickelte sich Winterthur von einer industrialisierten Gewerbestadt zur Industriestadt, insbesondere Textil- und Maschinenindustrie. Die Fabriken der Giesserei <ref target="https://archives.georgfischer.com/actors/177">Sulzer</ref>, die <ref target="../names/gfa-actors-827">Schweizerische Lokomotiv- und Maschinenfabrik</ref> sowie die Fabrikgebäude von Rieter bildeten das grösste Industriegebiet der Schweiz.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Former industrial city and second largest city in the canton of Zurich.</p>
-              <p>During the 19th century, Winterthur developed from an industrialised commercial city to an industrial city, especially textile and machine industry. The factories of the [Sulzer] foundry(https://archives.georgfischer.com/actors/177), the <ref target="https://archives.georgfischer.com/actors/827">Schweizerische Lokomotiv- und Maschinenfabrik</ref> and the Rieter factory buildings formed the largest industrial area in Switzerland.</p>
+              <p>During the 19th century, Winterthur developed from an industrialised commercial city to an industrial city, especially textile and machine industry. The factories of the [Sulzer] foundry(https://archives.georgfischer.com/actors/177), the <ref target="../names/gfa-actors-827">Schweizerische Lokomotiv- und Maschinenfabrik</ref> and the Rieter factory buildings formed the largest industrial area in Switzerland.</p>
             </note>
           </place>
           
@@ -3959,9 +3978,13 @@
             <placeName type="main" xml:lang="de">Baden</placeName>
             <placeName type="full" xml:lang="de">Baden (AG)</placeName>
             <placeName type="sort" xml:lang="de">baden</placeName>
+            <placeName type="main" xml:lang="en">Baden</placeName>
+            <placeName type="full" xml:lang="en">Baden (AG)</placeName>
+            <placeName type="sort" xml:lang="en">baden</placeName>
             <location>
               <geo>47.47333 8.30592</geo>
               <settlement xml:lang="de">Baden</settlement>
+              <settlement xml:lang="en">Baden</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
             </location>
@@ -4446,14 +4469,14 @@
             <placeName type="alternative" xml:lang="de">Coppenhagen</placeName>
             <placeName type="alternative" xml:lang="de">Koppenhagen</placeName>
             <placeName type="alternative" xml:lang="de">København</placeName>
-            <placeName type="main" xml:lang="en">Kopenhagen</placeName>
-            <placeName type="full" xml:lang="en">Kopenhagen</placeName>
-            <placeName type="sort" xml:lang="en">kopenhagen</placeName>
+            <placeName type="main" xml:lang="en">Copenhagen</placeName>
+            <placeName type="full" xml:lang="en">Copenhagen</placeName>
+            <placeName type="sort" xml:lang="en">copenhagen</placeName>
             <placeName type="alternative" xml:lang="en">Coppenhagen :: Koppenhagen :: København</placeName>
             <location>
               <geo>55.67594 12.56553</geo>
               <settlement xml:lang="de">Kopenhagen</settlement>
-              <settlement xml:lang="en">Kopenhagen</settlement>
+              <settlement xml:lang="en">Copenhagen</settlement>
               <country xml:lang="de">Dänemark</country>
               <country xml:lang="en">Denmark</country>
             </location>
@@ -4573,9 +4596,13 @@
             <placeName type="main" xml:lang="de">Konstanz</placeName>
             <placeName type="full" xml:lang="de">Konstanz</placeName>
             <placeName type="sort" xml:lang="de">konstanz</placeName>
+            <placeName type="main" xml:lang="en">Konstanz</placeName>
+            <placeName type="full" xml:lang="en">Konstanz</placeName>
+            <placeName type="sort" xml:lang="en">konstanz</placeName>
             <location>
               <geo>47.66033 9.17582</geo>
               <settlement xml:lang="de">Konstanz</settlement>
+              <settlement xml:lang="en">Konstanz</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -4886,9 +4913,13 @@
             <placeName type="main" xml:lang="de">Friedrichshafen</placeName>
             <placeName type="full" xml:lang="de">Friedrichshafen</placeName>
             <placeName type="sort" xml:lang="de">friedrichshafen</placeName>
+            <placeName type="main" xml:lang="en">Friedrichshafen</placeName>
+            <placeName type="full" xml:lang="en">Friedrichshafen</placeName>
+            <placeName type="sort" xml:lang="en">friedrichshafen</placeName>
             <location>
               <geo>47.65689 9.47554</geo>
               <settlement xml:lang="de">Friedrichshafen</settlement>
+              <settlement xml:lang="en">Friedrichshafen</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -4987,9 +5018,13 @@
             <placeName type="main" xml:lang="de">Appenzell</placeName>
             <placeName type="full" xml:lang="de">Appenzell (AI)</placeName>
             <placeName type="sort" xml:lang="de">appenzell</placeName>
+            <placeName type="main" xml:lang="en">Appenzell</placeName>
+            <placeName type="full" xml:lang="en">Appenzell (AI)</placeName>
+            <placeName type="sort" xml:lang="en">appenzell</placeName>
             <location>
               <geo>47.33103 9.40996</geo>
               <settlement xml:lang="de">Appenzell</settlement>
+              <settlement xml:lang="en">Appenzell</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
             </location>
@@ -5152,9 +5187,14 @@
             <placeName type="alternative" xml:lang="de">Konstantinopel</placeName>
             <placeName type="alternative" xml:lang="de">Byzantion</placeName>
             <placeName type="alternative" xml:lang="de">Byzanz</placeName>
+            <placeName type="main" xml:lang="en">Istanbul</placeName>
+            <placeName type="full" xml:lang="en">Istanbul</placeName>
+            <placeName type="sort" xml:lang="en">istanbul</placeName>
+            <placeName type="alternative" xml:lang="en">Constantinople :: Byzantium</placeName>
             <location>
               <geo>41.01384 28.94966</geo>
               <settlement xml:lang="de">Istanbul</settlement>
+              <settlement xml:lang="en">Istanbul</settlement>
               <country xml:lang="de">Türkei</country>
               <country xml:lang="en">Turkey</country>
             </location>
@@ -5496,9 +5536,14 @@
             <placeName type="alternative" xml:lang="de">Sankt Petersburg</placeName>
             <placeName type="alternative" xml:lang="de">Petrograd</placeName>
             <placeName type="alternative" xml:lang="de">Leningrad</placeName>
+            <placeName type="main" xml:lang="en">St. Petersburg</placeName>
+            <placeName type="full" xml:lang="en">St. Petersburg</placeName>
+            <placeName type="sort" xml:lang="en">st. petersburg</placeName>
+            <placeName type="alternative" xml:lang="en">Petrograd :: Leningrad</placeName>
             <location>
               <geo>59.93863 30.31413</geo>
               <settlement xml:lang="de">St. Petersburg</settlement>
+              <settlement xml:lang="en">St. Petersburg</settlement>
               <country xml:lang="de">Russische Föderation</country>
               <country xml:lang="en">Russia</country>
             </location>
@@ -5559,9 +5604,14 @@
             <placeName type="full" xml:lang="de">Jestetten</placeName>
             <placeName type="sort" xml:lang="de">jestetten</placeName>
             <placeName type="alternative" xml:lang="de">Jetstetten</placeName>
+            <placeName type="main" xml:lang="en">Jestetten</placeName>
+            <placeName type="full" xml:lang="en">Jestetten</placeName>
+            <placeName type="sort" xml:lang="en">jestetten</placeName>
+            <placeName type="alternative" xml:lang="en">Jetstetten</placeName>
             <location>
               <geo>47.65 8.56667</geo>
               <settlement xml:lang="de">Jestetten</settlement>
+              <settlement xml:lang="en">Jestetten</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -5599,6 +5649,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Deutsche Gemeinde am Rhein zwischen Rafz und Neuhausen.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>German village on the Rhine between Rafz and Neuhausen.</p>
             </note>
           </place>
           
@@ -5719,9 +5772,13 @@
             <placeName type="main" xml:lang="de">Salzburg</placeName>
             <placeName type="full" xml:lang="de">Salzburg</placeName>
             <placeName type="sort" xml:lang="de">salzburg</placeName>
+            <placeName type="main" xml:lang="en">Salzburg</placeName>
+            <placeName type="full" xml:lang="en">Salzburg</placeName>
+            <placeName type="sort" xml:lang="en">salzburg</placeName>
             <location>
               <geo>47.79941 13.04399</geo>
               <settlement xml:lang="de">Salzburg</settlement>
+              <settlement xml:lang="en">Salzburg</settlement>
               <country xml:lang="de">Österreich</country>
               <country xml:lang="en">Austria</country>
             </location>
@@ -5887,9 +5944,14 @@
             <placeName type="full" xml:lang="de">Steyr</placeName>
             <placeName type="sort" xml:lang="de">steyr</placeName>
             <placeName type="alternative" xml:lang="de">Steyer</placeName>
+            <placeName type="main" xml:lang="en">Steyr</placeName>
+            <placeName type="full" xml:lang="en">Steyr</placeName>
+            <placeName type="sort" xml:lang="en">steyr</placeName>
+            <placeName type="alternative" xml:lang="en">Steyer</placeName>
             <location>
               <geo>48.04274 14.42127</geo>
               <settlement xml:lang="de">Steyr</settlement>
+              <settlement xml:lang="en">Steyr</settlement>
               <country xml:lang="de">Österreich</country>
               <country xml:lang="en">Austria</country>
             </location>
@@ -5940,9 +6002,13 @@
             <placeName type="main" xml:lang="de">Romanshorn</placeName>
             <placeName type="full" xml:lang="de">Romanshorn (TG)</placeName>
             <placeName type="sort" xml:lang="de">romanshorn</placeName>
+            <placeName type="main" xml:lang="en">Romanshorn</placeName>
+            <placeName type="full" xml:lang="en">Romanshorn (TG)</placeName>
+            <placeName type="sort" xml:lang="en">romanshorn</placeName>
             <location>
               <geo>47.56586 9.37869</geo>
               <settlement xml:lang="de">Romanshorn</settlement>
+              <settlement xml:lang="en">Romanshorn</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
             </location>
@@ -6053,9 +6119,14 @@
             <placeName type="full" xml:lang="de">Laufenburg (AG)</placeName>
             <placeName type="sort" xml:lang="de">laufenburg</placeName>
             <placeName type="alternative" xml:lang="de">Lauffenburg</placeName>
+            <placeName type="main" xml:lang="en">Laufenburg</placeName>
+            <placeName type="full" xml:lang="en">Laufenburg (AG)</placeName>
+            <placeName type="sort" xml:lang="en">laufenburg</placeName>
+            <placeName type="alternative" xml:lang="en">Lauffenburg</placeName>
             <location>
               <geo>47.55985 8.06225</geo>
               <settlement xml:lang="de">Laufenburg</settlement>
+              <settlement xml:lang="en">Laufenburg</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
             </location>
@@ -6104,9 +6175,13 @@
             <placeName type="main" xml:lang="de">Frauenfeld</placeName>
             <placeName type="full" xml:lang="de">Frauenfeld (TG)</placeName>
             <placeName type="sort" xml:lang="de">frauenfeld</placeName>
+            <placeName type="main" xml:lang="en">Frauenfeld</placeName>
+            <placeName type="full" xml:lang="en">Frauenfeld (TG)</placeName>
+            <placeName type="sort" xml:lang="en">frauenfeld</placeName>
             <location>
               <geo>47.55776 8.89893</geo>
               <settlement xml:lang="de">Frauenfeld</settlement>
+              <settlement xml:lang="en">Frauenfeld</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
             </location>
@@ -6458,9 +6533,13 @@
             <placeName type="main" xml:lang="de">Bregenz</placeName>
             <placeName type="full" xml:lang="de">Bregenz</placeName>
             <placeName type="sort" xml:lang="de">bregenz</placeName>
+            <placeName type="main" xml:lang="en">Bregenz</placeName>
+            <placeName type="full" xml:lang="en">Bregenz</placeName>
+            <placeName type="sort" xml:lang="en">bregenz</placeName>
             <location>
               <geo>47.50311 9.7471</geo>
               <settlement xml:lang="de">Bregenz</settlement>
+              <settlement xml:lang="en">Bregenz</settlement>
               <country xml:lang="de">Österreich</country>
               <country xml:lang="en">Austria</country>
             </location>
@@ -7180,9 +7259,13 @@
             <placeName type="main" xml:lang="de">Rugby</placeName>
             <placeName type="full" xml:lang="de">Rugby</placeName>
             <placeName type="sort" xml:lang="de">rugby</placeName>
+            <placeName type="main" xml:lang="en">Rugby</placeName>
+            <placeName type="full" xml:lang="en">Rugby</placeName>
+            <placeName type="sort" xml:lang="en">rugby</placeName>
             <location>
               <geo>52.37092 -1.26417</geo>
               <settlement xml:lang="de">Rugby</settlement>
+              <settlement xml:lang="en">Rugby</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -7350,9 +7433,13 @@
             <placeName type="main" xml:lang="de">Waldshut-Tiengen</placeName>
             <placeName type="full" xml:lang="de">Waldshut-Tiengen</placeName>
             <placeName type="sort" xml:lang="de">waldshut-tiengen</placeName>
+            <placeName type="main" xml:lang="en">Waldshut-Tiengen</placeName>
+            <placeName type="full" xml:lang="en">Waldshut-Tiengen</placeName>
+            <placeName type="sort" xml:lang="en">waldshut-tiengen</placeName>
             <location>
               <geo>47.62323 8.21717</geo>
               <settlement xml:lang="de">Waldshut-Tiengen</settlement>
+              <settlement xml:lang="en">Waldshut-Tiengen</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -7714,9 +7801,13 @@
             <placeName type="main" xml:lang="de">Augsburg</placeName>
             <placeName type="full" xml:lang="de">Augsburg</placeName>
             <placeName type="sort" xml:lang="de">augsburg</placeName>
+            <placeName type="main" xml:lang="en">Augsburg</placeName>
+            <placeName type="full" xml:lang="en">Augsburg</placeName>
+            <placeName type="sort" xml:lang="en">augsburg</placeName>
             <location>
               <geo>48.37154 10.89851</geo>
               <settlement xml:lang="de">Augsburg</settlement>
+              <settlement xml:lang="en">Augsburg</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -7955,9 +8046,13 @@
             <placeName type="sort" xml:lang="de">alexandria</placeName>
             <placeName type="alternative" xml:lang="de">Alexandreien</placeName>
             <placeName type="alternative" xml:lang="de">Alexandrien</placeName>
+            <placeName type="main" xml:lang="en">Alexandria</placeName>
+            <placeName type="full" xml:lang="en">Alexandria</placeName>
+            <placeName type="sort" xml:lang="en">alexandria</placeName>
             <location>
               <geo>31.20176 29.91582</geo>
               <settlement xml:lang="de">Alexandria</settlement>
+              <settlement xml:lang="en">Alexandria</settlement>
               <country xml:lang="de">Ägypten</country>
               <country xml:lang="en">Egypt</country>
             </location>
@@ -16793,6 +16888,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>A cabinet of curiosities belonging to Sir Ashton Lever of Alkrington; opened in 1775 and closed in 1806.</p>
+              <p>Johann Conrad Fischer visited the museum during his first stay in London in 1794/1795.</p>
             </note>
           </place>
           <place type="H" xml:id="gfa-places-1663">
@@ -25273,9 +25369,14 @@
             <placeName type="main" xml:lang="de">Alfreton</placeName>
             <placeName type="full" xml:lang="de">Alfreton</placeName>
             <placeName type="sort" xml:lang="de">alfreton</placeName>
+            <placeName type="main" xml:lang="en">Alfreton</placeName>
+            <placeName type="full" xml:lang="en">Alfreton</placeName>
+            <placeName type="sort" xml:lang="en">alfreton</placeName>
+            <placeName type="alternative" xml:lang="en">Alfredton</placeName>
             <location>
               <geo>53.09766 -1.38376</geo>
               <settlement xml:lang="de">Alfreton</settlement>
+              <settlement xml:lang="en">Alfreton</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -25309,6 +25410,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Gemeinde in der englischen Grafschaft <ref target="gfa-places-1925">Derbyshire</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Town in the county of <ref target="gfa-places-1925">Derbyshire</ref> in England.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1880">
@@ -26106,6 +26210,10 @@
             <placeName type="full" xml:lang="de">Grossherzogtum Baden</placeName>
             <placeName type="sort" xml:lang="de">grossherzogtum baden</placeName>
             <placeName type="alternative" xml:lang="de">Baden</placeName>
+            <placeName type="main" xml:lang="en">Grand Duchy of Baden</placeName>
+            <placeName type="full" xml:lang="en">Grand Duchy of Baden</placeName>
+            <placeName type="sort" xml:lang="en">grand duchy of baden</placeName>
+            <placeName type="alternative" xml:lang="en">Baden</placeName>
             <location>
               <geo>48.820019404912 8.2287607376008</geo>
             </location>
@@ -26140,6 +26248,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Von 1806 bis 1871 bestehender souveräner Staat, der bis 1813 Mitglied des Rheinbunds und von 1815 bis 1866 Mitglied des Deutschen Bunds war.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>A sovereign state from 1806 to 1871; a member state of the Confederation of the Rhine until 1813 and of the German Confederation from 1815 to 1866.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1900">
@@ -26420,9 +26531,13 @@
             <placeName type="main" xml:lang="de">Bradford</placeName>
             <placeName type="full" xml:lang="de">Bradford</placeName>
             <placeName type="sort" xml:lang="de">bradford</placeName>
+            <placeName type="main" xml:lang="en">Bradford</placeName>
+            <placeName type="full" xml:lang="en">Bradford</placeName>
+            <placeName type="sort" xml:lang="en">bradford</placeName>
             <location>
               <geo>53.79391 -1.75206</geo>
               <settlement xml:lang="de">Bradford</settlement>
+              <settlement xml:lang="en">Bradford</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -26460,6 +26575,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Englische Stadt westlich von <ref target="gfa-places-1760">Leeds</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Town in northern England west of <ref target="gfa-places-1760">Leeds</ref>.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1909">
@@ -26522,9 +26640,14 @@
             <placeName type="full" xml:lang="de">Brügge</placeName>
             <placeName type="sort" xml:lang="de">bruegge</placeName>
             <placeName type="alternative" xml:lang="de">Bruges</placeName>
+            <placeName type="main" xml:lang="en">Bruges</placeName>
+            <placeName type="full" xml:lang="en">Bruges</placeName>
+            <placeName type="sort" xml:lang="en">bruges</placeName>
+            <placeName type="alternative" xml:lang="en">Brugge :: Brügge</placeName>
             <location>
               <geo>51.20892 3.22424</geo>
               <settlement xml:lang="de">Brügge</settlement>
+              <settlement xml:lang="en">Bruges</settlement>
               <country xml:lang="de">Belgien</country>
               <country xml:lang="en">Belgium</country>
             </location>
@@ -26564,7 +26687,10 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Hauptstadt der Provinz Westflandern in Belgien.</p>
+              <p>Hauptstadt der Provinz Westflandern in <ref target="gfa-places-13">Belgien</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Capital of the province of West Flanders in <ref target="gfa-places-13">Belgium</ref>.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1912">
@@ -26689,6 +26815,9 @@
             <placeName type="main" xml:lang="de">Champagne</placeName>
             <placeName type="full" xml:lang="de">Champagne</placeName>
             <placeName type="sort" xml:lang="de">champagne</placeName>
+            <placeName type="main" xml:lang="en">Champagne</placeName>
+            <placeName type="full" xml:lang="en">Champagne</placeName>
+            <placeName type="sort" xml:lang="en">champagne</placeName>
             <location>
               <geo>49 4.5</geo>
               <country xml:lang="de">Frankreich</country>
@@ -26731,6 +26860,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Landschaft und historische Provinz im nordöstlichen Frankreich.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Region and historical province in north-eastern France.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1917">
@@ -26782,9 +26914,13 @@
             <placeName type="main" xml:lang="de">Croydon</placeName>
             <placeName type="full" xml:lang="de">Croydon</placeName>
             <placeName type="sort" xml:lang="de">croydon</placeName>
+            <placeName type="main" xml:lang="en">Croydon</placeName>
+            <placeName type="full" xml:lang="en">Croydon</placeName>
+            <placeName type="sort" xml:lang="en">croydon</placeName>
             <location>
               <geo>51.38333 -0.1</geo>
               <settlement xml:lang="de">Croydon</settlement>
+              <settlement xml:lang="en">Croydon</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -26825,6 +26961,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Borough im Süden <ref target="gfa-places-89">Londons</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Borough of south <ref target="gfa-places-89">London</ref>.</p>
             </note>
           </place>
           <place type="A" xml:id="gfa-places-1922">
@@ -26889,9 +27028,14 @@
             <placeName type="full" xml:lang="de">Dartmouth</placeName>
             <placeName type="sort" xml:lang="de">dartmouth</placeName>
             <placeName type="alternative" xml:lang="de">Dartmouth-Arms</placeName>
+            <placeName type="main" xml:lang="en">Dartmouth</placeName>
+            <placeName type="full" xml:lang="en">Dartmouth</placeName>
+            <placeName type="sort" xml:lang="en">dartmouth</placeName>
+            <placeName type="alternative" xml:lang="en">Dartmouth Arms</placeName>
             <location>
               <geo>50.3522 -3.5794</geo>
               <settlement xml:lang="de">Dartmouth</settlement>
+              <settlement xml:lang="en">Dartmouth</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -26932,6 +27076,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Kleinstadt in der englischen Grafschaft <ref target="https://archives.georgfischer.com/places/468">Devon</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Town in the county of <ref target="https://archives.georgfischer.com/places/468">Devon</ref> in England.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1924">
@@ -27054,16 +27201,20 @@
               <p>Englische Grafschaft in den East Midlands.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>English county in the East Midlands.</p>
+              <p>County in England’s East Midlands.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-1926">
             <placeName type="main" xml:lang="de">Dieppe</placeName>
             <placeName type="full" xml:lang="de">Dieppe</placeName>
             <placeName type="sort" xml:lang="de">dieppe</placeName>
+            <placeName type="main" xml:lang="en">Dieppe</placeName>
+            <placeName type="full" xml:lang="en">Dieppe</placeName>
+            <placeName type="sort" xml:lang="en">dieppe</placeName>
             <location>
               <geo>49.9216 1.07772</geo>
               <settlement xml:lang="de">Dieppe</settlement>
+              <settlement xml:lang="en">Dieppe</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -27103,7 +27254,10 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Französische Hafenstadt in der Normandie.</p>
+              <p>Französische Hafenstadt in der <ref target="gfa-places-2022">Normandie</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>French harbour town in the <ref target="gfa-places-2022">Normandy</ref> region.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1927">
@@ -27213,9 +27367,13 @@
             <placeName type="main" xml:lang="de">Dublin</placeName>
             <placeName type="full" xml:lang="de">Dublin</placeName>
             <placeName type="sort" xml:lang="de">dublin</placeName>
+            <placeName type="main" xml:lang="en">Dublin</placeName>
+            <placeName type="full" xml:lang="en">Dublin</placeName>
+            <placeName type="sort" xml:lang="en">dublin</placeName>
             <location>
               <geo>53.33306 -6.24889</geo>
               <settlement xml:lang="de">Dublin</settlement>
+              <settlement xml:lang="en">Dublin</settlement>
               <country xml:lang="de">Irland</country>
               <country xml:lang="en">Ireland</country>
             </location>
@@ -27256,6 +27414,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Hauptstadt und bevölkerungsreichste Stadt <ref target="gfa-places-70">Irlands</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Capital and most populous city in <ref target="gfa-places-70">Ireland</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1934">
@@ -27332,9 +27493,13 @@
             <placeName type="main" xml:lang="de">Düren</placeName>
             <placeName type="full" xml:lang="de">Düren</placeName>
             <placeName type="sort" xml:lang="de">dueren</placeName>
+            <placeName type="main" xml:lang="en">Düren</placeName>
+            <placeName type="full" xml:lang="en">Düren</placeName>
+            <placeName type="sort" xml:lang="en">dueren</placeName>
             <location>
               <geo>50.80434 6.49299</geo>
               <settlement xml:lang="de">Düren</settlement>
+              <settlement xml:lang="en">Düren</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -27801,9 +27966,13 @@
             <placeName type="main" xml:lang="de">Eschweiler</placeName>
             <placeName type="full" xml:lang="de">Eschweiler</placeName>
             <placeName type="sort" xml:lang="de">eschweiler</placeName>
+            <placeName type="main" xml:lang="en">Eschweiler</placeName>
+            <placeName type="full" xml:lang="en">Eschweiler</placeName>
+            <placeName type="sort" xml:lang="en">eschweiler</placeName>
             <location>
               <geo>50.81854 6.27184</geo>
               <settlement xml:lang="de">Eschweiler</settlement>
+              <settlement xml:lang="en">Eschweiler</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -27841,6 +28010,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Deutsche Stadt zwischen <ref target="gfa-places-1">Aachen</ref> und <ref target="gfa-places-1935">Düren</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Town between <ref target="gfa-places-1">Aachen</ref> and <ref target="gfa-places-1935">Düren</ref> in Germany.</p>
             </note>
           </place>
           <place type="R" xml:id="gfa-places-1948">
@@ -28111,9 +28283,14 @@
             <placeName type="full" xml:lang="de">Folkestone</placeName>
             <placeName type="sort" xml:lang="de">folkestone</placeName>
             <placeName type="alternative" xml:lang="de">Folkstone</placeName>
+            <placeName type="main" xml:lang="en">Folkestone</placeName>
+            <placeName type="full" xml:lang="en">Folkestone</placeName>
+            <placeName type="sort" xml:lang="en">folkestone</placeName>
+            <placeName type="alternative" xml:lang="en">Folkstone</placeName>
             <location>
               <geo>51.08169 1.16734</geo>
               <settlement xml:lang="de">Folkestone</settlement>
+              <settlement xml:lang="en">Folkestone</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -28154,6 +28331,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Englische Küstenstadt in Kent.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Coastal town in Kent, England.</p>
             </note>
           </place>
           <place type="H" xml:id="gfa-places-1959">
@@ -28222,9 +28402,13 @@
             <placeName type="main" xml:lang="de">Halifax</placeName>
             <placeName type="full" xml:lang="de">Halifax</placeName>
             <placeName type="sort" xml:lang="de">halifax</placeName>
+            <placeName type="main" xml:lang="en">Halifax</placeName>
+            <placeName type="full" xml:lang="en">Halifax</placeName>
+            <placeName type="sort" xml:lang="en">halifax</placeName>
             <location>
               <geo>53.71667 -1.85</geo>
               <settlement xml:lang="de">Halifax</settlement>
+              <settlement xml:lang="en">Halifax</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -28265,6 +28449,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Stadt in West Yorkshire, England.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Town in West Yorkshire, England.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1961">
@@ -28593,9 +28780,13 @@
             <placeName type="main" xml:lang="de">Kerpen</placeName>
             <placeName type="full" xml:lang="de">Kerpen</placeName>
             <placeName type="sort" xml:lang="de">kerpen</placeName>
+            <placeName type="main" xml:lang="en">Kerpen</placeName>
+            <placeName type="full" xml:lang="en">Kerpen</placeName>
+            <placeName type="sort" xml:lang="en">kerpen</placeName>
             <location>
               <geo>50.86991 6.69691</geo>
               <settlement xml:lang="de">Kerpen</settlement>
+              <settlement xml:lang="en">Kerpen</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -28634,15 +28825,23 @@
             <note type="description" xml:lang="de">
               <p>Stadt in Nordrhein-Westfalen.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Town in North Rhine-Westphalia.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-1969">
             <placeName type="main" xml:lang="de">Königshoven</placeName>
             <placeName type="full" xml:lang="de">Königshoven / Bedburg</placeName>
             <placeName type="sort" xml:lang="de">koenigshoven</placeName>
             <placeName type="alternative" xml:lang="de">Königshofen</placeName>
+            <placeName type="main" xml:lang="en">Königshoven</placeName>
+            <placeName type="full" xml:lang="en">Königshoven / Bedburg</placeName>
+            <placeName type="sort" xml:lang="en">koenigshoven</placeName>
+            <placeName type="alternative" xml:lang="en">Königshofen</placeName>
             <location>
               <geo>51.00522 6.54179</geo>
               <settlement xml:lang="de">Bedburg</settlement>
+              <settlement xml:lang="en">Bedburg</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -28679,9 +28878,13 @@
             <placeName type="sort" xml:lang="de">schloss fontainebleau</placeName>
             <placeName type="alternative" xml:lang="de">Palast Fontainebleau</placeName>
             <placeName type="alternative" xml:lang="de">Château de Fontainebleau</placeName>
+            <placeName type="main" xml:lang="en">Château de Fontainebleau</placeName>
+            <placeName type="full" xml:lang="en">Château de Fontainebleau / Fontainebleau</placeName>
+            <placeName type="sort" xml:lang="en">château de fontainebleau</placeName>
             <location>
               <geo>48.40222 2.70056</geo>
               <settlement xml:lang="de">Fontainebleau</settlement>
+              <settlement xml:lang="en">Fontainebleau</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -28734,14 +28937,21 @@
             <note type="description" xml:lang="de">
               <p>Französisches Schloss rund 60 Kilometer südlich von <ref target="gfa-places-118">Paris</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>French château ca. 60 kilometres south of <ref target="gfa-places-118">Paris</ref>.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-1971">
             <placeName type="main" xml:lang="de">Lauchringen</placeName>
             <placeName type="full" xml:lang="de">Lauchringen</placeName>
             <placeName type="sort" xml:lang="de">lauchringen</placeName>
+            <placeName type="main" xml:lang="en">Lauchringen</placeName>
+            <placeName type="full" xml:lang="en">Lauchringen</placeName>
+            <placeName type="sort" xml:lang="en">lauchringen</placeName>
             <location>
               <geo>47.62699 8.31442</geo>
               <settlement xml:lang="de">Lauchringen</settlement>
+              <settlement xml:lang="en">Lauchringen</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -28778,7 +28988,10 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Gemeinde in Baden-Württemberg.</p>
+              <p>Gemeinde in <ref target="https://archives.georgfischer.com/places/448">Baden-Württemberg</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Village in <ref target="https://archives.georgfischer.com/places/448">Baden-Württemberg</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1973">
@@ -29333,9 +29546,13 @@
             <placeName type="main" xml:lang="de">Lindau</placeName>
             <placeName type="full" xml:lang="de">Lindau</placeName>
             <placeName type="sort" xml:lang="de">lindau</placeName>
+            <placeName type="main" xml:lang="en">Lindau</placeName>
+            <placeName type="full" xml:lang="en">Lindau</placeName>
+            <placeName type="sort" xml:lang="en">lindau</placeName>
             <location>
               <geo>47.54612 9.68431</geo>
               <settlement xml:lang="de">Lindau</settlement>
+              <settlement xml:lang="en">Lindau</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -29653,9 +29870,14 @@
             <placeName type="sort" xml:lang="de">loewen</placeName>
             <placeName type="alternative" xml:lang="de">Louvain</placeName>
             <placeName type="alternative" xml:lang="de">Leuven</placeName>
+            <placeName type="main" xml:lang="en">Louvain </placeName>
+            <placeName type="full" xml:lang="en">Louvain</placeName>
+            <placeName type="sort" xml:lang="en">louvain</placeName>
+            <placeName type="alternative" xml:lang="en">Leuven :: Löwen</placeName>
             <location>
               <geo>50.87959 4.70093</geo>
               <settlement xml:lang="de">Löwen</settlement>
+              <settlement xml:lang="en">Louvain</settlement>
               <country xml:lang="de">Belgien</country>
               <country xml:lang="en">Belgium</country>
             </location>
@@ -29694,14 +29916,21 @@
             <note type="description" xml:lang="de">
               <p>Stadt in <ref target="gfa-places-13">Belgien</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>City in <ref target="gfa-places-13">Belgium</ref>.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-2004">
             <placeName type="main" xml:lang="de">Luxor</placeName>
             <placeName type="full" xml:lang="de">Luxor</placeName>
             <placeName type="sort" xml:lang="de">luxor</placeName>
+            <placeName type="main" xml:lang="en">Luxor</placeName>
+            <placeName type="full" xml:lang="en">Luxor</placeName>
+            <placeName type="sort" xml:lang="en">luxor</placeName>
             <location>
               <geo>25.69893 32.6421</geo>
               <settlement xml:lang="de">Luxor</settlement>
+              <settlement xml:lang="en">Luxor</settlement>
               <country xml:lang="de">Ägypten</country>
               <country xml:lang="en">Egypt</country>
             </location>
@@ -29742,6 +29971,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Stadt in <ref target="gfa-places-3">Ägypten</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>City in <ref target="gfa-places-3">Egypt</ref>.</p>
             </note>
           </place>
           <place type="H" xml:id="gfa-places-2005">
@@ -29809,9 +30041,13 @@
             <placeName type="main" xml:lang="de">Mainz</placeName>
             <placeName type="full" xml:lang="de">Mainz</placeName>
             <placeName type="sort" xml:lang="de">mainz</placeName>
+            <placeName type="main" xml:lang="en">Mainz</placeName>
+            <placeName type="full" xml:lang="en">Mainz</placeName>
+            <placeName type="sort" xml:lang="en">mainz</placeName>
             <location>
               <geo>49.98419 8.2791</geo>
               <settlement xml:lang="de">Mainz</settlement>
+              <settlement xml:lang="en">Mainz</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -29862,9 +30098,14 @@
             <placeName type="full" xml:lang="de">Mechelen</placeName>
             <placeName type="sort" xml:lang="de">mechelen</placeName>
             <placeName type="alternative" xml:lang="de">Malines</placeName>
+            <placeName type="main" xml:lang="en">Malines</placeName>
+            <placeName type="full" xml:lang="en">Malines</placeName>
+            <placeName type="sort" xml:lang="en">malines</placeName>
+            <placeName type="alternative" xml:lang="en">Mechelen</placeName>
             <location>
               <geo>51.02574 4.47762</geo>
               <settlement xml:lang="de">Mechelen</settlement>
+              <settlement xml:lang="en">Malines</settlement>
               <country xml:lang="de">Belgien</country>
               <country xml:lang="en">Belgium</country>
             </location>
@@ -29905,6 +30146,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Stadt in <ref target="gfa-places-13">Belgien</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>City in <ref target="gfa-places-13">Belgium</ref>.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-2008">
@@ -29967,9 +30211,14 @@
             <placeName type="main" xml:lang="de">Marseille</placeName>
             <placeName type="full" xml:lang="de">Marseille</placeName>
             <placeName type="sort" xml:lang="de">marseille</placeName>
+            <placeName type="main" xml:lang="en">Marseille</placeName>
+            <placeName type="full" xml:lang="en">Marseille</placeName>
+            <placeName type="sort" xml:lang="en">marseille</placeName>
+            <placeName type="alternative" xml:lang="en">Marseilles</placeName>
             <location>
               <geo>43.296667 5.376389</geo>
               <settlement xml:lang="de">Marseille</settlement>
+              <settlement xml:lang="en">Marseille</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -30007,6 +30256,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Französische Hafenstadt am Mittelmeer.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>French port city on the Mediterranean.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-2010">
@@ -30069,6 +30321,9 @@
             <placeName type="main" xml:lang="de">Mersey</placeName>
             <placeName type="full" xml:lang="de">Mersey</placeName>
             <placeName type="sort" xml:lang="de">mersey</placeName>
+            <placeName type="main" xml:lang="en">Mersey</placeName>
+            <placeName type="full" xml:lang="en">Mersey</placeName>
+            <placeName type="sort" xml:lang="en">mersey</placeName>
             <location>
               <geo>53.45 -3.03333</geo>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -30102,6 +30357,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Fluss im Nordwesten <ref target="gfa-places-41">Englands</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>River in north-western <ref target="gfa-places-41">England</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2012">
@@ -30212,9 +30470,14 @@
             <placeName type="full" xml:lang="de">Alte Münze / München</placeName>
             <placeName type="sort" xml:lang="de">alte muenze</placeName>
             <placeName type="alternative" xml:lang="de">Königlich bayerische Münze</placeName>
+            <placeName type="main" xml:lang="en">Old Mint</placeName>
+            <placeName type="full" xml:lang="en">Old Mint / Munich</placeName>
+            <placeName type="sort" xml:lang="en">old mint</placeName>
+            <placeName type="alternative" xml:lang="en">Alte Münze :: Königlich bayerische Münze</placeName>
             <location>
               <geo>48.138725 11.579069</geo>
               <settlement xml:lang="de">München</settlement>
+              <settlement xml:lang="en">Munich</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -30240,6 +30503,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Seit 1806 Münzanstalt des Königreichs Bayern, in einem Bau aus dem 16. Jahrhundert. Später bis ins Jahr 1986 Bayerisches Hauptmünzamt.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Mint of the Kingdom of Bavaria since 1806, housed in a 16th-century building. Later the Bavarian Main Mint until 1986.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2015">
@@ -30298,9 +30564,13 @@
             <placeName type="main" xml:lang="de">Nangis</placeName>
             <placeName type="full" xml:lang="de">Nangis</placeName>
             <placeName type="sort" xml:lang="de">nangis</placeName>
+            <placeName type="main" xml:lang="en">Nangis</placeName>
+            <placeName type="full" xml:lang="en">Nangis</placeName>
+            <placeName type="sort" xml:lang="en">nangis</placeName>
             <location>
               <geo>48.55535 3.01306</geo>
               <settlement xml:lang="de">Nangis</settlement>
+              <settlement xml:lang="en">Nangis</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -30331,13 +30601,19 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Französische Gemeinde 70 Kilometer südöstlich von Paris.</p>
+              <p>Französische Gemeinde 70 Kilometer südöstlich von <ref target="gfa-places-118">Paris</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>French village 70 kilometres south-east of <ref target="gfa-places-118">Paris</ref>.</p>
             </note>
           </place>
           <place type="A" xml:id="gfa-places-2017">
             <placeName type="main" xml:lang="de">New Providence</placeName>
             <placeName type="full" xml:lang="de">New Providence</placeName>
             <placeName type="sort" xml:lang="de">new providence</placeName>
+            <placeName type="main" xml:lang="en">New Providence</placeName>
+            <placeName type="full" xml:lang="en">New Providence</placeName>
+            <placeName type="sort" xml:lang="en">new providence</placeName>
             <location>
               <geo>25.03042 -77.40431</geo>
               <country xml:lang="de">Bahamas</country>
@@ -30380,6 +30656,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Bevölkerungsreichste Insel der Bahamas.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Most populous island in the Bahamas.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2018">
@@ -30541,6 +30820,9 @@
             <placeName type="main" xml:lang="de">Normandie</placeName>
             <placeName type="full" xml:lang="de">Normandie</placeName>
             <placeName type="sort" xml:lang="de">normandie</placeName>
+            <placeName type="main" xml:lang="en">Normandy</placeName>
+            <placeName type="full" xml:lang="en">Normandy</placeName>
+            <placeName type="sort" xml:lang="en">normandy</placeName>
             <location>
               <geo>49.19906 0.49988</geo>
               <country xml:lang="de">Frankreich</country>
@@ -30577,6 +30859,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Region in Nordfrankreich.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Region of northern France.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-2023">
@@ -31162,9 +31447,13 @@
             <placeName type="main" xml:lang="de">Oberhallau</placeName>
             <placeName type="full" xml:lang="de">Oberhallau (SH)</placeName>
             <placeName type="sort" xml:lang="de">oberhallau</placeName>
+            <placeName type="main" xml:lang="en">Oberhallau</placeName>
+            <placeName type="full" xml:lang="en">Oberhallau (SH)</placeName>
+            <placeName type="sort" xml:lang="en">oberhallau</placeName>
             <location>
               <geo>47.7071 8.47853</geo>
               <settlement xml:lang="de">Oberhallau</settlement>
+              <settlement xml:lang="en">Oberhallau</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
             </location>
@@ -31205,6 +31494,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Gemeinde in der Schweiz.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Village in Switzerland.</p>
             </note>
           </place>
           <place type="T" xml:id="gfa-places-2039">
@@ -31314,9 +31606,13 @@
             <placeName type="main" xml:lang="de">Passau</placeName>
             <placeName type="full" xml:lang="de">Passau</placeName>
             <placeName type="sort" xml:lang="de">passau</placeName>
+            <placeName type="main" xml:lang="en">Passau</placeName>
+            <placeName type="full" xml:lang="en">Passau</placeName>
+            <placeName type="sort" xml:lang="en">passau</placeName>
             <location>
               <geo>48.5665 13.43122</geo>
               <settlement xml:lang="de">Passau</settlement>
+              <settlement xml:lang="en">Passau</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -31394,6 +31690,10 @@
             <placeName type="full" xml:lang="de">Rheinprovinz</placeName>
             <placeName type="sort" xml:lang="de">rheinprovinz</placeName>
             <placeName type="alternative" xml:lang="de">Rheinpreussen</placeName>
+            <placeName type="main" xml:lang="en">Rhine Province</placeName>
+            <placeName type="full" xml:lang="en">Rhine Province</placeName>
+            <placeName type="sort" xml:lang="en">rhine province</placeName>
+            <placeName type="alternative" xml:lang="en">Rhenish Prussia</placeName>
             <location>
               <geo>50.478208333401 6.7715763613066</geo>
             </location>
@@ -31419,6 +31719,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Preussische Provinz im Rheinland, bestand von 1822 bis 1945.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Prussian province in the Rhineland from 1822 to 1945.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-2045">
@@ -31482,9 +31785,13 @@
             <placeName type="full" xml:lang="de">Alien Office / Dover</placeName>
             <placeName type="sort" xml:lang="de">alien office</placeName>
             <placeName type="alternative" xml:lang="de">Fremdenamt</placeName>
+            <placeName type="main" xml:lang="en">Aliens Office</placeName>
+            <placeName type="full" xml:lang="en">Aliens Office / Dover</placeName>
+            <placeName type="sort" xml:lang="en">aliens office</placeName>
             <location>
               <geo>51.122908122701 1.3143468124316</geo>
               <settlement xml:lang="de">Dover</settlement>
+              <settlement xml:lang="en">Dover</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -31497,6 +31804,10 @@
             <note type="description" xml:lang="de">
               <p>Fremdenamt in <ref target="gfa-places-1608">Dover</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Office in <ref target="gfa-places-1608">Dover</ref> to which foreigners arriving in the country had to report.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2047">
@@ -31588,9 +31899,14 @@
             <placeName type="sort" xml:lang="de">petersdom</placeName>
             <placeName type="alternative" xml:lang="de">St. Peters-Kirche</placeName>
             <placeName type="alternative" xml:lang="de">Basilika Sankt Peter</placeName>
+            <placeName type="main" xml:lang="en">St. Peter’s</placeName>
+            <placeName type="full" xml:lang="en">St. Peter’s / Rome</placeName>
+            <placeName type="sort" xml:lang="en">st. peter’s</placeName>
+            <placeName type="alternative" xml:lang="en">St. Peter’s Basilica</placeName>
             <location>
               <geo>41.90268 12.45414</geo>
               <settlement xml:lang="de">Rom</settlement>
+              <settlement xml:lang="en">Rome</settlement>
               <country xml:lang="de">Italien</country>
               <country xml:lang="en">Italy</country>
             </location>
@@ -31634,6 +31950,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Kirche im Vatikan.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Church in Vatican City.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2052">
@@ -31866,6 +32185,10 @@
             <placeName type="sort" xml:lang="de">schwaebische alb</placeName>
             <placeName type="alternative" xml:lang="de">Schwäbischer Jura</placeName>
             <placeName type="alternative" xml:lang="de">Schwabenalb</placeName>
+            <placeName type="main" xml:lang="en">Swabian Alb</placeName>
+            <placeName type="full" xml:lang="en">Swabian Alb</placeName>
+            <placeName type="sort" xml:lang="en">swabian alb</placeName>
+            <placeName type="alternative" xml:lang="en">Swabian Jura</placeName>
             <location>
               <geo>48.38509 9.45254</geo>
               <country xml:lang="de">Deutschland</country>
@@ -31902,6 +32225,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Deutsches Mittelgebirge.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Mountain range in Germany.</p>
             </note>
           </place>
           <place type="H" xml:id="gfa-places-2062">
@@ -32017,9 +32343,14 @@
             <placeName type="full" xml:lang="de">Kathedrale von Saint-Denis (Paris) / Paris</placeName>
             <placeName type="sort" xml:lang="de">kathedrale von saint-denis (paris)</placeName>
             <placeName type="alternative" xml:lang="de">St. Denis</placeName>
+            <placeName type="main" xml:lang="en">Cathedral of Saint-Denis (Paris)</placeName>
+            <placeName type="full" xml:lang="en">Cathedral of Saint-Denis (Paris) / Paris</placeName>
+            <placeName type="sort" xml:lang="en">cathedral of saint-denis (paris)</placeName>
+            <placeName type="alternative" xml:lang="en">St. Denis</placeName>
             <location>
               <geo>48.9354 2.35991</geo>
               <settlement xml:lang="de">Paris</settlement>
+              <settlement xml:lang="en">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -32058,6 +32389,9 @@
             <note type="description" xml:lang="de">
               <p>Kirchengebäude in Saint-Denis.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Church in Saint-Denis near <ref target="gfa-places-118">Paris</ref>.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-2065">
             <placeName type="main" xml:lang="de">Saint-Louis</placeName>
@@ -32065,9 +32399,13 @@
             <placeName type="sort" xml:lang="de">saint-louis</placeName>
             <placeName type="alternative" xml:lang="de">St. Louis</placeName>
             <placeName type="alternative" xml:lang="de">Sankt Ludwig</placeName>
+            <placeName type="main" xml:lang="en">Saint-Louis</placeName>
+            <placeName type="full" xml:lang="en">Saint-Louis</placeName>
+            <placeName type="sort" xml:lang="en">saint-louis</placeName>
             <location>
               <geo>47.59206 7.55923</geo>
               <settlement xml:lang="de">Saint-Louis</settlement>
+              <settlement xml:lang="en">Saint-Louis</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -32100,14 +32438,21 @@
             <note type="description" xml:lang="de">
               <p>Französische Nachbarsgemeinde von Basel.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>French town just across the border from Basel.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-2066">
             <placeName type="main" xml:lang="de">Stourbridge</placeName>
             <placeName type="full" xml:lang="de">Stourbridge</placeName>
             <placeName type="sort" xml:lang="de">stourbridge</placeName>
+            <placeName type="main" xml:lang="en">Stourbridge</placeName>
+            <placeName type="full" xml:lang="en">Stourbridge</placeName>
+            <placeName type="sort" xml:lang="en">stourbridge</placeName>
             <location>
               <geo>52.45608 -2.14317</geo>
               <settlement xml:lang="de">Stourbridge</settlement>
+              <settlement xml:lang="en">Stourbridge</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -32145,6 +32490,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Stadt in <ref target="gfa-places-41">England</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Town in <ref target="gfa-places-41">England</ref>.</p>
             </note>
           </place>
           <place type="P" xml:id="gfa-places-2067">
@@ -32252,9 +32600,13 @@
             <placeName type="main" xml:lang="de">Ulm</placeName>
             <placeName type="full" xml:lang="de">Ulm</placeName>
             <placeName type="sort" xml:lang="de">ulm</placeName>
+            <placeName type="main" xml:lang="en">Ulm</placeName>
+            <placeName type="full" xml:lang="en">Ulm</placeName>
+            <placeName type="sort" xml:lang="en">ulm</placeName>
             <location>
               <geo>48.39841 9.99155</geo>
               <settlement xml:lang="de">Ulm</settlement>
+              <settlement xml:lang="en">Ulm</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -32361,9 +32713,13 @@
             <placeName type="full" xml:lang="de">Verviers</placeName>
             <placeName type="sort" xml:lang="de">verviers</placeName>
             <placeName type="alternative" xml:lang="de">Velwisch</placeName>
+            <placeName type="main" xml:lang="en">Verviers</placeName>
+            <placeName type="full" xml:lang="en">Verviers</placeName>
+            <placeName type="sort" xml:lang="en">verviers</placeName>
             <location>
               <geo>50.58907 5.86241</geo>
               <settlement xml:lang="de">Verviers</settlement>
+              <settlement xml:lang="en">Verviers</settlement>
               <country xml:lang="de">Belgien</country>
               <country xml:lang="en">Belgium</country>
             </location>
@@ -32404,6 +32760,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Stadt in der Wallonischen Region in Belgien.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Town in Wallonia, Belgium.</p>
             </note>
           </place>
           <place type="T" xml:id="gfa-places-2072">
@@ -32461,8 +32820,13 @@
             <placeName type="main" xml:lang="de">Washington, D.C.</placeName>
             <placeName type="full" xml:lang="de">Washington, D.C.</placeName>
             <placeName type="sort" xml:lang="de">washington, d.c.</placeName>
+            <placeName type="main" xml:lang="en">Washington, D.C.</placeName>
+            <placeName type="full" xml:lang="en">Washington, D.C.</placeName>
+            <placeName type="sort" xml:lang="en">washington, d.c.</placeName>
             <location>
               <geo>38.89511 -77.03637</geo>
+              <settlement xml:lang="de">Washington, D.C.</settlement>
+              <settlement xml:lang="en">Washington, D.C.</settlement>
               <country xml:lang="de">Vereinigte Staaten von Amerika</country>
               <country xml:lang="en">United States</country>
             </location>
@@ -32507,14 +32871,21 @@
             <note type="description" xml:lang="de">
               <p>Hauptstadt der Vereinigten Staaten von Amerika.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Capitol of the United States of America.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-2074">
             <placeName type="main" xml:lang="de">Weldon</placeName>
             <placeName type="full" xml:lang="de">Weldon</placeName>
             <placeName type="sort" xml:lang="de">weldon</placeName>
+            <placeName type="main" xml:lang="en">Weldon</placeName>
+            <placeName type="full" xml:lang="en">Weldon</placeName>
+            <placeName type="sort" xml:lang="en">weldon</placeName>
             <location>
               <geo>52.49617 -0.63731</geo>
               <settlement xml:lang="de">Weldon</settlement>
+              <settlement xml:lang="en">Weldon</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -32593,9 +32964,13 @@
             <placeName type="main" xml:lang="de">Wingfield</placeName>
             <placeName type="full" xml:lang="de">Wingfield</placeName>
             <placeName type="sort" xml:lang="de">wingfield</placeName>
+            <placeName type="main" xml:lang="en">Wingfield</placeName>
+            <placeName type="full" xml:lang="en">Wingfield</placeName>
+            <placeName type="sort" xml:lang="en">wingfield</placeName>
             <location>
               <geo>53.096676533708 -1.4271399227429</geo>
               <settlement xml:lang="de">Wingfield</settlement>
+              <settlement xml:lang="en">Wingfield</settlement>
             </location>
             <idno type="gfa-places-id">2076</idno>
             <note type="sources">
@@ -33035,6 +33410,9 @@
             <placeName type="main" xml:lang="de">Katharinenkloster (Sinai)</placeName>
             <placeName type="full" xml:lang="de">Katharinenkloster (Sinai)</placeName>
             <placeName type="sort" xml:lang="de">katharinenkloster (sinai)</placeName>
+            <placeName type="main" xml:lang="en">St. Catherine’s Monastery (Sinai)</placeName>
+            <placeName type="full" xml:lang="en">St. Catherine’s Monastery (Sinai)</placeName>
+            <placeName type="sort" xml:lang="en">st. catherine’s monastery (sinai)</placeName>
             <location>
               <geo>28.555833 33.975556</geo>
               <country xml:lang="de">Ägypten</country>
@@ -33089,11 +33467,17 @@
             <note type="description" xml:lang="de">
               <p>Griechisch-orthodoxes Kloster im Süden der Sinai-Halbinsel.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Greek-Orthodox monastery in the southern Sinai Peninsula.</p>
+            </note>
           </place>
           <place type="T" xml:id="gfa-places-2091">
             <placeName type="main" xml:lang="de">Sinai</placeName>
             <placeName type="full" xml:lang="de">Sinai</placeName>
             <placeName type="sort" xml:lang="de">sinai</placeName>
+            <placeName type="main" xml:lang="en">Mount Sinai</placeName>
+            <placeName type="full" xml:lang="en">Mount Sinai</placeName>
+            <placeName type="sort" xml:lang="en">mount sinai</placeName>
             <location>
               <geo>28.53907 33.974831</geo>
               <country xml:lang="de">Ägypten</country>
@@ -33133,6 +33517,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Berg auf der Halbinsel Sinai.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Mountain on the Sinai Peninsula.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2092">
@@ -33924,9 +34311,14 @@
             <placeName type="full" xml:lang="de">Kaliningrad</placeName>
             <placeName type="sort" xml:lang="de">kaliningrad</placeName>
             <placeName type="alternative" xml:lang="de">Königsberg</placeName>
+            <placeName type="main" xml:lang="en">Kaliningrad</placeName>
+            <placeName type="full" xml:lang="en">Kaliningrad</placeName>
+            <placeName type="sort" xml:lang="en">kaliningrad</placeName>
+            <placeName type="alternative" xml:lang="en">Königsberg</placeName>
             <location>
               <geo>54.70649 20.51095</geo>
               <settlement xml:lang="de">Kaliningrad</settlement>
+              <settlement xml:lang="en">Kaliningrad</settlement>
               <country xml:lang="de">Russische Föderation</country>
               <country xml:lang="en">Russia</country>
             </location>
@@ -33968,14 +34360,21 @@
             <note type="description" xml:lang="de">
               <p>Russische Stadt an der Ostsee; ehemals die deutsche Hauptstadt Ostpreussens.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Russian city on the Baltic coast; formerly, as Königsberg, the German capital of East Prussia.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2120">
             <placeName type="main" xml:lang="de">Rue des Vieux Augustins</placeName>
             <placeName type="full" xml:lang="de">Rue des Vieux Augustins / Paris</placeName>
             <placeName type="sort" xml:lang="de">rue des vieux augustins</placeName>
+            <placeName type="main" xml:lang="en">Rue des Vieux Augustins</placeName>
+            <placeName type="full" xml:lang="en">Rue des Vieux Augustins / Paris</placeName>
+            <placeName type="sort" xml:lang="en">rue des vieux augustins</placeName>
             <location>
               <geo>48.865094800532 2.3419647098156</geo>
               <settlement xml:lang="de">Paris</settlement>
+              <settlement xml:lang="en">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -33988,14 +34387,21 @@
             <note type="description" xml:lang="de">
               <p>Ehemalige Strasse in <ref target="gfa-places-118">Paris</ref> in der Nähe der Place des Victoires.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Old name of a street in <ref target="gfa-places-118">Paris</ref> near the Place des Victoires.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2122">
             <placeName type="main" xml:lang="de">Rue Rivoli</placeName>
             <placeName type="full" xml:lang="de">Rue Rivoli / Paris</placeName>
             <placeName type="sort" xml:lang="de">rue rivoli</placeName>
+            <placeName type="main" xml:lang="en">Rue Rivoli</placeName>
+            <placeName type="full" xml:lang="en">Rue Rivoli / Paris</placeName>
+            <placeName type="sort" xml:lang="en">rue rivoli</placeName>
             <location>
               <geo>48.85896 2.34684</geo>
               <settlement xml:lang="de">Paris</settlement>
+              <settlement xml:lang="en">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -34034,14 +34440,21 @@
             <note type="description" xml:lang="de">
               <p>Eine der wichtigsten Verkehrsachsen in <ref target="gfa-places-118">Paris</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>One of the main thoroughfares in <ref target="gfa-places-118">Paris</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2123">
             <placeName type="main" xml:lang="de">Bigets Hutladen</placeName>
             <placeName type="full" xml:lang="de">Bigets Hutladen / Paris</placeName>
             <placeName type="sort" xml:lang="de">bigets hutladen</placeName>
+            <placeName type="main" xml:lang="en">Biget’s Hat Shop</placeName>
+            <placeName type="full" xml:lang="en">Biget’s Hat Shop / Paris</placeName>
+            <placeName type="sort" xml:lang="en">biget’s hat shop</placeName>
             <location>
               <geo>48.857194674775 2.3532731206338</geo>
               <settlement xml:lang="de">Paris</settlement>
+              <settlement xml:lang="en">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -34055,14 +34468,23 @@
               <p>Hutgeschäft des Pariser Hutmachers <ref target="../names/gfa-actors-8256">Biget</ref>.</p>
               <p>Sébastien Bottins <hi rend="italic">Almanach du Commerce</hi> des Jahres 1842 nennt als Adresse «Rue Rivoli 32».</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Shop of the Paris hat-maker <ref target="../names/gfa-actors-8256">Biget</ref>.</p>
+              <p>Sébastien Bottin’s Almanach du Commerce of 1842 gives the address as 32, rue Rivoli.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2124">
             <placeName type="main" xml:lang="de">Comptoir Dassier</placeName>
             <placeName type="full" xml:lang="de">Comptoir Dassier / Paris</placeName>
             <placeName type="sort" xml:lang="de">comptoir dassier</placeName>
+            <placeName type="main" xml:lang="en">Dassier’s counting house</placeName>
+            <placeName type="full" xml:lang="en">Dassier’s counting house / Paris</placeName>
+            <placeName type="sort" xml:lang="en">dassier’s counting house</placeName>
+            <placeName type="alternative" xml:lang="en">Comptoir Dassier</placeName>
             <location>
               <geo>48.872136946908 2.3469125551753</geo>
               <settlement xml:lang="de">Paris</settlement>
+              <settlement xml:lang="en">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -34073,7 +34495,10 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Geschäftsadresse des Bankiers Auguste Dassier an der Rue Bergère 7.</p>
+              <p>Geschäftsadresse des Bankiers <ref target="../names/gfa-actors-7811">Auguste Dassier</ref> an der Rue Bergère 7.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Counting house of the banker <ref target="../names/gfa-actors-7811">Auguste Dassier</ref> at 7, rue Bergère.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2125">
@@ -34107,9 +34532,13 @@
             <placeName type="main" xml:lang="de">Place de la Concorde</placeName>
             <placeName type="full" xml:lang="de">Place de la Concorde / Paris</placeName>
             <placeName type="sort" xml:lang="de">place de la concorde</placeName>
+            <placeName type="main" xml:lang="en">Place de la Concorde</placeName>
+            <placeName type="full" xml:lang="en">Place de la Concorde / Paris</placeName>
+            <placeName type="sort" xml:lang="en">place de la concorde</placeName>
             <location>
               <geo>48.86543 2.32114</geo>
               <settlement xml:lang="de">Paris</settlement>
+              <settlement xml:lang="en">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -34154,14 +34583,21 @@
             <note type="description" xml:lang="de">
               <p>Platz in <ref target="gfa-places-118">Paris</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A large plaza in <ref target="gfa-places-118">Paris</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2127">
             <placeName type="main" xml:lang="de">Hotel de St. Louis</placeName>
             <placeName type="full" xml:lang="de">Hotel de St. Louis / Calais</placeName>
             <placeName type="sort" xml:lang="de">hotel de st. louis</placeName>
+            <placeName type="main" xml:lang="en">Hotel de St. Louis</placeName>
+            <placeName type="full" xml:lang="en">Hotel de St. Louis / Calais</placeName>
+            <placeName type="sort" xml:lang="en">hotel de st. louis</placeName>
             <location>
               <geo>50.958877896871 1.8519362169489</geo>
               <settlement xml:lang="de">Calais</settlement>
+              <settlement xml:lang="en">Calais</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -34171,14 +34607,24 @@
               <p>Johann Conrad Fischer erwähnt dieses Hotel als sein Stammhotel auf seinen früheren Reisen.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A hotel in <ref target="gfa-places-1607">Calais</ref>.</p>
+              <p>Johann Conrad Fischer mentions it as his lodgings of choice on previous journeys.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2128">
             <placeName type="main" xml:lang="de">Commercial-Inn</placeName>
             <placeName type="full" xml:lang="de">Commercial-Inn / Calais</placeName>
             <placeName type="sort" xml:lang="de">commercial-inn</placeName>
+            <placeName type="main" xml:lang="en">Commercial-Inn</placeName>
+            <placeName type="full" xml:lang="en">Commercial-Inn / Calais</placeName>
+            <placeName type="sort" xml:lang="en">commercial-inn</placeName>
+            <placeName type="alternative" xml:lang="en">Commercial Inn</placeName>
             <location>
               <geo>50.957506702322 1.8491161105975</geo>
               <settlement xml:lang="de">Calais</settlement>
+              <settlement xml:lang="en">Calais</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -34187,14 +34633,22 @@
               <p>Gasthaus in <ref target="gfa-places-1607">Calais</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>An inn in <ref target="gfa-places-1607">Calais</ref>.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2129">
             <placeName type="main" xml:lang="de">Hyde Park Corner</placeName>
             <placeName type="full" xml:lang="de">Hyde Park Corner / London</placeName>
             <placeName type="sort" xml:lang="de">hyde park corner</placeName>
+            <placeName type="main" xml:lang="en">Hyde Park Corner</placeName>
+            <placeName type="full" xml:lang="en">Hyde Park Corner / London</placeName>
+            <placeName type="sort" xml:lang="en">hyde park corner</placeName>
             <location>
               <geo>51.502778 -0.15125</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34207,14 +34661,21 @@
             <note type="description" xml:lang="de">
               <p>Strassenkreuzung am südöstlichen Ende des <ref target="gfa-places-1698">Hyde Parks</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A major intersection at the south-eastern end of <ref target="gfa-places-1698">Hyde Park</ref>.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-2130">
             <placeName type="main" xml:lang="de">New Cross</placeName>
             <placeName type="full" xml:lang="de">New Cross / London</placeName>
             <placeName type="sort" xml:lang="de">new cross</placeName>
+            <placeName type="main" xml:lang="en">New Cross</placeName>
+            <placeName type="full" xml:lang="en">New Cross / London</placeName>
+            <placeName type="sort" xml:lang="en">new cross</placeName>
             <location>
               <geo>51.475529829778 -0.036864084523642</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34227,15 +34688,23 @@
             <note type="description" xml:lang="de">
               <p>Ortschaft im Südosten von London.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Part of south-east London.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2131">
             <placeName type="main" xml:lang="de">Bull and Mouth Inn</placeName>
             <placeName type="full" xml:lang="de">Bull and Mouth Inn / London</placeName>
             <placeName type="sort" xml:lang="de">bull and mouth inn</placeName>
             <placeName type="alternative" xml:lang="de">Bull &amp; Mouth Hotel</placeName>
+            <placeName type="main" xml:lang="en">Bull and Mouth Inn</placeName>
+            <placeName type="full" xml:lang="en">Bull and Mouth Inn / London</placeName>
+            <placeName type="sort" xml:lang="en">bull and mouth inn</placeName>
+            <placeName type="alternative" xml:lang="en">Bull &amp; Mouth Hotel</placeName>
             <location>
               <geo>51.516349009773 -0.097968635565117</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34257,14 +34726,22 @@
               <p>Historisches <hi rend="italic">Coaching Inn</hi> in London.</p>
               <p>Johann Conrad Fischers Londoner Gasthaus auf der Reise von 1845.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Historical coaching inn in London.</p>
+              <p>Johann Conrad Fischer’s London abode on his journey of 1845.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2132">
             <placeName type="main" xml:lang="de">General Post Office</placeName>
             <placeName type="full" xml:lang="de">General Post Office / London</placeName>
             <placeName type="sort" xml:lang="de">general post office</placeName>
+            <placeName type="main" xml:lang="en">General Post Office</placeName>
+            <placeName type="full" xml:lang="en">General Post Office / London</placeName>
+            <placeName type="sort" xml:lang="en">general post office</placeName>
             <location>
               <geo>51.516402352915 -0.096938635581948</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34277,14 +34754,21 @@
             <note type="description" xml:lang="de">
               <p>Hauptsitz der britischen Postbehörde zwischen 1829 und 1910.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Headquarters of the British General Post Office from 1829 to 1910.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2133">
             <placeName type="main" xml:lang="de">K.s Londoner Wohnsitz</placeName>
             <placeName type="full" xml:lang="de">K.s Londoner Wohnsitz / London</placeName>
             <placeName type="sort" xml:lang="de">k.s londoner wohnsitz</placeName>
+            <placeName type="main" xml:lang="en">K.’s London residence</placeName>
+            <placeName type="full" xml:lang="en">K.’s London residence / London</placeName>
+            <placeName type="sort" xml:lang="en">k.’s london residence</placeName>
             <location>
               <geo>51.512631461309 -0.07495692967987</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34292,6 +34776,10 @@
             <note type="description" xml:lang="de">
               <p>Londoner Adresse des Herrn <ref target="../names/gfa-actors-8262">K.</ref></p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>London address of Mr. <ref target="../names/gfa-actors-8262">K.</ref></p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2134">
@@ -34336,9 +34824,14 @@
             <placeName type="full" xml:lang="de">Frederick Street / London</placeName>
             <placeName type="sort" xml:lang="de">frederick street</placeName>
             <placeName type="alternative" xml:lang="de">Frederics Street</placeName>
+            <placeName type="main" xml:lang="en">Frederick Street</placeName>
+            <placeName type="full" xml:lang="en">Frederick Street / London</placeName>
+            <placeName type="sort" xml:lang="en">frederick street</placeName>
+            <placeName type="alternative" xml:lang="en">Frederics Street</placeName>
             <location>
               <geo>51.528053262416 -0.11717861951799</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34348,9 +34841,13 @@
             <placeName type="main" xml:lang="de">Post-Office Coffee-House</placeName>
             <placeName type="full" xml:lang="de">Post-Office Coffee-House / London</placeName>
             <placeName type="sort" xml:lang="de">post-office coffee-house</placeName>
+            <placeName type="main" xml:lang="en">Post Office Coffeehouse</placeName>
+            <placeName type="full" xml:lang="en">Post Office Coffeehouse / London</placeName>
+            <placeName type="sort" xml:lang="en">post office coffeehouse</placeName>
             <location>
               <geo>51.516154187559 -0.096976452526997</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34359,13 +34856,22 @@
               <p>Kaffeehaus in der Nähe des <ref target="gfa-places-2132">General Post Offices</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Coffeehouse near the <ref target="gfa-places-2132">General Post Office</ref>.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2137">
             <placeName type="main" xml:lang="de">Low Moor Ironworks</placeName>
-            <placeName type="full" xml:lang="de">Low Moor Ironworks</placeName>
+            <placeName type="full" xml:lang="de">Low Moor Ironworks / Bradford</placeName>
             <placeName type="sort" xml:lang="de">low moor ironworks</placeName>
+            <placeName type="main" xml:lang="en">Low Moor Ironworks</placeName>
+            <placeName type="full" xml:lang="en">Low Moor Ironworks / Bradford</placeName>
+            <placeName type="sort" xml:lang="en">low moor ironworks</placeName>
             <location>
               <geo>53.753370393263 -1.7627285705187</geo>
+              <settlement xml:lang="de">Bradford</settlement>
+              <settlement xml:lang="en">Bradford</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34388,14 +34894,23 @@
               <p>Das Werk war vom ausgehenden 18. Jahrhundert bis 1957 in Betrieb.</p>
               <p>Siehe Organisation: <ref target="../names/gfa-actors-7787">Low Moor Ironworks</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Location of an ironworks.</p>
+              <p>The ironworks was operational from the late 18th century until 1957.</p>
+              <p>See organisation: <ref target="../names/gfa-actors-7787">Low Moor Ironworks</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2139">
             <placeName type="main" xml:lang="de">Gloucester House</placeName>
             <placeName type="full" xml:lang="de">Gloucester House / London</placeName>
             <placeName type="sort" xml:lang="de">gloucester house</placeName>
+            <placeName type="main" xml:lang="en">Gloucester House</placeName>
+            <placeName type="full" xml:lang="en">Gloucester House / London</placeName>
+            <placeName type="sort" xml:lang="en">gloucester house</placeName>
             <location>
               <geo>51.514024927399 -0.10200874662559</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34409,14 +34924,23 @@
               <p>Standort des Geschäftshaus der Seidenhändler Harvey &amp; Son.</p>
               <p>Siehe Organisation: <ref target="../names/gfa-actors-7852">Harvey &amp; Son</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Business address of the silk drapers Harvey &amp; Son.</p>
+              <p>See organisation: <ref target="../names/gfa-actors-7852">Harvey &amp; Son</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2140">
             <placeName type="main" xml:lang="de">Royal Polytechnic Institution</placeName>
             <placeName type="full" xml:lang="de">Royal Polytechnic Institution / London</placeName>
             <placeName type="sort" xml:lang="de">royal polytechnic institution</placeName>
+            <placeName type="main" xml:lang="en">Royal Polytechnic Institution</placeName>
+            <placeName type="full" xml:lang="en">Royal Polytechnic Institution / London</placeName>
+            <placeName type="sort" xml:lang="en">royal polytechnic institution</placeName>
+            <placeName type="alternative" xml:lang="en">Polytechnical Institution</placeName>
             <location>
               <geo>51.516944 -0.143056</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34442,6 +34966,10 @@
             <note type="description" xml:lang="de">
               <p>Standort der Hochschule.</p>
               <p>Siehe Organisation: <ref target="../names/gfa-actors-8341">Royal Polytechnic Institution</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Location of an educational institution.</p>
+              <p>See organisation: <ref target="../names/gfa-actors-8341">Royal Polytechnic Institution</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2141">
@@ -34486,25 +35014,37 @@
             <placeName type="main" xml:lang="de">White Horse Hotel</placeName>
             <placeName type="full" xml:lang="de">White Horse Hotel / Leeds</placeName>
             <placeName type="sort" xml:lang="de">white horse hotel</placeName>
+            <placeName type="main" xml:lang="en">White Horse Hotel</placeName>
+            <placeName type="full" xml:lang="en">White Horse Hotel / Leeds</placeName>
+            <placeName type="sort" xml:lang="en">white horse hotel</placeName>
             <location>
               <geo>53.79780305321 -1.5422651808132</geo>
               <settlement xml:lang="de">Leeds</settlement>
+              <settlement xml:lang="en">Leeds</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
             <idno type="gfa-places-id">2142</idno>
             <note type="description" xml:lang="de">
-              <p>Fischers Unterkunft in <ref target="https://archives.georgfischer.com/places/2215?perPage=50&amp;search=2215&amp;sortField=id&amp;sortAsc=1&amp;context=tectonical&amp;index=1">Leeds</ref> für seine Reise von 1845.</p>
+              <p>Fischers Unterkunft in <ref target="gfa-places-1760">Leeds</ref> für seine Reise von 1845.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Fischer’s lodgings in <ref target="gfa-places-1760">Leeds</ref> on his journey of 1845.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2143">
             <placeName type="main" xml:lang="de">Tontine House</placeName>
             <placeName type="full" xml:lang="de">Tontine House / Sheffield</placeName>
             <placeName type="sort" xml:lang="de">tontine house</placeName>
+            <placeName type="main" xml:lang="en">Tontine House</placeName>
+            <placeName type="full" xml:lang="en">Tontine House / Sheffield</placeName>
+            <placeName type="sort" xml:lang="en">tontine house</placeName>
             <location>
               <geo>53.384063671362 -1.4640018304653</geo>
               <settlement xml:lang="de">Sheffield</settlement>
+              <settlement xml:lang="en">Sheffield</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34512,14 +35052,21 @@
             <note type="description" xml:lang="de">
               <p>Gasthaus in <ref target="gfa-places-1265">Sheffield</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>An inn in <ref target="gfa-places-1265">Sheffield</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2145">
             <placeName type="main" xml:lang="de">St. Paulʼs Cathedral</placeName>
             <placeName type="full" xml:lang="de">St. Paulʼs Cathedral / London</placeName>
             <placeName type="sort" xml:lang="de">st. paulʼs cathedral</placeName>
+            <placeName type="main" xml:lang="en">St. Paulʼs Cathedral</placeName>
+            <placeName type="full" xml:lang="en">St. Paulʼs Cathedral / London</placeName>
+            <placeName type="sort" xml:lang="en">st. paulʼs cathedral</placeName>
             <location>
               <geo>51.513611 -0.098056</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34564,14 +35111,21 @@
             <note type="description" xml:lang="de">
               <p>Kathedrale in London.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A cathedral in London.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-2147">
             <placeName type="main" xml:lang="de">Rheinischer Hof</placeName>
             <placeName type="full" xml:lang="de">Rheinischer Hof / Köln</placeName>
             <placeName type="sort" xml:lang="de">rheinischer hof</placeName>
+            <placeName type="main" xml:lang="en">Rheinischer Hof</placeName>
+            <placeName type="full" xml:lang="en">Rheinischer Hof / Cologne</placeName>
+            <placeName type="sort" xml:lang="en">rheinischer hof</placeName>
             <location>
               <geo>50.93353 6.95</geo>
               <settlement xml:lang="de">Köln</settlement>
+              <settlement xml:lang="en">Cologne</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -34580,15 +35134,24 @@
               <p>Hotel in Köln.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A hotel in Cologne.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2148">
             <placeName type="main" xml:lang="de">Alfreton Ironworks</placeName>
             <placeName type="full" xml:lang="de">Alfreton Ironworks / Alfreton</placeName>
             <placeName type="sort" xml:lang="de">alfreton ironworks</placeName>
             <placeName type="alternative" xml:lang="de">Alfredton Ironworks</placeName>
+            <placeName type="main" xml:lang="en">Alfreton Ironworks</placeName>
+            <placeName type="full" xml:lang="en">Alfreton Ironworks / Alfreton</placeName>
+            <placeName type="sort" xml:lang="en">alfreton ironworks</placeName>
+            <placeName type="alternative" xml:lang="en">Alfredton Ironworks</placeName>
             <location>
               <geo>53.071660253947 -1.3472436576853</geo>
               <settlement xml:lang="de">Alfreton</settlement>
+              <settlement xml:lang="en">Alfreton</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34610,6 +35173,9 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Ehemaliges grosses Eisenwerk in Alfreton, ab 1802 in Betrieb.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Formerly a large ironworks in Alfreton, in operation from 1802.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2149">
@@ -34680,9 +35246,13 @@
             <placeName type="main" xml:lang="de">Bank Junction</placeName>
             <placeName type="full" xml:lang="de">Bank Junction / London</placeName>
             <placeName type="sort" xml:lang="de">bank junction</placeName>
+            <placeName type="main" xml:lang="en">Bank Junction</placeName>
+            <placeName type="full" xml:lang="en">Bank Junction / London</placeName>
+            <placeName type="sort" xml:lang="en">bank junction</placeName>
             <location>
               <geo>51.513433 -0.089045</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -34694,6 +35264,9 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Strassenkreuzung in der Innenstadt von London, an der sich wichtige Gebäude wie die <ref target="gfa-places-2199">Bank of England</ref>, die Royal Exchange und das <ref target="gfa-places-1650">Mansion House</ref> befinden.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>An intersection in central London and site of several important buildings such as the <ref target="gfa-places-2199">Bank of England</ref>, Royal Exchange and <ref target="gfa-places-1650">Mansion House</ref>.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2153">
@@ -35225,9 +35798,13 @@
             <placeName type="main" xml:lang="de">Lady’s Bridge</placeName>
             <placeName type="full" xml:lang="de">Lady’s Bridge / Sheffield</placeName>
             <placeName type="sort" xml:lang="de">lady’s bridge</placeName>
+            <placeName type="main" xml:lang="en">Lady’s Bridge</placeName>
+            <placeName type="full" xml:lang="en">Lady’s Bridge / Sheffield</placeName>
+            <placeName type="sort" xml:lang="en">lady’s bridge</placeName>
             <location>
               <geo>53.385683 -1.464092</geo>
               <settlement xml:lang="de">Sheffield</settlement>
+              <settlement xml:lang="en">Sheffield</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -35240,14 +35817,21 @@
             <note type="description" xml:lang="de">
               <p>Älteste Brücke von <ref target="gfa-places-1265">Sheffield</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>The oldest bridge in <ref target="gfa-places-1265">Sheffield</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2169">
             <placeName type="main" xml:lang="de">Optikgeschäft Willats</placeName>
             <placeName type="full" xml:lang="de">Optikgeschäft Willats / London</placeName>
             <placeName type="sort" xml:lang="de">optikgeschaeft willats</placeName>
+            <placeName type="main" xml:lang="en">Willats the Opticians</placeName>
+            <placeName type="full" xml:lang="en">Willats the Opticians / London</placeName>
+            <placeName type="sort" xml:lang="en">willats the opticians</placeName>
             <location>
               <geo>51.51389866159 -0.092793442329688</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -35261,14 +35845,22 @@
               <p>Standort des Geschäfts.</p>
               <p>Siehe Organisation: <ref target="../names/gfa-actors-7967">Thomas &amp; Robert Willats</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Business premises.</p>
+              <p>See organisation: <ref target="../names/gfa-actors-7967">Thomas &amp; Robert Willats</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2170">
             <placeName type="main" xml:lang="de">Fotostudio Croucher</placeName>
             <placeName type="full" xml:lang="de">Fotostudio Croucher / London</placeName>
             <placeName type="sort" xml:lang="de">fotostudio croucher</placeName>
+            <placeName type="main" xml:lang="en">Croucher’s Photographic Studio</placeName>
+            <placeName type="full" xml:lang="en">Croucher’s Photographic Studio / London</placeName>
+            <placeName type="sort" xml:lang="en">croucher’s photographic studio</placeName>
             <location>
               <geo>51.514016853608 -0.10250274232852</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -35277,14 +35869,22 @@
               <p>Studio des englischen Fotografen <ref target="../names/gfa-actors-7804">John Honour Croucher</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Studio of British photographer <ref target="../names/gfa-actors-7804">John Honour Croucher</ref>.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-2171">
             <placeName type="main" xml:lang="de">Sydenham</placeName>
             <placeName type="full" xml:lang="de">Sydenham / London</placeName>
             <placeName type="sort" xml:lang="de">sydenham</placeName>
+            <placeName type="main" xml:lang="en">Sydenham</placeName>
+            <placeName type="full" xml:lang="en">Sydenham / London</placeName>
+            <placeName type="sort" xml:lang="en">sydenham</placeName>
             <location>
               <geo>51.4254 -0.0544</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -35294,9 +35894,13 @@
             <placeName type="main" xml:lang="de">Lokomotiv- und Maschinenfabrik J. A. Maffei</placeName>
             <placeName type="full" xml:lang="de">Lokomotiv- und Maschinenfabrik J. A. Maffei / München</placeName>
             <placeName type="sort" xml:lang="de">lokomotiv- und maschinenfabrik j. a. maffei</placeName>
+            <placeName type="main" xml:lang="en">Lokomotiv- und Maschinenfabrik J. A. Maffei</placeName>
+            <placeName type="full" xml:lang="en">Lokomotiv- und Maschinenfabrik J. A. Maffei / Munich</placeName>
+            <placeName type="sort" xml:lang="en">lokomotiv- und maschinenfabrik j. a. maffei</placeName>
             <location>
               <geo>48.162056207195 11.602828497541</geo>
               <settlement xml:lang="de">München</settlement>
+              <settlement xml:lang="en">Munich</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -35309,14 +35913,21 @@
             <note type="description" xml:lang="de">
               <p>Maschinenfabrik in München, gegründet im Jahr 1838 durch <ref target="../names/gfa-actors-7893">Joseph Anton von Maffei</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Machine-building factory in Munich, established by <ref target="../names/gfa-actors-7893">Joseph Anton von Maffei</ref> in 1838.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2173">
             <placeName type="main" xml:lang="de">Messingfabrik Beck &amp; Co.</placeName>
             <placeName type="full" xml:lang="de">Messingfabrik Beck &amp; Co. / Augsburg</placeName>
             <placeName type="sort" xml:lang="de">messingfabrik beck &amp; co.</placeName>
+            <placeName type="main" xml:lang="en">Messingfabrik Beck &amp; Co.</placeName>
+            <placeName type="full" xml:lang="en">Messingfabrik Beck &amp; Co. / Augsburg</placeName>
+            <placeName type="sort" xml:lang="en">messingfabrik beck &amp; co.</placeName>
             <location>
               <geo>48.369476230631 10.914051407026</geo>
               <settlement xml:lang="de">Augsburg</settlement>
+              <settlement xml:lang="en">Augsburg</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -35326,14 +35937,23 @@
               <p>Siehe Organisation: <ref target="../names/gfa-actors-7774">Beck &amp; Co.</ref></p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Location of a brassworks.</p>
+              <p>See organisation: <ref target="../names/gfa-actors-7774">Beck &amp; Co.</ref></p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2174">
             <placeName type="main" xml:lang="de">Bergischer Hof</placeName>
             <placeName type="full" xml:lang="de">Bergischer Hof / Köln</placeName>
             <placeName type="sort" xml:lang="de">bergischer hof</placeName>
+            <placeName type="main" xml:lang="en">Bergischer Hof</placeName>
+            <placeName type="full" xml:lang="en">Bergischer Hof / Cologne</placeName>
+            <placeName type="sort" xml:lang="en">bergischer hof</placeName>
             <location>
               <geo>50.939801897752 6.9596958728536</geo>
               <settlement xml:lang="de">Köln</settlement>
+              <settlement xml:lang="en">Cologne</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -35341,6 +35961,10 @@
             <note type="description" xml:lang="de">
               <p>Hotel in <ref target="gfa-places-82">Köln</ref>.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>A hotel in <ref target="gfa-places-82">Cologne</ref>.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2175">
@@ -35574,9 +36198,14 @@
             <placeName type="main" xml:lang="de">Old No. 12</placeName>
             <placeName type="full" xml:lang="de">Old No. 12 / Sheffield</placeName>
             <placeName type="sort" xml:lang="de">old no. 12</placeName>
+            <placeName type="main" xml:lang="en">Old No. 12</placeName>
+            <placeName type="full" xml:lang="en">Old No. 12 / Sheffield</placeName>
+            <placeName type="sort" xml:lang="en">old no. 12</placeName>
+            <placeName type="alternative" xml:lang="en">Old N. 12</placeName>
             <location>
               <geo>53.384042554067 -1.464348505138</geo>
               <settlement xml:lang="de">Sheffield</settlement>
+              <settlement xml:lang="en">Sheffield</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -35594,6 +36223,9 @@
             <note type="description" xml:lang="de">
               <p>Wein- und Spirituosengeschäft in <ref target="gfa-places-1265">Sheffield</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Purveyor of wine and spirits in <ref target="gfa-places-1265">Sheffield</ref>.</p>
+            </note>
           </place>
           <place type="H" xml:id="gfa-places-2184">
             <placeName type="main" xml:lang="de">Paktolos</placeName>
@@ -35601,6 +36233,10 @@
             <placeName type="sort" xml:lang="de">paktolos</placeName>
             <placeName type="alternative" xml:lang="de">Sart Çayı</placeName>
             <placeName type="alternative" xml:lang="de">Pactolus</placeName>
+            <placeName type="main" xml:lang="en">Paktolos</placeName>
+            <placeName type="full" xml:lang="en">Paktolos</placeName>
+            <placeName type="sort" xml:lang="en">paktolos</placeName>
+            <placeName type="alternative" xml:lang="en">Pactolus</placeName>
             <location>
               <geo>38.521944 28.046667</geo>
               <country xml:lang="de">Türkei</country>
@@ -35621,11 +36257,17 @@
             <note type="description" xml:lang="de">
               <p>Antiker Name eines Flusses in der <ref target="gfa-places-148">Türkei</ref>, welcher bekannt dafür ist, dass er Flussgold mitführt.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Ancient name of a river in <ref target="gfa-places-148">Turkey</ref> famed for its high river gold content.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2185">
             <placeName type="main" xml:lang="de">Hochrheinbahn</placeName>
             <placeName type="full" xml:lang="de">Hochrheinbahn</placeName>
             <placeName type="sort" xml:lang="de">hochrheinbahn</placeName>
+            <placeName type="main" xml:lang="en">Hochrheinbahn</placeName>
+            <placeName type="full" xml:lang="en">Hochrheinbahn</placeName>
+            <placeName type="sort" xml:lang="en">hochrheinbahn</placeName>
             <location>
               <geo>47.625755845807 8.2495712566232</geo>
             </location>
@@ -35648,12 +36290,20 @@
               <p>Eisenbahnstrecke auf der rechten Seite des Rheins, führt von <ref target="gfa-places-10">Basel</ref> über Waldshut und <ref target="gfa-places-131">Schaffhausen</ref> nach <ref target="gfa-places-455">Konstanz</ref>.</p>
               <p>Die Strecke wurde in zwei Etappen gebaut: Der Abschnitt Basel bis Bad Säckingen wurde 1856 und der Abschnitt Bad Säckingen bis Konstanz 1863 eröffnet.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Railway line on the right bank of the Rhine connecting <ref target="gfa-places-10">Basel</ref> to Waldshut, <ref target="gfa-places-131">Schaffhausen</ref> and <ref target="gfa-places-455">Konstanz</ref>.</p>
+              <p>The line was built in two stages: the section from Basel to Bad Säckingen opened in 1856 and that from Bad Säckingen to Konstanz in 1863.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2186">
             <placeName type="main" xml:lang="de">South Eastern Main Line</placeName>
             <placeName type="full" xml:lang="de">South Eastern Main Line</placeName>
             <placeName type="sort" xml:lang="de">south eastern main line</placeName>
             <placeName type="alternative" xml:lang="de">Dover-London-Schienenweg</placeName>
+            <placeName type="main" xml:lang="en">South Eastern Main Line</placeName>
+            <placeName type="full" xml:lang="en">South Eastern Main Line</placeName>
+            <placeName type="sort" xml:lang="en">south eastern main line</placeName>
+            <placeName type="alternative" xml:lang="en">Dover-London line</placeName>
             <location>
               <geo>51.1725 0.535833</geo>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -35675,11 +36325,18 @@
               <p>Eisenbahnstrecke von London über East Croydon, Tonbridge, <ref target="gfa-places-1656">Ashford</ref> und <ref target="gfa-places-1957">Folkestone</ref> nach <ref target="gfa-places-1608">Dover</ref>, erbaut zwischen 1836 und 1844. </p>
               <p>Erbauer und Inhaber der Eisenbahnstrecke war die South Eastern Railway Company.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Railway line connecting London to <ref target="gfa-places-1608">Dover</ref> via East Croydon, Tonbridge, <ref target="gfa-places-1656">Ashford</ref> and <ref target="gfa-places-1957">Folkestone</ref>, built between 1836 and 1844.</p>
+              <p>It was built by its owner, the South Eastern Railway Company.</p>
+            </note>
           </place>
           <place type="T" xml:id="gfa-places-2187">
             <placeName type="main" xml:lang="de">Round Down Cliff</placeName>
             <placeName type="full" xml:lang="de">Round Down Cliff</placeName>
             <placeName type="sort" xml:lang="de">round down cliff</placeName>
+            <placeName type="main" xml:lang="en">Round Down Cliff</placeName>
+            <placeName type="full" xml:lang="en">Round Down Cliff</placeName>
+            <placeName type="sort" xml:lang="en">round down cliff</placeName>
             <location>
               <geo>51.105894110003 1.27176855438</geo>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -35694,11 +36351,17 @@
             <note type="description" xml:lang="de">
               <p>Kalkklippe zwischen Abbott’s Cliff und Shakespeare’s Cliff, die für den Bau der Eisenbahnlinie Dover–London gesprengt wurde.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Chalk cliff between Abbott’s Cliff and Shakespeare’s Cliff that was blown up to make way for the Dover–London railway line.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2188">
             <placeName type="main" xml:lang="de">Brighton Main Line</placeName>
             <placeName type="full" xml:lang="de">Brighton Main Line</placeName>
             <placeName type="sort" xml:lang="de">brighton main line</placeName>
+            <placeName type="main" xml:lang="en">Brighton Main Line</placeName>
+            <placeName type="full" xml:lang="en">Brighton Main Line</placeName>
+            <placeName type="sort" xml:lang="en">brighton main line</placeName>
             <location>
               <geo>51.187717998398 -0.16092200221544</geo>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -35716,11 +36379,17 @@
             <note type="description" xml:lang="de">
               <p>Am 21. September 1841 eröffnete, und von der Firma London and Brighton Railway gebaute und betriebene Eisenbahnstrecke zwischen <ref target="gfa-places-89">London</ref> und <ref target="gfa-places-1651">Brighton</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Railway line between <ref target="gfa-places-89">London</ref> and <ref target="gfa-places-1651">Brighton</ref> that was built by the London and Brighton Railway and opened on 21 September 1841.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2189">
             <placeName type="main" xml:lang="de">Eisenbahnstrecke Ostende – Gent</placeName>
             <placeName type="full" xml:lang="de">Eisenbahnstrecke Ostende – Gent</placeName>
             <placeName type="sort" xml:lang="de">eisenbahnstrecke ostende – gent</placeName>
+            <placeName type="main" xml:lang="en">Ostend – Ghent railway line</placeName>
+            <placeName type="full" xml:lang="en">Ostend – Ghent railway line</placeName>
+            <placeName type="sort" xml:lang="en">ostend – ghent railway line</placeName>
             <location>
               <geo>51.116538328425 3.3619773094833</geo>
               <country xml:lang="de">Belgien</country>
@@ -35738,11 +36407,17 @@
             <note type="description" xml:lang="de">
               <p>Eine am 28. August 1838 eröffnete Teilstrecke der belgischen Staatsbahnen zwischen <ref target="gfa-places-1625">Ostende</ref> und <ref target="gfa-places-1624">Gent</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Section of Belgian State Railways between <ref target="gfa-places-1625">Ostend</ref> and <ref target="gfa-places-1624">Ghent</ref> that opened on 28 August 1838.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2190">
             <placeName type="main" xml:lang="de">Abbottscliffe Tunnel</placeName>
             <placeName type="full" xml:lang="de">Abbottscliffe Tunnel</placeName>
             <placeName type="sort" xml:lang="de">abbottscliffe tunnel</placeName>
+            <placeName type="main" xml:lang="en">Abbott’s Cliff Tunnel</placeName>
+            <placeName type="full" xml:lang="en">Abbott’s Cliff Tunnel</placeName>
+            <placeName type="sort" xml:lang="en">abbott’s cliff tunnel</placeName>
             <location>
               <geo>51.100986337132 1.2377640409232</geo>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -35768,11 +36443,17 @@
             <note type="description" xml:lang="de">
               <p>1776 Meter langer Bahntunnel auf der Strecke von <ref target="gfa-places-1957">Folkestone</ref> nach <ref target="gfa-places-1608">Dover</ref>, erbaut vor 1844.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>1776-m-long railway tunnel on the <ref target="gfa-places-1957">Folkestone</ref> to <ref target="gfa-places-1608">Dover</ref> line, built before 1844.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2191">
             <placeName type="main" xml:lang="de">Eisenbahnstrecke Köln – Aachen</placeName>
             <placeName type="full" xml:lang="de">Eisenbahnstrecke Köln – Aachen</placeName>
             <placeName type="sort" xml:lang="de">eisenbahnstrecke koeln – aachen</placeName>
+            <placeName type="main" xml:lang="en">Cologne – Aachen railway line</placeName>
+            <placeName type="full" xml:lang="en">Cologne – Aachen railway line</placeName>
+            <placeName type="sort" xml:lang="en">cologne – aachen railway line</placeName>
             <location>
               <geo>50.865653635153 6.5828142906221</geo>
               <country xml:lang="de">Deutschland</country>
@@ -35790,11 +36471,17 @@
             <note type="description" xml:lang="de">
               <p>Am 1. September 1841 eröffnete, 70 Kilometer lange Strecke zwischen <ref target="gfa-places-82">Köln</ref> und <ref target="gfa-places-1">Aachen</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>70-km-long railway line connecting <ref target="gfa-places-82">Cologne</ref> and <ref target="gfa-places-1">Aachen</ref> that opened on 1 September 1841.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2192">
             <placeName type="main" xml:lang="de">Eisenbahnstrecke Aachen – Liège</placeName>
             <placeName type="full" xml:lang="de">Eisenbahnstrecke Aachen – Liège</placeName>
             <placeName type="sort" xml:lang="de">eisenbahnstrecke aachen – liege</placeName>
+            <placeName type="main" xml:lang="en">Aachen – Liège railway line</placeName>
+            <placeName type="full" xml:lang="en">Aachen – Liège railway line</placeName>
+            <placeName type="sort" xml:lang="en">aachen – liege railway line</placeName>
             <location>
               <geo>50.601950524906 5.8992462466934</geo>
             </location>
@@ -35821,11 +36508,17 @@
             <note type="description" xml:lang="de">
               <p>Am 15. Oktober 1843 eröffnete, 54 Kilometer lange Bahnstrecke zwischen <ref target="gfa-places-1311">Liège</ref> und <ref target="gfa-places-1">Aachen</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>54-km-long railway line connecting <ref target="gfa-places-1311">Liège</ref> and <ref target="gfa-places-1">Aachen</ref> that opened on 15 October 1843.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2193">
             <placeName type="main" xml:lang="de">Eisenbahnstrecke Gent – Liège</placeName>
             <placeName type="full" xml:lang="de">Eisenbahnstrecke Gent – Liège</placeName>
             <placeName type="sort" xml:lang="de">eisenbahnstrecke gent – liege</placeName>
+            <placeName type="main" xml:lang="en">Ghent – Liège railway line</placeName>
+            <placeName type="full" xml:lang="en">Ghent – Liège railway line</placeName>
+            <placeName type="sort" xml:lang="en">ghent – liege railway line</placeName>
             <location>
               <geo>50.953009443201 4.6476201175895</geo>
               <country xml:lang="de">Belgien</country>
@@ -35843,11 +36536,17 @@
             <note type="description" xml:lang="de">
               <p>Am 1. Mai 1842 eröffnete Teilstrecke der belgischen Staatsbahnen zwischen <ref target="gfa-places-1624">Gent</ref> und <ref target="gfa-places-1311">Liège</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Section of Belgian State Railways between <ref target="gfa-places-1624">Ghent</ref> and <ref target="gfa-places-1311">Liège</ref> that opened on 1 May 1842.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2194">
             <placeName type="main" xml:lang="de">Ronheider Rampe</placeName>
             <placeName type="full" xml:lang="de">Ronheider Rampe</placeName>
             <placeName type="sort" xml:lang="de">ronheider rampe</placeName>
+            <placeName type="main" xml:lang="en">Ronheider Rampe</placeName>
+            <placeName type="full" xml:lang="en">Ronheider Rampe</placeName>
+            <placeName type="sort" xml:lang="en">ronheider rampe</placeName>
             <location>
               <geo>50.754722 6.076667</geo>
               <country xml:lang="de">Deutschland</country>
@@ -35866,14 +36565,22 @@
               <p>2086 Meter lange Steilstrecke zwischen Aachen und Liège, wo die Züge zwischen 1843 und 1854 durch einen stationären Seilzug hochgezogen wurden.</p>
               <p>Die Strecke wurde am 13. Oktober 1843 in Betrieb genommen.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A 2086-m-long stretch of the Aachen – Liège railway line, where from 1843 to 1854 trains were pulled up the incline by a stationary winch.</p>
+              <p>This stretch of line opened on 13 October 1843.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2195">
             <placeName type="main" xml:lang="de">Old Bailey</placeName>
             <placeName type="full" xml:lang="de">Old Bailey / London</placeName>
             <placeName type="sort" xml:lang="de">old bailey</placeName>
+            <placeName type="main" xml:lang="en">Old Bailey</placeName>
+            <placeName type="full" xml:lang="en">Old Bailey / London</placeName>
+            <placeName type="sort" xml:lang="en">old bailey</placeName>
             <location>
               <geo>51.515833 -0.101944</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -35901,14 +36608,21 @@
             <note type="description" xml:lang="de">
               <p>Britischer Strafgerichtshof (Crown Court) von <ref target="gfa-places-41">England</ref> und <ref target="gfa-places-1945">Wales</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Crown Court with criminal jurisdiction for <ref target="gfa-places-41">England</ref> and <ref target="gfa-places-1945">Wales</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2196">
             <placeName type="main" xml:lang="de">Croydon Engine House</placeName>
             <placeName type="full" xml:lang="de">Croydon Engine House / Croydon</placeName>
             <placeName type="sort" xml:lang="de">croydon engine house</placeName>
+            <placeName type="main" xml:lang="en">Croydon Engine House</placeName>
+            <placeName type="full" xml:lang="en">Croydon Engine House / Croydon</placeName>
+            <placeName type="sort" xml:lang="en">croydon engine house</placeName>
             <location>
               <geo>51.379884940273 -0.10053024282186</geo>
               <settlement xml:lang="de">Croydon</settlement>
+              <settlement xml:lang="en">Croydon</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -35921,15 +36635,23 @@
             <note type="description" xml:lang="de">
               <p>Pumpstation der atmosphärischen Eisenbahnstrecke der <ref target="../names/gfa-actors-8269">London and Croydon Railway</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Pump station for the atmospheric section of the <ref target="../names/gfa-actors-8269">London and Croydon Railway</ref>.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-2197">
             <placeName type="main" xml:lang="de">Forest Hill Railway Station</placeName>
             <placeName type="full" xml:lang="de">Forest Hill Railway Station / Forest Hill</placeName>
             <placeName type="sort" xml:lang="de">forest hill railway station</placeName>
             <placeName type="alternative" xml:lang="de">Dartmouth Arms</placeName>
+            <placeName type="main" xml:lang="en">Forest Hill Railway Station</placeName>
+            <placeName type="full" xml:lang="en">Forest Hill Railway Station / Forest Hill</placeName>
+            <placeName type="sort" xml:lang="en">forest hill railway station</placeName>
+            <placeName type="alternative" xml:lang="en">Dartmouth Arms</placeName>
             <location>
               <geo>51.43941 -0.05308</geo>
               <settlement xml:lang="de">Forest Hill</settlement>
+              <settlement xml:lang="en">Forest Hill</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -35949,11 +36671,18 @@
               <p>1839 von <ref target="../names/gfa-actors-8269">London and Croydon Railway</ref> eröffnete Eisenbahnhaltestelle im Süden von London.</p>
               <p>Die London and Croydon Railway Company unterhielt hier eine Pumpstation für ihre <ref target="../keywords/gfa-keywords-9704">atmosphärische Eisenbahn</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A stop in south London on the <ref target="../names/gfa-actors-8269">London and Croydon Railway</ref> that opened in 1839.</p>
+              <p>Location of the pump station operated by the London and Croydon Railway Company for its <ref target="../keywords/gfa-keywords-9704">atmospheric railway</ref>.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2198">
             <placeName type="main" xml:lang="de">Atmosphärische Eisenbahnstrecke Croydon – New Cross</placeName>
             <placeName type="full" xml:lang="de">Atmosphärische Eisenbahnstrecke Croydon – New Cross</placeName>
             <placeName type="sort" xml:lang="de">atmosphaerische eisenbahnstrecke croydon – new cross</placeName>
+            <placeName type="main" xml:lang="en">Croydon – New Cross atmospheric railway</placeName>
+            <placeName type="full" xml:lang="en">Croydon – New Cross atmospheric railway</placeName>
+            <placeName type="sort" xml:lang="en">croydon – new cross atmospheric railway</placeName>
             <location>
               <geo>51.405687242801 -0.069955947022602</geo>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -35969,14 +36698,22 @@
               <p>Atmosphärische Eisenbahnstrecke zwischen <ref target="gfa-places-1918">Croydon</ref> und <ref target="gfa-places-2197">Dartmouth Arms</ref> (heute Forrest Hill), eröffnet im Januar 1846.</p>
               <p>Die Streckenerweiterung nach <ref target="gfa-places-2130">New Cross</ref> wurde im Januar 1847 eröffnet. Im Mai 1847 wurde der atmosphärische Betrieb der Strecke eingestellt.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Atmospheric railway between <ref target="gfa-places-1918">Croydon</ref> and <ref target="gfa-places-2197">Dartmouth Arms</ref> (now Forest Hill) that opened in January 1846.</p>
+              <p>The extension to <ref target="gfa-places-2130">New Cross</ref> opened in January 1847. The atmospheric system was abandoned in May 1847.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2199">
             <placeName type="main" xml:lang="de">Bank of England</placeName>
             <placeName type="full" xml:lang="de">Bank of England / London</placeName>
             <placeName type="sort" xml:lang="de">bank of england</placeName>
+            <placeName type="main" xml:lang="en">Bank of England</placeName>
+            <placeName type="full" xml:lang="en">Bank of England / London</placeName>
+            <placeName type="sort" xml:lang="en">bank of england</placeName>
             <location>
               <geo>51.51407 -0.08843</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36023,14 +36760,23 @@
               <p>Das Gebäude wurde von 1790 bis 1827 unter der Leitung von John Soane erbaut. Der heutige Bau ist der Hauptsitz der Bank und entstand im frühen 20. Jahrhundert.</p>
               <p>Siehe Organisation: <ref target="../names/gfa-actors-8302">Bank of England</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Location of the bank.</p>
+              <p>The original building was designed by Sir John Soane and built between 1790 and 1827. The building now housing the bank’s head offices dates from the early 20th century.</p>
+              <p>See organisation: <ref target="../names/gfa-actors-8302">Bank of England</ref>.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2200">
             <placeName type="main" xml:lang="de">Leadenhall Street</placeName>
             <placeName type="full" xml:lang="de">Leadenhall Street / London</placeName>
             <placeName type="sort" xml:lang="de">leadenhall street</placeName>
+            <placeName type="main" xml:lang="en">Leadenhall Street</placeName>
+            <placeName type="full" xml:lang="en">Leadenhall Street / London</placeName>
+            <placeName type="sort" xml:lang="en">leadenhall street</placeName>
             <location>
               <geo>51.513472 -0.080833</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36048,6 +36794,9 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Von Ost nach West verlaufende Strasse im Ostteil der City of London</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>East-west thoroughfare in the eastern part of the City of London.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2201">
@@ -36093,9 +36842,13 @@
             <placeName type="main" xml:lang="de">Britannia Adelphi Hotel</placeName>
             <placeName type="full" xml:lang="de">Britannia Adelphi Hotel / Liverpool</placeName>
             <placeName type="sort" xml:lang="de">britannia adelphi hotel</placeName>
+            <placeName type="main" xml:lang="en">Britannia Adelphi Hotel</placeName>
+            <placeName type="full" xml:lang="en">Britannia Adelphi Hotel / Liverpool</placeName>
+            <placeName type="sort" xml:lang="en">britannia adelphi hotel</placeName>
             <location>
               <geo>53.40549 -2.9774</geo>
               <settlement xml:lang="de">Liverpool</settlement>
+              <settlement xml:lang="en">Liverpool</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36112,6 +36865,10 @@
               <p>Nobelhotel in <ref target="gfa-places-1745">Liverpool</ref>, das 1826 vom Hotelier James Radley gegründet wurde.</p>
               <p>Johann Conrad Fischer logierte im Adelphi während seines Aufenthalts in Liverpool im Jahr 1846.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Luxury hotel in <ref target="gfa-places-1745">Liverpool</ref> established by the hotelier James Radley in 1826.</p>
+              <p>Johann Conrad Fischer stayed at the Adelphi on his visit to Liverpool in 1846.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2203">
             <placeName type="main" xml:lang="de">Mersey Steel &amp; Iron Works</placeName>
@@ -36119,9 +36876,14 @@
             <placeName type="sort" xml:lang="de">mersey steel &amp; iron works</placeName>
             <placeName type="alternative" xml:lang="de">Eisenwerk Horsefall &amp; Comp.</placeName>
             <placeName type="alternative" xml:lang="de">Mersey Forge</placeName>
+            <placeName type="main" xml:lang="en">Mersey Steel &amp; Iron Works</placeName>
+            <placeName type="full" xml:lang="en">Mersey Steel &amp; Iron Works / Liverpool</placeName>
+            <placeName type="sort" xml:lang="en">mersey steel &amp; iron works</placeName>
+            <placeName type="alternative" xml:lang="en">Horsefall &amp; Comp. :: Mersey Forge</placeName>
             <location>
               <geo>53.383049462515 -2.9739176577503</geo>
               <settlement xml:lang="de">Liverpool</settlement>
+              <settlement xml:lang="en">Liverpool</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36137,6 +36899,11 @@
               <p>Das Werk befand sich in der Nähe der Brunswick Railway Station in <ref target="gfa-places-1745">Liverpool</ref>.</p>
               <p>Siehe Organisation: <ref target="../names/gfa-actors-7861">Horsefall &amp; Co.</ref></p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Location of an <ref target="../keywords/gfa-keywords-9005">ironworks</ref>.</p>
+              <p>The works was located near Brunswick Railway Station in <ref target="gfa-places-1745">Liverpool</ref>.</p>
+              <p>See organisation: <ref target="../names/gfa-actors-7861">Horsefall &amp; Co.</ref></p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2204">
             <placeName type="main" xml:lang="de">Ankerschmiede Betteley &amp; Roberts</placeName>
@@ -36144,9 +36911,14 @@
             <placeName type="sort" xml:lang="de">ankerschmiede betteley &amp; roberts</placeName>
             <placeName type="alternative" xml:lang="de">Bettely &amp; Roberts</placeName>
             <placeName type="alternative" xml:lang="de">Brunswick Anchor Works</placeName>
+            <placeName type="main" xml:lang="en">Betteley &amp; Roberts Anchor Works</placeName>
+            <placeName type="full" xml:lang="en">Betteley &amp; Roberts Anchor Works / Liverpool</placeName>
+            <placeName type="sort" xml:lang="en">betteley &amp; roberts anchor works</placeName>
+            <placeName type="alternative" xml:lang="en">Bettely &amp; Roberts :: Brunswick Anchor Works</placeName>
             <location>
               <geo>53.391850621393 -2.9827522999527</geo>
               <settlement xml:lang="de">Liverpool</settlement>
+              <settlement xml:lang="en">Liverpool</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36170,15 +36942,24 @@
               <p>Standort der Schmiede.</p>
               <p>Siehe Organisation: <ref target="../names/gfa-actors-7778">Betteley &amp; Roberts</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Location of an anchor works.</p>
+              <p>See organisation: <ref target="../names/gfa-actors-7778">Betteley &amp; Roberts</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2205">
             <placeName type="main" xml:lang="de">Salthouse Dock Warehouse</placeName>
             <placeName type="full" xml:lang="de">Salthouse Dock Warehouse / Liverpool</placeName>
             <placeName type="sort" xml:lang="de">salthouse dock warehouse</placeName>
             <placeName type="alternative" xml:lang="de">Salthouse Dock transit shed</placeName>
+            <placeName type="main" xml:lang="en">Salthouse Dock Warehouse</placeName>
+            <placeName type="full" xml:lang="en">Salthouse Dock Warehouse / Liverpool</placeName>
+            <placeName type="sort" xml:lang="en">salthouse dock warehouse</placeName>
+            <placeName type="alternative" xml:lang="en">Salthouse Dock transit shed</placeName>
             <location>
               <geo>53.400813540665 -2.9887870394636</geo>
               <settlement xml:lang="de">Liverpool</settlement>
+              <settlement xml:lang="en">Liverpool</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36196,11 +36977,17 @@
             <note type="description" xml:lang="de">
               <p>Offene Lagerhalle am Salthouse Dock, erbaut von Jesse Hartley.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Open warehouse on Salthouse Dock, built by Jesse Hartley.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2206">
             <placeName type="main" xml:lang="de">Parkside Railway Station</placeName>
             <placeName type="full" xml:lang="de">Parkside Railway Station</placeName>
             <placeName type="sort" xml:lang="de">parkside railway station</placeName>
+            <placeName type="main" xml:lang="en">Parkside Railway Station</placeName>
+            <placeName type="full" xml:lang="en">Parkside Railway Station</placeName>
+            <placeName type="sort" xml:lang="en">parkside railway station</placeName>
             <location>
               <geo>53.456 -2.5895</geo>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -36215,14 +37002,21 @@
             <note type="description" xml:lang="de">
               <p>Haltestelle an der Bahnstrecke zwischen <ref target="gfa-places-1745">Liverpool</ref> und <ref target="gfa-places-471">Manchester</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A stop on the railway line between <ref target="gfa-places-1745">Liverpool</ref> and <ref target="gfa-places-471">Manchester</ref>.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2207">
             <placeName type="main" xml:lang="de">Angel Street</placeName>
             <placeName type="full" xml:lang="de">Angel Street / Sheffield</placeName>
             <placeName type="sort" xml:lang="de">angel street</placeName>
+            <placeName type="main" xml:lang="en">Angel Street</placeName>
+            <placeName type="full" xml:lang="en">Angel Street / Sheffield</placeName>
+            <placeName type="sort" xml:lang="en">angel street</placeName>
             <location>
               <geo>53.383651497773 -1.4659077423279</geo>
               <settlement xml:lang="de">Sheffield</settlement>
+              <settlement xml:lang="en">Sheffield</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36230,14 +37024,21 @@
             <note type="description" xml:lang="de">
               <p>Strasse in <ref target="gfa-places-1265">Sheffield</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A street in <ref target="gfa-places-1265">Sheffield</ref>.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2208">
             <placeName type="main" xml:lang="de">Laufenbrücke</placeName>
             <placeName type="full" xml:lang="de">Laufenbrücke / Laufenburg (AG)</placeName>
             <placeName type="sort" xml:lang="de">laufenbruecke</placeName>
+            <placeName type="main" xml:lang="en">Laufen Bridge</placeName>
+            <placeName type="full" xml:lang="en">Laufen Bridge / Laufenburg (AG)</placeName>
+            <placeName type="sort" xml:lang="en">laufen bridge</placeName>
             <location>
               <geo>47.563611 8.060694</geo>
               <settlement xml:lang="de">Laufenburg</settlement>
+              <settlement xml:lang="en">Laufenburg</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
             </location>
@@ -36254,11 +37055,18 @@
               <p>Brücke über den Rhein bei <ref target="gfa-places-991">Laufenburg</ref>.</p>
               <p>Der mittelalterliche Brückenbau wurde 1911 durch die heute noch stehende Brücke ersetzt.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A bridge over the Rhine at <ref target="gfa-places-991">Laufenburg</ref>.</p>
+              <p>The medieval bridge was demolished and replaced by today’s structure in 1911.</p>
+            </note>
           </place>
           <place type="T" xml:id="gfa-places-2209">
             <placeName type="main" xml:lang="de">Libanongebirge</placeName>
             <placeName type="full" xml:lang="de">Libanongebirge</placeName>
             <placeName type="sort" xml:lang="de">libanongebirge</placeName>
+            <placeName type="main" xml:lang="en">Mount Lebanon</placeName>
+            <placeName type="full" xml:lang="en">Mount Lebanon</placeName>
+            <placeName type="sort" xml:lang="en">mount lebanon</placeName>
             <location>
               <geo>34.299722 36.116389</geo>
               <country xml:lang="de">Libanon</country>
@@ -36294,14 +37102,21 @@
             <note type="description" xml:lang="de">
               <p>Gebirgskette im Norden <ref target="https://archives.georgfischer.com/places/1370">Libanons</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Mountain range in northern <ref target="https://archives.georgfischer.com/places/1370">Lebanon</ref>.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-2210">
             <placeName type="main" xml:lang="de">Dulwich</placeName>
             <placeName type="full" xml:lang="de">Dulwich / London</placeName>
             <placeName type="sort" xml:lang="de">dulwich</placeName>
+            <placeName type="main" xml:lang="en">Dulwich</placeName>
+            <placeName type="full" xml:lang="en">Dulwich / London</placeName>
+            <placeName type="sort" xml:lang="en">dulwich</placeName>
             <location>
               <geo>51.445751 -0.0779</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36335,15 +37150,23 @@
             <note type="description" xml:lang="de">
               <p>Stadtteil im Süden von <ref target="gfa-places-89">London</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Part of south <ref target="gfa-places-89">London</ref>.</p>
+            </note>
           </place>
           <place type="P" xml:id="gfa-places-2211">
             <placeName type="main" xml:lang="de">Denmark Hill</placeName>
             <placeName type="full" xml:lang="de">Denmark Hill / London</placeName>
             <placeName type="sort" xml:lang="de">denmark hill</placeName>
             <placeName type="alternative" xml:lang="de">Denmak Hill</placeName>
+            <placeName type="main" xml:lang="en">Denmark Hill</placeName>
+            <placeName type="full" xml:lang="en">Denmark Hill / London</placeName>
+            <placeName type="sort" xml:lang="en">denmark hill</placeName>
+            <placeName type="alternative" xml:lang="en">Denmak Hill</placeName>
             <location>
               <geo>51.4678 -0.0902</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36362,14 +37185,21 @@
             <note type="description" xml:lang="de">
               <p>Quartier im Süden von <ref target="gfa-places-89">London</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Part of south <ref target="gfa-places-89">London</ref>.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2212">
             <placeName type="main" xml:lang="de">Gracechurch Street</placeName>
             <placeName type="full" xml:lang="de">Gracechurch Street / London</placeName>
             <placeName type="sort" xml:lang="de">gracechurch street</placeName>
+            <placeName type="main" xml:lang="en">Gracechurch Street</placeName>
+            <placeName type="full" xml:lang="en">Gracechurch Street / London</placeName>
+            <placeName type="sort" xml:lang="en">gracechurch street</placeName>
             <location>
               <geo>51.511944 -0.084722</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36382,14 +37212,21 @@
             <note type="description" xml:lang="de">
               <p>Strasse in der City of London.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Street in the City of London.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2213">
             <placeName type="main" xml:lang="de">Farina-Haus</placeName>
             <placeName type="full" xml:lang="de">Farina-Haus / Köln</placeName>
             <placeName type="sort" xml:lang="de">farina-haus</placeName>
+            <placeName type="main" xml:lang="en">Farina-Haus</placeName>
+            <placeName type="full" xml:lang="en">Farina-Haus / Cologne</placeName>
+            <placeName type="sort" xml:lang="en">farina-haus</placeName>
             <location>
               <geo>50.937739 6.957919</geo>
               <settlement xml:lang="de">Köln</settlement>
+              <settlement xml:lang="en">Cologne</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -36418,15 +37255,24 @@
               <p>Stammsitz und historische Produktionsstätte des Unternehmens Johann Maria Farina.</p>
               <p>Siehe Organisation: <ref target="../names/gfa-actors-7828">Johann Maria Farina gegenüber dem Jülichs-Platz</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Headquarters and historical production site of the perfume-maker Johann Maria Farina.</p>
+              <p>See organisation: <ref target="../names/gfa-actors-7828">Johann Maria Farina gegenüber dem Jülichs-Platz</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2214">
             <placeName type="main" xml:lang="de">Villa Berbice</placeName>
             <placeName type="full" xml:lang="de">Villa Berbice / Neuhausen (SH)</placeName>
             <placeName type="sort" xml:lang="de">villa berbice</placeName>
             <placeName type="alternative" xml:lang="de">Campagne Berbice</placeName>
+            <placeName type="main" xml:lang="en">Villa Berbice</placeName>
+            <placeName type="full" xml:lang="en">Villa Berbice / Neuhausen (SH)</placeName>
+            <placeName type="sort" xml:lang="en">villa berbice</placeName>
+            <placeName type="alternative" xml:lang="en">Campagne Berbice</placeName>
             <location>
               <geo>47.680637343252 8.6100642315532</geo>
               <settlement xml:lang="de">Neuhausen</settlement>
+              <settlement xml:lang="en">Neuhausen</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
             </location>
@@ -36440,14 +37286,23 @@
               <p>Landhaus bei Neuhausen, erbaut durch Johann Conrad Winz um das Jahr 1810. </p>
               <p>1858 verkaufte der Sohn <ref target="../names/gfa-actors-7968">August Winz</ref> das Gut, das als Gasthof den Namen Hôtel Bellevue erhielt.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Country manorhouse near Neuhausen, built by Johann Conrad Winz in ca. 1810.</p>
+              <p>When his son <ref target="../names/gfa-actors-7968">August Winz</ref> sold the property in 1858 it was converted into a hotel, the Hôtel Bellevue.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2215">
             <placeName type="main" xml:lang="de">Butterley Works</placeName>
             <placeName type="full" xml:lang="de">Butterley Works / Butterley</placeName>
             <placeName type="sort" xml:lang="de">butterley works</placeName>
+            <placeName type="main" xml:lang="en">Butterley Works</placeName>
+            <placeName type="full" xml:lang="en">Butterley Works / Butterley</placeName>
+            <placeName type="sort" xml:lang="en">butterley works</placeName>
+            <placeName type="alternative" xml:lang="en">Butterly</placeName>
             <location>
               <geo>53.060016662129 -1.4017738219473</geo>
               <settlement xml:lang="de">Butterley</settlement>
+              <settlement xml:lang="en">Butterley</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36466,11 +37321,18 @@
               <p>Standort des Eisenwerks.</p>
               <p>Siehe Organisation: <ref target="../names/gfa-actors-7794">The Butterley Company</ref>.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Location of an ironworks.</p>
+              <p>See organisation: <ref target="../names/gfa-actors-7794">The Butterley Company</ref>.</p>
+            </note>
           </place>
           <place type="R" xml:id="gfa-places-2216">
             <placeName type="main" xml:lang="de">Badische Hauptbahn</placeName>
             <placeName type="full" xml:lang="de">Badische Hauptbahn</placeName>
             <placeName type="sort" xml:lang="de">badische hauptbahn</placeName>
+            <placeName type="main" xml:lang="en">Badische Hauptbahn</placeName>
+            <placeName type="full" xml:lang="en">Badische Hauptbahn</placeName>
+            <placeName type="sort" xml:lang="en">badische hauptbahn</placeName>
             <location>
               <geo>48.273319850787 7.7895431968524</geo>
               <country xml:lang="de">Deutschland</country>
@@ -36492,11 +37354,18 @@
               <p>Zwischen 1840 und 1863 angelegte Eisenbahnstrecke des <ref target="gfa-places-1899">Grossherzogtums Baden</ref>, von <ref target="gfa-places-1098">Mannheim</ref> über <ref target="gfa-places-10">Basel</ref> bis <ref target="gfa-places-455">Konstanz</ref>.</p>
               <p>Der Streckenabschnitt von Mannheim bis Basel entstand von 1840 bis 1855. Der Streckenabschnitt von Basel über Schaffhausen nach Konstanz (<ref target="gfa-places-2185">Hochrheinbahn</ref>) entstand von 1855 bis 1863.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Railway line of the <ref target="gfa-places-1899">Grand Duchy of Baden</ref> connecting <ref target="gfa-places-1098">Mannheim</ref> to <ref target="gfa-places-10">Basel</ref> and <ref target="gfa-places-455">Konstanz</ref>, built between 1840 and 1863.</p>
+              <p>The Mannheim to Basel section was built between 1840 and 1855 and the Basel to Schaffhausen and Konstanz section (<ref target="gfa-places-2185">Hochrheinbahn</ref>) between 1855 and 1863.</p>
+            </note>
           </place>
           <place type="U" xml:id="gfa-places-2217">
             <placeName type="main" xml:lang="de">Dundrum Bay</placeName>
             <placeName type="full" xml:lang="de">Dundrum Bay</placeName>
             <placeName type="sort" xml:lang="de">dundrum bay</placeName>
+            <placeName type="main" xml:lang="en">Dundrum Bay</placeName>
+            <placeName type="full" xml:lang="en">Dundrum Bay</placeName>
+            <placeName type="sort" xml:lang="en">dundrum bay</placeName>
             <location>
               <geo>54.23333 -5.75</geo>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
@@ -36520,14 +37389,21 @@
             <note type="description" xml:lang="de">
               <p>Bucht in Nordirland, in der die Great Britain auf Grund lief.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>A bay in Northern Ireland where the Great Britain ran aground.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2218">
             <placeName type="main" xml:lang="de">August Winz’ Wohnsitz</placeName>
             <placeName type="full" xml:lang="de">August Winz’ Wohnsitz / London</placeName>
             <placeName type="sort" xml:lang="de">august winz’ wohnsitz</placeName>
+            <placeName type="main" xml:lang="en">August Winz’s residence</placeName>
+            <placeName type="full" xml:lang="en">August Winz’s residence / London</placeName>
+            <placeName type="sort" xml:lang="en">august winz’s residence</placeName>
             <location>
               <geo>51.528061238594 -0.11718974574526</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36535,14 +37411,21 @@
             <note type="description" xml:lang="de">
               <p>Wohnadresse von <ref target="../names/gfa-actors-7968">August Winz</ref> und der Familie seiner Ehefrau <ref target="../names/gfa-actors-8306">Margaretha Georgina Fillis</ref> in London.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>London address of <ref target="../names/gfa-actors-7968">August Winz</ref> and the family of his wife <ref target="../names/gfa-actors-8306">Margaretha Georgina Fillis</ref>.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2219">
             <placeName type="main" xml:lang="de">Patentbüro Poole</placeName>
             <placeName type="full" xml:lang="de">Patentbüro Poole / London</placeName>
             <placeName type="sort" xml:lang="de">patentbuero poole</placeName>
+            <placeName type="main" xml:lang="en">Patent Office Poole</placeName>
+            <placeName type="full" xml:lang="en">Patent Office Poole / London</placeName>
+            <placeName type="sort" xml:lang="en">patent office poole</placeName>
             <location>
               <geo>51.516735821384 -0.11337209168625</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36555,14 +37438,21 @@
             <note type="description" xml:lang="de">
               <p>Patentanwaltsbüro von <ref target="../names/gfa-actors-7520">Moses Poole</ref> und seiner Firma Poole &amp; Carpmael.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Patent office of <ref target="../names/gfa-actors-7520">Moses Poole</ref> of Poole &amp; Carpmael.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2220">
             <placeName type="main" xml:lang="de">Geschäftssitz der Familie Gott</placeName>
             <placeName type="full" xml:lang="de">Geschäftssitz der Familie Gott / Leeds</placeName>
             <placeName type="sort" xml:lang="de">geschaeftssitz der familie gott</placeName>
+            <placeName type="main" xml:lang="en">Business premises of the Gott Family</placeName>
+            <placeName type="full" xml:lang="en">Business premises of the Gott Family / Leeds</placeName>
+            <placeName type="sort" xml:lang="en">business premises of the gott family</placeName>
             <location>
               <geo>53.799562407783 -1.5461120307863</geo>
               <settlement xml:lang="de">Leeds</settlement>
+              <settlement xml:lang="en">Leeds</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36575,14 +37465,21 @@
             <note type="description" xml:lang="de">
               <p>Geschäftsadresse der <ref target="../names/gfa-actors-8090">Familie Gott</ref> in Leeds in den 1840er-Jahren.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Business premises of the <ref target="../names/gfa-actors-8090">Gott Family</ref> in Leeds in the 1840s.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2221">
             <placeName type="main" xml:lang="de">London Bridge Station</placeName>
             <placeName type="full" xml:lang="de">London Bridge Station / London</placeName>
             <placeName type="sort" xml:lang="de">london bridge station</placeName>
+            <placeName type="main" xml:lang="en">London Bridge Station</placeName>
+            <placeName type="full" xml:lang="en">London Bridge Station / London</placeName>
+            <placeName type="sort" xml:lang="en">london bridge station</placeName>
             <location>
               <geo>51.505 -0.086</geo>
               <settlement xml:lang="de">London</settlement>
+              <settlement xml:lang="en">London</settlement>
               <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
               <country xml:lang="en">United Kingdom</country>
             </location>
@@ -36615,6 +37512,10 @@
             <note type="description" xml:lang="de">
               <p>Ältester Londoner Bahnhof.</p>
               <p>Ab 1836 ist der Bahnhof der Endbahnhof der in den Süden und Südosten verlaufenden Bahnlinien <ref target="gfa-places-2186">South Eastern Main Line</ref> sowie der <ref target="gfa-places-2188">Brighton Main Line</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>London’s oldest railway station.</p>
+              <p>The station was the terminus of both the <ref target="gfa-places-2186">South Eastern Main Line</ref> and the <ref target="gfa-places-2188">Brighton Main Line</ref> from 1836 onwards.</p>
             </note>
           </place>
           <place type="T" xml:id="gfa-places-2222">
@@ -36724,9 +37625,13 @@
             <placeName type="main" xml:lang="de">Thierssche Stadtbefestigung</placeName>
             <placeName type="full" xml:lang="de">Thierssche Stadtbefestigung / Paris</placeName>
             <placeName type="sort" xml:lang="de">thierssche stadtbefestigung</placeName>
+            <placeName type="main" xml:lang="en">Thiers City Wall</placeName>
+            <placeName type="full" xml:lang="en">Thiers City Wall / Paris</placeName>
+            <placeName type="sort" xml:lang="en">thiers city wall</placeName>
             <location>
               <geo>48.944166671344 2.3569658540322</geo>
               <settlement xml:lang="de">Paris</settlement>
+              <settlement xml:lang="en">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -36744,6 +37649,9 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Befestigungsring um Paris, errichtet unter <ref target="../names/gfa-actors-7478">Louis Philippe</ref> von 1840 bis 1844.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Fortifications around Paris erected under <ref target="../names/gfa-actors-7478">Louis Philippe</ref> from 1840 to 1844.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-2226">
@@ -36797,9 +37705,13 @@
             <placeName type="main" xml:lang="de">Geschäft Eisenhardt</placeName>
             <placeName type="full" xml:lang="de">Geschäft Eisenhardt / Mannheim</placeName>
             <placeName type="sort" xml:lang="de">geschaeft eisenhardt</placeName>
+            <placeName type="main" xml:lang="en">Eisenhardt Forwarders</placeName>
+            <placeName type="full" xml:lang="en">Eisenhardt Forwarders / Mannheim</placeName>
+            <placeName type="sort" xml:lang="en">eisenhardt forwarders</placeName>
             <location>
               <geo>49.488666700793 8.4660119868662</geo>
               <settlement xml:lang="de">Mannheim</settlement>
+              <settlement xml:lang="en">Mannheim</settlement>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -36808,14 +37720,22 @@
               <p>Geschäftsadresse des Mannheimer Spediteurs Eisenhardt.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>Business address of the Mannheim-based forwarders Eisenhardt.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
+            </note>
           </place>
           <place type="S" xml:id="gfa-places-2228">
             <placeName type="main" xml:lang="de">Ship Hotel</placeName>
             <placeName type="full" xml:lang="de">Ship Hotel / Ostende</placeName>
             <placeName type="sort" xml:lang="de">ship hotel</placeName>
+            <placeName type="main" xml:lang="en">Ship Hotel</placeName>
+            <placeName type="full" xml:lang="en">Ship Hotel / Ostend</placeName>
+            <placeName type="sort" xml:lang="en">ship hotel</placeName>
             <location>
               <geo>51.232511995396 2.9179902135313</geo>
               <settlement xml:lang="de">Ostende</settlement>
+              <settlement xml:lang="en">Ostend</settlement>
               <country xml:lang="de">Belgien</country>
               <country xml:lang="en">Belgium</country>
             </location>
@@ -36825,11 +37745,19 @@
               <p>Johann Conrad Fischer übernachtete am 17. Oktober 1846 in diesem Hotel.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
             </note>
+            <note type="description" xml:lang="en">
+              <p>An inn in <ref target="gfa-places-1625">Ostend</ref>.</p>
+              <p>Johann Conrad Fischer spent the night of 17 October 1846 at this hotel.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
+            </note>
           </place>
           <place type="A" xml:id="gfa-places-2229">
             <placeName type="main" xml:lang="de">Appenzell Ausserrhoden (Kanton)</placeName>
             <placeName type="full" xml:lang="de">Appenzell Ausserrhoden (Kanton) (AR)</placeName>
             <placeName type="sort" xml:lang="de">appenzell ausserrhoden (kanton)</placeName>
+            <placeName type="main" xml:lang="en">Appenzell Ausserrhoden (Canton)</placeName>
+            <placeName type="full" xml:lang="en">Appenzell Ausserrhoden (Canton) (AR)</placeName>
+            <placeName type="sort" xml:lang="en">appenzell ausserrhoden (canton)</placeName>
             <location>
               <geo>47.36293 9.28283</geo>
               <country xml:lang="de">Schweiz</country>
@@ -36870,9 +37798,13 @@
             <placeName type="main" xml:lang="de">Hôtel du Havre</placeName>
             <placeName type="full" xml:lang="de">Hôtel du Havre / Paris</placeName>
             <placeName type="sort" xml:lang="de">hôtel du havre</placeName>
+            <placeName type="main" xml:lang="en">Hôtel du Havre</placeName>
+            <placeName type="full" xml:lang="en">Hôtel du Havre / Paris</placeName>
+            <placeName type="sort" xml:lang="en">hôtel du havre</placeName>
             <location>
               <geo>48.865541484538 2.3428207153439</geo>
               <settlement xml:lang="de">Paris</settlement>
+              <settlement xml:lang="en">Paris</settlement>
               <country xml:lang="de">Frankreich</country>
               <country xml:lang="en">France</country>
             </location>
@@ -36881,6 +37813,11 @@
               <p>Hotel in Paris in der Rue des Vieux Augustins.</p>
               <p>Johann Conrad Fischer übernachtete im Juli 1845 dort.</p>
               <p>Hinweis zur Karte: Die Koordinaten des Standorts sind nicht bekannt. Für die Lokalisierung wurden sie aus dem Kontext abgeleitet.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Hotel in Paris on the rue des Vieux Augustins.</p>
+              <p>Johann Conrad Fischer spent the night there in July 1845.</p>
+              <p>Note on map: The exact coordinates are not known. The location shown here is based on contextual clues alone.</p>
             </note>
           </place>
           <place type="A" xml:id="gfa-places-2231">
@@ -37012,6 +37949,10 @@
             <placeName type="full" xml:lang="de">Königsdorfer Tunnel</placeName>
             <placeName type="sort" xml:lang="de">koenigsdorfer tunnel</placeName>
             <placeName type="alternative" xml:lang="de">Horremer Tunnel</placeName>
+            <placeName type="main" xml:lang="en">Königsdorfer Tunnel</placeName>
+            <placeName type="full" xml:lang="en">Königsdorfer Tunnel</placeName>
+            <placeName type="sort" xml:lang="en">koenigsdorfer tunnel</placeName>
+            <placeName type="alternative" xml:lang="en">Horremer Tunnel</placeName>
             <location>
               <geo>50.93325 6.762194</geo>
               <country xml:lang="de">Deutschland</country>
@@ -37036,6 +37977,9 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Von 1841 bis 1954 an der Stammstrecke der Rheinischen Eisenbahn-Gesellschaft gelegener 1623 Meter langer Eisenbahntunnel zwischen Königsdorf und Horrem.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>Between 1841 and 1954 a 1623-m-long railway tunnel on the main line of the Rheinische Eisenbahn-Gesellschaft between Königsdorf and Horrem.</p>
             </note>
           </place>
           
@@ -37110,7 +38054,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-12-05T17:04:00+01:00">teiHeader was automatically produced from the database 2023-12-05T17:04:00+01:00</change>
+      <change when="2023-12-08T20:01:06+01:00">teiHeader was automatically produced from the database 2023-12-08T20:01:06+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
