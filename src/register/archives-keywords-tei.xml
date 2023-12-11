@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-12-08 20:01:06 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-11 18:37:20 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2023-12-08T20:01:06+01:00">teiHeader was automatically produced from the database 2023-12-08T20:01:06+01:00</change>
+      <change when="2023-12-11T18:37:20+01:00">teiHeader was automatically produced from the database 2023-12-11T18:37:20+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -562,7 +562,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134054"/>
               <title xml:lang="de">Streik der Arbeiter in Bizkaia (Gemälde von Vicente Cutanda Toraya, 1892)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Workers’ strike in Biscay (painting by Vicente Cutanda Toraya, 1892)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_288-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_288-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_288-0001" type="thumb"/>
@@ -1443,7 +1443,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134055"/>
               <title xml:lang="de">Feuersbrunst auf dem Dampfschiff Lexington im Long Island Sound am 13. Januar 1840 (kolorierte Lithografie von Nathaniel Currier, um 1840)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Conflagration on the steamship Lexington in Long Island Sound on 13 January 1840 (coloured lithograph by Nathaniel Currier, c. 1840)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_289-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_289-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_289-0001" type="thumb"/>
@@ -1580,11 +1580,11 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134056"/>
-              <title xml:lang="de">Barocksaal der Stiftsbibliothek St. Gallen, von 1758–1767 erbaut (Fotografie von Elena Ternovaja, 2023)</title>
-              <title xml:lang="en"/>
-              <ptr target="https://archives.georgfischer.com/media/gfd_3_290-0001" type="original"/>
-              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_290-0001" type="web"/>
-              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_290-0001" type="thumb"/>
+              <title xml:lang="de">Das Ernst-Müller-Zimmer in der Eisenbibliothek (Fotografie von Nik Hunger, 2023)</title>
+              <title xml:lang="en">The Ernst Müller room in the Iron Library (photograph by Nik Hunger, 2023)</title>
+              <ptr target="https://archives.georgfischer.com/media/gfd_3_290-0002" type="original"/>
+              <ptr target="https://archives.georgfischer.com/media/web/gfd_3_290-0002" type="web"/>
+              <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_290-0002" type="thumb"/>
             </bibl>
           </listBibl>
         </item>
@@ -2564,7 +2564,7 @@
           <label xml:lang="en" type="sort">powerhouse</label>
           <note type="description" xml:lang="en">
             <p>A building in which the operating machines of an industrial plant are installed.</p>
-            <p>An powerhouse is also the name given to the building used to house <ref target="https://archives.georgfischer.com/keywords/2522">locomotives</ref>.</p>
+            <p>A powerhouse is also the name given to the building used to house <ref target="https://archives.georgfischer.com/keywords/2522">locomotives</ref>.</p>
             <p>Also called an engine house.</p>
           </note>
           <note type="sources">
@@ -4910,7 +4910,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134018"/>
               <title xml:lang="de">Titelblatt des Inventars von Polhems mechanischem Alphabet, publiziert von Jonas Norberg im Jahr 1779</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page of the inventory of Polhem’s Mechanical Alphabet, published by Jonas Norberg in 1779</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_287-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_287-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_287-0001" type="thumb"/>
@@ -5767,7 +5767,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133965"/>
               <title xml:lang="de">Deutschsprachige Kalligraphie des Beginns des Buches Jesus Sirach von 1654</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">German calligraphy of the beginning of the Book of Jesus Sirach from 1654</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_267-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_267-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_267-0001" type="thumb"/>
@@ -6046,7 +6046,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133967"/>
               <title xml:lang="de">Titelblatt von «Vier und zwanzig Bücher allgemeiner Geschichten besonders der europäischen Menschheit» von Johannes von Müller, 1831</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page of “Vier und zwanzig Bücher allgemeiner Geschichten besonders der europäischen Menschheit” by Johannes von Müller, 1831</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_268-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_268-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_268-0001" type="thumb"/>
@@ -6172,8 +6172,8 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134060"/>
-              <title xml:lang="de">Die Kapitulation von Ulm 1805 (Gemälde von Charles Thévenin, 1806–1815)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="de">Die Kapitulation von Ulm im Jahr 1805 (Gemälde von Charles Thévenin, ca. 1806–1815)</title>
+              <title xml:lang="en">The capitulation of Ulm in 1805 (painting by Charles Thévenin, c. 1806–1815)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_291-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_291-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_291-0001" type="thumb"/>
@@ -7366,6 +7366,7 @@
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>The Morning Chronicle, London, 26.06.1851 (<ref target="https://www.britishnewspaperarchive.co.uk/viewer/BL/0000082/18510626/001/0001">British Newspaper Archive</ref>, Stand 11.12.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -7378,7 +7379,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133969"/>
               <title xml:lang="de">Frontseite der Londoner Zeitung «The Morning Chronicle» vom 26. Juni 1851</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Front page of the London newspaper “The Morning Chronicle” of 26 June 1851</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_269-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_269-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_269-0001" type="thumb"/>
@@ -7403,6 +7404,7 @@
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>Punch, or the London Charivari, Volume 18, 1850 (<ref target="https://doi.org/10.11588/diglit.16605#0153">Universitätsbibliothek Heidelberg</ref>, Stand 11.12.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -8270,7 +8272,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133973"/>
               <title xml:lang="de">Titelblatt von «Theophron oder der erfahrne Rathgeber für die unerfahrne Jugend» von Joachim Heinrich Campe, 1828</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page of “Theophron oder der erfahrne Rathgeber für die unerfahrne Jugend” by Joachim Heinrich Campe, 1828</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_270-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_270-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_270-0001" type="thumb"/>
@@ -8291,6 +8293,11 @@
           <note type="description" xml:lang="en">
             <p>A book of the Old Testament, also known as the Song of Solomon.</p>
             <p>A collection of love songs with erotic elements, which describes the searching and finding, the longing and mutual praise of two lovers. Together with <ref target="gfa-keywords-8421">Jesus Sirach</ref> and six other books, it constitutes the Wisdom Literature either found in the Hebrew Bible or considered apocryphal.</p>
+          </note>
+          <note type="sources">
+            <listBibl>
+              <bibl>Bancroft, Richard (Hg.): The Holy Bible, conteyning the Old Testament, and the New / newly translated out of the originall tongues, : &amp; with the former translations diligently compared and reuised, by his Maiesties speciall co[m]mandement : appointed to be read in churches. London 1611 (<ref target="https://colenda.library.upenn.edu/catalog/81431-p3rv0df45">Colenda Digital Repository</ref>, Stand 11.12.2023).</bibl>
+            </listBibl>
           </note>
           <listBibl>
             <bibl>
@@ -8320,7 +8327,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134068"/>
               <title xml:lang="de">Erste Seite des Hohelied Salomos aus der King-James-Bibel, 1611</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">First page of the Song of Solomon from the King James Bible, 1611</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_299-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_299-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_299-0001" type="thumb"/>
@@ -8738,6 +8745,7 @@
           </note>
           <note type="sources">
             <listBibl>
+              <bibl>Chesterfield, Philip Dormer Stanhope, Earl of: Lord Chesterfield’s letters to his son and godson, New York : Maynard, Merrill, &amp; Co., ca. 1897 (<ref target="https://lccn.loc.gov/11034601">Library of Congress</ref>, Stand 11.12.2023).</bibl>
               <bibl>Philip Stanhope, 4. Earl of Chesterfield. In: Wikipedia (<ref target="https://de.wikipedia.org/wiki/Philip_Stanhope,_4._Earl_of_Chesterfield">Wikipedia</ref>, Stand 7.2.2023).</bibl>
               <bibl>Stanhope, Philip (Earl of Chesterfield): Letters to His Son on the Fine Art of Becoming a Man of the World and a Gentleman. 1774. In: Projekt Gutenberg (<ref target="https://www.gutenberg.org/files/3361/3361-h/3361-h.htm">Projekt Gutenberg</ref>, Stand 22.3.2023).</bibl>
             </listBibl>
@@ -8749,7 +8757,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134069"/>
               <title xml:lang="de">Titelblatt einer Ausgabe von ausgewählten Briefen Lord Chesterfields an seinen Sohn, ca. 1897</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page of an edition of selected letters from Lord Chesterfield to his son, c. 1897</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_300-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_300-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_300-0001" type="thumb"/>
@@ -9387,7 +9395,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134077"/>
               <title xml:lang="de">Titelblatt von «Shakespeare’s Jest Book», 1814</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page of “Shakespeare’s Jest Book”, 1814</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_301-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_301-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_301-0001" type="thumb"/>
@@ -10677,14 +10685,14 @@
           <label xml:lang="de" type="sort">flint</label>
           <note type="description" xml:lang="de">
             <p>Feuerstein oder Silex, Kieselgestein aus Siliciumdioxid.</p>
-            <p><ref target="../names/gfa-actors-7566">Wedgwood</ref> bezog Feuerstein für die Porzellanproduktion aus den Kalkgruben in North Kent bei <ref target="https://archives.georgfischer.com/places/1640">Gravesend</ref>.</p>
+            <p><ref target="../names/gfa-actors-7566">Wedgwood</ref> bezog Feuerstein für die Porzellanproduktion aus den Kalkgruben in North Kent bei <ref target="../places/gfa-places-1640">Gravesend</ref>.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">flint</label>
           <label xml:lang="en" type="sort">flint</label>
           <note type="description" xml:lang="en">
             <p>Also known as flintstone, a form of quartz, silicon dioxide.</p>
-            <p><ref target="../names/gfa-actors-7566">Wedgwood</ref> sourced flint for porcelain production from the North Kent limestone quarries at <ref target="https://archives.georgfischer.com/places/1640">Gravesend</ref>.</p>
+            <p><ref target="../names/gfa-actors-7566">Wedgwood</ref> sourced flint for porcelain production from the North Kent limestone quarries at <ref target="../places/gfa-places-1640">Gravesend</ref>.</p>
           </note>
           <listBibl>
             <bibl>
@@ -11082,13 +11090,13 @@
           <label xml:lang="de" type="main">Schwedisch-Britischer Krieg</label>
           <label xml:lang="de" type="sort">schwedisch-britischer krieg</label>
           <note type="description" xml:lang="de">
-            <p>Durch <ref target="https://archives.georgfischer.com/places/48">Frankreich</ref> erzwungener Krieg zwischen Grossbritannien und <ref target="https://archives.georgfischer.com/places/133">Schweden</ref> zwischen 1810 und 1812.</p>
+            <p>Durch <ref target="../places/gfa-places-48">Frankreich</ref> erzwungener Krieg zwischen Grossbritannien und <ref target="../places/gfa-places-133">Schweden</ref> zwischen 1810 und 1812.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Anglo-Swedish War</label>
           <label xml:lang="en" type="sort">anglo-swedish war</label>
           <note type="description" xml:lang="en">
-            <p>A war between Britain and Sweden from 1810 to 1812, which was forced upon <ref target="https://archives.georgfischer.com/places/133">Sweden</ref> by <ref target="https://archives.georgfischer.com/places/48">France</ref>.</p>
+            <p>A war between Britain and Sweden from 1810 to 1812, which was forced upon <ref target="../places/gfa-places-133">Sweden</ref> by <ref target="../places/gfa-places-48">France</ref>.</p>
           </note>
           <listBibl>
             <bibl>
@@ -11355,7 +11363,7 @@
           <label xml:lang="de" type="sort">description de la chine et de la tartarie chinoise von du halde</label>
           <note type="description" xml:lang="de">
             <p>Vom französischen Jesuiten Jean-Baptiste Du Halde veröffentlichtes Werk zur Beschreibung von China und Zentralasien.</p>
-            <p>Das Werk gründete auf Beschreibungen und Briefen von jesuitischen Missionaren im Kaiserreich und etablierte sich für das 18. Jahrhundert als europäisches Standardwerk zu <ref target="https://archives.georgfischer.com/places/29">China</ref>.</p>
+            <p>Das Werk gründete auf Beschreibungen und Briefen von jesuitischen Missionaren im Kaiserreich und etablierte sich für das 18. Jahrhundert als europäisches Standardwerk zu <ref target="../places/gfa-places-29">China</ref>.</p>
             <p>Du Halde, Jean-Baptiste: Description géographique, historique, chronologique, politique et physique de l’empire de la Chine et de la Tartarie chinoise. P.G. Lemercier, Paris 1735.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
@@ -11363,7 +11371,7 @@
           <label xml:lang="en" type="sort">description de la chine et de la tartarie chinoise by du halde</label>
           <note type="description" xml:lang="en">
             <p>Vom französischen Jesuiten Jean-Baptiste Du Halde veröffentlichtes Werk zur Beschreibung von China und Zentralasien.</p>
-            <p>Das Werk gründete auf Beschreibungen und Briefen von jesuitischen Missionaren im Kaiserreich und etablierte sich für das 18. Jahrhundert als europäisches Standardwerk zu <ref target="https://archives.georgfischer.com/places/29">China</ref>.</p>
+            <p>Das Werk gründete auf Beschreibungen und Briefen von jesuitischen Missionaren im Kaiserreich und etablierte sich für das 18. Jahrhundert als europäisches Standardwerk zu <ref target="../places/gfa-places-29">China</ref>.</p>
             <p>Du Halde, Jean-Baptiste: Description géographique, historique, chronologique, politique et physique de l’empire de la Chine et de la Tartarie chinoise. P.G. Lemercier, Paris 1735.</p>
           </note>
           <listBibl>
@@ -11554,13 +11562,13 @@
           <label xml:lang="de" type="main">Ludditenaufstände</label>
           <label xml:lang="de" type="sort">ludditenaufstaende</label>
           <note type="description" xml:lang="de">
-            <p>Von <ref target="https://archives.georgfischer.com/places/1807">Nottingham</ref> ausgehender Aufstand der englischen Textilarbeiter zwischen 1811 und 1813 gegen die aufkommenden Textilmaschinen.</p>
+            <p>Von <ref target="../places/gfa-places-1807">Nottingham</ref> ausgehender Aufstand der englischen Textilarbeiter zwischen 1811 und 1813 gegen die aufkommenden Textilmaschinen.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Luddite movement</label>
           <label xml:lang="en" type="sort">luddite movement</label>
           <note type="description" xml:lang="en">
-            <p>A movement of English textile workers starting in <ref target="https://archives.georgfischer.com/places/1807">Nottingham</ref> between 1811 and 1813 which violently opposed the spread of textile machinery.</p>
+            <p>A movement of English textile workers starting in <ref target="../places/gfa-places-1807">Nottingham</ref> between 1811 and 1813 which violently opposed the spread of textile machinery.</p>
           </note>
           <listBibl>
             <bibl>
@@ -11586,7 +11594,7 @@
           <label xml:lang="de" type="sort">kattundruck</label>
           <note type="description" xml:lang="de">
             <p>Verfahren zum Drucken von Mustern auf weissem Baumwollgewebe (Kattun).</p>
-            <p>Das Produkt war nach seinem Ursprungsgebiet in <ref target="https://archives.georgfischer.com/places/67">Indien</ref> als Kaliko oder Indienne bekannt. In England wurde der Kattundruck mit Walzen ab 1785 angewandt. Dabei gravierte man das Muster statt auf Platten auf Kupferwalzen. Der <ref target="gfa-keywords-8822">Baumwollstoff</ref> lief durch die Walzen, wodurch mehr Baumwollstoff in derselben Zeit bedruckt werden konnte als mit einer Kupferplatte.</p>
+            <p>Das Produkt war nach seinem Ursprungsgebiet in <ref target="../places/gfa-places-67">Indien</ref> als Kaliko oder Indienne bekannt. In England wurde der Kattundruck mit Walzen ab 1785 angewandt. Dabei gravierte man das Muster statt auf Platten auf Kupferwalzen. Der <ref target="gfa-keywords-8822">Baumwollstoff</ref> lief durch die Walzen, wodurch mehr Baumwollstoff in derselben Zeit bedruckt werden konnte als mit einer Kupferplatte.</p>
             <p>Auch Cattundruck genannt.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
@@ -11594,7 +11602,7 @@
           <label xml:lang="en" type="sort">calico printing</label>
           <note type="description" xml:lang="en">
             <p>A process for printing patterns on white cotton fabrics.</p>
-            <p>The name calico or indienne derived from the place of origin in <ref target="https://archives.georgfischer.com/places/67">India</ref>. English manufacturers began printing calico with rollers in 1785. The pattern was engraved on copper rollers rather than plates. The <ref target="gfa-keywords-8822">cotton fabric</ref> passed through the rollers, allowing the printing of more cotton in the same time than was possible with a copper plate.</p>
+            <p>The name calico or indienne derived from the place of origin in <ref target="../places/gfa-places-67">India</ref>. English manufacturers began printing calico with rollers in 1785. The pattern was engraved on copper rollers rather than plates. The <ref target="gfa-keywords-8822">cotton fabric</ref> passed through the rollers, allowing the printing of more cotton in the same time than was possible with a copper plate.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -11644,7 +11652,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133976"/>
               <title xml:lang="de">Titelblatt des fünften Bandes der «Canterbury Tales» von Harriet Lee, 1805</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page of the fifth volume of the “Canterbury Tales” by Harriet Lee, 1805</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_271-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_271-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_271-0001" type="thumb"/>
@@ -11706,14 +11714,14 @@
           <label xml:lang="de" type="sort">manchester/fustian</label>
           <note type="description" xml:lang="de">
             <p>Kordgewebe aus Baumwolle.</p>
-            <p>Typisches Gewebe aus <ref target="https://archives.georgfischer.com/places/471">Manchester</ref>, bei dem die Schussfäden aufgeschnitten werden, damit sie einen samtähnlichen Flor bilden.</p>
+            <p>Typisches Gewebe aus <ref target="../places/gfa-places-471">Manchester</ref>, bei dem die Schussfäden aufgeschnitten werden, damit sie einen samtähnlichen Flor bilden.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">manchester fustian</label>
           <label xml:lang="en" type="sort">manchester fustian</label>
           <note type="description" xml:lang="en">
             <p>A corduroy fabric woven from cotton.</p>
-            <p>Typically, this fabric came from <ref target="https://archives.georgfischer.com/places/471">Manchester</ref>. The weft threads were cut in order to create a velvet-like pile.</p>
+            <p>Typically, this fabric came from <ref target="../places/gfa-places-471">Manchester</ref>. The weft threads were cut in order to create a velvet-like pile.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -11900,7 +11908,7 @@
           <label xml:lang="de" type="sort">salamanca (lokomotive)</label>
           <note type="description" xml:lang="de">
             <p>Erste kommerziell erfolgreiche Dampflokomotive und erste Zahnradlokomotive.</p>
-            <p>Die Salamanca wurde durch John Blenkinsop entwickelt und 1812 durch <ref target="../names/gfa-actors-7700">Matthew Murray</ref> gebaut. Sie befuhr die Eisenbahnstrecke Middleton (West Yorkshire) und <ref target="https://archives.georgfischer.com/places/1760">Leeds</ref>.</p>
+            <p>Die Salamanca wurde durch John Blenkinsop entwickelt und 1812 durch <ref target="../names/gfa-actors-7700">Matthew Murray</ref> gebaut. Sie befuhr die Eisenbahnstrecke Middleton (West Yorkshire) und <ref target="../places/gfa-places-1760">Leeds</ref>.</p>
             <p>Johann Conrad Fischer fuhr am 3. September 1814 auf ihr (oder der Schwesterlokomotive Prince Regent) in Leeds ein.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
@@ -11908,7 +11916,7 @@
           <label xml:lang="en" type="sort">salamanca</label>
           <note type="description" xml:lang="en">
             <p>The first commercially successful steam locomotive and the first cog wheel locomotive.</p>
-            <p>The Salamanca was developed by John Blenkinsop and constructed by <ref target="../names/gfa-actors-7700">Matthew Murray</ref> in 1812. It travelled the railway line between Middleton (West Yorkshire) and <ref target="https://archives.georgfischer.com/places/1760">Leeds</ref>.</p>
+            <p>The Salamanca was developed by John Blenkinsop and constructed by <ref target="../names/gfa-actors-7700">Matthew Murray</ref> in 1812. It travelled the railway line between Middleton (West Yorkshire) and <ref target="../places/gfa-places-1760">Leeds</ref>.</p>
             <p>Johann Conrad Fischer travelled to Leeds on the Salamanca (or its sister locomotive Prince Regent) on 3 September 1814.</p>
           </note>
           <note type="sources">
@@ -11958,7 +11966,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133977"/>
               <title xml:lang="de">Bericht über Johann Conrad Fischers Stahlproduktion im «Helvetischen Almanach» für das Jahr 1811</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Report on Johann Conrad Fischer’s steel production in the “Helvetischer Almanach” for the year 1811</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_272-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_272-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_272-0001" type="thumb"/>
@@ -12322,8 +12330,8 @@
           <label xml:lang="en" type="main">town gas</label>
           <label xml:lang="en" type="sort">town gas</label>
           <note type="description" xml:lang="en">
-            <p>Gas used in the 19th century for lighting and obtained through <ref target="gfa-keywords-8549">coal gasification</ref> , the main component being hydrogen.</p>
-            <p>Also known as coal or illuminating gas.</p>
+            <p>Gas used in the 19th century for lighting. It was obtained through <ref target="gfa-keywords-8549">coal gasification</ref>, the main component being hydrogen.</p>
+            <p>Also known as coal gas or illuminating gas.</p>
           </note>
           <listBibl>
             <bibl>
@@ -12752,7 +12760,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133994"/>
               <title xml:lang="de">Ansicht einer Gussform für ein Geschützrohr aus Darteins «Traité pour la fabrication des bouches à feu», 1805</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">View of a mould for a gun barrel from Dartein’s “Traité pour la fabrication des bouches à feu”, 1805</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_274-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_274-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_274-0001" type="thumb"/>
@@ -13563,14 +13571,14 @@
           <label xml:lang="de" type="main">Ägyptenfeldzug</label>
           <label xml:lang="de" type="sort">aegyptenfeldzug</label>
           <note type="description" xml:lang="de">
-            <p>Militärische Expedition Napoleons nach <ref target="https://archives.georgfischer.com/places/3">Ägypten</ref> zwischen 1798 und 1801.</p>
+            <p>Militärische Expedition Napoleons nach <ref target="../places/gfa-places-3">Ägypten</ref> zwischen 1798 und 1801.</p>
             <p>Der Feldzug war begleitet von einer Expertengruppe, der «Commission des sciences et des arts», deren Wirken Erhebliches zur Erforschung Ägyptens und der ausgelösten Begeisterung über das Land im 19. Jahrhundert beitrug.</p>
           </note>
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Egyptian Campaign</label>
           <label xml:lang="en" type="sort">egyptian campaign</label>
           <note type="description" xml:lang="en">
-            <p>Napoleon’s military expedition to <ref target="https://archives.georgfischer.com/places/3">Egypt</ref> between 1798 and 1801.</p>
+            <p>Napoleon’s military expedition to <ref target="../places/gfa-places-3">Egypt</ref> between 1798 and 1801.</p>
             <p>The military expedition was accompanied by a large group of experts, the Commission des sciences et des arts, whose work contributed significantly to the study of Egypt and triggered enthusiasm about the country in the 19th century.</p>
           </note>
           <listBibl>
@@ -13592,7 +13600,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134110"/>
               <title xml:lang="de">Bonaparte vor der Sphinx (Gemälde von Jean-Léon Gérôme, 1886)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Bonaparte in front of the Sphinx (Painting by Jean-Léon Gérôme, 1886)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_307-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_307-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_307-0001" type="thumb"/>
@@ -14224,8 +14232,8 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134061"/>
-              <title xml:lang="de">Siegeserklärung nach der Schlacht bei Leipzig 1813 (Gemälde von Johann Peter Krafft, 1839)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="de">Siegeserklärung nach der Schlacht bei Leipzig im Jahr 1813 (Gemälde von Johann Peter Krafft, 1839)</title>
+              <title xml:lang="en">Declaration of victory after the Battle of Leipzig in 1813 (painting by Johann Peter Krafft, 1839)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_292-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_292-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_292-0001" type="thumb"/>
@@ -14240,8 +14248,8 @@
             <p>Eine Tragödie von <ref target="../names/gfa-actors-7950">William Shakespeare</ref>.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
-          <label xml:lang="en" type="main">«Macbeth» by Shakespeare</label>
-          <label xml:lang="en" type="sort">«macbeth» by shakespeare</label>
+          <label xml:lang="en" type="main">“Macbeth” by Shakespeare</label>
+          <label xml:lang="en" type="sort">“macbeth” by shakespeare</label>
           <note type="description" xml:lang="en">
             <p>A Tragedy by <ref target="../names/gfa-actors-7950">William Shakespeare</ref>.</p>
           </note>
@@ -14807,7 +14815,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134062"/>
               <title xml:lang="de">Neys Kavalleriesturm in der Schlacht von Waterloo 1815 (Panoramagemälde von Louis Dumoulin, 1912)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Ney’s cavalry charge at the Battle of Waterloo in 1815 (panoramic painting by Louis Dumoulin, 1912)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_293-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_293-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_293-0001" type="thumb"/>
@@ -15153,7 +15161,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134063"/>
               <title xml:lang="de">Die Erstürmung Rangoons im ersten Anglo-Birmanischen Krieg (Druck von Henry Pyall nach Lt Joseph Moore, 1825)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">The Storming of Rangoon in the First Anglo-Burmese War (print by Henry Pyall after Lt Joseph Moore, 1825)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_294-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_294-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_294-0001" type="thumb"/>
@@ -16584,6 +16592,8 @@
             <p>Ein kreisförmig geschlossenes Freilichttheater.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">amphitheatre</label>
+          <label xml:lang="en" type="sort">amphitheatre</label>
           <note type="description" xml:lang="en">
             <p>A circular open-air theatre.</p>
           </note>
@@ -16624,6 +16634,8 @@
             <p>Ursprünglich in Amerika heimische Obstpflanze.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">pineapple</label>
+          <label xml:lang="en" type="sort">pineapple</label>
           <note type="description" xml:lang="en">
             <p>A fruiting plant originally native to South America.</p>
           </note>
@@ -17311,8 +17323,8 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134082"/>
-              <title xml:lang="de">Diverse Etiketten von Apothekengläsern mit Bärenfett, um 1800–1850</title>
-              <title xml:lang="en"/>
+              <title xml:lang="de">Diverse Etiketten von Apothekergläsern mit Bärenfett, um 1800–1850</title>
+              <title xml:lang="en">Various labels from apothecary jars with bear fat, around 1800–1850</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_304-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_304-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_304-0001" type="thumb"/>
@@ -17336,6 +17348,7 @@
           </note>
           <note type="sources">
             <listBibl>
+              <bibl>Arndt, Johann und Klemm, Johann Christian: Biblia, Das ist: Die ganze Heilige Schrift Alten und Neuen Testaments / Durch Martin Luther in das Deutsche übersetzt, Und jetzo mit des seligen Mannes schönen Vorreden, jeden Capitels lehrreichen Summarien, nöthigen Parallel-Stellen, beygefügten vielen Erklärungen und Gebetern auf das neue versehen ..., Schafhausen 1770 (<ref target="https://swb2.bsz-bw.de/DB=2.364/PPNSET?PPN=1332209343&amp;PRS=HOL&amp;HILN=888&amp;INDEXSET=21">Eisenbibliothek</ref>, Stand 11.12.2023).</bibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
             </listBibl>
           </note>
@@ -17370,7 +17383,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134017"/>
               <title xml:lang="de">Frontispiz einer Schaffhauser Ausgabe der lutherschen Bibelübersetzung mit Szenen aus dem Alten Testament, 1777</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Frontispiece of a Schaffhausen edition of Luther’s translation of the Bible with scenes from the Old Testament, 1777</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_286-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_286-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_286-0001" type="thumb"/>
@@ -17885,7 +17898,6 @@
             </bibl>
           </listBibl>
         </item>
-        
         <item xml:id="gfa-keywords-8851">
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Bohnerz</label>
@@ -18833,8 +18845,8 @@
         </item>
         <item xml:id="gfa-keywords-8889">
           <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
-          <label xml:lang="de" type="main">Nocken</label>
-          <label xml:lang="de" type="sort">nocken</label>
+          <label xml:lang="de" type="main">Nocke</label>
+          <label xml:lang="de" type="sort">nocke</label>
           <note type="description" xml:lang="de">
             <p>Hervorstehendes Element an einer <ref target="gfa-keywords-8644">Welle</ref>, auch Wellbaum oder Wendelbaum genannt.</p>
             <p>Auch Daumen genannt.</p>
@@ -18870,15 +18882,20 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Braunkohle</label>
           <label xml:lang="de" type="sort">braunkohle</label>
+          <note type="description" xml:lang="de">
+            <p>Braune bis pechschwarze <ref target="gfa-keywords-2570">Kohlenmasse</ref> mit 30-70 Prozent <ref target="gfa-keywords-9227">Kohlenstoffanteil</ref>, die während des Tertiär abgelagert wurde.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">brown coal</label>
           <label xml:lang="en" type="sort">brown coal</label>
           <note type="description" xml:lang="en">
+            <p>Brown to pitch-black <ref target="gfa-keywords-2570">coal</ref> mass with 30-70 percent <ref target="gfa-keywords-9227">carbon</ref> content, which was deposited during the Tertiary period.</p>
             <p>Also called lignite.</p>
           </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>Brockhaus’ Kleines Konversations-Lexikon, fünfte Auflage, Band 1. Leipzig 1911, S. 259 (<ref target="http://www.zeno.org/nid/20000979961">Zeno.org</ref>, Stand 11.12.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -18902,7 +18919,6 @@
             </bibl>
           </listBibl>
         </item>
-        
         <item xml:id="gfa-keywords-8892">
           <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Feilenfabrik</label>
@@ -19511,8 +19527,8 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134083"/>
-              <title xml:lang="de">Cicero, barfuss und in Toga gekleidet, spricht zur Menschenmenge (Radierung mit Kupferstich, um 1692–1727)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="de">Cicero, barfuss und in Toga gekleidet, spricht zur Menschenmenge (Kupferstichradierung, um 1692–1727)</title>
+              <title xml:lang="en">Cicero, barefoot and dressed in a toga, addresses the crowd (engraving, c. 1692–1727)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_305-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_305-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_305-0001" type="thumb"/>
@@ -19823,7 +19839,7 @@
           <label xml:lang="de" type="main">Daguerreotypie</label>
           <label xml:lang="de" type="sort">daguerreotypie</label>
           <note type="description" xml:lang="de">
-            <p>Erstes kommerziell erfolgreiches fotografisches Verfahren, welches 1839 von <ref target="../names/gfa-actors-7806">Louis Jacques Mandé Daguerre</ref> erfunden wurde.</p>
+            <p>Erstes kommerziell erfolgreiches fotografisches Verfahren, das 1839 von <ref target="../names/gfa-actors-7806">Louis Jacques Mandé Daguerre</ref> erfunden wurde.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">Daguerrotype</label>
@@ -19858,7 +19874,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134113"/>
               <title xml:lang="de">Boulevard du Temple (Daguerreotypie von Louis Daguerre, 1838)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Boulevard du Temple (daguerreotype by Louis Daguerre, 1838)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_310-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_310-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_310-0001" type="thumb"/>
@@ -19965,7 +19981,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134064"/>
               <title xml:lang="de">Gurneys Dampfkutsche (Druck von Henry Pyall nach G Morton, ca. 1828)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Gurney’s steam coach (print by Henry Pyall after G Morton, c. 1828)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_295-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_295-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_295-0001" type="thumb"/>
@@ -20630,7 +20646,7 @@
           <label xml:lang="de" type="main">Drummondsches Licht</label>
           <label xml:lang="de" type="sort">drummondsches licht</label>
           <note type="description" xml:lang="de">
-            <p>Licht aus weiss glühendem <ref target="gfa-keywords-9198">Calciumoxid</ref>, welches von <ref target="../names/gfa-actors-7822">Thomas Drummond</ref> erfunden wurde.</p>
+            <p>Licht aus weiss glühendem <ref target="gfa-keywords-9198">Calciumoxid</ref>, das von <ref target="../names/gfa-actors-7822">Thomas Drummond</ref> erfunden wurde.</p>
             <p>Auch Drummond’sches Licht oder Kalklicht genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
@@ -21536,12 +21552,19 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Feilenschmiede</label>
           <label xml:lang="de" type="sort">feilenschmiede</label>
+          <note type="description" xml:lang="de">
+            <p><ref target="gfa-keywords-9439">Schmiede</ref>, in der <ref target="gfa-keywords-8656">Feilen</ref> hergestellt werden.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">file smithy</label>
           <label xml:lang="en" type="sort">file smithy</label>
+          <note type="description" xml:lang="en">
+            <p><ref target="gfa-keywords-9439">Smithy</ref> where <ref target="gfa-keywords-8656">files</ref> are made.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>Feile. In: Meyers Großes Konversations-Lexikon, Band 6. Leipzig 1906, S. 383 (<ref target="http://www.zeno.org/nid/2000659588X">Zeno.org</ref>, Stand 11.12.2023).</bibl>
             </listBibl>
           </note>
         </item>
@@ -22459,7 +22482,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134005"/>
               <title xml:lang="de">«Chemical Apparatus» aus Ures «Dictionary of Chemistry», 1821</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">“Chemical Apparatus” from Ure’s “Dictionary of Chemistry”, 1821</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_275-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_275-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_275-0001" type="thumb"/>
@@ -22609,7 +22632,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134007"/>
               <title xml:lang="de">Illustration zu Fieldings’ «The History of the Adventures of Joseph Andrews», 1792</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Illustration for Fieldings’ “The History of the Adventures of Joseph Andrews”, 1792</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_276-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_276-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_276-0001" type="thumb"/>
@@ -22645,7 +22668,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134114"/>
               <title xml:lang="de">Banknotenpresse von Bramah (Druck von Mutlow und Russell nach J. Farey, 1812)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Bramah banknote press (printed by Mutlow and Russell after J. Farey, 1812)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_311-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_311-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_311-0001" type="thumb"/>
@@ -24275,7 +24298,6 @@
             </bibl>
           </listBibl>
         </item>
-        
         <item xml:id="gfa-keywords-9169">
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Handelspolitik</label>
@@ -24702,7 +24724,7 @@
           <label xml:lang="de" type="sort">infusorien</label>
           <note type="description" xml:lang="de">
             <p>Kleine, sich im Aufguss von pflanzlichem Material entwickelnde Tierchen.</p>
-            <p>Auch Aufgusstierchen genannt.</p>
+            <p>Auch infusorische Räderthiere oder Aufgusstierchen genannt.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">infusoria</label>
@@ -25430,13 +25452,13 @@
           <label xml:lang="de" type="main">Köhlerei</label>
           <label xml:lang="de" type="sort">koehlerei</label>
           <note type="description" xml:lang="de">
-            <p>Handwerkliche Produktion von Holzkohle durch <ref target="gfa-keywords-8905">Holzverkohlung</ref> in Gruben und Meilern.</p>
+            <p>Handwerkliche Produktion von <ref target="gfa-keywords-8697">Holzkohle</ref> durch <ref target="gfa-keywords-8905">Holzverkohlung</ref> in Gruben und Meilern.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">charcoal-burning</label>
           <label xml:lang="en" type="sort">charcoal-burning</label>
           <note type="description" xml:lang="en">
-            <p>Small-scale production of charcoal by <ref target="gfa-keywords-8905">carbonising</ref> wood in pits and wood piles.</p>
+            <p>Small-scale production of <ref target="gfa-keywords-8697">charcoal</ref> by <ref target="gfa-keywords-8905">carbonising</ref> wood in pits and wood piles.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -25797,12 +25819,19 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Konzession</label>
           <label xml:lang="de" type="sort">konzession</label>
+          <note type="description" xml:lang="de">
+            <p>Bewilligung, ein Gewerbe zu betreiben oder Bauten zu erstellen, die von der zuständigen Obrigkeit erteilt wird.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">concession</label>
           <label xml:lang="en" type="sort">concession</label>
+          <note type="description" xml:lang="en">
+            <p>Permission to operate a business or construct buildings granted by the competent authorities.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>Concession. In: Pierer’s Universal-Lexikon, Band 4. Altenburg 1854, S. 326 (<ref target="http://www.zeno.org/nid/20009709614">Zeno.org</ref>, Stand 08.12.2023).</bibl>
             </listBibl>
           </note>
           <listBibl>
@@ -27852,9 +27881,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Physiker</label>
           <label xml:lang="de" type="sort">physiker</label>
+          <note type="description" xml:lang="de">
+            <p>Person, die <ref target="gfa-keywords-3048">Physik</ref> studiert hat oder lehrt, oder die Forschung im Gebiet der Physik betreibt.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">physicist</label>
           <label xml:lang="en" type="sort">physicist</label>
+          <note type="description" xml:lang="en">
+            <p>Person who has studied, teaches or does research into <ref target="gfa-keywords-3048">physics</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -29862,7 +29897,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133980"/>
               <title xml:lang="de">Frauen beim Spinnen mit Handspindeln (Gemälde von François-Joseph Navez, 1845)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Women spinning with hand spindles (painting by François-Joseph Navez, 1845)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_273-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_273-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_273-0001" type="thumb"/>
@@ -30242,12 +30277,20 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Rotbrüchiger Stahl</label>
           <label xml:lang="de" type="sort">rotbruechiger stahl</label>
+          <note type="description" xml:lang="de">
+            <p>Als rotbrüchig bezeichnet man einen <ref target="gfa-keywords-613">Stahl</ref>, der sich bei Rotglut (700 bis 900 °C) nicht mehr warmverformen lässt.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">red-short steel</label>
           <label xml:lang="en" type="sort">red-short steel</label>
+          <note type="description" xml:lang="en">
+            <p>A <ref target="gfa-keywords-613">steel</ref> that can no longer be worked at red heat (700 to 900 °C) is called red-short.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+              <bibl>Nehl, Franz: Die Rotbrüchigkeit kupferhaltiger Stähle und ihre Vermeidung. In: Stahl und Eisen, Heft 30 (1933), S. 779.</bibl>
+              <bibl>Rotbruch. In: Lueger, Otto: Lexikon der gesamten Technik und ihrer Hilfswissenschaften, Bd. 7. Stuttgart, Leipzig 1909., S. 513 (<ref target="http://www.zeno.org/nid/20006115519">Zeno.org</ref>, Stand 08.12.2023).</bibl>
             </listBibl>
           </note>
         </item>
@@ -30389,9 +30432,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Stahlwaren</label>
           <label xml:lang="de" type="sort">stahlwaren</label>
+          <note type="description" xml:lang="de">
+            <p>Waren, die aus <ref target="gfa-keywords-613">Stahl</ref> gefertigt sind.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">steel wares</label>
           <label xml:lang="en" type="sort">steel wares</label>
+          <note type="description" xml:lang="en">
+            <p>Goods made of <ref target="gfa-keywords-613">steel</ref>.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30903,9 +30952,15 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Taucher</label>
           <label xml:lang="de" type="sort">taucher</label>
+          <note type="description" xml:lang="de">
+            <p>Person, die sich unter Wasser fortbewegt mittels des eigenen Körpers oder technischer Hilfsmittel.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">diver</label>
           <label xml:lang="en" type="sort">diver</label>
+          <note type="description" xml:lang="en">
+            <p>A person who moves underwater using their own body or technical aids.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -30964,8 +31019,8 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134111"/>
-              <title xml:lang="de">Taucher in Helmtaucherausrüstung (Illustration, 1873)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="de">Taucher in Helmtaucherausrüstung (Illustration aus The Illustrated London News, 1873)</title>
+              <title xml:lang="en">Diver in helmet diving gear (illustration from The Illustrated London News, 1873)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_308-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_308-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_308-0001" type="thumb"/>
@@ -31930,9 +31985,17 @@
           <objectType xml:lang="de">anderes/diverses</objectType>
           <label xml:lang="de" type="main">Weltverbesserer</label>
           <label xml:lang="de" type="sort">weltverbesserer</label>
+          <note type="description" xml:lang="de">
+            <p>Person, welche die Welt durch ihre Handlungen zu verbessern versucht; ein Philanthrop.</p>
+            <p>Wird oft mit abwertendem Unterton verwendet. Kann in Bezug auf Politiker mit wohlmeinenden Absichten oder weitreichenden Plänen verwendet werden.</p>
+          </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
-          <label xml:lang="en" type="main">philanthropist</label>
-          <label xml:lang="en" type="sort">philanthropist</label>
+          <label xml:lang="en" type="main">do-gooder</label>
+          <label xml:lang="en" type="sort">do-gooder</label>
+          <note type="description" xml:lang="en">
+            <p>A person who tries to improve the world with their actions; a philanthropist.</p>
+            <p>Often used implying a pejorative undertone. Can be used with reference to politicians with well-meaning intentions or far-reaching plans.</p>
+          </note>
           <note type="sources">
             <listBibl>
               <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
@@ -32631,7 +32694,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134008"/>
               <title xml:lang="de">Bericht über einen Vortrag Johann Conrad Fischers im «London Journal for Arts and Sciences», 1823</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Report on a lecture by Johann Conrad Fischer in the “London Journal for Arts and Sciences”, 1823</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_277-0002" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_277-0002" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_277-0002" type="thumb"/>
@@ -32909,7 +32972,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134009"/>
               <title xml:lang="de">Frontseite der «Times» vom 4. Dezember 1788</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Front page of “The Times” from 4 December 1788</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_278-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_278-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_278-0001" type="thumb"/>
@@ -32940,7 +33003,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134010"/>
               <title xml:lang="de">Frontseite von «Galignani’s Messenger» vom 27. April 1815</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Front page of “Galignani’s Messenger” from 27 April 1815</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_279-0002" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_279-0002" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_279-0002" type="thumb"/>
@@ -32975,7 +33038,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/133961"/>
               <title xml:lang="de">Titelblatt von «Blumauer’s travestirte Aeneide» aus dem Jahr 1827</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page of “Blumauer’s travestirte Aeneide” from the year 1827</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_266-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_266-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_266-0001" type="thumb"/>
@@ -33160,8 +33223,8 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134011"/>
-              <title xml:lang="de">«Mass of tusks, teeth and bones» aus Bucklands «Reliquiæ Diluvianæ», 1823</title>
-              <title xml:lang="en"/>
+              <title xml:lang="de">«Mass of tusks, teeth and bones» aus Bucklands «Reliquiae Diluvianae», 1823</title>
+              <title xml:lang="en">“Mass of tusks, teeth and bones” in Buckland’s “Reliquiae Diluvianae”, 1823</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_280-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_280-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_280-0001" type="thumb"/>
@@ -33239,6 +33302,8 @@
             <p>Fischer bezeichnete seine Erfindung als <ref target="gfa-keywords-9707">Gegossenes Stabeisen</ref>. Damit war nicht das Giessen von <ref target="gfa-keywords-8509">Stabeisen</ref> gemeint, sondern der Formguss aus geschmolzenem Stabeisen.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
+          <label xml:lang="en" type="main">crucible steel casting</label>
+          <label xml:lang="en" type="sort">crucible steel casting</label>
           <note type="description" xml:lang="en">
             <p>Process for manufacturing workpieces by pouring molten steel into dies and then leaving it to cool.</p>
             <p>Johann Conrad Fischer began applying the method in 1845 and travelled to England to publicize it that same year.</p>
@@ -33289,7 +33354,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134084"/>
               <title xml:lang="de">Frontseite der Zeitschrift «La Diligence», Erstausgabe aus dem Jahr 1845</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Front page of the magazine “La Diligence”, first edition from 1845</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_306-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_306-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_306-0001" type="thumb"/>
@@ -33530,8 +33595,8 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134065"/>
-              <title xml:lang="de">Treffen bei Malters 1845 (Lithographie von C. Studer, 1845)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="de">Treffen bei Malters während des zweiten Freischarenzugs (Lithographie von Caspar Studer, um 1845)</title>
+              <title xml:lang="en">Meeting near Malters during the second march of the Free Guard (lithograph by Caspar Studer, c. 1845)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_296-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_296-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_296-0001" type="thumb"/>
@@ -33584,7 +33649,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134012"/>
               <title xml:lang="de">Titelblatt von Hermes’ «Sophiens Reise von Memel nach Sachsen», 1776</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page from Hermes’ “Sophiens Reise von Memel nach Sachsen”, 1776</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_281-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_281-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_281-0001" type="thumb"/>
@@ -33747,14 +33812,14 @@
           <label xml:lang="de" type="main">Heberöhrensystem</label>
           <label xml:lang="de" type="sort">heberoehrensystem</label>
           <note type="description" xml:lang="de">
-            <p>Eine von James Beaumont Neilson entwickelter <ref target="gfa-keywords-9712">Winderhitzer</ref> für <ref target="gfa-keywords-288">Hochöfen</ref>.</p>
+            <p>Eine von James Beaumont Neilson (1792–1865) entwickelter <ref target="gfa-keywords-9712">Winderhitzer</ref> für <ref target="gfa-keywords-288">Hochöfen</ref>.</p>
             <p>Auch Heberöhrenapparat oder Calder-Apparat (nach dem Hüttenwerk Calder) genannt.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">hot-blast process</label>
           <label xml:lang="en" type="sort">hot-blast process</label>
           <note type="description" xml:lang="en">
-            <p>A system for <ref target="gfa-keywords-9712">pre-heating</ref> the blast for <ref target="gfa-keywords-288">blast furnaces</ref> developed by James Beaumont Neilson.</p>
+            <p>A system for <ref target="gfa-keywords-9712">pre-heating</ref> the blast for <ref target="gfa-keywords-288">blast furnaces</ref> developed by James Beaumont Neilson (1792–1865).</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -33768,14 +33833,14 @@
           <label xml:lang="de" type="sort">winderhitzer</label>
           <note type="description" xml:lang="de">
             <p>Anlage zum Erhitzen des Gebläsewinds von <ref target="gfa-keywords-288">Hochöfen</ref>.</p>
-            <p>Diese Verbesserung der Hüttentechnik wurde erstmals in den 1820er-Jahren in England von James Beaumont Neilson entwickelt.</p>
+            <p>Diese Verbesserung der Hüttentechnik wurde erstmals in den 1820er-Jahren in England von James Beaumont Neilson (1792–1865) entwickelt.</p>
           </note>
           <objectType xml:lang="en">Method, Process, Technology</objectType>
           <label xml:lang="en" type="main">hot blast stove</label>
           <label xml:lang="en" type="sort">hot blast stove</label>
           <note type="description" xml:lang="en">
             <p>A stove for pre-heating the blast for <ref target="gfa-keywords-288">blast furnaces</ref>.</p>
-            <p>This major improvement in ironmaking was developed in Scotland by James Beaumont Neilson in the 1820s.</p>
+            <p>This major improvement in ironmaking was developed in Scotland by James Beaumont Neilson (1792–1865) in the 1820s.</p>
           </note>
           <listBibl>
             <bibl>
@@ -33933,13 +33998,35 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9724">
-          <objectType xml:lang="de">anderes/diverses</objectType>
-          <label xml:lang="de" type="main">Heustreumaschine</label>
-          <label xml:lang="de" type="sort">heustreumaschine</label>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <label xml:lang="de" type="main">Heuwender</label>
+          <label xml:lang="de" type="sort">heuwender</label>
           <note type="description" xml:lang="de">
-            <p>Maschine zur Streuung des Heus für die Wiesentrocknung.</p>
+            <p>Landwirtschaftliches Gerät, das in der Heuernte beim Streuen und Wenden des abgemähten Grases verwendet wird.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
+          <label xml:lang="en" type="main">hay tedder</label>
+          <label xml:lang="en" type="sort">hay tedder</label>
+          <note type="description" xml:lang="en">
+            <p>Agricultural tool used in the hay harvest for spreading and turning the mown grass.</p>
+          </note>
+          <note type="sources">
+            <listBibl>
+              <bibl>Heuerntemaschinen. In: Meyers Großes Konversations-Lexikon, Band 9. Leipzig 1907, S. 289–291 (<ref target="http://www.zeno.org/nid/20006770479">Zeno.org</ref>, Stand 11.12.2023).</bibl>
+              <bibl>Heuwender. In: Lueger, Otto: Lexikon der gesamten Technik und ihrer Hilfswissenschaften, Bd. 5 Stuttgart, Leipzig 1907, S. 58f (<ref target="http://www.zeno.org/nid/20006044123">Zeno.org</ref>. Stand 11.12.2023).</bibl>
+            </listBibl>
+          </note>
+          <listBibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1555797"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Heuwender"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Tedder_(machine)"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="gfa-keywords-9725">
           <objectType xml:lang="de">anderes/diverses</objectType>
@@ -34271,13 +34358,13 @@
           <label xml:lang="de" type="main">Orgel</label>
           <label xml:lang="de" type="sort">orgel</label>
           <note type="description" xml:lang="de">
-            <p>Aus Röhren bestehendes Blasinstrument.</p>
+            <p>Tasteninstrument, dessen Klang über eine Vielzahl von Pfeifen erzeugt wird.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
           <label xml:lang="en" type="main">organ</label>
           <label xml:lang="en" type="sort">organ</label>
           <note type="description" xml:lang="en">
-            <p>Musical instrument that works by blowing air through pipes.</p>
+            <p>A keyboard instrument whose sound is produced by a large number of pipes.</p>
           </note>
           <listBibl>
             <bibl>
@@ -34314,7 +34401,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134015"/>
               <title xml:lang="de">Karte und Bildlegende aus «Bradshaw’s Railway Companion» von 1841 mit dem Eisenbahnnetz in England und Wales</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Map and image legend from “Bradshaw’s Railway Companion” from 1841 with the trainline network in England and Wales</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_284-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_284-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_284-0001" type="thumb"/>
@@ -34333,7 +34420,7 @@
           <label xml:lang="en" type="main">crowbar</label>
           <label xml:lang="en" type="sort">crowbar</label>
           <note type="description" xml:lang="en">
-            <p>Tool for lifting heavy weights made from <ref target="gfa-keywords-9012">wrought iron</ref>.</p>
+            <p>Tool made from <ref target="gfa-keywords-9012">wrought iron</ref> which is used for lifting heavy weights.</p>
           </note>
           <listBibl>
             <bibl>
@@ -34557,7 +34644,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134066"/>
               <title xml:lang="de">Die Ruinen der aufgelösten St Mary’s Abbey, York (Gemälde von Michael Angelo Rooker, ca. 1778)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">The ruins of the abandoned St Mary’s Abbey, York (painting by Michael Angelo Rooker, c. 1778)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_297-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_297-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_297-0001" type="thumb"/>
@@ -34647,7 +34734,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134013"/>
               <title xml:lang="de">Titelblatt von Nicolais «Beschreibung der königlichen Residenzstädte Berlin und Potsdam», 1769</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page from Nicolai’s “Beschreibung der königlichen Residenzstädte Berlin und Potsdam”, 1769</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_282-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_282-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_282-0001" type="thumb"/>
@@ -34717,7 +34804,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134067"/>
               <title xml:lang="de">Drawing Room der Königin Victoria (Illustration nach Lucien Davis, 1897)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Queen Victoria’s Drawing Room (illustration after Lucien Davis, 1897)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_298-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_298-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_298-0001" type="thumb"/>
@@ -34795,8 +34882,8 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134081"/>
-              <title xml:lang="de">Schlacht von Zorndorf im Siebenjährigen Krieg (Gemälde von Alexander Kotzebue, 1852)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="de">Schlacht von Zorndorf am 14. August 1758 während des Siebenjährigen Kriegs (Gemälde von Alexander Kotzebue, 1852)</title>
+              <title xml:lang="en">Battle of Zorndorf on 14 August 1758 during the Seven Years’ War (painting by Alexander Kotzebue, 1852)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_303-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_303-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_303-0001" type="thumb"/>
@@ -35239,14 +35326,14 @@
           <label xml:lang="de" type="sort">juenteler votivbild von oening</label>
           <note type="description" xml:lang="de">
             <p>Gemälde aus der Frührenaissance, das die Kreuzigung Jesu Christi zeigt.</p>
-            <p>Es handelt sich um eine Ölharztempera-Arbeit auf Holz, die auch Jünteler Epitaph genannt wird. Der Name des Gemäldes ist auf seinen Stifter, Hans Oening, genannt Jünteler, zurückzuführen. Dieser soll das Bild 1449 dem <ref target="../places/gfa-places-1653">Kloster Rheinau</ref> gestiftet haben. Im Jahr 1857 gelangte es in den Besitz des Schaffhauser Zeichenlehrers <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref>. Kurz darauf kaufte der Historisch-Antiquarische Verein Schaffhausen die Passionstafel. 1918 ging sie mit der ganzen Sammlung des Vereins an das <ref target="../names/gfa-actors-1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
+            <p>Es handelt sich um eine Ölharztempera-Arbeit auf Holz, die auch Jünteler Epitaph genannt wird. Der Name des Gemäldes ist auf seinen Stifter, Hans Oening, genannt Jünteler, zurückzuführen. Dieser soll das Bild 1449 dem <ref target="../places/gfa-places-1653">Kloster Rheinau</ref> gestiftet haben. Im Jahr 1857 gelangte es in den Besitz des Schaffhauser Zeichenlehrers <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref>. Kurz darauf kaufte der Historisch-Antiquarische Verein Schaffhausen die Passionstafel. 1918 ging sie mit der ganzen Sammlung des Vereins an das <ref target="https://archives.georgfischer.com/actors/1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
           </note>
           <objectType xml:lang="en">Collection, Artwork</objectType>
           <label xml:lang="en" type="main">Jünteler Epitaph</label>
           <label xml:lang="en" type="sort">juenteler epitaph</label>
           <note type="description" xml:lang="en">
             <p>An early Renaissance painting showing the crucufixion.</p>
-            <p>It is an oil-resin tempera painting on wood, known as the Jünteler Epitaph or Votive Image.The name of the painting can be traced back to its donor, Hans Oening, who was known asJünteler. He is said to have donated the painting to <ref target="../places/gfa-places-1653">Rheinau Abbey</ref>. The painting came into the possession of the Schaffhausen drawing master <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref> in 1857 and was purchased shortly thereafter by the Historical Antiquarian Society of Schaffhausen. In 1918 it was transferred along with the Society’s entire collection to the <ref target="../names/gfa-actors-1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
+            <p>It is an oil-resin tempera painting on wood, known as the Jünteler Epitaph or Votive Image.The name of the painting can be traced back to its donor, Hans Oening, who was known asJünteler. He is said to have donated the painting to <ref target="../places/gfa-places-1653">Rheinau Abbey</ref>. The painting came into the possession of the Schaffhausen drawing master <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref> in 1857 and was purchased shortly thereafter by the Historical Antiquarian Society of Schaffhausen. In 1918 it was transferred along with the Society’s entire collection to the <ref target="https://archives.georgfischer.com/actors/1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -36243,7 +36330,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134078"/>
               <title xml:lang="de">Frontseite der «Hurterischen Zeitung», später «Allgemeiner Schweizerischer Korrespondent», vom 22. August 1767</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Front page of the “Hurterische Zeitung”, later the “Allgemeiner Schweizerischer Korrespondent”, dated 22 August 1767</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_302-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_302-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_302-0001" type="thumb"/>
@@ -36307,7 +36394,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134016"/>
               <title xml:lang="de">Seite mit Majuskel aus der Donaueschinger Nibelungenhandschrift aus der 1. Hälfte des 13. Jahrhunderts</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Page with majuscule from the Donaueschingen Nibelungen manuscript from the first half of the 13th century</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_285-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_285-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_285-0001" type="thumb"/>
@@ -36351,7 +36438,7 @@
           <label xml:lang="de" type="main">Chrysotypie</label>
           <label xml:lang="de" type="sort">chrysotypie</label>
           <note type="description" xml:lang="de">
-            <p>Von John Herschel im Jahr 1842 erfundenes fotografisches Verfahren.</p>
+            <p>Von John Herschel (1792–1871) im Jahr 1842 erfundenes fotografisches Verfahren.</p>
             <p>Bei der Chrysotypie wurde das <ref target="gfa-keywords-9808">Fotopapier</ref> mit Ammoniumeisencitrat beschichtet, und das Bild mit einer Goldchlorid-Lösung entwickelt.</p>
             <p>John Herschel war der Sohn von <ref target="../names/gfa-actors-7557">Wilhelm Herschel</ref>.</p>
           </note>
@@ -36359,7 +36446,7 @@
           <label xml:lang="en" type="main">Chrysotype</label>
           <label xml:lang="en" type="sort">chrysotype</label>
           <note type="description" xml:lang="en">
-            <p>A photographic method invented by John Herschel in 1842.</p>
+            <p>A photographic method invented by John Herschel (1792–1871) in 1842.</p>
             <p>Herschel’s method entailed coating <ref target="gfa-keywords-9808">photographic paper</ref> with ammonium ferric citrate and then developing it with a chloroaurate solution to obtain an image.</p>
             <p>John Herschel was the son of <ref target="../names/gfa-actors-7557">Wilhelm Herschel</ref>.</p>
           </note>
@@ -36383,7 +36470,7 @@
           <label xml:lang="de" type="main">Cyanotypie</label>
           <label xml:lang="de" type="sort">cyanotypie</label>
           <note type="description" xml:lang="de">
-            <p>Von John Herschel im Jahr 1842 erfundenes fotografisches Verfahren, bei dem das <ref target="gfa-keywords-9808">Fotopapier</ref> mit Ammoniumeisencitrat und gelbem Blutlaugensalz beschichtet wurde.</p>
+            <p>Von John Herschel (1792–1871) im Jahr 1842 erfundenes fotografisches Verfahren, bei dem das <ref target="gfa-keywords-9808">Fotopapier</ref> mit Ammoniumeisencitrat und gelbem Blutlaugensalz beschichtet wurde.</p>
             <p>Blaupausen beruhen auf diesem Verfahren.</p>
             <p>John Herschel war der Sohn von <ref target="../names/gfa-actors-7557">Wilhelm Herschel</ref>.</p>
           </note>
@@ -36391,7 +36478,7 @@
           <label xml:lang="en" type="main">Cyanotype</label>
           <label xml:lang="en" type="sort">cyanotype</label>
           <note type="description" xml:lang="en">
-            <p>A photographic method invented by John Herschel in 1842 that entailed coating <ref target="gfa-keywords-9808">photographic paper</ref> with ammonium ferric citrate and potassium ferricyanide.</p>
+            <p>A photographic method invented by John Herschel (1792–1871) in 1842 that entailed coating <ref target="gfa-keywords-9808">photographic paper</ref> with ammonium ferric citrate and potassium ferricyanide.</p>
             <p>This is how blueprints are produced.</p>
             <p>John Herschel was the son of <ref target="../names/gfa-actors-7557">Wilhelm Herschel</ref>.</p>
           </note>
@@ -36467,7 +36554,7 @@
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134014"/>
               <title xml:lang="de">Titelblatt von Jars’ «Metallurgischen Reisen», 1777</title>
-              <title xml:lang="en"/>
+              <title xml:lang="en">Title page from Jars’ “Metallurgische Reisen”, 1777</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_283-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_283-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_283-0001" type="thumb"/>
@@ -36485,10 +36572,12 @@
             <p>Svedenstjerna, Eric Thomas: Reise durch einen Theil von England und Schottland in den Jahren 1802 und 1803. Marburg, Cassel 1811. Signatur der Eisenbibliothek: <ref target="https://swb2.bsz-bw.de/DB=2.364/PPNSET?PPN=1112141480&amp;PRS=HOL&amp;HILN=888&amp;INDEXSET=21">EM/C 127</ref>.</p>
           </note>
           <objectType xml:lang="en">Book, manuscript, publication</objectType>
+          <label xml:lang="en" type="main">Travels of Svedenstierna</label>
+          <label xml:lang="en" type="sort">travels of svedenstierna</label>
           <note type="description" xml:lang="en">
             <p>Travelogues of the Swedish mineralogist <ref target="../names/gfa-actors-7955">Eric Thomas Svedenstierna</ref>.</p>
             <p>Eric Thomas Svedenstjerna, Resa, igenom en del af England och Skottland, åren 1802 och 1803, Stockholm 1804.</p>
-            <p>There is a German edition of this work in the Iron Library:</p>
+            <p>The Iron Library holds a German edition of this work:</p>
             <p>Eric Thomas Svedenstjerna, Reise durch einen Theil von England und Schottland in den Jahren 1802 und 1803, Marburg, Cassel 1811. Iron Library shelf number: <ref target="https://swb2.bsz-bw.de/DB=2.364/PPNSET?PPN=1112141480&amp;PRS=HOL&amp;HILN=888&amp;INDEXSET=21">EM/C 127</ref>.</p>
           </note>
           <listBibl>
@@ -36497,8 +36586,8 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134079"/>
-              <title xml:lang="de">Titelblatt der «Reise» von Svedenstjerna, 1811</title>
-              <title xml:lang="en"/>
+              <title xml:lang="de">Titelblatt des Reiseberichts von Svedenstjerna, 1811</title>
+              <title xml:lang="en">Title page of the German edition of the travelogue of Svedenstjerna, 1811</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_74-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_74-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_74-0001" type="thumb"/>
@@ -36511,14 +36600,14 @@
           <label xml:lang="de" type="sort">ss great britain</label>
           <note type="description" xml:lang="de">
             <p>Ehemaliges <ref target="gfa-keywords-8801">dampfbetriebenes Passagierschiff</ref>; erstes Schiff aus <ref target="gfa-keywords-613">Stahl</ref> mit Propellerantrieb, erbaut 1845.</p>
-            <p>Erbauer der SS Great Britain war <ref target="https://archives.georgfischer.com/actors/7772">Isambard Kingdom Brunel</ref>. Während seines Aufenthaltes in <ref target="../places/gfa-places-1745">Liverpool</ref> im Jahr 1846 besuchte Johann Conrad Fischer das Stahlwerk <ref target="../places/gfa-places-2203">Mersey Steel &amp; Iron Works</ref>, in dem der <ref target="gfa-keywords-8644">Wellbaum</ref> (Antriebs-/Propellerwelle) der SS Great Britain geschmiedet worden war.</p>
+            <p>Erbauer der SS Great Britain war <ref target="../names/gfa-actors-7772">Isambard Kingdom Brunel</ref>. Während seines Aufenthalts in <ref target="../places/gfa-places-1745">Liverpool</ref> im Jahr 1846 besuchte Johann Conrad Fischer das Stahlwerk <ref target="../places/gfa-places-2203">Mersey Steel &amp; Iron Works</ref>, in dem der <ref target="gfa-keywords-8644">Wellbaum</ref> (Antriebs-/Propellerwelle) der SS Great Britain geschmiedet worden war.</p>
           </note>
           <objectType xml:lang="en">Object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">SS Great Britain</label>
           <label xml:lang="en" type="sort">ss great britain</label>
           <note type="description" xml:lang="en">
             <p>Former passenger <ref target="gfa-keywords-8801">steamship</ref>; first ship to be made of <ref target="gfa-keywords-613">steel</ref> and driven by screw propulsion, built in 1845.</p>
-            <p>The SS Great Britain was designed by <ref target="https://archives.georgfischer.com/actors/7772">Isambard Kingdom Brunel</ref>. Johann Conrad Fischer visited the <ref target="../places/gfa-places-2203">Mersey Steel &amp; Iron Works</ref> that had forged the ship’s <ref target="gfa-keywords-8644">drive shaft</ref> during his stay in <ref target="../places/gfa-places-1745">Liverpool</ref> in 1846.</p>
+            <p>The SS Great Britain was designed by <ref target="../names/gfa-actors-7772">Isambard Kingdom Brunel</ref>. Johann Conrad Fischer visited the <ref target="../places/gfa-places-2203">Mersey Steel &amp; Iron Works</ref> that had forged the ship’s <ref target="gfa-keywords-8644">drive shaft</ref> during his stay in <ref target="../places/gfa-places-1745">Liverpool</ref> in 1846.</p>
           </note>
           <listBibl>
             <bibl>
@@ -36704,8 +36793,8 @@
             </bibl>
             <bibl type="image">
               <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134112"/>
-              <title xml:lang="de">Armstrongs Hydroelektrische Maschine (Illustration, ca. 1886)</title>
-              <title xml:lang="en"/>
+              <title xml:lang="de">Armstrongs Hydroelektrische Maschine (Illustration in Meyers Konversationslexikon, um 1886)</title>
+              <title xml:lang="en">Armstrong’s hydroelectric machine (illustration in Meyers Konversationslexikon, c. 1886)</title>
               <ptr target="https://archives.georgfischer.com/media/gfd_3_309-0001" type="original"/>
               <ptr target="https://archives.georgfischer.com/media/web/gfd_3_309-0001" type="web"/>
               <ptr target="https://archives.georgfischer.com/media/thumb/gfd_3_309-0001" type="thumb"/>
@@ -36813,6 +36902,8 @@
             <p>Beim <ref target="gfa-keywords-2759">Schmieden</ref> von heissem <ref target="gfa-keywords-8672">Eisen</ref> splittert der Glühspan ab.</p>
           </note>
           <objectType xml:lang="en">other/miscellaneous</objectType>
+          <label xml:lang="en" type="main">mill scale</label>
+          <label xml:lang="en" type="sort">mill scale</label>
           <note type="description" xml:lang="en">
             <p>Thin crust of black iron oxide that forms on <ref target="gfa-keywords-3040">annealed</ref> iron.</p>
             <p>It splinters off the hot <ref target="gfa-keywords-8672">iron</ref> during <ref target="gfa-keywords-2759">forging</ref>.</p>
@@ -38095,7 +38186,7 @@
           </note>
           <note type="sources">
             <listBibl>
-              <bibl>Julie L. Mellby: The Caudle History: A Droll Game. 2011. (<ref target="https://www.princeton.edu/~graphicarts/2011/11/the_caudle_history.html">Princeton University Library</ref>, Stand 14.8.2023).</bibl>
+              <bibl>Julie L. Mellby: The Caudle History: A Droll Game. Veröffentlicht 2011 im Blog «Graphic Arts» der Princeton University Library (<ref target="https://www.princeton.edu/~graphicarts/2011/11/the_caudle_history.html">Princeton University Library</ref>, Stand 14.8.2023).</bibl>
             </listBibl>
           </note>
         </item>

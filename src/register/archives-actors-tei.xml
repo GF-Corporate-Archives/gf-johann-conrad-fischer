@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-12-08 20:00:51 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-11 18:37:04 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -502,7 +502,7 @@
             <note type="description" xml:lang="en">
               <p>British optician and pioneer of telescope making.</p>
               <p>John Dollond founded a workshop in which he was engaged in the manufacture of optical and astronomical instruments. From 1752, he worked with his son <ref target="gfa-actors-7545">Peter Dollond</ref> on improving dioptric telescopes to reduce their chromatic aberration (the disruptive colour fringes). Inspired by the investigations of the Swedish physicist and mathematician Samuel Klingestierna (1698-1765) on the refraction of light, Dollond discovered the unequal refraction of coloured light rays in glass prisms of different refractive power. He concluded from this that achromatic lenses could show colour-pure images. Although Chester Moor Hall (1703-1771) had already come to this conclusion and invented the achromatic lens, Dollond was the first optician to commercially exploit the invention of the <ref target="../keywords/gfa-keywords-8431">achromatic telescope</ref>. In 1758 he was therefore awarded the Copley Medal by the <ref target="gfa-actors-7699">Royal Society</ref> and in the same year he received a patent for 14 years for the manufacture of achromatic lenses.</p>
-              <p>Johann Conrad Fischer visited the shop of <ref target="gfa-actors-7545">Peter Dollond</ref>, John Dollond's son, in London in 1814.</p>
+              <p>Johann Conrad Fischer visited the shop of <ref target="gfa-actors-7545">Peter Dollond</ref>, John Dollond’s son, in London in 1814.</p>
             </note>
             <listBibl>
               <bibl>
@@ -1796,14 +1796,14 @@
           
           
           <person xml:id="gfa-actors-3099">
-            <persName type="full" xml:lang="de">Alexander I. (1777–1825)</persName>
-            <persName type="main" xml:lang="de">Alexander I.</persName>
-            <persName type="sort" xml:lang="de">alexander i.</persName>
+            <persName type="full" xml:lang="de">Alexander I. (Russland) (1777–1825)</persName>
+            <persName type="main" xml:lang="de">Alexander I. (Russland)</persName>
+            <persName type="sort" xml:lang="de">alexander i. (russland)</persName>
             <persName type="alternative" xml:lang="de">Alexander I. Pawlowitsch Romanow</persName>
             <persName type="alternative" xml:lang="de">Zar Alexander</persName>
-            <persName type="full" xml:lang="en">Alexander I. (1777–1825)</persName>
-            <persName type="main" xml:lang="en">Alexander I.</persName>
-            <persName type="sort" xml:lang="en">alexander i.</persName>
+            <persName type="full" xml:lang="en">Alexander I (Russia) (1777–1825)</persName>
+            <persName type="main" xml:lang="en">Alexander I (Russia)</persName>
+            <persName type="sort" xml:lang="en">alexander i (russia)</persName>
             <persName type="alternative" xml:lang="en">Alexander I Pavlovitsch Romanov, Tsar Alexander</persName>
             <birth when="1777-12-23"/>
             <death when="1825-12-01"/>
@@ -2145,6 +2145,7 @@
           
           
           
+          
           <person xml:id="gfa-actors-5937">
             <persName type="full" xml:lang="de">Johann von Österreich (1782–1859)</persName>
             <persName type="main" xml:lang="de">Johann von Österreich</persName>
@@ -2157,11 +2158,11 @@
             <birth when="1782-01-20"/>
             <death when="1859-05-11"/>
             <note type="description" xml:lang="de">
-              <p>Erzherzog Johann von Österreich war ein Mitglied des Hauses Habsburg und der Bruder von Kaiser Franz I.</p>
+              <p>Erzherzog Johann von Österreich war ein Mitglied des Hauses Habsburg und der Bruder von <ref target="gfa-actors-7381">Kaiser Franz I</ref>.</p>
               <p>Im Herzogtum Steiermark war er durch ein halbes Jahrhundert Förderer und Modernisierer von Industrie, Landwirtschaft und Eisenbahnwesen sowie im Kultur- und Bildungsbereich.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>Archduke John of Austria was a member of the House of Habsburg and the brother of Emperor Francis I.</p>
+              <p>Archduke John of Austria was a member of the House of Habsburg and the brother of Emperor <ref target="gfa-actors-7381">Francis I</ref>.</p>
               <p>Throughout half a century, he promoted and modernised industry, agriculture and the railways, as well as culture and education, in the Duchy of Styria.</p>
             </note>
             <listBibl>
@@ -2786,10 +2787,10 @@
             <persName type="alternative" xml:lang="de">Franz I. von Österreich</persName>
             <persName type="alternative" xml:lang="de">Franz II./I.</persName>
             <persName type="alternative" xml:lang="de">Franz II. von Habsburg</persName>
-            <persName type="full" xml:lang="en">Francis II. (HRR) (1768–1835)</persName>
-            <persName type="main" xml:lang="en">Francis II. (HRR)</persName>
-            <persName type="sort" xml:lang="en">francis ii. (hrr)</persName>
-            <persName type="alternative" xml:lang="en">Franz Joseph Karl :: Emperor Francis I. of Austria :: Francis II./I. :: Francis II. of Habsburg</persName>
+            <persName type="full" xml:lang="en">Francis II (HRR) (1768–1835)</persName>
+            <persName type="main" xml:lang="en">Francis II (HRR)</persName>
+            <persName type="sort" xml:lang="en">francis ii (hrr)</persName>
+            <persName type="alternative" xml:lang="en">Franz Joseph Karl :: Emperor Francis I of Austria :: Francis II/I :: Francis II of Habsburg</persName>
             <birth when="1768-02-12"/>
             <death when="1835-03-02"/>
             <note type="description" xml:lang="de">
@@ -3163,9 +3164,9 @@
             <persName type="full" xml:lang="de">Friedrich V. (Dänemark und Norwegen) (1723–1766)</persName>
             <persName type="main" xml:lang="de">Friedrich V. (Dänemark und Norwegen)</persName>
             <persName type="sort" xml:lang="de">friedrich v. (daenemark und norwegen)</persName>
-            <persName type="full" xml:lang="en">Frederick V. (Denmark and Norway)  (1723–1766)</persName>
-            <persName type="main" xml:lang="en">Frederick V. (Denmark and Norway)</persName>
-            <persName type="sort" xml:lang="en">frederick v. (denmark and norway)</persName>
+            <persName type="full" xml:lang="en">Frederick V (Denmark and Norway)  (1723–1766)</persName>
+            <persName type="main" xml:lang="en">Frederick V (Denmark and Norway)</persName>
+            <persName type="sort" xml:lang="en">frederick v (denmark and norway)</persName>
             <birth when="1723-03-31"/>
             <death when="1766-01-14"/>
             <note type="description" xml:lang="de">
@@ -3556,7 +3557,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>An English princess and queen of Denmark from 1766 to 1772.</p>
-              <p>Caroline Matilda, from the house of Hanover, was the wife of the Danish king <ref target="gfa-actors-7399">Christian VII.</ref> She was forcibly divorced and banned in 1772 because of her affair with <ref target="gfa-actors-7393">Johann Friedrich Struensee</ref>. During his journeyman travels, Johann Conrad Fischer visited  <ref target="../places/gfa-places-1500">Kronborg Castle</ref>, where the Queen had been imprisoned until the end of the trial.</p>
+              <p>Caroline Matilda, from the house of Hanover, was the wife of the Danish king <ref target="gfa-actors-7399">Christian VII</ref> She was forcibly divorced and banned in 1772 because of her affair with <ref target="gfa-actors-7393">Johann Friedrich Struensee</ref>. During his journeyman travels, Johann Conrad Fischer visited  <ref target="../places/gfa-places-1500">Kronborg Castle</ref>, where the Queen had been imprisoned until the end of the trial.</p>
             </note>
             <listBibl>
               <bibl>
@@ -3608,9 +3609,9 @@
             <persName type="full" xml:lang="de">Christian VII. (Dänemark und Norwegen) (1749–1808)</persName>
             <persName type="main" xml:lang="de">Christian VII. (Dänemark und Norwegen)</persName>
             <persName type="sort" xml:lang="de">christian vii. (daenemark und norwegen)</persName>
-            <persName type="full" xml:lang="en">Christian VII. (Denmark and Norway)  (1749–1808)</persName>
-            <persName type="main" xml:lang="en">Christian VII. (Denmark and Norway)</persName>
-            <persName type="sort" xml:lang="en">christian vii. (denmark and norway)</persName>
+            <persName type="full" xml:lang="en">Christian VII (Denmark and Norway)  (1749–1808)</persName>
+            <persName type="main" xml:lang="en">Christian VII (Denmark and Norway)</persName>
+            <persName type="sort" xml:lang="en">christian vii (denmark and norway)</persName>
             <birth when="1749-01-29"/>
             <death when="1808-03-13"/>
             <note type="description" xml:lang="de">
@@ -3745,7 +3746,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>Swedish royal sculptor and draughtsman.</p>
-              <p>Johan Tobias Sergel was a pupil of the sculptor <ref target="gfa-actors-7403">Pierre Hubert L’Archevêque</ref> in Paris. Sergel designed the <ref target="../keywords/gfa-keywords-8396">statue of King Gustav III.</ref> and the accompanying <ref target="../keywords/gfa-keywords-8420">plaster cast model</ref>, which Johann Conrad Fischer had seen and admired on his journey through Scandinavia.</p>
+              <p>Johan Tobias Sergel was a pupil of the sculptor <ref target="gfa-actors-7403">Pierre Hubert L’Archevêque</ref> in Paris. Sergel designed the <ref target="../keywords/gfa-keywords-8396">statue of King Gustav III</ref> and the accompanying <ref target="../keywords/gfa-keywords-8420">plaster cast model</ref>, which Johann Conrad Fischer had seen and admired on his journey through Scandinavia.</p>
             </note>
             <listBibl>
               <bibl>
@@ -3817,7 +3818,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>French sculptor, as of 1755 the first Royal Sculptor of Sweden.</p>
-              <p>Pierre Hubert LʼArchevêque created the <ref target="../keywords/gfa-keywords-8402">equestrian statue of Gustaf Adolf II. of Stockholm</ref> and the statue of <ref target="../keywords/gfa-keywords-8401">Gustav Wasa</ref>.</p>
+              <p>Pierre Hubert LʼArchevêque created the <ref target="../keywords/gfa-keywords-8402">equestrian statue of Gustaf Adolf II of Stockholm</ref> and the statue of <ref target="../keywords/gfa-keywords-8401">Gustav Wasa</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -3863,9 +3864,9 @@
             <persName type="full" xml:lang="de">Gustav III. (Schweden) (1746–1792)</persName>
             <persName type="main" xml:lang="de">Gustav III. (Schweden)</persName>
             <persName type="sort" xml:lang="de">gustav iii. (schweden)</persName>
-            <persName type="full" xml:lang="en">Gustav III. (Sweden) (1746–1792)</persName>
-            <persName type="main" xml:lang="en">Gustav III. (Sweden)</persName>
-            <persName type="sort" xml:lang="en">gustav iii. (sweden)</persName>
+            <persName type="full" xml:lang="en">Gustav III (Sweden) (1746–1792)</persName>
+            <persName type="main" xml:lang="en">Gustav III (Sweden)</persName>
+            <persName type="sort" xml:lang="en">gustav iii (sweden)</persName>
             <birth when="1746-01-24"/>
             <death when="1792-03-29"/>
             <note type="description" xml:lang="de">
@@ -3874,7 +3875,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>King of Sweden from the house of Schleswig-Holstein-Gottorf from 1771 to 1792.</p>
-              <p>Gustav III. promoted the arts and was responsible for numerous buildings in Stockholm. He was assassinated by aristocratic conspirators in 1792. On his journeyman travels, Johann Conrad Fischer saw some of the works created under the patronage of the King and a <ref target="../keywords/gfa-keywords-8396">bronze statue of Gustav III.</ref>, as well as the <ref target="../keywords/gfa-keywords-8420">plaster cast model</ref> created for the statue by the artist <ref target="gfa-actors-7401">Johan Tobias Sergel</ref>.</p>
+              <p>Gustav III promoted the arts and was responsible for numerous buildings in Stockholm. He was assassinated by aristocratic conspirators in 1792. On his journeyman travels, Johann Conrad Fischer saw some of the works created under the patronage of the King and a <ref target="../keywords/gfa-keywords-8396">bronze statue of Gustav III</ref>, as well as the <ref target="../keywords/gfa-keywords-8420">plaster cast model</ref> created for the statue by the artist <ref target="gfa-actors-7401">Johan Tobias Sergel</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -3939,7 +3940,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>Swedish nobleman and as of 1787 riksdrots and hence the most senior minister.</p>
-              <p>Carl Axel Wachtmeister was one of the most influential politicians under <ref target="gfa-actors-7404">Gustav III</ref> and his successor Gustav IV. Adolf.</p>
+              <p>Carl Axel Wachtmeister was one of the most influential politicians under <ref target="gfa-actors-7404">Gustav III</ref> and his successor Gustav IV Adolf.</p>
             </note>
             <listBibl>
               <bibl>
@@ -3974,9 +3975,9 @@
             <persName type="full" xml:lang="de">Gustav I. Wasa (Schweden) (1496–1560)</persName>
             <persName type="main" xml:lang="de">Gustav I. Wasa (Schweden)</persName>
             <persName type="sort" xml:lang="de">gustav i. wasa (schweden)</persName>
-            <persName type="full" xml:lang="en">Gustav I. Wasa (Sweden) (1496–1560)</persName>
-            <persName type="main" xml:lang="en">Gustav I. Wasa (Sweden)</persName>
-            <persName type="sort" xml:lang="en">gustav i. wasa (sweden)</persName>
+            <persName type="full" xml:lang="en">Gustav I Wasa (Sweden) (1496–1560)</persName>
+            <persName type="main" xml:lang="en">Gustav I Wasa (Sweden)</persName>
+            <persName type="sort" xml:lang="en">gustav i wasa (sweden)</persName>
             <birth when="1496-05-12"/>
             <death when="1560-09-29"/>
             <note type="description" xml:lang="de">
@@ -3985,7 +3986,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>Founder of the Swedish royal dynasty and a leading figure in the struggle for independence against the king of Denmark.</p>
-              <p>Johann Conrad Fischer saw the <ref target="../keywords/gfa-keywords-8401">life-size statue</ref> of Gustav I. Wasa on his travels, which stands in front of the <ref target="../places/gfa-places-1531">Riddarhuset</ref> in Stockholm.</p>
+              <p>Johann Conrad Fischer saw the <ref target="../keywords/gfa-keywords-8401">life-size statue</ref> of Gustav I Wasa on his travels, which stands in front of the <ref target="../places/gfa-places-1531">Riddarhuset</ref> in Stockholm.</p>
             </note>
             <listBibl>
               <bibl>
@@ -4217,7 +4218,7 @@
             <note type="description" xml:lang="en">
               <p>Swedish entrepreneur and iron manufacturer.</p>
               <p>Carl Appelqvist attended the Strängnäs Gymnasium (secondary school) and then began a foundry apprenticeship in Norrköping. He subsequently went to London where he received further training in instrument-making from Ramsden and Rhee. On returning to Sweden, he founded his own workshop in the 1780s, which produced mainly iron lathes, large winches and presses, fire extinguishers and other steel tools.</p>
-              <p>In London, Appelqvist moved in the circles of Daniel Solander and William Fraser. He also became acquainted there with a man who was to become his competitor, <ref target="gfa-actors-7415">Johann Helvius</ref>. During his time in London, he corresponded with the <ref target="../keywords/gfa-keywords-8394">Royal Swedish Academy of Sciences</ref>, which also provided him with financial support. Appelqvist returned to Sweden in the late 1770s, bringing with him all manner of instruments, models and plans of English inventors and industrial workshops. His best-known cast-iron work is the Equestrian <ref target="../keywords/gfa-keywords-8396">statue of King Gustav III.</ref> according to plans drawn up by his pupil <ref target="gfa-actors-7401">Johann Tobias Sergel</ref>.</p>
+              <p>In London, Appelqvist moved in the circles of Daniel Solander and William Fraser. He also became acquainted there with a man who was to become his competitor, <ref target="gfa-actors-7415">Johann Helvius</ref>. During his time in London, he corresponded with the <ref target="../keywords/gfa-keywords-8394">Royal Swedish Academy of Sciences</ref>, which also provided him with financial support. Appelqvist returned to Sweden in the late 1770s, bringing with him all manner of instruments, models and plans of English inventors and industrial workshops. His best-known cast-iron work is the Equestrian <ref target="../keywords/gfa-keywords-8396">statue of King Gustav III</ref> according to plans drawn up by his pupil <ref target="gfa-actors-7401">Johann Tobias Sergel</ref>.</p>
               <p>Johann Conrad Fischer visited <ref target="../places/gfa-places-2179">Appelqvistʼs factory</ref> on his travels, which was located at the time on Kungsholmen in Stockholm.</p>
             </note>
             <note type="sources">
@@ -4226,6 +4227,7 @@
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
                 <bibl>Hildebrand, Emil: Sveriges och Svenska Konungahusets Minnespenningar Praktmynt och Belöningsmedaljer. Stockholm 1875, S. 251, 263, 308.</bibl>
                 <bibl>Sundström, Arne/Owen, Samuel: Teknik- och ångbåtspionjär. Stockholm 2009 (<ref target="https://swb2.bsz-bw.de/DB=2.364/PPN?PPN=1606592483">Eisenbibliothek Per 225</ref>, Stand 31.1.2023).</bibl>
+                <bibl>Schriftliche Auskunft von Yngve Axelsson, Bibliothekar bei Jernkontoret (Swedish iron and steel producers’ association), im Dezember 2021.</bibl>
               </listBibl>
             </note>
           </person>
@@ -4292,11 +4294,11 @@
             <death when="1806-09-11"/>
             <note type="description" xml:lang="de">
               <p>Rektor der Deutschen Schule in Stockholm.</p>
-              <p>Während seines Aufenthalts in Stockholm verkehrte Johann Conrad Fischer mit Johann Joachim Friedrich Plagemann. In seinem Tagebuch von 1794 beschreibt Fischer detailliert <ref target="https://archives.georgfischer.com/keywords/8397">Plagemanns Sammlung</ref> von mikroskopischen Objekten.</p>
+              <p>Während seines Aufenthalts in Stockholm verkehrte Johann Conrad Fischer mit Johann Joachim Friedrich Plagemann. In seinem Tagebuch von 1794 beschreibt Fischer detailliert <ref target="../keywords/gfa-keywords-8397">Plagemanns Sammlung</ref> von mikroskopischen Objekten.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Rector of the German School in Stockholm.</p>
-              <p>While staying in Stockholm, Johann Conrad Fischer became acquainted with Johann Joachim Friedrich Plagemann. In his 1794 Journal, Fischer describes in detail <ref target="https://archives.georgfischer.com/keywords/8397">Plagemannʼs collection</ref> of microscopic objects.</p>
+              <p>While staying in Stockholm, Johann Conrad Fischer became acquainted with Johann Joachim Friedrich Plagemann. In his 1794 Journal, Fischer describes in detail <ref target="../keywords/gfa-keywords-8397">Plagemannʼs collection</ref> of microscopic objects.</p>
             </note>
             <listBibl>
               <bibl>
@@ -4388,6 +4390,7 @@
               <listBibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
                 <bibl>Sahlin, Carl: Thomas Lewis och hans insats i den svenska gjuteriteknikens. In: Jernkontorets Annaler 11 (1928), S. 559–564.</bibl>
+                <bibl>Schriftliche Auskunft von Yngve Axelsson, Bibliothekar bei Jernkontoret (Swedish iron and steel producers’ association), im Dezember 2021.</bibl>
               </listBibl>
             </note>
           </person>
@@ -4452,6 +4455,7 @@
               <listBibl>
                 <bibl>Bjorkbom, C./Bratt, E. O.: Anders Akerman: Ein schwedischer Globenmacher des 18. Jahrhunderts. In: Der Globusfreund 9 (1960), S. 8–12.</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>Schriftliche Auskunft von Simon Weber-Unger, Experte beim Auktionshaus Dorotheum, Wien, im Dezember 2021.</bibl>
               </listBibl>
             </note>
           </person>
@@ -5141,7 +5145,7 @@
               <p>Johann Conrad Fischer besuchte während seiner Wanderjahre Sophie Albertine von Schwedens <ref target="../places/gfa-places-1527">Palais</ref> in <ref target="../places/gfa-places-142">Stockholm</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>Swedish princess, the sister of <ref target="gfa-actors-7404">King Gustav III.</ref> and the last abbess of Quedlinburg Abbey.</p>
+              <p>Swedish princess, the sister of <ref target="gfa-actors-7404">King Gustav III</ref> and the last abbess of Quedlinburg Abbey.</p>
               <p>Johann Conrad Fischer visited the <ref target="../places/gfa-places-1527">palace</ref> of Sophie Albertine of Sweden in <ref target="../places/gfa-places-142">Stockholm</ref> during his travels.</p>
             </note>
             <listBibl>
@@ -5255,19 +5259,19 @@
             <persName type="main" xml:lang="de">Napoleon III. (Frankreich)</persName>
             <persName type="sort" xml:lang="de">napoleon iii. (frankreich)</persName>
             <persName type="alternative" xml:lang="de">Charles-Louis-Napoléon Bonaparte</persName>
-            <persName type="full" xml:lang="en">Napoleon III. (France) (1808–1873)</persName>
-            <persName type="main" xml:lang="en">Napoleon III. (France)</persName>
-            <persName type="sort" xml:lang="en">napoleon iii. (france)</persName>
+            <persName type="full" xml:lang="en">Napoleon III (France) (1808–1873)</persName>
+            <persName type="main" xml:lang="en">Napoleon III (France)</persName>
+            <persName type="sort" xml:lang="en">napoleon iii (france)</persName>
             <persName type="alternative" xml:lang="en">Charles-Louis-Napoléon Bonaparte</persName>
             <birth when="1808-04-20"/>
             <death when="1873-01-09"/>
             <note type="description" xml:lang="de">
               <p>Französischer Staatspräsident (1848–1852), später Kaiser der Franzosen (1852–1870).</p>
-              <p>Auf seiner Reise nach London an die <ref target="../keywords/gfa-keywords-8436">Weltausstellung</ref> begegnete Johann Conrad Fischer mehrmals dem <ref target="gfa-actors-7449">Kantonsrat Friedrich Ferdinand Ammann</ref>. Dessen Vater, Hartmann Friedrich Ammann, hatte engen Kontakt zum damals im Exil auf Schloss Arenenberg (<ref target="https://archives.georgfischer.com/places/1117">Salenstein</ref> TG) wohnhaften Charles-Louis-Napoléon Bonaparte. Ammann der Ältere vermittelte Bonaparte sein Wissen über die <ref target="../keywords/gfa-keywords-8807">Artillerie</ref> auf dem Waffenplatz Thun, wo dieser auch das Offiziersbrevet der Schweizer Armee erwarb. Später gründeten die beiden Männer im <ref target="../places/gfa-places-984">Ermatinger</ref> «Hirschen» die Thurgauische Schützengesellschaft.</p>
+              <p>Auf seiner Reise nach London an die <ref target="../keywords/gfa-keywords-8436">Weltausstellung</ref> begegnete Johann Conrad Fischer mehrmals dem <ref target="gfa-actors-7449">Kantonsrat Friedrich Ferdinand Ammann</ref>. Dessen Vater, Hartmann Friedrich Ammann, hatte engen Kontakt zum damals im Exil auf Schloss Arenenberg (<ref target="../places/gfa-places-1117">Salenstein</ref> TG) wohnhaften Charles-Louis-Napoléon Bonaparte. Ammann der Ältere vermittelte Bonaparte sein Wissen über die <ref target="../keywords/gfa-keywords-8807">Artillerie</ref> auf dem Waffenplatz Thun, wo dieser auch das Offiziersbrevet der Schweizer Armee erwarb. Später gründeten die beiden Männer im <ref target="../places/gfa-places-984">Ermatinger</ref> «Hirschen» die Thurgauische Schützengesellschaft.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>President of France (1848–1852); later Emperor of France (1852–1870).</p>
-              <p>Johann Conrad Fischer met the cantonal councillor <ref target="gfa-actors-7449">Friedrich Ferdinand Ammann</ref> several times when he was in London for the <ref target="../keywords/gfa-keywords-8436">Great Exhibition</ref>. His father, Hartmann Friedrich Ammann, had been in close contact with Charles-Louis-Napoléon Bonaparte, then living in exile in Arenenberg Castle in <ref target="https://archives.georgfischer.com/places/1117">Salenstein</ref>, Canton of Thurgau. Ammann the elder instructed Bonaparte in the science of <ref target="../keywords/gfa-keywords-8807">artillery</ref> at the garrison in Thun, where Napoleon became an officer in the Swiss army. The two men later founded the Thurgau Rifle Association in the restaurant Hirschen in <ref target="../places/gfa-places-984">Ermatingen</ref>.</p>
+              <p>Johann Conrad Fischer met the cantonal councillor <ref target="gfa-actors-7449">Friedrich Ferdinand Ammann</ref> several times when he was in London for the <ref target="../keywords/gfa-keywords-8436">Great Exhibition</ref>. His father, Hartmann Friedrich Ammann, had been in close contact with Charles-Louis-Napoléon Bonaparte, then living in exile in Arenenberg Castle in <ref target="../places/gfa-places-1117">Salenstein</ref>, Canton of Thurgau. Ammann the elder instructed Bonaparte in the science of <ref target="../keywords/gfa-keywords-8807">artillery</ref> at the garrison in Thun, where Napoleon became an officer in the Swiss army. The two men later founded the Thurgau Rifle Association in the restaurant Hirschen in <ref target="../places/gfa-places-984">Ermatingen</ref>.</p>
             </note>
             <listBibl>
               <bibl type="image">
@@ -5541,10 +5545,11 @@
             <persName type="sort" xml:lang="de">viktoria dʼorleans</persName>
             <persName type="alternative" xml:lang="de">Viktoria Franziska Antonia Juliane Luise von Sachsen-Coburg und Gotha</persName>
             <persName type="alternative" xml:lang="de">Viktoria von Sachsen-Coburg-Saalfeld-Koháry</persName>
+            <persName type="alternative" xml:lang="de">Victorie d’Orléans de Nemours</persName>
             <persName type="full" xml:lang="en">Viktoria dʼOrléans (1822–1857)</persName>
             <persName type="main" xml:lang="en">Viktoria dʼOrléans</persName>
             <persName type="sort" xml:lang="en">viktoria dʼorleans</persName>
-            <persName type="alternative" xml:lang="en">Viktoria Franziska Antonia Juliane Luise von Sachsen-Coburg und Gotha :: Viktoria von Sachsen-Coburg-Saalfeld-Koháry</persName>
+            <persName type="alternative" xml:lang="en">Viktoria Franziska Antonia Juliane Luise von Sachsen-Coburg und Gotha :: Viktoria von Sachsen-Coburg-Saalfeld-Koháry :: Viktorie d’Orléans de Nemours :: Victoria d’Orléans</persName>
             <birth when="1822-02-14"/>
             <death when="1857-11-10"/>
             <note type="description" xml:lang="de">
@@ -6465,9 +6470,9 @@
             <persName type="full" xml:lang="de">Louis-Philippe I. (Frankreich) (1773–1850)</persName>
             <persName type="main" xml:lang="de">Louis-Philippe I. (Frankreich)</persName>
             <persName type="sort" xml:lang="de">louis-philippe i. (frankreich)</persName>
-            <persName type="full" xml:lang="en">Louis-Philippe I. (France) (1773–1850)</persName>
-            <persName type="main" xml:lang="en">Louis-Philippe I. (France)</persName>
-            <persName type="sort" xml:lang="en">louis-philippe i. (france)</persName>
+            <persName type="full" xml:lang="en">Louis-Philippe I (France) (1773–1850)</persName>
+            <persName type="main" xml:lang="en">Louis-Philippe I (France)</persName>
+            <persName type="sort" xml:lang="en">louis-philippe i (france)</persName>
             <birth when="1773-10-06"/>
             <death when="1850-08-26"/>
             <note type="description" xml:lang="de">
@@ -8003,11 +8008,11 @@
             <death when="1792-12-20"/>
             <note type="description" xml:lang="de">
               <p>Schwedischer Bergbauexperte, Mineraloge und Chemiker.</p>
-              <p>Sven Rinman hatte grossen Einfluss auf die Entwicklung des <ref target="https://archives.georgfischer.com/keywords/296">Bergbaus</ref> und der <ref target="../keywords/gfa-keywords-9502">Stahlproduktion</ref> in <ref target="../places/gfa-places-133">Schweden</ref>. Er ist vor allem durch das nach ihm benannte Pigment Rinmans Grün bekannt geworden, dessen Entstehung auch als Nachweisreaktion für <ref target="../keywords/gfa-keywords-9636">Zink</ref> gilt.</p>
+              <p>Sven Rinman hatte grossen Einfluss auf die Entwicklung des <ref target="../keywords/gfa-keywords-296">Bergbaus</ref> und der <ref target="../keywords/gfa-keywords-9502">Stahlproduktion</ref> in <ref target="../places/gfa-places-133">Schweden</ref>. Er ist vor allem durch das nach ihm benannte Pigment Rinmans Grün bekannt geworden, dessen Entstehung auch als Nachweisreaktion für <ref target="../keywords/gfa-keywords-9636">Zink</ref> gilt.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Swedish mining expert, mineralogist and chemist.</p>
-              <p>Sven Rinman had a major influence on the development of <ref target="https://archives.georgfischer.com/keywords/296">mining</ref> and <ref target="../keywords/gfa-keywords-9502">steel production</ref> in <ref target="../places/gfa-places-133">Sweden</ref>. He is known mainly for the pigment named after him, Rinman’s green, the presence of which serves to detect <ref target="../keywords/gfa-keywords-9636">zinc</ref>.</p>
+              <p>Sven Rinman had a major influence on the development of <ref target="../keywords/gfa-keywords-296">mining</ref> and <ref target="../keywords/gfa-keywords-9502">steel production</ref> in <ref target="../places/gfa-places-133">Sweden</ref>. He is known mainly for the pigment named after him, Rinman’s green, the presence of which serves to detect <ref target="../keywords/gfa-keywords-9636">zinc</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -8141,19 +8146,19 @@
             <persName type="main" xml:lang="de">Ludwig I. (Bayern)</persName>
             <persName type="sort" xml:lang="de">ludwig i. (bayern)</persName>
             <persName type="alternative" xml:lang="de">Ludwig Karl August</persName>
-            <persName type="full" xml:lang="en">Ludwig I. (Bavaria) (1786–1868)</persName>
-            <persName type="main" xml:lang="en">Ludwig I. (Bavaria)</persName>
-            <persName type="sort" xml:lang="en">ludwig i. (bavaria)</persName>
+            <persName type="full" xml:lang="en">Ludwig I (Bavaria) (1786–1868)</persName>
+            <persName type="main" xml:lang="en">Ludwig I (Bavaria)</persName>
+            <persName type="sort" xml:lang="en">ludwig i (bavaria)</persName>
             <persName type="alternative" xml:lang="en">Ludwig Karl August</persName>
             <birth when="1786-08-25"/>
             <death when="1868-02-29"/>
             <note type="description" xml:lang="de">
               <p>König des Königreichs Bayern aus dem Geschlecht der Wittelsbacher.</p>
-              <p>In die Regierungszeit von Ludwig I. fiel die Einrichtung zahlreicher Kunstsammlungen und klassizistischer Bauten. Die erste im Dezember 1835 eröffnete Eisenbahnlinie in <ref target="../places/gfa-places-35">Deutschland</ref> von <ref target="https://archives.georgfischer.com/places/1114">Nürnberg</ref> nach Fürth trägt seinen Namen. Die Hochzeit Ludwigs I. im Jahr 1810 mit Therese von Sachsen-Hildburghausen begründete das Oktoberfest.</p>
+              <p>In die Regierungszeit von Ludwig I. fiel die Einrichtung zahlreicher Kunstsammlungen und klassizistischer Bauten. Die erste im Dezember 1835 eröffnete Eisenbahnlinie in <ref target="../places/gfa-places-35">Deutschland</ref> von <ref target="../places/gfa-places-1114">Nürnberg</ref> nach Fürth trägt seinen Namen. Die Hochzeit Ludwigs I. im Jahr 1810 mit Therese von Sachsen-Hildburghausen begründete das Oktoberfest.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>King of the Kingdom of Bavaria, a member of the Wittelsbach family.</p>
-              <p>The reign of Ludwig I coincided with the creation of numerous art collections and the spread of neoclassical architecture. The first railway line in <ref target="../places/gfa-places-35">Germany</ref>, from <ref target="https://archives.georgfischer.com/places/1114">Nuremberg</ref> to Fürth, which opened in December 1835, bears his name. His marriage in 1810 to Therese von Sachsen-Hildburghausen marks the beginning of the Oktoberfest.</p>
+              <p>The reign of Ludwig I coincided with the creation of numerous art collections and the spread of neoclassical architecture. The first railway line in <ref target="../places/gfa-places-35">Germany</ref>, from <ref target="../places/gfa-places-1114">Nuremberg</ref> to Fürth, which opened in December 1835, bears his name. His marriage in 1810 to Therese von Sachsen-Hildburghausen marks the beginning of the Oktoberfest.</p>
             </note>
             <listBibl>
               <bibl>
@@ -8670,11 +8675,11 @@
             <death when="1859-08-29"/>
             <note type="description" xml:lang="de">
               <p>Schweizer Industrieller, Politiker, Sozialpionier und Architekt.</p>
-              <p>1805 gründete Hans Caspar Escher mit dem Bankier Salomon von Wyss in Zürich das Unternehmen <ref target="gfa-actors-1081">Escher, Wyss &amp; Cie</ref> unter dem Namen Baumwollspinnerei Escher Wyss &amp; Co. Die Firma verlegte ihre Haupttätigkeit bald komplett auf den Bau und die Konstruktion von Maschinen aller Art, später auch von Lokomotiven und Dampfschiffen.</p>
+              <p>1805 gründete Hans Caspar Escher mit dem Bankier Salomon von Wyss in Zürich das Unternehmen <ref target="gfa-actors-1081">Escher, Wyss &amp; Cie.</ref> unter dem Namen Baumwollspinnerei Escher Wyss &amp; Co. Die Firma verlegte ihre Haupttätigkeit bald komplett auf den Bau und die Konstruktion von Maschinen aller Art, später auch von Lokomotiven und Dampfschiffen.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Swiss industrialist, politician, social pioneer and architect.</p>
-              <p>Hans Caspar Escher founded the company <ref target="gfa-actors-1081">Escher, Wyss &amp; Cie</ref> in Zurich in 1805 together with the banker Salomon von Wyss under the name Baumwollspinnerei Escher Wyss &amp; Co. The company soon focused all its activities on the design and construction of machines of all types, later including locomotives and steamships.</p>
+              <p>Hans Caspar Escher founded the company <ref target="gfa-actors-1081">Escher, Wyss &amp; Cie.</ref> in Zurich in 1805 together with the banker Salomon von Wyss under the name Baumwollspinnerei Escher Wyss &amp; Co. The company soon focused all its activities on the design and construction of machines of all types, later including locomotives and steamships.</p>
             </note>
             <listBibl>
               <bibl>
@@ -8745,12 +8750,12 @@
             <death when="1809-08-18"/>
             <note type="description" xml:lang="de">
               <p>Englischer Ingenieur, Medailleur und Unternehmer der frühen Industriellen Revolution.</p>
-              <p>Matthew Boulton entwickelte und vertrieb zusammen mit <ref target="gfa-actors-7523">James Watt</ref> <ref target="../keywords/gfa-keywords-8651">Dampfmaschinen</ref> in der <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. Die beiden Herren gründeten ausserdem eine <ref target="../keywords/gfa-keywords-9329">Münzwerkstätte</ref>, die Soho Mint, und weitere Fabriken. Unter dem Einfluss der Gedanken Jean-Jacques Rousseaus führte Boulton in seinen Fabriken eine <ref target="https://archives.georgfischer.com/keywords/1138">Sozialversicherung</ref> für die Mitarbeiter ein.</p>
+              <p>Matthew Boulton entwickelte und vertrieb zusammen mit <ref target="gfa-actors-7523">James Watt</ref> <ref target="../keywords/gfa-keywords-8651">Dampfmaschinen</ref> in der <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. Die beiden Herren gründeten ausserdem eine <ref target="../keywords/gfa-keywords-9329">Münzwerkstätte</ref>, die Soho Mint, und weitere Fabriken. Unter dem Einfluss der Gedanken Jean-Jacques Rousseaus führte Boulton in seinen Fabriken eine <ref target="../keywords/gfa-keywords-1138">Sozialversicherung</ref> für die Mitarbeiter ein.</p>
               <p>Ab 1800 führten sein Sohn, <ref target="gfa-actors-7573">Matthew Robinson Boulton</ref>, und <ref target="gfa-actors-7572">James Watt Junior</ref>, als Geschäftsführer die Firma <ref target="gfa-actors-7571">Boulton &amp; Watt</ref> weiter.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>English engineer, medal- and coin-maker and entrepreneur of the early Industrial Revolution.</p>
-              <p>Matthew Boulton, together with <ref target="gfa-actors-7523">James Watt</ref>, developed and sold <ref target="../keywords/gfa-keywords-8651">steam engines</ref> manufactured at his <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. The two men also established a <ref target="../keywords/gfa-keywords-9329">mint facility</ref>, the Soho Mint, as well as other factories. Influenced by the thinking of Jean-Jacques Rousseau, Boulton set up a <ref target="https://archives.georgfischer.com/keywords/1138">social insurance</ref> plan for his factory employees.</p>
+              <p>Matthew Boulton, together with <ref target="gfa-actors-7523">James Watt</ref>, developed and sold <ref target="../keywords/gfa-keywords-8651">steam engines</ref> manufactured at his <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. The two men also established a <ref target="../keywords/gfa-keywords-9329">mint facility</ref>, the Soho Mint, as well as other factories. Influenced by the thinking of Jean-Jacques Rousseau, Boulton set up a <ref target="../keywords/gfa-keywords-1138">social insurance</ref> plan for his factory employees.</p>
               <p>In 1800, his son, <ref target="gfa-actors-7573">Matthew Robinson Boulton</ref>, and <ref target="gfa-actors-7572">James Watt Junior</ref>, took over as managers of the firm of <ref target="gfa-actors-7571">Boulton &amp; Watt</ref>.</p>
             </note>
             <listBibl>
@@ -9198,26 +9203,23 @@
             </note>
           </person>
           <person xml:id="gfa-actors-7549">
-            <persName type="full" xml:lang="de">von Württemberg, Friedrich Wilhelm Karl (1754–1816)</persName>
-            <persName type="main" xml:lang="de">von Württemberg, Friedrich Wilhelm Karl</persName>
-            <persName type="sort" xml:lang="de">von wuerttemberg, friedrich wilhelm karl</persName>
-            <persName type="full" xml:lang="en">von Württemberg, Friedrich Wilhelm Karl (1754–1816)</persName>
-            <persName type="main" xml:lang="en">von Württemberg, Friedrich Wilhelm Karl</persName>
-            <persName type="sort" xml:lang="en">von wuerttemberg, friedrich wilhelm karl</persName>
+            <persName type="full" xml:lang="de">Friedrich I. (Württemberg) (1754–1816)</persName>
+            <persName type="main" xml:lang="de">Friedrich I. (Württemberg)</persName>
+            <persName type="sort" xml:lang="de">friedrich i. (wuerttemberg)</persName>
+            <persName type="full" xml:lang="en">Frederick I (Württemberg) (1754–1816)</persName>
+            <persName type="main" xml:lang="en">Frederick I (Württemberg)</persName>
+            <persName type="sort" xml:lang="en">frederick i (wuerttemberg)</persName>
             <birth when="1754-11-06"/>
             <death when="1816-10-30"/>
             <note type="description" xml:lang="de">
-              <p>Ab 1797 als Friedrich II. der fünfzehnte regierende Herzog von Württemberg; 1803–1806 auch Kurfürst und von 1806 bis 1816 als Friedrich I. der erste König von Württemberg.</p>
-              <p>Johann Conrad Fischer war während seines Aufenthalts in <ref target="../places/gfa-places-143">Stuttgart</ref> im Sommer 1814 zu Gast bei Friedrich II. auf seinem <ref target="../places/gfa-places-1683">Lustschloss «Mon Repos»</ref> bei <ref target="../places/gfa-places-1180">Ludwigsburg</ref>, wo die beiden Herren sich stundenlang über diverse Themen unterhielten.</p>
+              <p>Aus dem Haus Württemberg. Ab 1797 als Friedrich II. der fünfzehnte regierende Herzog von Württemberg; 1803–1806 auch Kurfürst und von 1806 bis 1816 als Friedrich I. der erste König von Württemberg.</p>
+              <p>Johann Conrad Fischer war während seines Aufenthalts in <ref target="../places/gfa-places-143">Stuttgart</ref> im Sommer 1814 zu Gast bei Friedrich I. auf seinem <ref target="../places/gfa-places-1683">Lustschloss «Mon Repos»</ref> bei <ref target="../places/gfa-places-1180">Ludwigsburg</ref>, wo die beiden Herren sich stundenlang über diverse Themen unterhielten.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>As of 1797, known as Friedrich II, the fifteenth ruling Duke of Württemberg; 1803–1806 also Elector; and from 1806 to 1816 Friedrich I, the first King of Württemberg.</p>
-              <p>During his visit in <ref target="../places/gfa-places-143">Stuttgart</ref> in the summer of 1814, Johann Conrad Fischer was the guest of Friedrich II at his pleasure palace <ref target="../places/gfa-places-1683">Mon Repos</ref> near <ref target="../places/gfa-places-1180">Ludwigsburg</ref>, where the two men talked about diverse topics for some hours.</p>
+              <p>Of house Württemberg. As of 1797, known as Frederick II, the fifteenth ruling Duke of Württemberg; 1803–1806 also Elector; and from 1806 to 1816 Frederick I, the first King of Württemberg.</p>
+              <p>During his visit in <ref target="../places/gfa-places-143">Stuttgart</ref> in the summer of 1814, Johann Conrad Fischer was the guest of Frederick I at his pleasure palace <ref target="../places/gfa-places-1683">Mon Repos</ref> near <ref target="../places/gfa-places-1180">Ludwigsburg</ref>, where the two men talked about diverse topics for some hours.</p>
             </note>
             <listBibl>
-              <bibl>
-                <ptr type="gnd" target="http://d-nb.info/gnd/119677458"/>
-              </bibl>
               <bibl>
                 <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q170179"/>
               </bibl>
@@ -9228,7 +9230,7 @@
                 <ptr type="library-of-congress" target="https://id.loc.gov/authorities/n84113592"/>
               </bibl>
               <bibl>
-                <ptr type="worldcat" target="https://www.worldcat.org/identities/viaf-17213569/"/>
+                <ptr type="worldcat" target="https://worldcat.org/identities/viaf-17213569/"/>
               </bibl>
               <bibl>
                 <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/pnd118703218.html"/>
@@ -9249,6 +9251,9 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Frederick_I_of_W%C3%BCrttemberg"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118703218"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -11808,24 +11813,17 @@
             <birth when="1722-01-15"/>
             <death when="1790-07-04"/>
             <note type="description" xml:lang="de">
-              <p>Sohn des Herzogs von Mömpelgard (heute <ref target="../places/gfa-places-1310">Montbéliard</ref>) und Reichsgraf von Horneburg und Champvallon.</p>
+              <p>Reichsgraf von Horneburg und Champvallon. Enkel des Herzogs Leopold Eberhard von von Württemberg-Mömpelgard (heute <ref target="../places/gfa-places-1310">Montbéliard</ref>).</p>
               <p>Johann Conrad Fischer besuchte 1825 das Eisenwerk in <ref target="../places/gfa-places-1313">Audincourt</ref>, welches früher Georg Leopold von Württemberg-Mömpelgard gehört hatte.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>The son of the Duke of Mömpelgard (now <ref target="../places/gfa-places-1310">Montbéliard</ref>) and Imperial Count of Horneburg and Champvallon.</p>
+              <p>Imperial Count of Horneburg and Champvallon. The grandson of Duke Leopold Eberhard of Mömpelgard (now <ref target="../places/gfa-places-1310">Montbéliard</ref>).</p>
               <p>Johann Conrad Fischer visited the ironworks of <ref target="../places/gfa-places-1313">Audincourt</ref> in 1825, which had once belonged to Georg Leopold von Württemberg-Mömpelgard.</p>
             </note>
-            <listBibl>
-              <bibl>
-                <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Leopold_Eberhard_(Württemberg-Mömpelgard)"/>
-              </bibl>
-              <bibl>
-                <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Leopold_Eberhard,_Duke_of_W%C3%BCrttemberg-Montb%C3%A9liard"/>
-              </bibl>
-            </listBibl>
             <note type="sources">
               <listBibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
+                <bibl>Leopold Eberhard (Württemberg-Mömpelgard). In: Wikipedia (<ref target="https://de.wikipedia.org/wiki/Leopold_Eberhard_(W%C3%BCrttemberg-M%C3%B6mpelgard">Wikipedia</ref>), Stand 11.12.2023).</bibl>
               </listBibl>
             </note>
           </person>
@@ -12799,21 +12797,21 @@
             </note>
           </person>
           <person xml:id="gfa-actors-7756">
-            <persName type="full" xml:lang="de">von Wellington, Arthur Wellesley (1769–1852)</persName>
-            <persName type="main" xml:lang="de">von Wellington, Arthur Wellesley</persName>
-            <persName type="sort" xml:lang="de">von wellington, arthur wellesley</persName>
+            <persName type="full" xml:lang="de">Wellesley, Arthur (1769–1852)</persName>
+            <persName type="main" xml:lang="de">Wellesley, Arthur</persName>
+            <persName type="sort" xml:lang="de">wellesley, arthur</persName>
             <persName type="alternative" xml:lang="de">Herzog von Wellington</persName>
-            <persName type="full" xml:lang="en">Wellington (Arthur Wellesley) (1769–1852)</persName>
-            <persName type="main" xml:lang="en">Wellington (Arthur Wellesley)</persName>
-            <persName type="sort" xml:lang="en">wellington (arthur wellesley)</persName>
+            <persName type="full" xml:lang="en">Wellesley, Arthur (1769–1852)</persName>
+            <persName type="main" xml:lang="en">Wellesley, Arthur</persName>
+            <persName type="sort" xml:lang="en">wellesley, arthur</persName>
             <persName type="alternative" xml:lang="en">Duke of Wellington</persName>
             <birth when="1769-05-01"/>
             <death when="1852-09-14"/>
             <note type="description" xml:lang="de">
-              <p>Britischer Staatsmann und General; er kommandierte die <ref target="../keywords/gfa-keywords-8733">britischen Truppen bei Waterloo</ref>.</p>
+              <p>Erster Duke von Wellington, britischer Staatsmann und General. Er kommandierte die <ref target="../keywords/gfa-keywords-8733">britischen Truppen bei Waterloo</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>A British statesman and general. He commanded the <ref target="../keywords/gfa-keywords-8733">British troops at the Battle of Waterloo</ref>.</p>
+              <p>The 1st Duke of Wellington, a British statesman and general. He commanded the <ref target="../keywords/gfa-keywords-8733">British troops at the Battle of Waterloo</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -12842,6 +12840,14 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/134147"/>
+                <title xml:lang="de">Arthur Wellesley, 1st Duke of Wellington (Gemälde von Thomas Lawrence, um 1815)</title>
+                <title xml:lang="en">Arthur Wellesley, 1st Duke of Wellington (painting by Thomas Lawrence, c. 1815)</title>
+                <ptr target="https://archives.georgfischer.com/media/gfd_1_248-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_1_248-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_1_248-0001" type="thumb"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -13174,7 +13180,64 @@
               </listBibl>
             </note>
           </person>
-          
+          <person xml:id="gfa-actors-7772">
+            <persName type="full" xml:lang="de">Brunel, Isambard Kingdom (1806–1859)</persName>
+            <persName type="main" xml:lang="de">Brunel, Isambard Kingdom</persName>
+            <persName type="sort" xml:lang="de">brunel, isambard kingdom</persName>
+            <persName type="full" xml:lang="en">Brunel, Isambard Kingdom  (1806–1859)</persName>
+            <persName type="main" xml:lang="en">Brunel, Isambard Kingdom</persName>
+            <persName type="sort" xml:lang="en">brunel, isambard kingdom</persName>
+            <birth when="1806-04-09"/>
+            <death when="1859-09-15"/>
+            <note type="description" xml:lang="de">
+              <p>Britischer Ingenieur, bekannt für den Bau von Eisenbahnlinien, Brücken und <ref target="../keywords/gfa-keywords-8801">Dampfschiffen</ref>.</p>
+              <p>Isambard Kingdom Brunel war der Sohn von <ref target="gfa-actors-7771">Marc Isambard Brunel</ref>.</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>A British engineer known for the construction of railways, bridges and <ref target="../keywords/gfa-keywords-8801">steamships</ref>.</p>
+              <p>Isambard Kingdom Brunel was the son of <ref target="gfa-actors-7771">Marc Isambard Brunel</ref>.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/117638099"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q207380"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/25385167/"/>
+              </bibl>
+              <bibl>
+                <ptr type="library-of-congress" target="https://id.loc.gov/authorities/n50041053"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/lccn-n50041053/"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Isambard-Kingdom-Brunel"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/pnd117638099.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Isambard_Kingdom_Brunel"/>
+              </bibl>
+              <bibl>
+                <ptr type="metagrid" target="https://api.metagrid.ch/concordance/31r4GnYBBhcBnYQe-gnH.json"/>
+              </bibl>
+              <bibl type="image">
+                <ptr type="anton-image" target="https://archives.georgfischer.com/objects/132608"/>
+                <title xml:lang="de">Isambard Kingdom Brunel vor den Ketten der «Great Eastern» (Fotografie von Robert Howlett, 1857)</title>
+                <title xml:lang="en">Isambard Kingdom Brunel standing before the launching chains of the Great Eastern (photograph by Robert Howlett, 1857)</title>
+                <ptr target="https://archives.georgfischer.com/media/gfd_1_175-0001" type="original"/>
+                <ptr target="https://archives.georgfischer.com/media/web/gfd_1_175-0001" type="web"/>
+                <ptr target="https://archives.georgfischer.com/media/thumb/gfd_1_175-0001" type="thumb"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel"/>
+              </bibl>
+            </listBibl>
+          </person>
           <person xml:id="gfa-actors-7775">
             <persName type="full" xml:lang="de">Bellhouse, David (1764–1840)</persName>
             <persName type="main" xml:lang="de">Bellhouse, David</persName>
@@ -14637,7 +14700,8 @@
               <p>Schweizer Medailleur und <ref target="https://archives.georgfischer.com/keywords/9327">Münzmeister</ref> in <ref target="../places/gfa-places-41">England</ref> und <ref target="../places/gfa-places-48">Frankreich</ref>; er führte wesentliche Neuerungen in der Prägetechnik ein.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>A Swiss medallion-maker and <ref target="https://archives.georgfischer.com/keywords/9327">mint master</ref> (moneyer) in <ref target="../places/gfa-places-41">England</ref> and <ref target="../places/gfa-places-48">France</ref>; he introduced major improvements in stamping technology.</p>
+              <p>A Swiss medallion-maker and <ref target="https://archives.georgfischer.com/keywords/9327">mint master</ref> (moneyer) in <ref target="../places/gfa-places-41">England</ref> and <ref target="../places/gfa-places-48">France</ref>.</p>
+              <p>Droz introduced major improvements in stamping technology.</p>
             </note>
             <listBibl>
               <bibl>
@@ -15073,7 +15137,7 @@
             </note>
             <note type="sources">
               <listBibl>
-                <bibl>Antonetti, Guy: Les ministres des finances de la Révolution française au Second empire. Dictionnaire biographique 1814-1848. Band 2. Vincennes  2007, S. 327-397 (<ref target="http://books.openedition.org/igpde/903">OpenEdition Books</ref>, Stand 19.1.2022).</bibl>
+                <bibl>Antonetti, Guy: Les ministres des finances de la Révolution française au Second empire. Dictionnaire biographique 1814-1848. Band 2. Vincennes  2007, S. 327–397 (<ref target="http://books.openedition.org/igpde/903">OpenEdition Books</ref>, Stand 19.1.2022).</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
               </listBibl>
             </note>
@@ -16052,16 +16116,18 @@
             <persName type="full" xml:lang="de">de Iturbide, Agustín (1783–1824)</persName>
             <persName type="main" xml:lang="de">de Iturbide, Agustín</persName>
             <persName type="sort" xml:lang="de">de iturbide, agustín</persName>
+            <persName type="alternative" xml:lang="de">Augustin I.</persName>
             <persName type="full" xml:lang="en">de Iturbide, Agustín  (1783–1824)</persName>
             <persName type="main" xml:lang="en">de Iturbide, Agustín</persName>
             <persName type="sort" xml:lang="en">de iturbide, agustín</persName>
+            <persName type="alternative" xml:lang="en">Augustin I</persName>
             <birth when="1783-09-27"/>
             <death when="1824-06-19"/>
             <note type="description" xml:lang="de">
-              <p>Mexikanischer Feldherr und Politiker und 1822/23 Kaiser von <ref target="../places/gfa-places-205">Mexiko</ref>, unter dem Namen Augustin I.</p>
+              <p>Mexikanischer Feldherr und Politiker und 1822–1823 Kaiser von <ref target="../places/gfa-places-205">Mexiko</ref>, unter dem Namen Augustin I.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>A Mexican general and politician who in 1822-23 became the Emperor of <ref target="../places/gfa-places-205">Mexico</ref>, known as Augustin I.</p>
+              <p>A Mexican general and politician who in 1822–1823 became the Emperor of <ref target="../places/gfa-places-205">Mexico</ref>, known as Augustin I.</p>
             </note>
             <listBibl>
               <bibl>
@@ -16826,7 +16892,7 @@
             <persName type="full" xml:lang="en">Stuart, Mary (Scotland, France) (1542–1587)</persName>
             <persName type="main" xml:lang="en">Stuart, Mary (Scotland, France)</persName>
             <persName type="sort" xml:lang="en">stuart, mary (scotland, france)</persName>
-            <persName type="alternative" xml:lang="en">Maria Stewart :: Maria I.</persName>
+            <persName type="alternative" xml:lang="en">Maria Stewart :: Maria I</persName>
             <birth when="1542-12-08"/>
             <death when="1587-02-18"/>
             <note type="description" xml:lang="de">
@@ -17349,7 +17415,47 @@
               </listBibl>
             </note>
           </person>
-          
+          <person xml:id="gfa-actors-7907">
+            <persName type="full" xml:lang="de">Bagyidaw (Birma) (1784–1846)</persName>
+            <persName type="main" xml:lang="de">Bagyidaw (Birma)</persName>
+            <persName type="sort" xml:lang="de">bagyidaw (birma)</persName>
+            <persName type="alternative" xml:lang="de">Sagaing Min</persName>
+            <persName type="full" xml:lang="en">Bagyidaw (Birma) (1784–1846)</persName>
+            <persName type="main" xml:lang="en">Bagyidaw (Birma)</persName>
+            <persName type="sort" xml:lang="en">bagyidaw (birma)</persName>
+            <persName type="alternative" xml:lang="en">Sagaing Min</persName>
+            <birth when="1784-07-23"/>
+            <death when="1846-10-15"/>
+            <note type="description" xml:lang="de">
+              <p>König des Birmanischen Reichs, aus der Konbaung-Dynastie (1819–1837).</p>
+            </note>
+            <note type="description" xml:lang="en">
+              <p>King of the Burmese empire, from the Konbaung dynasty (1819–1837).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia-(de)" target="https://de.wikipedia.org/wiki/Bagyidaw"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q38422"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Bagyidaw"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/lccn-n2011204847/"/>
+              </bibl>
+              <bibl>
+                <ptr type="library-of-congress" target="https://id.loc.gov/authorities/n2011204847"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/296176589/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-(en)" target="https://en.wikipedia.org/wiki/Bagyidaw"/>
+              </bibl>
+            </listBibl>
+          </person>
           <person xml:id="gfa-actors-7908">
             <persName type="full" xml:lang="de">Moctezuma II. (Aztekenreich) (1465–1520)</persName>
             <persName type="main" xml:lang="de">Moctezuma II. (Aztekenreich)</persName>
@@ -18500,7 +18606,7 @@
             <note type="description" xml:lang="en">
               <p>A British <ref target="../keywords/gfa-keywords-9092">engineer</ref> and <ref target="https://archives.georgfischer.com/keywords/9026">inventor</ref>; he promoted automated production.</p>
               <p>Richard Roberts worked as a model maker in <ref target="gfa-actors-7601">John Wilkinson’s</ref> factory <ref target="../places/gfa-places-1756">Bradley Ironworks</ref>, as a fitter and turner in the <ref target="../places/gfa-places-2163">manufactory</ref> <ref target="gfa-actors-7563">Holtzapffel &amp; Deyerlein</ref> and as a mechanical engineer with <ref target="gfa-actors-7454">Henry Maudslay</ref>.</p>
-              <p>Around 1821 Roberts founded the company <ref target="gfa-actors-8319">Sharp, Hill and Co</ref> together with <ref target="gfa-actors-8320">Thomas Sharp</ref> and <ref target="gfa-actors-8031">James Hill</ref>.</p>
+              <p>Around 1821 Roberts founded the company <ref target="gfa-actors-8319">Sharp, Hill and Co.</ref> together with <ref target="gfa-actors-8320">Thomas Sharp</ref> and <ref target="gfa-actors-8031">James Hill</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -18560,11 +18666,11 @@
             <persName type="sort" xml:lang="en">rogier</persName>
             <note type="description" xml:lang="de">
               <p>Fabrikant in <ref target="../places/gfa-places-1310">Montbéliard</ref>.</p>
-              <p>Rogier besass zusammen mit <ref target="gfa-actors-7963">Jean Vincenti</ref> die Fabrik <ref target="gfa-actors-8293">Vincenti &amp; Cie</ref> im <ref target="../places/gfa-places-1825">Schloss in Montbéliard</ref>.</p>
+              <p>Rogier besass zusammen mit <ref target="gfa-actors-7963">Jean Vincenti</ref> die Fabrik <ref target="gfa-actors-8293">Vincenti &amp; Cie.</ref> im <ref target="../places/gfa-places-1825">Schloss in Montbéliard</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A manufacturer in <ref target="../places/gfa-places-1310">Montbéliard</ref>.</p>
-              <p>Rogier owned a factory, <ref target="gfa-actors-8293">Vincenti &amp; Cie</ref> in the <ref target="../places/gfa-places-1825">castle of Montbéliard</ref> together with <ref target="gfa-actors-7963">Jean Vincenti</ref>.</p>
+              <p>Rogier owned a factory, <ref target="gfa-actors-8293">Vincenti &amp; Cie.</ref> in the <ref target="../places/gfa-places-1825">castle of Montbéliard</ref> together with <ref target="gfa-actors-7963">Jean Vincenti</ref>.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -19446,10 +19552,10 @@
             <birth when="1784-03-10"/>
             <death when="1833-03-23"/>
             <note type="description" xml:lang="de">
-              <p>Französischer Uhrmacher, Mechaniker und Gründer der Uhrenfabrik <ref target="gfa-actors-8293">Vincenti &amp; Cie</ref> in <ref target="../places/gfa-places-1310">Montbéliard</ref>.</p>
+              <p>Französischer Uhrmacher, Mechaniker und Gründer der Uhrenfabrik <ref target="gfa-actors-8293">Vincenti &amp; Cie.</ref> in <ref target="../places/gfa-places-1310">Montbéliard</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>A French watchmaker, mechanic and founder of the watch company <ref target="gfa-actors-8293">Vincenti &amp; Cie</ref> in <ref target="../places/gfa-places-1310">Montbéliard</ref>.</p>
+              <p>A French watchmaker, mechanic and founder of the watch company <ref target="gfa-actors-8293">Vincenti &amp; Cie.</ref> in <ref target="../places/gfa-places-1310">Montbéliard</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -19899,11 +20005,11 @@
             <death when="1812-01-04"/>
             <note type="description" xml:lang="de">
               <p>Französischer Uhrmacher und Uhrenproduzent.</p>
-              <p>Frédéric Japy war Inhaber der Uhrenfabrik <ref target="gfa-actors-578">Japy Frères &amp; Cie</ref> in <ref target="../places/gfa-places-1873">Beaucourt</ref>, Frankreich.</p>
+              <p>Frédéric Japy war Inhaber der Uhrenfabrik <ref target="gfa-actors-578">Japy Frères &amp; Cie.</ref> in <ref target="../places/gfa-places-1873">Beaucourt</ref>, Frankreich.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>A French watchmaker and watch manufacturer.</p>
-              <p>Frédéric Japy was the owner of the watch factory <ref target="gfa-actors-578">Japy Frères &amp; Cie</ref> in <ref target="../places/gfa-places-1873">Beaucourt</ref>, France.</p>
+              <p>Frédéric Japy was the owner of the watch factory <ref target="gfa-actors-578">Japy Frères &amp; Cie.</ref> in <ref target="../places/gfa-places-1873">Beaucourt</ref>, France.</p>
             </note>
             <listBibl>
               <bibl type="image">
@@ -19962,9 +20068,11 @@
             <persName type="full" xml:lang="de">Cavendish, William (1748–1811)</persName>
             <persName type="main" xml:lang="de">Cavendish, William</persName>
             <persName type="sort" xml:lang="de">cavendish, william</persName>
+            <persName type="alternative" xml:lang="de">William Cavendish of Devonshire</persName>
             <persName type="full" xml:lang="en">Cavendish, William  (1748–1811)</persName>
             <persName type="main" xml:lang="en">Cavendish, William</persName>
             <persName type="sort" xml:lang="en">cavendish, william</persName>
+            <persName type="alternative" xml:lang="en">William Cavendish of Devonshire</persName>
             <birth when="1748-12-14"/>
             <death when="1811-07-29"/>
             <note type="description" xml:lang="de">
@@ -20017,9 +20125,11 @@
             <persName type="full" xml:lang="de">Cavendish, Georgiana (1757–1806)</persName>
             <persName type="main" xml:lang="de">Cavendish, Georgiana</persName>
             <persName type="sort" xml:lang="de">cavendish, georgiana</persName>
+            <persName type="alternative" xml:lang="de">Devonshire, Georgiana Spencer Cavendish</persName>
             <persName type="full" xml:lang="en">Cavendish, Georgiana (1757–1806)</persName>
             <persName type="main" xml:lang="en">Cavendish, Georgiana</persName>
             <persName type="sort" xml:lang="en">cavendish, georgiana</persName>
+            <persName type="alternative" xml:lang="en">Georgiana Spencer Cavendish Devonshire</persName>
             <birth when="1757-06-07"/>
             <death when="1806-03-30"/>
             <note type="description" xml:lang="de">
@@ -20122,11 +20232,11 @@
             <persName type="sort" xml:lang="en">daniel</persName>
             <note type="description" xml:lang="de">
               <p>Englischer Sekretär aus London.</p>
-              <p>Herr Daniel war 1825 Sekretär in der <ref target="gfa-actors-8099">Imperial Gas Light and Coke Co</ref> in London.</p>
+              <p>Herr Daniel war 1825 Sekretär in der <ref target="gfa-actors-8099">Imperial Gas Light and Coke Co.</ref> in London.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An English secretary from London.</p>
-              <p>Mr. Daniel was Secretary of the <ref target="gfa-actors-8099">Imperial Gas Light and Coke Co</ref> in London in 1825.</p>
+              <p>Mr. Daniel was Secretary of the <ref target="gfa-actors-8099">Imperial Gas Light and Coke Co.</ref> in London in 1825.</p>
             </note>
           </person>
           <person xml:id="gfa-actors-8086">
@@ -20600,7 +20710,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>Hat-maker at 56, <ref target="../places/gfa-places-2122">rue Rivoli</ref> in <ref target="../places/gfa-places-118">Paris</ref>.</p>
-              <p>See location: <ref target="../places/gfa-places-2123">Biget's Hat Shop</ref>.</p>
+              <p>See location: <ref target="../places/gfa-places-2123">Biget’s Hat Shop</ref>.</p>
             </note>
           </person>
           <person xml:id="gfa-actors-8257">
@@ -21080,9 +21190,9 @@
             <persName type="full" xml:lang="de">Christian VI. (Dänemark und Norwegen) (1699–1746)</persName>
             <persName type="main" xml:lang="de">Christian VI. (Dänemark und Norwegen)</persName>
             <persName type="sort" xml:lang="de">christian vi. (daenemark und norwegen)</persName>
-            <persName type="full" xml:lang="en">Christian VI. (Denmark and Norway) (1699–1746)</persName>
-            <persName type="main" xml:lang="en">Christian VI. (Denmark and Norway)</persName>
-            <persName type="sort" xml:lang="en">christian vi. (denmark and norway)</persName>
+            <persName type="full" xml:lang="en">Christian VI (Denmark and Norway) (1699–1746)</persName>
+            <persName type="main" xml:lang="en">Christian VI (Denmark and Norway)</persName>
+            <persName type="sort" xml:lang="en">christian vi (denmark and norway)</persName>
             <birth when="1699-12-10"/>
             <death when="1746-08-06"/>
             <note type="description" xml:lang="de">
@@ -21132,9 +21242,9 @@
             <persName type="full" xml:lang="de">Gustav II. Adolf (Schweden) (1594–1632)</persName>
             <persName type="main" xml:lang="de">Gustav II. Adolf (Schweden)</persName>
             <persName type="sort" xml:lang="de">gustav ii. adolf (schweden)</persName>
-            <persName type="full" xml:lang="en">Gustav II. Adolf (Sweden)  (1594–1632)</persName>
-            <persName type="main" xml:lang="en">Gustav II. Adolf (Sweden)</persName>
-            <persName type="sort" xml:lang="en">gustav ii. adolf (sweden)</persName>
+            <persName type="full" xml:lang="en">Gustav II Adolf (Sweden)  (1594–1632)</persName>
+            <persName type="main" xml:lang="en">Gustav II Adolf (Sweden)</persName>
+            <persName type="sort" xml:lang="en">gustav ii adolf (sweden)</persName>
             <birth when="1594-12-19"/>
             <death when="1632-11-16"/>
             <note type="description" xml:lang="de">
@@ -21261,10 +21371,10 @@
             <persName type="main" xml:lang="de">Hieron II.</persName>
             <persName type="sort" xml:lang="de">hieron ii.</persName>
             <persName type="alternative" xml:lang="de">Hieron II. von Syrakus</persName>
-            <persName type="full" xml:lang="en">Hieron II.</persName>
-            <persName type="main" xml:lang="en">Hieron II.</persName>
-            <persName type="sort" xml:lang="en">hieron ii.</persName>
-            <persName type="alternative" xml:lang="en">Hieron II. of Syracuse</persName>
+            <persName type="full" xml:lang="en">Hieron II</persName>
+            <persName type="main" xml:lang="en">Hieron II</persName>
+            <persName type="sort" xml:lang="en">hieron ii</persName>
+            <persName type="alternative" xml:lang="en">Hieron II of Syracuse</persName>
             <note type="description" xml:lang="de">
               <p>Von 269 bis 215 v. Chr. König von <ref target="../places/gfa-places-1730">Syrakus</ref>.</p>
             </note>
@@ -21518,10 +21628,10 @@
             <persName type="main" xml:lang="de">Friedrich VI. (Dänemark und Norwegen)</persName>
             <persName type="sort" xml:lang="de">friedrich vi. (daenemark und norwegen)</persName>
             <persName type="alternative" xml:lang="de">Frederik VI.</persName>
-            <persName type="full" xml:lang="en">Frederick VI. (Denmark and Norway) (1768–1839)</persName>
-            <persName type="main" xml:lang="en">Frederick VI. (Denmark and Norway)</persName>
-            <persName type="sort" xml:lang="en">frederick vi. (denmark and norway)</persName>
-            <persName type="alternative" xml:lang="en">Frederik VI.</persName>
+            <persName type="full" xml:lang="en">Frederick VI (Denmark and Norway) (1768–1839)</persName>
+            <persName type="main" xml:lang="en">Frederick VI (Denmark and Norway)</persName>
+            <persName type="sort" xml:lang="en">frederick vi (denmark and norway)</persName>
+            <persName type="alternative" xml:lang="en">Frederik VI</persName>
             <birth when="1768-01-28"/>
             <death when="1839-12-03"/>
             <note type="description" xml:lang="de">
@@ -21530,7 +21640,7 @@
             </note>
             <note type="description" xml:lang="en">
               <p>Crown Prince and Duke of Schleswig and Holstein. King of <ref target="../places/gfa-places-32">Denmark</ref> and <ref target="../places/gfa-places-109">Norway</ref> from 1808 to 1839.</p>
-              <p>Frederick VI. was the son of the royal couple <ref target="gfa-actors-7398">Caroline Mathilde</ref> and <ref target="gfa-actors-7399">Christian VII</ref>.</p>
+              <p>Frederick VI was the son of the royal couple <ref target="gfa-actors-7398">Caroline Mathilde</ref> and <ref target="gfa-actors-7399">Christian VII</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -21976,6 +22086,7 @@
               </listBibl>
             </note>
           </person>
+          
           
           
           
@@ -22891,13 +23002,13 @@
             <note type="description" xml:lang="de">
               <p>1612 offiziell gegründete Bildungsstätte in Stockholm, in der auf Deutsch unterrichtet wird.</p>
               <p>Die Deutsche Schule Stockholm hat ihre Wurzeln in der Gründung der Deutschen Evangelischen Gemeinde im Jahr 1558. Das Recht, eine eigene Schule zu führen, wurde der Gemeinde erstmals 1612 durch einen königlichen Privilegienbrief bestätigt. Die Schule hatte unter der Trägerschaft der Evangelischen Gemeinde bis 1888 Bestand, danach führte die Gemeinde eine reine Sprachschule fort. Die heutige Institution ist 1953 unter der Trägerschaft eines Schulvereins entstanden.</p>
-              <p>Während seines Aufenthalts in Stockholm lernte Johann Conrad Fischer den <ref target="gfa-actors-7412">Rektor</ref> der Schule kennen, welcher ihm die <ref target="https://archives.georgfischer.com/keywords/8397">Sammlung</ref> der Schule zeigte.</p>
+              <p>Während seines Aufenthalts in Stockholm lernte Johann Conrad Fischer den <ref target="gfa-actors-7412">Rektor</ref> der Schule kennen, welcher ihm die <ref target="../keywords/gfa-keywords-8397">Sammlung</ref> der Schule zeigte.</p>
               <p>Siehe Standort: <ref target="../places/gfa-places-2155">Deutsche Schule</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An educational institution in Stockholm, officially founded in 1612; instruction is given in German.</p>
               <p>The roots of the German School Stockholm go back to the founding of the German Evangelical Community in 1558. The right to have its own school was first confirmed by royal charter in 1612. The school continued to operate under the auspices of the Evangelical Community until 1888, after which it operated purely as a language school. The current institution was created in 1953 under the sponsorship of a School Society.</p>
-              <p>During his stay in Stockholm, Johann Conrad Fischer made the acquaintance of the <ref target="gfa-actors-7412">Schoolʼs Rector</ref>, who showed him the <ref target="https://archives.georgfischer.com/keywords/8397">schoolʼs collection</ref>.</p>
+              <p>During his stay in Stockholm, Johann Conrad Fischer made the acquaintance of the <ref target="gfa-actors-7412">Schoolʼs Rector</ref>, who showed him the <ref target="../keywords/gfa-keywords-8397">schoolʼs collection</ref>.</p>
               <p>See location: <ref target="../places/gfa-places-2155">German School Stockholm</ref>.Place: <ref target="../places/gfa-places-2155">Deutsche Schule</ref>.</p>
             </note>
             <listBibl>
@@ -23904,7 +24015,7 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Französische Firma, benannt nach den Gründern und ersten Inhabern <ref target="gfa-actors-7838">Francois-Pierre Gast</ref>, <ref target="gfa-actors-8133">Jean-Georges Human</ref> und <ref target="gfa-actors-8134">Florent Saglio</ref>.</p>
+              <p>Französische Firma, benannt nach den Gründern und ersten Inhabern <ref target="gfa-actors-7838">François-Pierre Gast</ref>, <ref target="gfa-actors-8133">Jean-Georges Human</ref> und <ref target="gfa-actors-8134">Florent Saglio</ref>.</p>
               <p>Sie kauften 1809 die Schmieden in <ref target="../places/gfa-places-1313">Audincourt</ref>, Chagey, Bourguignon und Pont-de-Roide-Vermondans auf.</p>
               <p>Siehe Standort: <ref target="../places/gfa-places-2057">Forges d’Audincourt</ref>.</p>
             </note>
@@ -23916,7 +24027,6 @@
             <note type="sources">
               <listBibl>
                 <bibl>Antonetti, Guy: Les ministres des finances de la Révolution française au Second empire. Dictionnaire biographique 1814–1848. Band 2. Vincennes  2007, S. 327–397 (<ref target="http://books.openedition.org/igpde/903">OpenEdition Books</ref>, Stand 19.1.2022).</bibl>
-                <bibl>Fagniez, André: Francois-Pierre Gast. In: Geneanet (<ref target="https://gw.geneanet.org/afag?n=gast&amp;oc=&amp;p=francois+pierre">Geneanet</ref>, Stand 17.10.2022).</bibl>
                 <bibl>Fischer, Johann Conrad: Tagebücher. Bearbeitet von Karl Schib. Schaffhausen 1951.</bibl>
                 <bibl>Pays de Montbéliard Agglomération.</bibl>
               </listBibl>
@@ -24534,10 +24644,10 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>In einigen europäischen Ländern bestehende Gesellschaften, die für den Handel mit <ref target="../places/gfa-places-67">Indien</ref> sowie <ref target="https://archives.georgfischer.com/places/713">Südost-</ref> und <ref target="../places/gfa-places-7">Ostasien</ref> privilegiert waren.</p>
+              <p>In einigen europäischen Ländern bestehende Gesellschaften, die für den Handel mit <ref target="../places/gfa-places-67">Indien</ref> sowie <ref target="../places/gfa-places-713">Südost-</ref> und <ref target="../places/gfa-places-7">Ostasien</ref> privilegiert waren.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>East India companies, which existed in various European countries, enjoyed privileges in the trade with <ref target="../places/gfa-places-67">India</ref>, <ref target="https://archives.georgfischer.com/places/713">Southeast Asia</ref> and the <ref target="../places/gfa-places-7">Far East</ref>.</p>
+              <p>East India companies, which existed in various European countries, enjoyed privileges in the trade with <ref target="../places/gfa-places-67">India</ref>, <ref target="../places/gfa-places-713">Southeast Asia</ref> and the <ref target="../places/gfa-places-7">Far East</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -25753,11 +25863,11 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Deutsche Verlagsbuchhandlung in <ref target="https://archives.georgfischer.com/places/1101">Tübingen</ref>.</p>
+              <p>Deutsche Verlagsbuchhandlung in <ref target="../places/gfa-places-1101">Tübingen</ref>.</p>
               <p>Im Jahr 1977 wurde die Buchhandlung von der Firma Ernst Klett (Verlag und Druckerei) erworben.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>A German publishing house in <ref target="https://archives.georgfischer.com/places/1101">Tübingen</ref>.</p>
+              <p>A German publishing house in <ref target="../places/gfa-places-1101">Tübingen</ref>.</p>
               <p>The firm was purchased in 1977 by the publisher and printer Ernst Klett.</p>
             </note>
             <listBibl>
@@ -26168,7 +26278,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-12-08T20:00:58+01:00">teiHeader was automatically produced from the database 2023-12-08T20:00:58+01:00</change>
+      <change when="2023-12-11T18:37:11+01:00">teiHeader was automatically produced from the database 2023-12-11T18:37:11+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
