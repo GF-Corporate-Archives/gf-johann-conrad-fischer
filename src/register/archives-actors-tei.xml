@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-12-14 13:17:37 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-15 11:42:42 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -4293,11 +4293,11 @@
             <death when="1806-09-11"/>
             <note type="description" xml:lang="de">
               <p>Rektor der Deutschen Schule in Stockholm.</p>
-              <p>Während seines Aufenthalts in Stockholm verkehrte Johann Conrad Fischer mit Johann Joachim Friedrich Plagemann. In seinem Tagebuch von 1794 beschreibt Fischer detailliert <ref target="https://archives.georgfischer.com/keywords/8397">Plagemanns Sammlung</ref> von mikroskopischen Objekten.</p>
+              <p>Während seines Aufenthalts in Stockholm verkehrte Johann Conrad Fischer mit Johann Joachim Friedrich Plagemann. In seinem Tagebuch von 1794 beschreibt Fischer detailliert <ref target="../keywords/gfa-keywords-8397">Plagemanns Sammlung</ref> von mikroskopischen Objekten.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Rector of the German School in Stockholm.</p>
-              <p>While staying in Stockholm, Johann Conrad Fischer became acquainted with Johann Joachim Friedrich Plagemann. In his 1794 Journal, Fischer describes in detail <ref target="https://archives.georgfischer.com/keywords/8397">Plagemannʼs collection</ref> of microscopic objects.</p>
+              <p>While staying in Stockholm, Johann Conrad Fischer became acquainted with Johann Joachim Friedrich Plagemann. In his 1794 Journal, Fischer describes in detail <ref target="../keywords/gfa-keywords-8397">Plagemannʼs collection</ref> of microscopic objects.</p>
             </note>
             <listBibl>
               <bibl>
@@ -5266,11 +5266,11 @@
             <death when="1873-01-09"/>
             <note type="description" xml:lang="de">
               <p>Französischer Staatspräsident (1848–1852), später Kaiser der Franzosen (1852–1870).</p>
-              <p>Auf seiner Reise nach London an die <ref target="../keywords/gfa-keywords-8436">Weltausstellung</ref> begegnete Johann Conrad Fischer mehrmals dem <ref target="gfa-actors-7449">Kantonsrat Friedrich Ferdinand Ammann</ref>. Dessen Vater, Hartmann Friedrich Ammann, hatte engen Kontakt zum damals im Exil auf Schloss Arenenberg (<ref target="https://archives.georgfischer.com/places/1117">Salenstein</ref> TG) wohnhaften Charles-Louis-Napoléon Bonaparte. Ammann der Ältere vermittelte Bonaparte sein Wissen über die <ref target="../keywords/gfa-keywords-8807">Artillerie</ref> auf dem Waffenplatz Thun, wo dieser auch das Offiziersbrevet der Schweizer Armee erwarb. Später gründeten die beiden Männer im <ref target="../places/gfa-places-984">Ermatinger</ref> «Hirschen» die Thurgauische Schützengesellschaft.</p>
+              <p>Auf seiner Reise nach London an die <ref target="../keywords/gfa-keywords-8436">Weltausstellung</ref> begegnete Johann Conrad Fischer mehrmals dem <ref target="gfa-actors-7449">Kantonsrat Friedrich Ferdinand Ammann</ref>. Dessen Vater, Hartmann Friedrich Ammann, hatte engen Kontakt zum damals im Exil auf Schloss Arenenberg (<ref target="../places/gfa-places-1117">Salenstein</ref> TG) wohnhaften Charles-Louis-Napoléon Bonaparte. Ammann der Ältere vermittelte Bonaparte sein Wissen über die <ref target="../keywords/gfa-keywords-8807">Artillerie</ref> auf dem Waffenplatz Thun, wo dieser auch das Offiziersbrevet der Schweizer Armee erwarb. Später gründeten die beiden Männer im <ref target="../places/gfa-places-984">Ermatinger</ref> «Hirschen» die Thurgauische Schützengesellschaft.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>President of France (1848–1852); later Emperor of France (1852–1870).</p>
-              <p>Johann Conrad Fischer met the cantonal councillor <ref target="gfa-actors-7449">Friedrich Ferdinand Ammann</ref> several times when he was in London for the <ref target="../keywords/gfa-keywords-8436">Great Exhibition</ref>. His father, Hartmann Friedrich Ammann, had been in close contact with Charles-Louis-Napoléon Bonaparte, then living in exile in Arenenberg Castle in <ref target="https://archives.georgfischer.com/places/1117">Salenstein</ref>, Canton of Thurgau. Ammann the elder instructed Bonaparte in the science of <ref target="../keywords/gfa-keywords-8807">artillery</ref> at the garrison in Thun, where Napoleon became an officer in the Swiss army. The two men later founded the Thurgau Rifle Association in the restaurant Hirschen in <ref target="../places/gfa-places-984">Ermatingen</ref>.</p>
+              <p>Johann Conrad Fischer met the cantonal councillor <ref target="gfa-actors-7449">Friedrich Ferdinand Ammann</ref> several times when he was in London for the <ref target="../keywords/gfa-keywords-8436">Great Exhibition</ref>. His father, Hartmann Friedrich Ammann, had been in close contact with Charles-Louis-Napoléon Bonaparte, then living in exile in Arenenberg Castle in <ref target="../places/gfa-places-1117">Salenstein</ref>, Canton of Thurgau. Ammann the elder instructed Bonaparte in the science of <ref target="../keywords/gfa-keywords-8807">artillery</ref> at the garrison in Thun, where Napoleon became an officer in the Swiss army. The two men later founded the Thurgau Rifle Association in the restaurant Hirschen in <ref target="../places/gfa-places-984">Ermatingen</ref>.</p>
             </note>
             <listBibl>
               <bibl type="image">
@@ -8007,11 +8007,11 @@
             <death when="1792-12-20"/>
             <note type="description" xml:lang="de">
               <p>Schwedischer Bergbauexperte, Mineraloge und Chemiker.</p>
-              <p>Sven Rinman hatte grossen Einfluss auf die Entwicklung des <ref target="https://archives.georgfischer.com/keywords/296">Bergbaus</ref> und der <ref target="../keywords/gfa-keywords-9502">Stahlproduktion</ref> in <ref target="../places/gfa-places-133">Schweden</ref>. Er ist vor allem durch das nach ihm benannte Pigment Rinmans Grün bekannt geworden, dessen Entstehung auch als Nachweisreaktion für <ref target="../keywords/gfa-keywords-9636">Zink</ref> gilt.</p>
+              <p>Sven Rinman hatte grossen Einfluss auf die Entwicklung des <ref target="../keywords/gfa-keywords-296">Bergbaus</ref> und der <ref target="../keywords/gfa-keywords-9502">Stahlproduktion</ref> in <ref target="../places/gfa-places-133">Schweden</ref>. Er ist vor allem durch das nach ihm benannte Pigment Rinmans Grün bekannt geworden, dessen Entstehung auch als Nachweisreaktion für <ref target="../keywords/gfa-keywords-9636">Zink</ref> gilt.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Swedish mining expert, mineralogist and chemist.</p>
-              <p>Sven Rinman had a major influence on the development of <ref target="https://archives.georgfischer.com/keywords/296">mining</ref> and <ref target="../keywords/gfa-keywords-9502">steel production</ref> in <ref target="../places/gfa-places-133">Sweden</ref>. He is known mainly for the pigment named after him, Rinman’s green, the presence of which serves to detect <ref target="../keywords/gfa-keywords-9636">zinc</ref>.</p>
+              <p>Sven Rinman had a major influence on the development of <ref target="../keywords/gfa-keywords-296">mining</ref> and <ref target="../keywords/gfa-keywords-9502">steel production</ref> in <ref target="../places/gfa-places-133">Sweden</ref>. He is known mainly for the pigment named after him, Rinman’s green, the presence of which serves to detect <ref target="../keywords/gfa-keywords-9636">zinc</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -8153,11 +8153,11 @@
             <death when="1868-02-29"/>
             <note type="description" xml:lang="de">
               <p>König des Königreichs Bayern aus dem Geschlecht der Wittelsbacher.</p>
-              <p>In die Regierungszeit von Ludwig I. fiel die Einrichtung zahlreicher Kunstsammlungen und klassizistischer Bauten. Die erste im Dezember 1835 eröffnete Eisenbahnlinie in <ref target="../places/gfa-places-35">Deutschland</ref> von <ref target="https://archives.georgfischer.com/places/1114">Nürnberg</ref> nach Fürth trägt seinen Namen. Die Hochzeit Ludwigs I. im Jahr 1810 mit Therese von Sachsen-Hildburghausen begründete das Oktoberfest.</p>
+              <p>In die Regierungszeit von Ludwig I. fiel die Einrichtung zahlreicher Kunstsammlungen und klassizistischer Bauten. Die erste im Dezember 1835 eröffnete Eisenbahnlinie in <ref target="../places/gfa-places-35">Deutschland</ref> von <ref target="../places/gfa-places-1114">Nürnberg</ref> nach Fürth trägt seinen Namen. Die Hochzeit Ludwigs I. im Jahr 1810 mit Therese von Sachsen-Hildburghausen begründete das Oktoberfest.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>King of the Kingdom of Bavaria, a member of the Wittelsbach family.</p>
-              <p>The reign of Ludwig I coincided with the creation of numerous art collections and the spread of neoclassical architecture. The first railway line in <ref target="../places/gfa-places-35">Germany</ref>, from <ref target="https://archives.georgfischer.com/places/1114">Nuremberg</ref> to Fürth, which opened in December 1835, bears his name. His marriage in 1810 to Therese von Sachsen-Hildburghausen marks the beginning of the Oktoberfest.</p>
+              <p>The reign of Ludwig I coincided with the creation of numerous art collections and the spread of neoclassical architecture. The first railway line in <ref target="../places/gfa-places-35">Germany</ref>, from <ref target="../places/gfa-places-1114">Nuremberg</ref> to Fürth, which opened in December 1835, bears his name. His marriage in 1810 to Therese von Sachsen-Hildburghausen marks the beginning of the Oktoberfest.</p>
             </note>
             <listBibl>
               <bibl>
@@ -8749,12 +8749,12 @@
             <death when="1809-08-18"/>
             <note type="description" xml:lang="de">
               <p>Englischer Ingenieur, Medailleur und Unternehmer der frühen Industriellen Revolution.</p>
-              <p>Matthew Boulton entwickelte und vertrieb zusammen mit <ref target="gfa-actors-7523">James Watt</ref> <ref target="../keywords/gfa-keywords-8651">Dampfmaschinen</ref> in der <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. Die beiden Herren gründeten ausserdem eine <ref target="../keywords/gfa-keywords-9329">Münzwerkstätte</ref>, die Soho Mint, und weitere Fabriken. Unter dem Einfluss der Gedanken Jean-Jacques Rousseaus führte Boulton in seinen Fabriken eine <ref target="https://archives.georgfischer.com/keywords/1138">Sozialversicherung</ref> für die Mitarbeiter ein.</p>
+              <p>Matthew Boulton entwickelte und vertrieb zusammen mit <ref target="gfa-actors-7523">James Watt</ref> <ref target="../keywords/gfa-keywords-8651">Dampfmaschinen</ref> in der <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. Die beiden Herren gründeten ausserdem eine <ref target="../keywords/gfa-keywords-9329">Münzwerkstätte</ref>, die Soho Mint, und weitere Fabriken. Unter dem Einfluss der Gedanken Jean-Jacques Rousseaus führte Boulton in seinen Fabriken eine <ref target="../keywords/gfa-keywords-1138">Sozialversicherung</ref> für die Mitarbeiter ein.</p>
               <p>Ab 1800 führten sein Sohn, <ref target="gfa-actors-7573">Matthew Robinson Boulton</ref>, und <ref target="gfa-actors-7572">James Watt Junior</ref>, als Geschäftsführer die Firma <ref target="gfa-actors-7571">Boulton &amp; Watt</ref> weiter.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>English engineer, medal- and coin-maker and entrepreneur of the early Industrial Revolution.</p>
-              <p>Matthew Boulton, together with <ref target="gfa-actors-7523">James Watt</ref>, developed and sold <ref target="../keywords/gfa-keywords-8651">steam engines</ref> manufactured at his <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. The two men also established a <ref target="../keywords/gfa-keywords-9329">mint facility</ref>, the Soho Mint, as well as other factories. Influenced by the thinking of Jean-Jacques Rousseau, Boulton set up a <ref target="https://archives.georgfischer.com/keywords/1138">social insurance</ref> plan for his factory employees.</p>
+              <p>Matthew Boulton, together with <ref target="gfa-actors-7523">James Watt</ref>, developed and sold <ref target="../keywords/gfa-keywords-8651">steam engines</ref> manufactured at his <ref target="../places/gfa-places-1694">Soho Foundry</ref> in <ref target="../places/gfa-places-20">Birmingham</ref>. The two men also established a <ref target="../keywords/gfa-keywords-9329">mint facility</ref>, the Soho Mint, as well as other factories. Influenced by the thinking of Jean-Jacques Rousseau, Boulton set up a <ref target="../keywords/gfa-keywords-1138">social insurance</ref> plan for his factory employees.</p>
               <p>In 1800, his son, <ref target="gfa-actors-7573">Matthew Robinson Boulton</ref>, and <ref target="gfa-actors-7572">James Watt Junior</ref>, took over as managers of the firm of <ref target="gfa-actors-7571">Boulton &amp; Watt</ref>.</p>
             </note>
             <listBibl>
@@ -23002,13 +23002,13 @@
             <note type="description" xml:lang="de">
               <p>1612 offiziell gegründete Bildungsstätte in Stockholm, in der auf Deutsch unterrichtet wird.</p>
               <p>Die Deutsche Schule Stockholm hat ihre Wurzeln in der Gründung der Deutschen Evangelischen Gemeinde im Jahr 1558. Das Recht, eine eigene Schule zu führen, wurde der Gemeinde erstmals 1612 durch einen königlichen Privilegienbrief bestätigt. Die Schule hatte unter der Trägerschaft der Evangelischen Gemeinde bis 1888 Bestand, danach führte die Gemeinde eine reine Sprachschule fort. Die heutige Institution ist 1953 unter der Trägerschaft eines Schulvereins entstanden.</p>
-              <p>Während seines Aufenthalts in Stockholm lernte Johann Conrad Fischer den <ref target="gfa-actors-7412">Rektor</ref> der Schule kennen, welcher ihm die <ref target="https://archives.georgfischer.com/keywords/8397">Sammlung</ref> der Schule zeigte.</p>
+              <p>Während seines Aufenthalts in Stockholm lernte Johann Conrad Fischer den <ref target="gfa-actors-7412">Rektor</ref> der Schule kennen, welcher ihm die <ref target="../keywords/gfa-keywords-8397">Sammlung</ref> der Schule zeigte.</p>
               <p>Siehe Standort: <ref target="../places/gfa-places-2155">Deutsche Schule</ref>.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>An educational institution in Stockholm, officially founded in 1612; instruction is given in German.</p>
               <p>The roots of the German School Stockholm go back to the founding of the German Evangelical Community in 1558. The right to have its own school was first confirmed by royal charter in 1612. The school continued to operate under the auspices of the Evangelical Community until 1888, after which it operated purely as a language school. The current institution was created in 1953 under the sponsorship of a School Society.</p>
-              <p>During his stay in Stockholm, Johann Conrad Fischer made the acquaintance of the <ref target="gfa-actors-7412">Schoolʼs Rector</ref>, who showed him the <ref target="https://archives.georgfischer.com/keywords/8397">schoolʼs collection</ref>.</p>
+              <p>During his stay in Stockholm, Johann Conrad Fischer made the acquaintance of the <ref target="gfa-actors-7412">Schoolʼs Rector</ref>, who showed him the <ref target="../keywords/gfa-keywords-8397">schoolʼs collection</ref>.</p>
               <p>See location: <ref target="../places/gfa-places-2155">German School Stockholm</ref>.Place: <ref target="../places/gfa-places-2155">Deutsche Schule</ref>.</p>
             </note>
             <listBibl>
@@ -24644,10 +24644,10 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>In einigen europäischen Ländern bestehende Gesellschaften, die für den Handel mit <ref target="../places/gfa-places-67">Indien</ref> sowie <ref target="https://archives.georgfischer.com/places/713">Südost-</ref> und <ref target="../places/gfa-places-7">Ostasien</ref> privilegiert waren.</p>
+              <p>In einigen europäischen Ländern bestehende Gesellschaften, die für den Handel mit <ref target="../places/gfa-places-67">Indien</ref> sowie <ref target="../places/gfa-places-713">Südost-</ref> und <ref target="../places/gfa-places-7">Ostasien</ref> privilegiert waren.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>East India companies, which existed in various European countries, enjoyed privileges in the trade with <ref target="../places/gfa-places-67">India</ref>, <ref target="https://archives.georgfischer.com/places/713">Southeast Asia</ref> and the <ref target="../places/gfa-places-7">Far East</ref>.</p>
+              <p>East India companies, which existed in various European countries, enjoyed privileges in the trade with <ref target="../places/gfa-places-67">India</ref>, <ref target="../places/gfa-places-713">Southeast Asia</ref> and the <ref target="../places/gfa-places-7">Far East</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -25870,11 +25870,11 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Deutsche Verlagsbuchhandlung in <ref target="https://archives.georgfischer.com/places/1101">Tübingen</ref>.</p>
+              <p>Deutsche Verlagsbuchhandlung in <ref target="../places/gfa-places-1101">Tübingen</ref>.</p>
               <p>Im Jahr 1977 wurde die Buchhandlung von der Firma Ernst Klett (Verlag und Druckerei) erworben.</p>
             </note>
             <note type="description" xml:lang="en">
-              <p>A German publishing house in <ref target="https://archives.georgfischer.com/places/1101">Tübingen</ref>.</p>
+              <p>A German publishing house in <ref target="../places/gfa-places-1101">Tübingen</ref>.</p>
               <p>The firm was purchased in 1977 by the publisher and printer Ernst Klett.</p>
             </note>
             <listBibl>
@@ -26288,7 +26288,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-12-14T13:17:44+01:00">teiHeader was automatically produced from the database 2023-12-14T13:17:44+01:00</change>
+      <change when="2023-12-15T11:42:49+01:00">teiHeader was automatically produced from the database 2023-12-15T11:42:49+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

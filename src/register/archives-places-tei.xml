@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-12-14 13:17:44 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-15 11:42:49 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -3751,11 +3751,11 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Frühere Industriestadt und zweitgrösste Stadt im Kanton Zürich.</p>
-              <p>Im 19. Jahrhundert entwickelte sich Winterthur von einer industrialisierten Gewerbestadt zur Industriestadt, insbesondere Textil- und Maschinenindustrie. Die Fabriken der Giesserei <ref target="../names/gfa-actors-177">Sulzer</ref>, die <ref target="../names/gfa-actors-827">Schweizerische Lokomotiv- und Maschinenfabrik</ref> sowie die Fabrikgebäude von Rieter bildeten das grösste Industriegebiet der Schweiz.</p>
+              <p>Im 19. Jahrhundert entwickelte sich Winterthur von einer industrialisierten Gewerbestadt zur Industriestadt, insbesondere Textil- und Maschinenindustrie. Die Fabriken der Giesserei <ref target="https://archives.georgfischer.com/actors/177">Sulzer</ref>, die <ref target="https://archives.georgfischer.com/actors/827">Schweizerische Lokomotiv- und Maschinenfabrik</ref> sowie die Fabrikgebäude von Rieter bildeten das grösste Industriegebiet der Schweiz.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Former industrial city and second largest city in the canton of Zurich.</p>
-              <p>During the 19th century, Winterthur developed from an industrialised commercial city to an industrial city, especially textile and machine industry. The factories of the [Sulzer] foundry(https://archives.georgfischer.com/actors/177), the <ref target="../names/gfa-actors-827">Schweizerische Lokomotiv- und Maschinenfabrik</ref> and the Rieter factory buildings formed the largest industrial area in Switzerland.</p>
+              <p>During the 19th century, Winterthur developed from an industrialised commercial city to an industrial city, especially textile and machine industry. The factories of the [Sulzer] foundry(https://archives.georgfischer.com/actors/177), the <ref target="https://archives.georgfischer.com/actors/827">Schweizerische Lokomotiv- und Maschinenfabrik</ref> and the Rieter factory buildings formed the largest industrial area in Switzerland.</p>
             </note>
           </place>
           
@@ -12165,11 +12165,11 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Ehemaliges Herzogtum, später Königreich in Norddeutschland, hervorgegangen aus dem Kurfürstentum Brandenburg.</p>
-              <p>Unter <ref target="../names/gfa-actors-6300">Friedrich II. (1712–1786)</ref> stieg Preussen zu einer europäischen Grossmacht auf. Preussen war ein Gliedstaat im 1815 gegründeten Deutschen Bund.</p>
+              <p>Unter <ref target="https://archives.georgfischer.com/actors/6300">Friedrich II. (1712–1786)</ref> stieg Preussen zu einer europäischen Grossmacht auf. Preussen war ein Gliedstaat im 1815 gegründeten Deutschen Bund.</p>
             </note>
             <note type="description" xml:lang="en">
               <p>Originally a duchy, later a kingdom in northern Germany, which developed out of the state known as the Electorate of Brandenburg.</p>
-              <p>Under <ref target="../names/gfa-actors-6300">Frederick II</ref> (1712–1786), Prussia became a major European power. It was one of the member states of the German Confederation founded in 1815.</p>
+              <p>Under <ref target="https://archives.georgfischer.com/actors/6300">Frederick II</ref> (1712–1786), Prussia became a major European power. It was one of the member states of the German Confederation founded in 1815.</p>
             </note>
           </place>
           <place type="S" xml:id="gfa-places-1567">
@@ -38100,7 +38100,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-12-14T13:17:53+01:00">teiHeader was automatically produced from the database 2023-12-14T13:17:53+01:00</change>
+      <change when="2023-12-15T11:42:57+01:00">teiHeader was automatically produced from the database 2023-12-15T11:42:57+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

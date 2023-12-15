@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-12-14 13:17:53 aus Konzernarchiv der Georg Fischer AG</p>
+        <p>Datenbankexport vom 2023-12-15 11:42:58 aus Konzernarchiv der Georg Fischer AG</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2023-12-14T13:17:53+01:00">teiHeader was automatically produced from the database 2023-12-14T13:17:53+01:00</change>
+      <change when="2023-12-15T11:42:58+01:00">teiHeader was automatically produced from the database 2023-12-15T11:42:58+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -291,13 +291,13 @@
         </item>
         
         <item xml:id="gfa-keywords-90">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Ofen</label>
           <label xml:lang="de" type="sort">ofen</label>
           <note type="description" xml:lang="de">
             <p>Einrichtung zur kontrollierten Erzeugung und Übertragung von Wärme.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">furnace</label>
           <label xml:lang="en" type="sort">furnace</label>
           <note type="description" xml:lang="en">
@@ -695,14 +695,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-238">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Kupolofen</label>
           <label xml:lang="de" type="sort">kupolofen</label>
           <note type="description" xml:lang="de">
             <p>Historischer Schachtofen zum Schmelzen von Gusseisen aus Roheisen und Schrott. Erreicht im Vergleich zum Hochofen nicht die Temperaturen für die Reduktion von <ref target="gfa-keywords-316">Eisenerz</ref>.</p>
             <p>Auch Cupolofen genannt.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">cupola furnace</label>
           <label xml:lang="en" type="sort">cupola furnace</label>
           <note type="description" xml:lang="en">
@@ -812,13 +812,13 @@
         
         
         <item xml:id="gfa-keywords-288">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Hochofen</label>
           <label xml:lang="de" type="sort">hochofen</label>
           <note type="description" xml:lang="de">
             <p>Grosstechnische Anlage, mit der aus aufbereiteten Eisenerzen in einem kontinuierlichen Reduktions- und Schmelzprozess flüssiges Roheisen erzeugt wird.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">blast furnace</label>
           <label xml:lang="en" type="sort">blast furnace</label>
           <note type="description" xml:lang="en">
@@ -986,14 +986,14 @@
         
         
         <item xml:id="gfa-keywords-336">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Schlacke</label>
           <label xml:lang="de" type="sort">schlacke</label>
           <note type="description" xml:lang="de">
             <p>Nichtmetallisches Stoffgemisch und Begleitprodukt in der Erzverhüttung oder beim Schmelzen von Metallen.</p>
             <p>Die Hochofenschlacke entsteht als Nebenprodukt bei der Roheisengewinnung im Hochofen.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">slag</label>
           <label xml:lang="en" type="sort">slag</label>
           <note type="description" xml:lang="en">
@@ -2236,13 +2236,13 @@
         
         
         <item xml:id="gfa-keywords-2908">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Schmelzofen</label>
           <label xml:lang="de" type="sort">schmelzofen</label>
           <note type="description" xml:lang="de">
             <p>Ofen zum industriellen Schmelzen von Erzen, Metallen und Glas.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">melting furnace</label>
           <label xml:lang="en" type="sort">melting furnace</label>
           <note type="description" xml:lang="en">
@@ -2384,14 +2384,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-2965">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Alteisen</label>
           <label xml:lang="de" type="sort">alteisen</label>
           <note type="description" xml:lang="de">
             <p>Produkt, das bei der Verschrottung metallhaltiger Erzeugnisse entsteht und als Sekundärrohstoff dient.</p>
             <p>Auch Altmetall, Schrott oder Brucheisen genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">scrap iron</label>
           <label xml:lang="en" type="sort">scrap iron</label>
           <note type="description" xml:lang="en">
@@ -6280,14 +6280,14 @@
           <label xml:lang="de" type="sort">uhlhornsche presse</label>
           <note type="description" xml:lang="de">
             <p>Vom deutschen Konstrukteur <ref target="../names/gfa-actors-7960">Diedrich Uhlhorn</ref> (1764–1837) erfundene Kniehebelpresse zum Prägen von <ref target="gfa-keywords-9326">Münzen</ref> und <ref target="gfa-keywords-9303">Medaillen</ref>.</p>
-            <p>Ein oder zwei Hebel, die einem menschlichen Knie ähneln, verleihen dieser Presse ihren Namen. Zum Prägen war, je nach Münzart, die Kraft von einem bis zu vier Menschen notwendig. Bis zum Tod von Diedrich Uhlhorn wurden insgesamt dreissig Kniehebelpressen ausgeliefert. Sie gingen unter anderem nach <ref target="../places/gfa-places-38">Düsseldorf</ref> und <ref target="../places/gfa-places-16">Berlin</ref>, nach <ref target="../places/gfa-places-461">Utrecht</ref>, <ref target="../places/gfa-places-247">Wien</ref>, <ref target="../places/gfa-places-98">München</ref>, <ref target="../places/gfa-places-1123">Karlsruhe</ref>, Schwerin, Wiesbaden, <ref target="../places/gfa-places-408">Skandinavien</ref> und <ref target="../places/gfa-places-72">Italien</ref>.</p>
+            <p>Ein oder zwei Hebel, die einem menschlichen Knie ähneln, verleihen dieser Presse ihren Namen. Zum Prägen war, je nach Münzart, die Kraft von einem bis zu vier Menschen notwendig. Bis zum Tod von Diedrich Uhlhorn wurden insgesamt dreissig Kniehebelpressen ausgeliefert. Sie gingen unter anderem nach <ref target="https://archives.georgfischer.com/places/38">Düsseldorf</ref> und <ref target="../places/gfa-places-16">Berlin</ref>, nach <ref target="https://archives.georgfischer.com/places/461">Utrecht</ref>, <ref target="../places/gfa-places-247">Wien</ref>, <ref target="../places/gfa-places-98">München</ref>, <ref target="../places/gfa-places-1123">Karlsruhe</ref>, Schwerin, Wiesbaden, <ref target="https://archives.georgfischer.com/places/408">Skandinavien</ref> und <ref target="../places/gfa-places-72">Italien</ref>.</p>
           </note>
           <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">toggle press</label>
           <label xml:lang="en" type="sort">toggle press</label>
           <note type="description" xml:lang="en">
             <p>The toggle press for minting <ref target="gfa-keywords-9326">coins</ref> and <ref target="gfa-keywords-9303">medals</ref>, invented by the German inventor <ref target="../names/gfa-actors-7960">Diedrich Uhlhorn</ref> (1764–1837).</p>
-            <p>The press takes its name in German (lit. ‘knee-lever press‘) from its toggle levers (one or two) that resemble a human knee. Depending on the type of coin, between one and four men were needed to press the levers. A total of thirty toggle presses had been delivered by the time Diedrich Uhlhorn died. They were delivered to destinations as varied as <ref target="../places/gfa-places-38">Düsseldorf</ref> and <ref target="../places/gfa-places-16">Berlin</ref>, <ref target="../places/gfa-places-461">Utrecht</ref>, <ref target="../places/gfa-places-247">Vienna</ref>, <ref target="../places/gfa-places-98">Munich</ref>, <ref target="../places/gfa-places-1123">Karlsruhe</ref>, Schwerin, Wiesbaden, <ref target="../places/gfa-places-408">Scandinavia</ref> and <ref target="../places/gfa-places-72">Italy</ref>.</p>
+            <p>The press takes its name in German (lit. ‘knee-lever press‘) from its toggle levers (one or two) that resemble a human knee. Depending on the type of coin, between one and four men were needed to press the levers. A total of thirty toggle presses had been delivered by the time Diedrich Uhlhorn died. They were delivered to destinations as varied as <ref target="https://archives.georgfischer.com/places/38">Düsseldorf</ref> and <ref target="../places/gfa-places-16">Berlin</ref>, <ref target="https://archives.georgfischer.com/places/461">Utrecht</ref>, <ref target="../places/gfa-places-247">Vienna</ref>, <ref target="../places/gfa-places-98">Munich</ref>, <ref target="../places/gfa-places-1123">Karlsruhe</ref>, Schwerin, Wiesbaden, <ref target="https://archives.georgfischer.com/places/408">Scandinavia</ref> and <ref target="../places/gfa-places-72">Italy</ref>.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -7191,14 +7191,14 @@
           <label xml:lang="de" type="main">Entente Cordiale von 1843</label>
           <label xml:lang="de" type="sort">entente cordiale von 1843</label>
           <note type="description" xml:lang="de">
-            <p>Bündnis zwischen <ref target="../places/gfa-places-48">Frankreich</ref> und dem <ref target="../places/gfa-places-857">Vereinigten Königreich</ref>, das vom 7. September 1843 bis Oktober 1846 anhielt.</p>
+            <p>Bündnis zwischen <ref target="../places/gfa-places-48">Frankreich</ref> und dem <ref target="https://archives.georgfischer.com/places/857">Vereinigten Königreich</ref>, das vom 7. September 1843 bis Oktober 1846 anhielt.</p>
             <p>Diese Entente Cordiale war kein durch einen Vertrag bestätigtes Bündnis, sondern vielmehr eine Geisteshaltung.</p>
           </note>
           <objectType xml:lang="en">politics, society, social affairs</objectType>
           <label xml:lang="en" type="main">Entente Cordiale of 1843</label>
           <label xml:lang="en" type="sort">entente cordiale of 1843</label>
           <note type="description" xml:lang="en">
-            <p>An alliance between <ref target="../places/gfa-places-48">France</ref> and the <ref target="../places/gfa-places-857">United Kingdom</ref> that lasted from 7 September 1843 to October 1846.</p>
+            <p>An alliance between <ref target="../places/gfa-places-48">France</ref> and the <ref target="https://archives.georgfischer.com/places/857">United Kingdom</ref> that lasted from 7 September 1843 to October 1846.</p>
             <p>The Entente Cordiale was not an alliance confirmed by treaty but rather a frame of mind.</p>
           </note>
           <note type="sources">
@@ -8371,14 +8371,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-8491">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Wilkinson’scher Ofen</label>
           <label xml:lang="de" type="sort">wilkinson’scher ofen</label>
           <note type="description" xml:lang="de">
             <p><ref target="gfa-keywords-288">Hochofen</ref>, bei dem die Luftversorgung durch ein neues Balgdesign verbessert wurde.</p>
             <p>Diese Innovation ist dem englischen Erfinder <ref target="../names/gfa-actors-7601">John Wilkinson</ref> zuzuschreiben. Der Wilkinson’sche Ofen besitzt drei <ref target="gfa-keywords-9715">Düsen</ref>, was Johann Conrad Fischer in seinem Tagebuch von 1851 rühmt, denn sechs Düsen würden Futter und Mantel zu sehr schwächen.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">Wilkinson’s furnace</label>
           <label xml:lang="en" type="sort">wilkinson’s furnace</label>
           <note type="description" xml:lang="en">
@@ -11192,13 +11192,13 @@
         </item>
         
         <item xml:id="gfa-keywords-8596">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Flaschenofen</label>
           <label xml:lang="de" type="sort">flaschenofen</label>
           <note type="description" xml:lang="de">
             <p>Typischer Keramikofen der englischen Keramikindustrie, wobei die Ofenanlage von einer flaschenförmigen Aussenmauer umgeben ist.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">bottle kiln</label>
           <label xml:lang="en" type="sort">bottle kiln</label>
           <note type="description" xml:lang="en">
@@ -13286,13 +13286,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-8666">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Tiegelofen</label>
           <label xml:lang="de" type="sort">tiegelofen</label>
           <note type="description" xml:lang="de">
             <p>Ofen zum Schmelzen von Metallen und Legierungen in feuerfesten <ref target="gfa-keywords-8532">Tiegeln</ref>.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">crucible furnace</label>
           <label xml:lang="en" type="sort">crucible furnace</label>
           <note type="description" xml:lang="en">
@@ -16307,14 +16307,14 @@
           <label xml:lang="de" type="sort">luftpumpe</label>
           <note type="description" xml:lang="de">
             <p>Gerät zum Abpumpen von Luft für die Erzeugung eines Vakuums.</p>
-            <p>Die erste Luftpumpe wurde von <ref target="../names/gfa-actors-5476">Otto von Guericke</ref> erfunden und 1659 durch Robert Boyle und Robert Hooke verbessert.</p>
+            <p>Die erste Luftpumpe wurde von <ref target="https://archives.georgfischer.com/actors/5476">Otto von Guericke</ref> erfunden und 1659 durch Robert Boyle und Robert Hooke verbessert.</p>
           </note>
           <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">air pump</label>
           <label xml:lang="en" type="sort">air pump</label>
           <note type="description" xml:lang="en">
             <p>A device for pumping out air in order to create a vacuum.</p>
-            <p>The first such pump was invented by <ref target="../names/gfa-actors-5476">Otto von Guericke</ref> and improved by Robert Boyle and Robert Hooke in 1659.</p>
+            <p>The first such pump was invented by <ref target="https://archives.georgfischer.com/actors/5476">Otto von Guericke</ref> and improved by Robert Boyle and Robert Hooke in 1659.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -16715,13 +16715,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-8797">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Gicht (Hochofen)</label>
           <label xml:lang="de" type="sort">gicht (hochofen)</label>
           <note type="description" xml:lang="de">
             <p>Öffnung am oberen Schachtende eines <ref target="gfa-keywords-288">Hochofens</ref>, durch die der Ofen mit <ref target="gfa-keywords-8551">Koks</ref> und Möller, dem Gemisch aus Erz und Zuschlagsstoffen, beschickt wird. Hier werden auch die Gichtgase abgezogen.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">cup and cone (blast furnace)</label>
           <label xml:lang="en" type="sort">cup and cone (blast furnace)</label>
           <note type="description" xml:lang="en">
@@ -17155,14 +17155,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-8816">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Ball-Furnace</label>
           <label xml:lang="de" type="sort">ball-furnace</label>
           <note type="description" xml:lang="de">
             <p>Zum <ref target="gfa-keywords-8537">Frischen</ref> von Eisen verwendeter Ofen; in seinem Aufbau einem <ref target="gfa-keywords-9387">Puddelofen</ref> ähnlich, aber kleiner.</p>
             <p>Seinen Namen erhielt dieser Ofen sehr wahrscheinlich dank des von Henry Cort erfundenen <ref target="gfa-keywords-8538">Puddelverfahrens</ref>, bei welchem das Roheisen in einer oxidierten Atmosphäre so lange gerührt wurde, bis es eine zähflüssige Konsistenz aufwies und vor dem <ref target="gfa-keywords-3621">Walzen</ref> zu Kugeln (Bällen) geformt wurde.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">ball furnace</label>
           <label xml:lang="en" type="sort">ball furnace</label>
           <note type="description" xml:lang="en">
@@ -17517,13 +17517,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-8833">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Bitumen</label>
           <label xml:lang="de" type="sort">bitumen</label>
           <note type="description" xml:lang="de">
             <p>Zähes, schwarzes Endprodukt der Erdöldestillation.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">bitumen</label>
           <label xml:lang="en" type="sort">bitumen</label>
           <note type="description" xml:lang="en">
@@ -17877,14 +17877,14 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-8849">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Rennofen</label>
           <label xml:lang="de" type="sort">rennofen</label>
           <note type="description" xml:lang="de">
             <p>Schachtofen zur Gewinnung von <ref target="gfa-keywords-8672">Eisen</ref> aus <ref target="gfa-keywords-316">Eisenerz</ref>. Früheste Form eines <ref target="gfa-keywords-2908">Schmelzofens</ref>.</p>
             <p>In einem Rennofen wird eine poröse Masse aus Eisen und <ref target="gfa-keywords-336">Schlacke</ref> erzeugt, die als Renneisen bezeichnet wird. Die Mischung aus Schlacke und Eisen im Vorblock, der so genannte Eisenschwamm, wird in der Regel verfestigt und zu <ref target="gfa-keywords-9012">Schmiedeeisen</ref> weiterverarbeitet. <ref target="gfa-keywords-288">Hochöfen</ref>, in denen <ref target="gfa-keywords-9011">Roheisen</ref> erzeugt wird, haben die Rennöfen weitgehend verdrängt.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">bloomery</label>
           <label xml:lang="en" type="sort">bloomery</label>
           <note type="description" xml:lang="en">
@@ -20994,13 +20994,13 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-8997">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Eisengruben</label>
           <label xml:lang="de" type="sort">eisengruben</label>
           <note type="description" xml:lang="de">
             <p>Ort, an dem nach <ref target="gfa-keywords-316">Eisenerz</ref> gegraben wird.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">iron mine</label>
           <label xml:lang="en" type="sort">iron mine</label>
           <note type="description" xml:lang="en">
@@ -21013,14 +21013,14 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-9002">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Rohstoffe, Mineralien, Geologie</objectType>
           <label xml:lang="de" type="main">Eisenkalkstein</label>
           <label xml:lang="de" type="sort">eisenkalkstein</label>
           <note type="description" xml:lang="de">
             <p>Sedimentgestein mit mindestens 15 Gewichtsprozent Eisen.</p>
             <p>Auch Eisenkalk genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">raw materials, minerals, geology</objectType>
           <label xml:lang="en" type="main">iron-rich sedimentary rock</label>
           <label xml:lang="en" type="sort">iron-rich sedimentary rock</label>
           <note type="description" xml:lang="en">
@@ -21044,14 +21044,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9005">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Eisenwerk</label>
           <label xml:lang="de" type="sort">eisenwerk</label>
           <note type="description" xml:lang="de">
             <p>Standort und Anlagen zur Erzeugung von <ref target="gfa-keywords-9011">Roheisen</ref> und <ref target="gfa-keywords-613">Stahl</ref> aus <ref target="gfa-keywords-316">Eisenerz</ref> und <ref target="gfa-keywords-8551">Koks</ref>.</p>
             <p>Auch Eisenfabrik oder Eisenhütte genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">iron works</label>
           <label xml:lang="en" type="sort">iron works</label>
           <note type="description" xml:lang="en">
@@ -21081,13 +21081,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9009">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Masseleisen</label>
           <label xml:lang="de" type="sort">masseleisen</label>
           <note type="description" xml:lang="de">
             <p>Bezeichnung für Roheisenbarren.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">pig iron</label>
           <label xml:lang="en" type="sort">pig iron</label>
           <note type="description" xml:lang="en">
@@ -21116,14 +21116,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9010">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Meteoreisen</label>
           <label xml:lang="de" type="sort">meteoreisen</label>
           <note type="description" xml:lang="de">
             <p>Legierung aus Nickel und Eisen, das von einem Meteoriten stammt.</p>
             <p>Johann Conrad Fischer wollte Meteoreisen künstlich herstellen, er entschied sich aber dennoch dagegen und produzierte stattdessen als Erster <ref target="gfa-keywords-8453">Meteorstahl</ref> her.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">meteoric iron</label>
           <label xml:lang="en" type="sort">meteoric iron</label>
           <note type="description" xml:lang="en">
@@ -21154,7 +21154,7 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9011">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Roheisen</label>
           <label xml:lang="de" type="sort">roheisen</label>
           <note type="description" xml:lang="de">
@@ -21162,7 +21162,7 @@
             <p>Johann Conrad Fischer erwähnt in seinem Reisetagebuch von 1825 das besonders graue Roheisen aus Staffordshire (Staffordshire Pig Iron).</p>
             <p>Auch Pigiron genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">pig iron</label>
           <label xml:lang="en" type="sort">pig iron</label>
           <note type="description" xml:lang="en">
@@ -21193,7 +21193,7 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9012">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Schmiedeeisen</label>
           <label xml:lang="de" type="sort">schmiedeeisen</label>
           <note type="description" xml:lang="de">
@@ -21201,7 +21201,7 @@
             <p>Schmiedeeisen hat im Gegensatz zu Gusseisen mit 2,1 bis 4 Prozent einen vielfach kleineren Kohlenstoffgehalt (weniger als 0,08%). Es ist eine halb geschmolzene Eisenmasse mit faserigen Schlackeneinschlüssen (bis zu 2% des Gewichts), die ihr eine holzartige Maserung verleihen.</p>
             <p>Auch Schmiedeisen genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">wrought iron</label>
           <label xml:lang="en" type="sort">wrought iron</label>
           <note type="description" xml:lang="en">
@@ -21235,13 +21235,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9015">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
           <label xml:lang="de" type="main">Streckeisen</label>
           <label xml:lang="de" type="sort">streckeisen</label>
           <note type="description" xml:lang="de">
             <p>Werkzeug, das bei der Glasherstellung verwendet wird, um erweichtes Glas zu strecken.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">jack (glassworking)</label>
           <label xml:lang="en" type="sort">jack (glassworking)</label>
           <note type="description" xml:lang="en">
@@ -21266,13 +21266,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9022">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Eisensteinporzellan</label>
           <label xml:lang="de" type="sort">eisensteinporzellan</label>
           <note type="description" xml:lang="de">
             <p>Keramiksorte mit glasiger Optik.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">iron stone china ware</label>
           <label xml:lang="en" type="sort">iron stone china ware</label>
           <note type="description" xml:lang="en">
@@ -21290,13 +21290,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9023">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Rohstoffe, Mineralien, Geologie</objectType>
           <label xml:lang="de" type="main">Elfenbein</label>
           <label xml:lang="de" type="sort">elfenbein</label>
           <note type="description" xml:lang="de">
             <p>Material der Stoss- und Eckzähne von Elefanten, Nilpferden, Walrossen und weiteren Tierarten.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">raw materials, minerals, geology</objectType>
           <label xml:lang="en" type="main">ivory</label>
           <label xml:lang="en" type="sort">ivory</label>
           <note type="description" xml:lang="en">
@@ -21362,13 +21362,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9027">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Rohstoffe, Mineralien, Geologie</objectType>
           <label xml:lang="de" type="main">Erz</label>
           <label xml:lang="de" type="sort">erz</label>
           <note type="description" xml:lang="de">
             <p>Natürlich vorkommende chemische Verbindung von <ref target="gfa-keywords-4347">Metallen</ref> oder Mineralien mit Abbauwert.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">raw materials, minerals, geology</objectType>
           <label xml:lang="en" type="main">ore</label>
           <label xml:lang="en" type="sort">ore</label>
           <note type="description" xml:lang="en">
@@ -21399,13 +21399,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9030">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Essigsäuregärung</label>
           <label xml:lang="de" type="sort">essigsaeuregaerung</label>
           <note type="description" xml:lang="de">
             <p>Umwandlung von Zuckern oder Ethanol (Alkohol) zu Essigsäure.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">acetic fermentation</label>
           <label xml:lang="en" type="sort">acetic fermentation</label>
           <note type="description" xml:lang="en">
@@ -21504,13 +21504,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9037">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Färberei</label>
           <label xml:lang="de" type="sort">faerberei</label>
           <note type="description" xml:lang="de">
             <p>Anlage für das gewerbliche <ref target="gfa-keywords-8625">Färben</ref> von Textilien.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">dye works</label>
           <label xml:lang="en" type="sort">dye works</label>
           <note type="description" xml:lang="en">
@@ -21523,13 +21523,13 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-9038">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Kunst, Kunstwerk, Sammlung</objectType>
           <label xml:lang="de" type="main">Fayence</label>
           <label xml:lang="de" type="sort">fayence</label>
           <note type="description" xml:lang="de">
             <p>Kunsthandwerklich hergestellte Keramik.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">art, artwork, collection</objectType>
           <label xml:lang="en" type="main">faience</label>
           <label xml:lang="en" type="sort">faience</label>
           <note type="description" xml:lang="en">
@@ -21562,13 +21562,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9044">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Feilenschmiede</label>
           <label xml:lang="de" type="sort">feilenschmiede</label>
           <note type="description" xml:lang="de">
             <p><ref target="gfa-keywords-9439">Schmiede</ref>, in der <ref target="gfa-keywords-8656">Feilen</ref> hergestellt werden.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">file smithy</label>
           <label xml:lang="en" type="sort">file smithy</label>
           <note type="description" xml:lang="en">
@@ -21582,14 +21582,14 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-9047">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Rohstoffe, Mineralien, Geologie</objectType>
           <label xml:lang="de" type="main">Tran</label>
           <label xml:lang="de" type="sort">tran</label>
           <note type="description" xml:lang="de">
             <p>Aus dem Fettgewebe von Meeressäugern gewonnenes Öl.</p>
             <p>Auch Fischöl genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">raw materials, minerals, geology</objectType>
           <label xml:lang="en" type="main">train oil</label>
           <label xml:lang="en" type="sort">train oil</label>
           <note type="description" xml:lang="en">
@@ -21639,14 +21639,14 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-9049">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Leinen</label>
           <label xml:lang="de" type="sort">leinen</label>
           <note type="description" xml:lang="de">
             <p>Fasern sowie auch das daraus hergestellte Gewebe des Gemeinen Leins.</p>
             <p>Auch Flachs genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">linen</label>
           <label xml:lang="en" type="sort">linen</label>
           <note type="description" xml:lang="en">
@@ -21680,13 +21680,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9051">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Flammenfeuer</label>
           <label xml:lang="de" type="sort">flammenfeuer</label>
           <note type="description" xml:lang="de">
             <p>Ein Feuer, das im Unterschied zum Glühfeuer Flammen schlägt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">flame fire</label>
           <label xml:lang="en" type="sort">flame fire</label>
           <note type="description" xml:lang="en">
@@ -21700,13 +21700,13 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-9052">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Politik, Gesellschaft, Soziales</objectType>
           <label xml:lang="de" type="main">Freihandel</label>
           <label xml:lang="de" type="sort">freihandel</label>
           <note type="description" xml:lang="de">
             <p>Form des internationalen Handels, bei dem keine Handelseinschränkungen oder -bevorzugungen der Akteure bestehen.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">politics, society, social affairs</objectType>
           <label xml:lang="en" type="main">free trade</label>
           <label xml:lang="en" type="sort">free trade</label>
           <note type="description" xml:lang="en">
@@ -21783,14 +21783,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9056">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Frischschmiede</label>
           <label xml:lang="de" type="sort">frischschmiede</label>
           <note type="description" xml:lang="de">
             <p>Betrieb für das gewerbliche <ref target="gfa-keywords-8537">Frischen</ref> von Eisen und Stahl.</p>
             <p>Vor der Einführung von grosstechnischen Frischeprozessen wie dem Siemens-Martin- oder dem Bessemer-Verfahren, wurde ein Grossteil des Roheisens in kleinen bis mittleren Betrieben verarbeitet. Die verschiedenen Öfen und Hämmer wurden in Handarbeit beschickt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">fining smithy</label>
           <label xml:lang="en" type="sort">fining smithy</label>
           <note type="description" xml:lang="en">
@@ -21804,14 +21804,14 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-9057">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Bauwerk, Monument, Architektur</objectType>
           <label xml:lang="de" type="main">Frontispiz</label>
           <label xml:lang="de" type="sort">frontispiz</label>
           <note type="description" xml:lang="de">
             <p>Bezeichnung für ein Giebeldreieck an der Frontfassade eines Gebäudes. Auch Frontispice oder Frontspiess genannt.</p>
             <p>In der Typografie wird als Frontispiz eine Illustration auf der zweiten Buchseite gegenüber des Titelblatts bezeichnet.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">building, monument, architecture</objectType>
           <label xml:lang="en" type="main">frontispiece</label>
           <label xml:lang="en" type="sort">frontispiece</label>
           <note type="description" xml:lang="en">
@@ -21836,13 +21836,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9059">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Militär, Militärtechnik</objectType>
           <label xml:lang="de" type="main">Galeere</label>
           <label xml:lang="de" type="sort">galeere</label>
           <note type="description" xml:lang="de">
             <p>Gerudertes Kriegsschiff des Mittelalters und der Frühen Neuzeit.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">military, military technology</objectType>
           <label xml:lang="en" type="main">galley</label>
           <label xml:lang="en" type="sort">galley</label>
           <note type="description" xml:lang="en">
@@ -21991,11 +21991,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9065">
+          <objectType xml:lang="de">Kunst, Kunstwerk, Sammlung</objectType>
           <label xml:lang="de" type="main">Gemälde</label>
           <label xml:lang="de" type="sort">gemaelde</label>
           <note type="description" xml:lang="de">
             <p>Werk der Malerei.</p>
           </note>
+          <objectType xml:lang="en">art, artwork, collection</objectType>
           <label xml:lang="en" type="main">painting</label>
           <label xml:lang="en" type="sort">painting</label>
           <note type="description" xml:lang="en">
@@ -22028,13 +22030,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9066">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Gemmen</label>
           <label xml:lang="de" type="sort">gemmen</label>
           <note type="description" xml:lang="de">
             <p>Geschnittener Schmuckstein oder <ref target="gfa-keywords-8982">Edelstein</ref>.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">gemstones</label>
           <label xml:lang="en" type="sort">gemstones</label>
           <note type="description" xml:lang="en">
@@ -22103,14 +22105,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9069">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Rohstoffe, Mineralien, Geologie</objectType>
           <label xml:lang="de" type="main">Geologe</label>
           <label xml:lang="de" type="sort">geologe</label>
           <note type="description" xml:lang="de">
             <p>Ein Wissenschaftler bewandt in der Lehre von den Gesteinen und der Erdkruste.</p>
             <p>Auch Geognost genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">raw materials, minerals, geology</objectType>
           <label xml:lang="en" type="main">geologist</label>
           <label xml:lang="en" type="sort">geologist</label>
           <note type="description" xml:lang="en">
@@ -22141,13 +22143,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9070">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Militär, Militärtechnik</objectType>
           <label xml:lang="de" type="main">Geschütz</label>
           <label xml:lang="de" type="sort">geschuetz</label>
           <note type="description" xml:lang="de">
             <p>Schweres Geschütz, das nicht für den Einsatz in der Hand bestimmt ist und auf einer speziellen Lafette für den Einsatz im Feld, auf einem Schiff oder als Teil einer Festung montiert ist.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">military, military technology</objectType>
           <label xml:lang="en" type="main">great guns</label>
           <label xml:lang="en" type="sort">great guns</label>
           <note type="description" xml:lang="en">
@@ -22177,13 +22179,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9072">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Tabak</label>
           <label xml:lang="de" type="sort">tabak</label>
           <note type="description" xml:lang="de">
             <p>Als Genussmittel verwendetes Produkt der Tabakpflanze.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">tobacco</label>
           <label xml:lang="en" type="sort">tobacco</label>
           <note type="description" xml:lang="en">
@@ -22312,13 +22314,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9079">
-          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
+          <objectType xml:lang="de">Bauwerk, Monument, Architektur</objectType>
           <label xml:lang="de" type="main">Widerlager</label>
           <label xml:lang="de" type="sort">widerlager</label>
           <note type="description" xml:lang="de">
             <p>Unterbau, der eine Brücke oder Brückenbögen mit dem Erddamm verbindet.</p>
           </note>
-          <objectType xml:lang="en">method, process, technology</objectType>
+          <objectType xml:lang="en">building, monument, architecture</objectType>
           <label xml:lang="en" type="main">abutment</label>
           <label xml:lang="en" type="sort">abutment</label>
           <note type="description" xml:lang="en">
@@ -22337,13 +22339,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9080">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Kohäsionskraft</label>
           <label xml:lang="de" type="sort">kohaesionskraft</label>
           <note type="description" xml:lang="de">
             <p>Kräfte des Zusammenhalts innerhalb eines Stoffs, durch die eine innere Eigenfestigkeit bewirkt wird.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">cohesiveness</label>
           <label xml:lang="en" type="sort">cohesiveness</label>
           <note type="description" xml:lang="en">
@@ -22367,13 +22369,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9081">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Bauwerk, Monument, Architektur</objectType>
           <label xml:lang="de" type="main">Kettenbrücke</label>
           <label xml:lang="de" type="sort">kettenbruecke</label>
           <note type="description" xml:lang="de">
             <p>Eine Art von Hängebrücke, die nicht an Drahtseilen, sondern an Ketten oder Augenstäben hängt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">building, monument, architecture</objectType>
           <label xml:lang="en" type="main">chain bridge</label>
           <label xml:lang="en" type="sort">chain bridge</label>
           <note type="description" xml:lang="en">
@@ -22400,13 +22402,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9082">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Senkkasten</label>
           <label xml:lang="de" type="sort">senkkasten</label>
           <note type="description" xml:lang="de">
             <p>Kasten, der für Bauarbeiten im Wasser als Fundament oder als Arbeitsraum versenkt wird.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">caisson</label>
           <label xml:lang="en" type="sort">caisson</label>
           <note type="description" xml:lang="en">
@@ -22503,13 +22505,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9085">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Rohstoffe, Mineralien, Geologie</objectType>
           <label xml:lang="de" type="main">Ocker</label>
           <label xml:lang="de" type="sort">ocker</label>
           <note type="description" xml:lang="de">
             <p>Gelbbraunes Farbpigment aus Brauneisenstein und anderen Bestandteilen.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">raw materials, minerals, geology</objectType>
           <label xml:lang="en" type="main">ocre</label>
           <label xml:lang="en" type="sort">ocre</label>
           <note type="description" xml:lang="en">
@@ -22536,14 +22538,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9087">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Teerfarbe</label>
           <label xml:lang="de" type="sort">teerfarbe</label>
           <note type="description" xml:lang="de">
             <p>Mit Steinkohlenteer als Bindemittel verwendete, oder aus Bestandteilen des Steinkohleteers hergestellte Farben.</p>
             <p>In ersterer Bedeutung wurden Teerfarben verwendet, um <ref target="gfa-keywords-544">Holz</ref> und Holzbauten, wie z.B. Zäune oder Dächer langlebiger zu machen. Die zweite Bedeutung bezieht sich auf die ab 1856 aus Steinkohlenteer (bzw. Anilin) gewonnenen synthetischen Farbstoffe, wie das Mauvein.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">tar dye</label>
           <label xml:lang="en" type="sort">tar dye</label>
           <note type="description" xml:lang="en">
@@ -22723,14 +22725,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9093">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Politik, Gesellschaft, Soziales</objectType>
           <label xml:lang="de" type="main">Monarchie</label>
           <label xml:lang="de" type="sort">monarchie</label>
           <note type="description" xml:lang="de">
             <p>Staatsform, die auf der ungeteilten Souveränität oder Herrschaft einer einzigen Person beruht.</p>
             <p>In einer Monarchie wird die oberste Autorität dem Monarchen übertragen, einem einzelnen Herrscher, der als Staatsoberhaupt fungiert und seine Position in der Regel durch Vererbung erlangt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">politics, society, social affairs</objectType>
           <label xml:lang="en" type="main">monarchy</label>
           <label xml:lang="en" type="sort">monarchy</label>
           <note type="description" xml:lang="en">
@@ -22796,7 +22798,7 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9096">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Kaiserstahl</label>
           <label xml:lang="de" type="sort">kaiserstahl</label>
           <note type="description" xml:lang="de">
@@ -22804,7 +22806,7 @@
             <p>Wahrscheinlich handelt es sich um einen Werbenamen.</p>
             <p>Auch Imperialstahl genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">Imperial steel</label>
           <label xml:lang="en" type="sort">imperial steel</label>
           <note type="description" xml:lang="en">
@@ -22819,13 +22821,13 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-9097">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Peruvianischer Stahl</label>
           <label xml:lang="de" type="sort">peruvianischer stahl</label>
           <note type="description" xml:lang="de">
             <p>Von <ref target="../names/gfa-actors-8081">Charles Pickslay</ref> hergestellte Stahlsorte.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">Peruvian steel</label>
           <label xml:lang="en" type="sort">peruvian steel</label>
           <note type="description" xml:lang="en">
@@ -22852,14 +22854,14 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-9099">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
           <label xml:lang="de" type="main">Streckhammer</label>
           <label xml:lang="de" type="sort">streckhammer</label>
           <note type="description" xml:lang="de">
             <p>Der grösste Hammer in einem <ref target="gfa-keywords-9166">Hammerwerk</ref>. Er ist mehrere hundert Kilogramm schwer und wird zum <ref target="gfa-keywords-9098">Verstrecken</ref> von Eisen verwendet.</p>
             <p>Normalerweise wurden diese grossen Hämmer mithilfe von Wasserkraft betrieben (angehoben durch Hebarme an der mit dem Wasserrad verbundenen Welle). Der Streckhammer ist nur mit einem Feuer, dem Streckfeuer, versehen, das zur Anheizung der Eisensorten dient.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">stretching hammer</label>
           <label xml:lang="en" type="sort">stretching hammer</label>
           <note type="description" xml:lang="en">
@@ -22908,14 +22910,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9101">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">(L) Hoop L Eisen</label>
           <label xml:lang="de" type="sort">(l) hoop l eisen</label>
           <note type="description" xml:lang="de">
             <p>Schwedisches Eisen aus der historischen <ref target="https://archives.georgfischer.com/keywords/7828">Eisenhütte</ref> in Lövstabruk, Uppsala.</p>
             <p>Das Eisen war in England unter diesem Namen bekannt, weil die Barren mit einem eingekreisten L («Hoop L») markiert waren.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">Hoop L iron</label>
           <label xml:lang="en" type="sort">hoop l iron</label>
           <note type="description" xml:lang="en">
@@ -22993,7 +22995,7 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9104">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
           <label xml:lang="de" type="main">Kronleuchter</label>
           <label xml:lang="de" type="sort">kronleuchter</label>
           <note type="description" xml:lang="de">
@@ -23001,7 +23003,7 @@
             <p>In Europa wurden die ersten Kristallleuchter ab dem 16. Jahrhundert in Oberitalien gefertigt.</p>
             <p>Auch Lüster oder Lustre genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">chandelier</label>
           <label xml:lang="en" type="sort">chandelier</label>
           <note type="description" xml:lang="en">
@@ -23031,13 +23033,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9105">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Rohstoffe, Mineralien, Geologie</objectType>
           <label xml:lang="de" type="main">Kristall</label>
           <label xml:lang="de" type="sort">kristall</label>
           <note type="description" xml:lang="de">
             <p>Regelmässig gebildeter Festkörper, dessen Teile (Ionen, Atome und Moleküle) in einer festen Ordnung verharren.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">raw materials, minerals, geology</objectType>
           <label xml:lang="en" type="main">crystal</label>
           <label xml:lang="en" type="sort">crystal</label>
           <note type="description" xml:lang="en">
@@ -23070,7 +23072,7 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9106">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Kupfernickel</label>
           <label xml:lang="de" type="sort">kupfernickel</label>
           <note type="description" xml:lang="de">
@@ -23078,7 +23080,7 @@
             <p>Lange war diese Legierung im Westen nur in Form eines chinesischen Metalls (Paktong oder White Copper) bekannt, das im 18. Jahrhundert in grossen Mengen nach Europa exportiert wurde. Verschiedene <ref target="gfa-keywords-9312">Metallurgen</ref> versuchten die Legierung zu entschlüsseln, bis um 1793 James Dinwiddie einige Proben des Erzes, aus dem das Paktong hergestellt wurde, aus China schmuggelte. Später wurde eine dem Paktong ähnliche Kupfer-Nickel-Zink-Legierung unter dem Namen Neusilber oder Argentan bekannt.</p>
             <p>Auch Pankfong, Packfong oder heute Neusilber genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">cupronickel</label>
           <label xml:lang="en" type="sort">cupronickel</label>
           <note type="description" xml:lang="en">
@@ -23110,13 +23112,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9107">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Rohstoffe, Mineralien, Geologie</objectType>
           <label xml:lang="de" type="main">Silber</label>
           <label xml:lang="de" type="sort">silber</label>
           <note type="description" xml:lang="de">
             <p>Chemisches Element (Ag) und Edelmetall.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">raw materials, minerals, geology</objectType>
           <label xml:lang="en" type="main">silver</label>
           <label xml:lang="en" type="sort">silver</label>
           <note type="description" xml:lang="en">
@@ -23149,13 +23151,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9108">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Rohstoffe, Mineralien, Geologie</objectType>
           <label xml:lang="de" type="main">Gold</label>
           <label xml:lang="de" type="sort">gold</label>
           <note type="description" xml:lang="de">
             <p>Chemisches Element (Au) und Edelmetall.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">raw materials, minerals, geology</objectType>
           <label xml:lang="en" type="main">gold</label>
           <label xml:lang="en" type="sort">gold</label>
           <note type="description" xml:lang="en">
@@ -23218,14 +23220,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9112">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Gewehrfabrik</label>
           <label xml:lang="de" type="sort">gewehrfabrik</label>
           <note type="description" xml:lang="de">
             <p>Betrieb für die gewerbliche Produktion von Gewehren und Handfeuerwaffen.</p>
             <p>Früher auch Büchsenmacherei genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">firearms factory</label>
           <label xml:lang="en" type="sort">firearms factory</label>
           <note type="description" xml:lang="en">
@@ -23249,13 +23251,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9114">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
           <label xml:lang="de" type="main">Gewehrlauf</label>
           <label xml:lang="de" type="sort">gewehrlauf</label>
           <note type="description" xml:lang="de">
             <p>Abschnitt des Rohrs der Waffe, der beim Schuss vom Projektil durchlaufen wird.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">gun barrel</label>
           <label xml:lang="en" type="sort">gun barrel</label>
           <note type="description" xml:lang="en">
@@ -23285,13 +23287,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9115">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Perkussionsgewehr</label>
           <label xml:lang="de" type="sort">perkussionsgewehr</label>
           <note type="description" xml:lang="de">
             <p>Gewehr, das mit <ref target="gfa-keywords-8512">Perkussionsschloss</ref> versehen ist.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">percussion gun</label>
           <label xml:lang="en" type="sort">percussion gun</label>
           <note type="description" xml:lang="en">
@@ -23386,13 +23388,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9122">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verkehr, Transport, Fortbewegung</objectType>
           <label xml:lang="de" type="main">Gig</label>
           <label xml:lang="de" type="sort">gig</label>
           <note type="description" xml:lang="de">
             <p>Leichte, einachsige Kutsche.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">traffic, transportation, mobility</objectType>
           <label xml:lang="en" type="main">gig</label>
           <label xml:lang="en" type="sort">gig</label>
           <note type="description" xml:lang="en">
@@ -23419,13 +23421,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9123">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Rohstoffe, Mineralien, Geologie</objectType>
           <label xml:lang="de" type="main">Gips</label>
           <label xml:lang="de" type="sort">gips</label>
           <note type="description" xml:lang="de">
             <p>Helles Mineral und Gesteinsart aus wasserhaltigem Calciumsulfat.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">raw materials, minerals, geology</objectType>
           <label xml:lang="en" type="main">gypsum (mineral); plaster (art)</label>
           <label xml:lang="en" type="sort">gypsum (mineral); plaster (art)</label>
           <note type="description" xml:lang="en">
@@ -23458,13 +23460,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9124">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Glashütte</label>
           <label xml:lang="de" type="sort">glashuette</label>
           <note type="description" xml:lang="de">
             <p>Produktionsstätte für Glas und Glasprodukte.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">glassworks</label>
           <label xml:lang="en" type="sort">glassworks</label>
           <note type="description" xml:lang="en">
@@ -23616,13 +23618,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9129">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Glasur</label>
           <label xml:lang="de" type="sort">glasur</label>
           <note type="description" xml:lang="de">
             <p>Oberflächenveredelung von Keramikprodukten wie Steingut, Steinzeug und Porzellan.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">glaze</label>
           <label xml:lang="en" type="sort">glaze</label>
           <note type="description" xml:lang="en">
@@ -23652,13 +23654,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9130">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
           <label xml:lang="de" type="main">Glasurmühlen</label>
           <label xml:lang="de" type="sort">glasurmuehlen</label>
           <note type="description" xml:lang="de">
             <p>Zum Feinmahlen der Glasurmassen.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">glaze mill</label>
           <label xml:lang="en" type="sort">glaze mill</label>
           <note type="description" xml:lang="en">
@@ -23681,13 +23683,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9132">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
           <label xml:lang="de" type="main">Globus</label>
           <label xml:lang="de" type="sort">globus</label>
           <note type="description" xml:lang="de">
             <p>Verkleinertes kugelförmiges Modell der Erde oder eines Himmelkörpers.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
           <label xml:lang="en" type="main">globe</label>
           <label xml:lang="en" type="sort">globe</label>
           <note type="description" xml:lang="en">
@@ -23728,13 +23730,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9133">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Glocke</label>
           <label xml:lang="de" type="sort">glocke</label>
           <note type="description" xml:lang="de">
             <p>Unten offener, oben geschlossener, halbkugelförmiger Metallkörper, der durch Anschlagen einen Ton erzeugt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">bell</label>
           <label xml:lang="en" type="sort">bell</label>
           <note type="description" xml:lang="en">
@@ -23793,14 +23795,14 @@
           </note>
         </item>
         <item xml:id="gfa-keywords-9137">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Goldfirnis</label>
           <label xml:lang="de" type="sort">goldfirnis</label>
           <note type="description" xml:lang="de">
             <p><ref target="gfa-keywords-8490">Firnis</ref>, der einem Gegenstand Goldfarbe verleiht.</p>
             <p>Auch Goldlack genannt.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">gold varnish</label>
           <label xml:lang="en" type="sort">gold varnish</label>
           <note type="description" xml:lang="en">
@@ -23822,13 +23824,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9138">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Goldschmiedekunst</label>
           <label xml:lang="de" type="sort">goldschmiedekunst</label>
           <note type="description" xml:lang="de">
             <p>Künstlerische Herstellung, Verzierung oder Restaurierung von Gegenständen aus den Edelmetallen wie <ref target="gfa-keywords-9108">Gold</ref>, <ref target="gfa-keywords-9107">Silber</ref> und <ref target="gfa-keywords-8558">Platin</ref>.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">goldsmithing</label>
           <label xml:lang="en" type="sort">goldsmithing</label>
           <note type="description" xml:lang="en">
@@ -23852,13 +23854,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9139">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Kunst, Kunstwerk, Sammlung</objectType>
           <label xml:lang="de" type="main">Gotik</label>
           <label xml:lang="de" type="sort">gotik</label>
           <note type="description" xml:lang="de">
             <p>Kunstepoche des west- und mitteleuropäischen Mittelalters, die sich auf Malerei und Bildhauerei sowie Architektur und Kirchenbau bezieht.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">art, artwork, collection</objectType>
           <label xml:lang="en" type="main">Gothic</label>
           <label xml:lang="en" type="sort">gothic</label>
           <note type="description" xml:lang="en">
@@ -23924,13 +23926,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9142">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Gravitation</label>
           <label xml:lang="de" type="sort">gravitation</label>
           <note type="description" xml:lang="de">
             <p>Gegenseitige Anziehungskraft von Massen, eine Grundkraft der Physik.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">gravitation</label>
           <label xml:lang="en" type="sort">gravitation</label>
           <note type="description" xml:lang="en">
@@ -23963,13 +23965,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9143">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Grubengebäude</label>
           <label xml:lang="de" type="sort">grubengebaeude</label>
           <note type="description" xml:lang="de">
             <p>Unterirdischer Teil eines Bergwerks.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">mine workings</label>
           <label xml:lang="en" type="sort">mine workings</label>
           <note type="description" xml:lang="en">
@@ -23993,13 +23995,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9144">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Signalrakete</label>
           <label xml:lang="de" type="sort">signalrakete</label>
           <note type="description" xml:lang="de">
             <p><ref target="gfa-keywords-8863">Feuerwerkskörper</ref> für die Emission eines Signals.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">signal rocket</label>
           <label xml:lang="en" type="sort">signal rocket</label>
           <note type="description" xml:lang="en">
@@ -24348,13 +24350,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9170">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Handschmelzofen</label>
           <label xml:lang="de" type="sort">handschmelzofen</label>
           <note type="description" xml:lang="de">
             <p>Eine Art <ref target="gfa-keywords-8666">Tiegelofen</ref>, aber kleiner und oft transportierbar.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">hand-operated melting furnace</label>
           <label xml:lang="en" type="sort">hand-operated melting furnace</label>
           <note type="description" xml:lang="en">
@@ -25497,13 +25499,13 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9232">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Koksofen</label>
           <label xml:lang="de" type="sort">koksofen</label>
           <note type="description" xml:lang="de">
             <p>Ofen für die <ref target="gfa-keywords-9732">Koksherstellung/Verkokung</ref> in einer Kokerei.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">coking oven</label>
           <label xml:lang="en" type="sort">coking oven</label>
           <note type="description" xml:lang="en">
@@ -28385,14 +28387,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9387">
-          <objectType xml:lang="de">Objekt, Maschine, Gerät, Werkzeug, technisches Instrument</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Puddelofen</label>
           <label xml:lang="de" type="sort">puddelofen</label>
           <note type="description" xml:lang="de">
             <p>Ofen für das <ref target="gfa-keywords-8538">Puddelverfahren</ref>.</p>
             <p>Auch Puddling-Furnace genannt.</p>
           </note>
-          <objectType xml:lang="en">object, machine, apparatus, tool, technical instrument</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">puddling furnace</label>
           <label xml:lang="en" type="sort">puddling furnace</label>
           <note type="description" xml:lang="en">
@@ -34638,14 +34640,14 @@
           <label xml:lang="de" type="sort">koenigin victorias rheinreise</label>
           <note type="description" xml:lang="de">
             <p>Im August 1845 von Königin Victoria unternommene Reise nach Deutschland.</p>
-            <p>Königin Victoria besuchte unter anderem <ref target="../places/gfa-places-1">Aachen</ref>, <ref target="../places/gfa-places-82">Köln</ref>, <ref target="../places/gfa-places-266">Bonn</ref>, Koblenz, <ref target="../places/gfa-places-2006">Mainz</ref>, <ref target="../places/gfa-places-153">Würzburg</ref>, Gotha und <ref target="../places/gfa-places-47">Frankfurt</ref>.</p>
+            <p>Königin Victoria besuchte unter anderem <ref target="../places/gfa-places-1">Aachen</ref>, <ref target="../places/gfa-places-82">Köln</ref>, <ref target="https://archives.georgfischer.com/places/266">Bonn</ref>, Koblenz, <ref target="../places/gfa-places-2006">Mainz</ref>, <ref target="https://archives.georgfischer.com/places/153">Würzburg</ref>, Gotha und <ref target="../places/gfa-places-47">Frankfurt</ref>.</p>
           </note>
           <objectType xml:lang="en">event</objectType>
           <label xml:lang="en" type="main">Queen Victoria’s visit to the Rhineland</label>
           <label xml:lang="en" type="sort">queen victoria’s visit to the rhineland</label>
           <note type="description" xml:lang="en">
             <p>Queen Victoria visited Germany in August 1845.</p>
-            <p>Her ports of call included <ref target="../places/gfa-places-1">Aachen</ref>, <ref target="../places/gfa-places-82">Cologne</ref>, <ref target="../places/gfa-places-266">Bonn</ref>, Koblenz, <ref target="../places/gfa-places-2006">Mainz</ref>, <ref target="../places/gfa-places-153">Würzburg</ref>, Gotha and <ref target="../places/gfa-places-47">Frankfurt</ref>.</p>
+            <p>Her ports of call included <ref target="../places/gfa-places-1">Aachen</ref>, <ref target="../places/gfa-places-82">Cologne</ref>, <ref target="https://archives.georgfischer.com/places/266">Bonn</ref>, Koblenz, <ref target="../places/gfa-places-2006">Mainz</ref>, <ref target="https://archives.georgfischer.com/places/153">Würzburg</ref>, Gotha and <ref target="../places/gfa-places-47">Frankfurt</ref>.</p>
           </note>
           <listBibl>
             <bibl>
@@ -35364,14 +35366,14 @@
           <label xml:lang="de" type="sort">juenteler votivbild von oening</label>
           <note type="description" xml:lang="de">
             <p>Gemälde aus der Frührenaissance, das die Kreuzigung Jesu Christi zeigt.</p>
-            <p>Es handelt sich um eine Ölharztempera-Arbeit auf Holz, die auch Jünteler Epitaph genannt wird. Der Name des Gemäldes ist auf seinen Stifter, Hans Oening, genannt Jünteler, zurückzuführen. Dieser soll das Bild 1449 dem <ref target="../places/gfa-places-1653">Kloster Rheinau</ref> gestiftet haben. Im Jahr 1857 gelangte es in den Besitz des Schaffhauser Zeichenlehrers <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref>. Kurz darauf kaufte der Historisch-Antiquarische Verein Schaffhausen die Passionstafel. 1918 ging sie mit der ganzen Sammlung des Vereins an das <ref target="../names/gfa-actors-1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
+            <p>Es handelt sich um eine Ölharztempera-Arbeit auf Holz, die auch Jünteler Epitaph genannt wird. Der Name des Gemäldes ist auf seinen Stifter, Hans Oening, genannt Jünteler, zurückzuführen. Dieser soll das Bild 1449 dem <ref target="../places/gfa-places-1653">Kloster Rheinau</ref> gestiftet haben. Im Jahr 1857 gelangte es in den Besitz des Schaffhauser Zeichenlehrers <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref>. Kurz darauf kaufte der Historisch-Antiquarische Verein Schaffhausen die Passionstafel. 1918 ging sie mit der ganzen Sammlung des Vereins an das <ref target="https://archives.georgfischer.com/actors/1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
           </note>
           <objectType xml:lang="en">art, artwork, collection</objectType>
           <label xml:lang="en" type="main">Jünteler Epitaph</label>
           <label xml:lang="en" type="sort">juenteler epitaph</label>
           <note type="description" xml:lang="en">
             <p>An early Renaissance painting showing the crucufixion.</p>
-            <p>It is an oil-resin tempera painting on wood, known as the Jünteler Epitaph or Votive Image.The name of the painting can be traced back to its donor, Hans Oening, who was known asJünteler. He is said to have donated the painting to <ref target="../places/gfa-places-1653">Rheinau Abbey</ref>. The painting came into the possession of the Schaffhausen drawing master <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref> in 1857 and was purchased shortly thereafter by the Historical Antiquarian Society of Schaffhausen. In 1918 it was transferred along with the Society’s entire collection to the <ref target="../names/gfa-actors-1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
+            <p>It is an oil-resin tempera painting on wood, known as the Jünteler Epitaph or Votive Image.The name of the painting can be traced back to its donor, Hans Oening, who was known asJünteler. He is said to have donated the painting to <ref target="../places/gfa-places-1653">Rheinau Abbey</ref>. The painting came into the possession of the Schaffhausen drawing master <ref target="../names/gfa-actors-439">Johann Jakob Beck</ref> in 1857 and was purchased shortly thereafter by the Historical Antiquarian Society of Schaffhausen. In 1918 it was transferred along with the Society’s entire collection to the <ref target="https://archives.georgfischer.com/actors/1565">Museum zu Allerheiligen</ref> in Schaffhausen.</p>
           </note>
           <note type="sources">
             <listBibl>
@@ -36932,14 +36934,14 @@
           </listBibl>
         </item>
         <item xml:id="gfa-keywords-9823">
-          <objectType xml:lang="de">anderes/diverses</objectType>
+          <objectType xml:lang="de">Verfahren, Prozess, Technik</objectType>
           <label xml:lang="de" type="main">Glühspan</label>
           <label xml:lang="de" type="sort">gluehspan</label>
           <note type="description" xml:lang="de">
             <p>Dünne Kruste aus Eisenoxyduloxid, die sich bei <ref target="gfa-keywords-3040">geglühtem</ref> Eisen bildet.</p>
             <p>Beim <ref target="gfa-keywords-2759">Schmieden</ref> von heissem <ref target="gfa-keywords-8672">Eisen</ref> splittert der Glühspan ab.</p>
           </note>
-          <objectType xml:lang="en">other/miscellaneous</objectType>
+          <objectType xml:lang="en">method, process, technology</objectType>
           <label xml:lang="en" type="main">mill scale</label>
           <label xml:lang="en" type="sort">mill scale</label>
           <note type="description" xml:lang="en">
