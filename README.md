@@ -1,8 +1,11 @@
 # Edition der Reisetagebücher Johann Conrad Fischers
 
-Dies ist die Projektseite für die Onlineedition der Reisetagebücher von Johann Conrad Fischer (1773-1854). Johann Conrad Fischer (**JCF**) war ein Kupferschmied, Unternehmer und Politiker aus Schaffhausen, Schweiz. Er ist der Gründer der heutigen Georg Fischer AG, die sich aus der im Jahr 1802 eröffneten Giesserei für Glocken und Feuerspritzen entwickelte. JCF unternahm zahlreiche Reisen und pflegte ein Netzwerk mit Wissenschaftlern, Unternehmern und Persönlichkeiten in ganz Europa. 
+Dies ist die Projektseite für die digitale Edition der Reisetagebücher von Johann Conrad Fischer (1773-1854). Das Projekt wurde Ende 2023 mit der Publikation der digitalen Edition abgeschlossen:
+[https://www.johannconradfischer.com](https://www.johannconradfischer.com/)
 
-Die Notizen zu seinen Reisen publizierte JCF in sieben Tagebüchern. Die Manuskripte zu diesen Erstpublikationen sind nicht mehr erhalten. Die Exemplare der publizierten Tagebücher in der [Eisenbibliothek](https://www.eisenbibliothek.ch/de.html) sind auf [e-rara](https://www.e-rara.ch/nav/classification/16094453) digitalisiert. 1951 realisierte der Schaffhauser Historiker Karl Schib die bisher einzige kritische Edition sämtlicher Tagebücher. Die Onlineedition basiert auf der Textgrundlage der Erstausgaben von JCF.
+Johann Conrad Fischer (**JCF**) war ein Kupferschmied, Unternehmer und Politiker aus Schaffhausen, Schweiz. Er ist der Gründer der heutigen Georg Fischer AG, die sich aus der im Jahr 1802 eröffneten Giesserei für Glocken und Feuerspritzen entwickelte. JCF unternahm zahlreiche Reisen und pflegte ein Netzwerk mit Wissenschaftlern, Unternehmern und Persönlichkeiten in ganz Europa. 
+
+Die Notizen zu seinen Reisen publizierte JCF in sieben Tagebüchern. Die Manuskripte zu diesen Erstpublikationen sind nicht mehr erhalten. Die Exemplare der publizierten Tagebücher in der [Eisenbibliothek](https://www.eisenbibliothek.ch/de.html) sind auf [e-rara](https://www.e-rara.ch/nav/classification/16094453) digitalisiert. 1951 realisierte der Schaffhauser Historiker Karl Schib die bisher einzige kritische Edition sämtlicher Tagebücher. Die digitale Edition basiert auf der Textgrundlage der Erstausgaben von JCF.
 
 ## Vorlagen
 
@@ -20,7 +23,7 @@ Johann Conrad Fischer (1773-1854): Tagebücher. Neu herausgegeben von der Georg 
 
 ## Links
 
-Annotations: https://georg-fischer.tei-publisher.com/index.html
+Edition: [https://www.johannconradfischer.com](https://www.johannconradfischer.com/)
 
 ## Lizenz
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
